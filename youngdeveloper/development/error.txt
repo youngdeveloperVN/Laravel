@@ -21,3 +21,5 @@ I. EVN
   
 5.[PDOException]
   SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'users' already exists
+  
+6. 
