@@ -1,0 +1,23 @@
+I. EVN
+
+1. [PDOException]
+  could not find driver
+ Solution:  	> php.ini > 
+ 			Change from ;extension=php_pdo_mysql.dll > extension=php_pdo_mysql.dll (Remove ;)
+2. [PDOException]
+  SQLSTATE[HY000] [1049] Unknown database 'youngdeveloper'
+  
+  Create database youngdeveloper;
+  
+3. [PDOException]
+  SQLSTATE[42000]: Syntax error or access violation: 1071 Specified key was too long; max key length is 767 bytes
+  
+ Change length default in AppServiceProvider.php
+ 	Schema::defaultStringLength(191);
+ 	
+4. [Symfony\Component\Debug\Exception\FatalThrowableError]
+  Class 'App\Providers\Schema' not found
+  use Illuminate\Support\Facades\Schema; in AppServiceProvider.php
+  
+5.[PDOException]
+  SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'users' already exists

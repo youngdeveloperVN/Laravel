@@ -1,0 +1,7 @@
+1. Install
+
++ Install PHP7.1
++ Install MySQL
++ Instal Composer
++ Create project
++ Run Check new Project
