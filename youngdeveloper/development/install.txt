@@ -5,3 +5,19 @@
 + Instal Composer
 + Create project
 + Run Check new Project
+
+
+2. Migrate Database
+
+- create migrate
+- create seeder
+- run: migration
+	php artisan migrate
+- run: seeder 
+	php artisan migrate:refresh --seed
+	php artisan db:seed
+	php artisan db:seed --class=UsersTableSeeder
+	php artisan make:seeder CategoriesTableSeeder
+
+3. 
+

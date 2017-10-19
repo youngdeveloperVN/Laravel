@@ -21,7 +21,7 @@ class CreatePostsTable extends Migration {
 			
 			// new
 			$table->integer ( 'viewCount' )->default ( 0 );
-			$table->boolean ( 'active' );
+			$table->boolean ( 'active' )->default ( true );
 			
 			$table->timestamps ();
 		} );
