@@ -19,5 +19,5 @@
 	php artisan db:seed --class=UsersTableSeeder
 	php artisan make:seeder CategoriesTableSeeder
 
-3. 
-
+3. Check version laravel
+php artisan --version

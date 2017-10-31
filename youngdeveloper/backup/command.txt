@@ -36,3 +36,7 @@ provider: >> Barryvdh\Debugbar\ServiceProvider::class,
 alias: >>> 'Debugbar' => Barryvdh\Debugbar\Facade::class,
 Publish : php artisan vendor:publish --provider="Barryvdh\Debugbar\ServiceProvider"
 
+6. rename namespace
+
+php artisan app:name Larashop
+namespace Larashop;

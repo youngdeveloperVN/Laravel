@@ -1,0 +1,32 @@
+Route::get('/', function () {
+    return view('layouts.app');
+});
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+//Regular Expressions
+Route::get('/task/{id}', function($id){
+    return "you requested for the task with id $id. the current url is " . route('task',['id' => 1]);
+})->where('id', '[0-9]+')->name('task');
+
+//Named Routes
+Route::group(['prefix' => 'admin'],function()
+{
+    Route::get('/', function(){
+        return "admin login/dashboard page";
+    });
+});
+
+//  Route Middleware
+Route::group(['prefix' => 'admin','middleware' => 'auth'],function()
+{
+    Route::get('/departments', function(){
+        return "departments page";
+    });
+        
+    Route::get('/employees', function(){
+        return "employees page";
+    });
+});

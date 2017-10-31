@@ -1,0 +1,10 @@
+Run: composer require barryvdh/laravel-debugbar --dev
+
+
+add to app.php
+
+Barryvdh\Debugbar\ServiceProvider::class,
+
+'Debugbar' => Barryvdh\Debugbar\Facade::class,
+
+php artisan vendor:publish --provider="Barryvdh\Debugbar\ServiceProvider"
