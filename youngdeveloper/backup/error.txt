@@ -32,3 +32,14 @@ I. EVN
 				    ]
 				},
 	https://stackoverflow.com/questions/32475892/reflectionexception-class-classname-does-not-exist-laravel
+7. upload file 
+	The file "house.jpg" exceeds your upload_max_filesize ini directive (limit is 2048 KiB)..
+	
+	//fix php.ini 
+		file_uploads = On
+		upload_max_filesize = 20M
+		post_max_size = 20M
+		upload_tmp_dir = /tmp/
+8. upload file 
+	Unknow method getClientOriginalExtension
+	Cause: From must be import enctype="multipart/form-data"

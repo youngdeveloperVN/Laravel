@@ -65,7 +65,6 @@ class PostsTableSeeder extends Seeder {
 					'thumbnail' => $thumbnailItem [$itemthumbnail].'.jpg',
 					'idUser' => $userId [$itemUser],
 					'idCategory' => $categoryId [$itemCategory],
-					'slug' => '#',
 					'created_at' => Carbon::now () 
 			] );
 		}

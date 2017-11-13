@@ -1,11 +1,12 @@
 <?php
 
-namespace Larashop\Http\Controllers\Auth;
+namespace App\Http\Controllers\Auth;
 
-use Larashop\User;
-use Larashop\Http\Controllers\Controller;
+use App\User;
+use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
+use Illuminate\Http\Request;	
 
 class RegisterController extends Controller
 {
@@ -19,15 +20,14 @@ class RegisterController extends Controller
     | provide this functionality without requiring any additional code.
     |
     */
-
-    use RegistersUsers;
+	use RegistersUsers;
 
     /**
      * Where to redirect users after registration.
      *
      * @var string
      */
-    protected $redirectTo = '/home';
+    protected $redirectTo= '/home';
 
     /**
      * Create a new controller instance.
@@ -48,9 +48,9 @@ class RegisterController extends Controller
     protected function validator(array $data)
     {
         return Validator::make($data, [
-            'name' => 'required|string|max:255',
-            'email' => 'required|string|email|max:255|unique:users',
-            'password' => 'required|string|min:6|confirmed',
+            'name' => 'required|max:255',
+            'email' => 'required|email|max:255|unique:users',
+            'password' => 'required|min:6|confirmed',
         ]);
     }
 
@@ -58,7 +58,7 @@ class RegisterController extends Controller
      * Create a new user instance after a valid registration.
      *
      * @param  array  $data
-     * @return \Larashop\User
+     * @return User
      */
     protected function create(array $data)
     {
@@ -68,4 +68,13 @@ class RegisterController extends Controller
             'password' => bcrypt($data['password']),
         ]);
     }
+    
+	public function register(Request $request) {
+		$validator = $this->validator($request->all());
+		if ($validator->fails()) {
+			$this->throwValidationException ( $request, $validator );
+		}
+		$this->create ( $request->all () );
+		return response ()->json ();
+	}
 }
