@@ -6,6 +6,9 @@
 + Create project
 + Run Check new Project
 
+	1.1 Whoops, looks like something went wrong
+		create .evn
+		run php artisan key:generate
 
 2. Migrate Database
 

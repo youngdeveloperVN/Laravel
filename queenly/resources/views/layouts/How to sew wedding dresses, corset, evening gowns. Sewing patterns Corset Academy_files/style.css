@@ -1,0 +1,19 @@
+/*
+Theme Name: Corset Academy rs
+Author: Alex Ruvel
+Description: WordPress theme for Corset Academy.
+Version: 3.0
+*/
+
+#subform .header p {
+    font-size: 25px !important;
+    line-height: 30px !important;
+}
+
+.pop-body h4 {
+    line-height: 1.3;
+}
+
+.pop-body input[type=submit] {
+    margin-top: 15px;
+}
