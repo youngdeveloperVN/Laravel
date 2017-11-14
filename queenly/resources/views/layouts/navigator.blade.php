@@ -2,7 +2,7 @@
         <header class="">
             <div class="container">
                 <!-- Site Logo -->
-                <a href="https://corsetacademy.net/" class="site-logo">
+                <a href="https://localhost/" class="site-logo">
 				<img src="./How to sew wedding dresses, corset, evening gowns. Sewing patterns Corset Academy_files/logo.png" alt="Corset Academy">
 			</a>
                 <!-- Site Logo -->
@@ -13,15 +13,15 @@
                     <ul class="site-nav">
 
                         <li class="hidden">
-											<a data-toggle="modal" href="https://corsetacademy.net/categories/#feedback">LEAVE FEEDBACK</a>
+											<a data-toggle="modal" href="https://localhost/categories/#feedback">LEAVE FEEDBACK</a>
 										</li><li class="">
-											<a href="https://corsetacademy.net/price/">PRICING</a>
+											<a href="https://localhost/price/">PRICING</a>
 										</li><li class="">
-											<a href="https://corsetacademy.net/corset-pattern-alterations-calculation/">Pattern Alteration</a>
+											<a href="https://localhost/corset-pattern-alterations-calculation/">Pattern Alteration</a>
 										</li><li class="">
-											<a href="https://corsetacademy.net/category/blog/success-stories/">Success Stories</a>
+											<a href="https://localhost/category/blog/success-stories/">Success Stories</a>
 										</li><li class="">
-											<a href="https://corset-pattern.com/">Shop</a>
+											<a href="https://localhost/">Shop</a>
 										</li>                    </ul>
                     <!-- END Main Menu -->
                 </nav>

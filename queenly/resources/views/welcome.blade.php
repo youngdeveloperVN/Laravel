@@ -9,6 +9,15 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+        
+     
+		
+		<script src="{{ asset('js/jquery.js') }}"></script>
+		<script src="{{ asset('js/bootstrap.min.js') }}"></script>
+		
+		<script src="{{ asset('js/app.js') }}"></script>
+		<link href="{{ asset('css/app.css') }}" rel="stylesheet">
+		
     </head>
     <body>
     		<!-- Top nav -->
@@ -16,7 +25,7 @@
     		
     		
         	<!-- Navbar Left -->
-        	@include('layouts.navigator')
+        	@include('layouts.lesson')
         	
         	
         	<!-- Content -->
