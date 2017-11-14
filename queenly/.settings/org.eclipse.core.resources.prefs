@@ -1,3 +1,4 @@
 eclipse.preferences.version=1
+encoding//resources/views/index.blade.php=UTF-8
+encoding//resources/views/layouts/introduction.blade.php=UTF-8
 encoding//resources/views/layouts/lesson.blade.php=UTF-8
-encoding//resources/views/welcome.blade.php=UTF-8

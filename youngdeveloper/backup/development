@@ -1,5 +1,0 @@
-
-1. Add Debug 
-	Run: composer require barryvdh/laravel-debugbar --dev
-	add to app.php: Barryvdh\Debugbar\ServiceProvider::class,
-	php artisan vendor:publish --provider="Barryvdh\Debugbar\ServiceProvider"

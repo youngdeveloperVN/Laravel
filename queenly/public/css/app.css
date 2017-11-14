@@ -21,6 +21,18 @@ li {
 
 /*MENU**/
 
+a.site-logo {
+    float: left;
+    color: #fff;
+    font-size: 24px;
+    height: 49px;
+    margin-top: -8px;
+}
+.site-nav a, a.site-logo {
+    display: block;
+    line-height: 34px;
+}
+
 header {
     position: relative;
     top: 0;
@@ -224,6 +236,80 @@ strong {
     user-select: none;
     border: 1px solid transparent;
     border-radius: 4px;
+}
+/*Content Detail**/
+.responsive-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#lesson-content .video-screen {
+    border: 5px solid #fff;
+    border-radius: 3px;
+    position: relative;
+}
+#player, .fallback, body, html, iframe {
+    background-color: transparent;
+}
+.player .video-wrapper, .player .video-wrapper .telecine, .player .video-wrapper object, .player .video-wrapper video {
+    width: 100%;
+    height: 100%;
+}
+.player, .player *, .player ::after, .player ::before {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+video {
+    object-fit: contain;
+}
+
+/*Image video*/
+
+#amazingcarousel .amazingcarousel-image img {
+    display: block;
+    height: 200px;
+    border: 0;
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+}
+
+/**Text button next preview tut*/
+
+#lesson-content .video-screen .navigation .next {
+    text-align: right;
+    float: right;
+}
+
+#lesson-content .video-screen .navigation .next, #lesson-content .video-screen .navigation .previous {
+    display: block;
+    width: 50%;
+    float: left;
+    padding: 10px 10px 5px;
+}
+
+#lesson-content .video-screen .navigation .next, #lesson-content .video-screen .navigation .previous {
+    display: block;
+    width: 50%;
+    float: left;
+    padding: 10px 10px 5px;
+}
+
+#amazingcarousel-container * {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    zoom: 1;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+#lesson-content .video-screen .navigation .next a, #lesson-content .video-screen .navigation .previous a {
+    color: #999;
+    text-decoration: none;
 }
 
 @media (min-width: 992px)
