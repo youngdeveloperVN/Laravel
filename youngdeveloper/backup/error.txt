@@ -43,3 +43,13 @@ I. EVN
 8. upload file 
 	Unknow method getClientOriginalExtension
 	Cause: From must be import enctype="multipart/form-data"
+	
+9. Class UserTableSeeder does not exist
+solution: 1.1.composer update,
+		  1.2composer dump-autoload.
+		  1.3"autoload-dev": {
+			    	"classmap": [
+			        "tests/TestCase.php",
+			        "database/seeds/UserTableSeeder.php" //include the file with its path here
+			    ]
+			},

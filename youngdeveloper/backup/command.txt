@@ -15,6 +15,7 @@ php artisan make:model User
 php artisan make:model Post
 php artisan make:model Category
 php artisan make:model Comment
+php artisan make:model Models\Order -m
 
 4. create Migrate
 
@@ -36,3 +37,6 @@ provider: >> Barryvdh\Debugbar\ServiceProvider::class,
 alias: >>> 'Debugbar' => Barryvdh\Debugbar\Facade::class,
 Publish : php artisan vendor:publish --provider="Barryvdh\Debugbar\ServiceProvider"
 
+6. Create notification
+
+php artisan make:notification LarashopAdminResetPassword
