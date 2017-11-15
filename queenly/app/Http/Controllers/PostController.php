@@ -1,20 +1,85 @@
 <?php
 namespace App\Http\Controllers;
 use Illuminate\Http\Request;
+use File;
+use App\Category;
 
 class PostController extends Controller {
 
 	public function createFolderAndFile() {
+		//
+		$localdirectory = public_path() . '/pages/';
 		
-		$destinationPath = public_path('/items');
+		$categories = array(
+				"premiumdress" => "54",
+				"dresswithwholepiecetrain" => "34",
+				"crewneckdresswithfullskirt" => "25",
+				"gownwithbareskineffect" => "31",
+				"gownwithbareskineffect2" => "22",
+				"openbackdresswithbodysuitbase" => "23",
+				"openbackdressbodicebase" => "22",
+				"weddingdresswithoutseseams" => "29",
+				"dresssleeves" => "33",
+				"weddingdressfullskirt" => "42",
+				"cropgown" => "0",
+				"princesswedding" => "13",
+				"ruffleskirt" => "22",
+				"mermaweddingskirt" => "26",
+				"steampunkcorset" => "27",
+				"leathercorset" => "22",
+				"dresslacing" => "24",
+				"plusstrap" => "31",
+				"corsetsleeves" => "28",
+				"corsetmakingabc" => "8",
+				"mustknow" => "7",
+				"corsetday" => "4",
+				"tipstricks" => "6",
+				"sewingreviews" => "5",
+				"cocktaildress" => "25",
+				"transparenthours" => "1",
+				"corsettechnique" => "10",
+				"quiltedcups" => "14",
+				"dresscutcups" => "15",
+				"bodysuitcorsetcups" => "9",
+				"partydress" => "17",
+				"corsetwithdrapery" => "20",
+				"corsetintegralstraps" => "27",
+				"corsetpartcups" => "22",
+				"corsetcutout" => "22",
+				"rhinestonesdecoration" => "5",
+				"additionaldecoration" => "5",
+				"thickdecorationelements" => "5",
+				"weddingdressdecoration" => "5",
+				"sequinsdecoration" => "11",
+				"casualgarmentdecoration" => "5",
+				"epaulettesskirt" => "8",
+				"tambourluneville" => "5",
+				"thelawproportionschildren" => "3",
+				"dressyearsoldgirl" => "9",
+				"fancydressyearsoldgirl" => "16",
+				"dressfancyoldgirl" => "14"
+		);
 		
-		if (! file_exists($destinationPath)) {
-			mkdir($destinationPath, 0777, true);
+		foreach ($categories as $category => $total) {
+			//create folder
+			$folderNameCatefory = $category ;
+			$directory = $localdirectory . $folderNameCatefory . '/';
+			
+			if (! File::exists($directory)) {
+				File::makeDirectory($directory, 0755, true, true);
+			}
+			for ($i = 1;$i <= $total; $i ++) {
+				// create file
+				$pathFile = $directory . 'tut' . $i . '.blade.php';
+				if (! File::exists($pathFile)) {
+					File::put($pathFile, "@extends('index')@section('content') @endsection");
+				}
+			}
 		}
 	}
 
 	public function premiumdress($id) {
-		PostController::createFolderAndFile();
+		//PostController::createFolderAndFile();
 		return view('layouts.pages.premiumdress.tut' . $id);
 	}
 
