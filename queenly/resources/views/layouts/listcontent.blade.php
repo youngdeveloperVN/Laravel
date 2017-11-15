@@ -10,7 +10,7 @@
 					href="https://corsetacademy.net/introduction_premium/">Premium
 						Dress <span>(54)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idPremiumdress" class="list-unstyled">
 						<li><a href="/"
 							class="access"><i class="fa fa-play-circle"></i>Introduction.</a></li>
 						<li><a
@@ -241,7 +241,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-2/">Dress
 						with Whole-Piece Train <span>(34)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idDressWithWholePieceTrain" class="list-unstyled">
 						<li><a
 							href="/weddinggowns/tut1"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -385,7 +385,7 @@
 					href="https://corsetacademy.net/how-to-make-wedding-dress/">Crew-Neck
 						Dress with Full Skirt <span>(25)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCrewNeckDressWithFullSkirt" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/how-to-make-wedding-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Getting Acquainted with the Model.</a></li>
@@ -496,7 +496,7 @@
 					href="https://corsetacademy.net/gown-with-the-bare-skin-effect/">Gown
 						with Bare-Skin Effect <span>(31)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idGownWithBareSkinEffect" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/gown-with-the-bare-skin-effect/"
 							class="access"><i class="fa fa-play-circle"></i>Introduction.</a></li>
@@ -628,7 +628,7 @@
 					href="https://corsetacademy.net/introduction-gown/">Gown with
 						Bare-Skin Effect II <span>(22)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idGownWithBareSkinEffect2" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/introduction-gown/"
 							class="access"><i class="fa fa-play-circle"></i>Introduction.</a></li>
 						<li><a
@@ -722,7 +722,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-3/">Open-Back
 						Dress with a Bodysuit Base <span>(23)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idOpenBackDressWithBodysuitBase" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-3/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -823,7 +823,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-4/">Open-Back
 						Dress with a Bodice Base <span>(22)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idOpenBackDressBodiceBase" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-4/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -922,7 +922,7 @@
 					href="https://corsetacademy.net/wedding-dress-without-side-seams-foreword/">Wedding
 						Dress Without Side Seams <span>(29)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idWeddingDressWithoutSeSeams" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/wedding-dress-without-side-seams-foreword/"
 							class="access"><i class="fa fa-play-circle"></i>Wedding Dress
@@ -1047,7 +1047,7 @@
 					href="https://corsetacademy.net/wedding-dress-with-shoulder-straps-and-set-in-sleeves-foreword/">Wedding
 						Dress with Sleeves <span>(33)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idDressSleeves" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/wedding-dress-with-shoulder-straps-and-set-in-sleeves-foreword/"
 							class="access"><i class="fa fa-play-circle"></i>Wedding Dress
@@ -1189,7 +1189,7 @@
 					href="https://corsetacademy.net/classic-wedding-dress/">Wedding
 						Dress with Lace Straps and Full Skirt <span>(42)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idWeddingDressFullSkirt" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/classic-wedding-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Foreword</a></li>
 						<li><a
@@ -1364,7 +1364,7 @@
 					href="https://corsetacademy.net/sewing-crop-top-wedding-gown/">Crop
 						Top Wedding Gown <span>(43)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCropGown " class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/sewing-crop-top-wedding-gown/"
 							class="access"><i class="fa fa-play-circle"></i>Foreword.</a></li>
@@ -1548,7 +1548,7 @@
 					href="https://corsetacademy.net/why-an-elastic-waistband-skirt/">Princess
 						Wedding Skirt <span>(13)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idPrincessWedding" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/why-an-elastic-waistband-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Why an Elastic
@@ -1610,7 +1610,7 @@
 					href="https://corsetacademy.net/why-a-mermaidfishtail-skirt/">Ruffle
 						Fish Tail Wedding Skirt <span>(22)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idRuffleSkirt" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/why-a-mermaidfishtail-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Why a Ruffle Fish
@@ -1705,7 +1705,7 @@
 					href="https://corsetacademy.net/why-a-petite-skirt/">Mermaid
 						Wedding Skirt <span>(26)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idMermaWeddingSkirt" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/why-a-petite-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Why a Mermaid
 								Skirt?</a></li>
@@ -1821,7 +1821,7 @@
 					href="https://corsetacademy.net/sewing-steampunk-corset/">Steampunk
 						Corset <span>(27)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idSteampunkCorset" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/sewing-steampunk-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Steampunk Corset.
 								Foreword.</a></li>
@@ -1940,7 +1940,7 @@
 					href="https://corsetacademy.net/black-leather-corset-foreword/">Leather
 						Corset <span>(22)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idLeatherCorset" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/black-leather-corset-foreword/"
 							class="access"><i class="fa fa-play-circle"></i>Black Leather
@@ -2041,7 +2041,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-review-of-materials/">Plus-Size
 						Dress with Hidden Lacing <span>(24)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idDressLacing" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-review-of-materials/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -2144,7 +2144,7 @@
 					href="https://corsetacademy.net/plus-size-dress-strap/">Plus-Size
 						Dress with a Strap <span>(31)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idPlusStrap" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/plus-size-dress-strap/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Taking Measurements.</a></li>
@@ -2275,7 +2275,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-6/">Corset-Dress
 						with Sleeves <span>(28)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCorsetSleeves" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-6/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -2400,7 +2400,7 @@
 					href="https://corsetacademy.net/01-cutting-fabric-the-right-way/">ABC
 						of Corset-making <span>(8)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCorsetMakingABC" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/01-cutting-fabric-the-right-way/"
 							class="access"><i class="fa fa-play-circle"></i>Cutting Fabric
@@ -2434,7 +2434,7 @@
 					href="https://corsetacademy.net/corset-sewing-pattern-how-to-create-and-adjust/">Must
 						Know <span>(7)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idMustKnow" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/corset-sewing-pattern-how-to-create-and-adjust/"
 							class="access"><i class="fa fa-play-circle"></i>Corset Sewing
@@ -2464,7 +2464,7 @@
 					href="https://corsetacademy.net/tutorial-1-cutting-attaching-lining-and-bones/">Corset
 						in Just 1 Day <span>(4)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCorsetDay" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-cutting-attaching-lining-and-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -2487,7 +2487,7 @@
 					<a class="second" href="https://corsetacademy.net/push-up-pads/">Tips
 						and Tricks <span>(6)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idTipsTricks" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/push-up-pads/"
 							class="access"><i class="fa fa-play-circle"></i>Push-Up Pads</a></li>
 						<li><a
@@ -2516,7 +2516,7 @@
 					href="https://corsetacademy.net/opaque-corsets-review/">Sewing
 						Techniques Reviews <span>(5)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idSewingReviews" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/opaque-corsets-review/"
 							class="access"><i class="fa fa-play-circle"></i>Opaque Corsets:
 								Review</a></li>
@@ -2542,7 +2542,7 @@
 					href="https://corsetacademy.net/tutorial-1-cocktail-dress/">Cocktail
 						Dress <span>(25)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCocktailDress" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/tutorial-1-cocktail-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Foreword.</a></li>
@@ -2649,7 +2649,7 @@
 					href="https://corsetacademy.net/transparent-corset-in-3-hours/">Transparent
 						Corset in 3 Hours <span>(1)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idTransparentHours" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/transparent-corset-in-3-hours/"
 							class="access"><i class="fa fa-play-circle"></i>Transparent
@@ -2666,7 +2666,7 @@
 					href="https://corsetacademy.net/tutorial-1-measuring-and-altering-patterns/">Corset
 						in a Simplified Technique <span>(10)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCorsetTechnique" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-measuring-and-altering-patterns/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -2714,7 +2714,7 @@
 					href="https://corsetacademy.net/tutorial-1-cutting-preparations-neckline-alteration-on-a-ready-pattern/">Corset
 						with Quilted Cups <span>(14)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idQuiltedCups" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-cutting-preparations-neckline-alteration-on-a-ready-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -2780,7 +2780,7 @@
 					href="https://corsetacademy.net/tutorial-1-pattern-calculation-before-cutting/">Dress
 						with Separately Cut Cups <span>(15)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idDressCutCups" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-pattern-calculation-before-cutting/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -2850,7 +2850,7 @@
 					href="https://corsetacademy.net/tutorial-1-introductory-tutorial/">Bodysuit
 						with Corset Cups <span>(9)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idBodysuitCorsetCups" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-introductory-tutorial/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -2895,7 +2895,7 @@
 					href="https://corsetacademy.net/tutorial-1-measurement/">Party
 						Dress <span>(17)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idPartyDress" class="list-unstyled">
 						<li><a href="https://corsetacademy.net/tutorial-1-measurement/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Measurement.</a></li>
@@ -2981,7 +2981,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-cutting-a-mock-up/">Corset
 						with Drapery <span>(20)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCorsetWithDrapery" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-cutting-a-mock-up/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3070,7 +3070,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-and-the-throw-over-sewing-technique/">Corset
 						with Integral Straps <span>(27)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCorsetIntegralStraps" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-and-the-throw-over-sewing-technique/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3193,7 +3193,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model/">Corset
 						with 3-Part Cups <span>(22)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCorsetPartCups" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3292,7 +3292,7 @@
 					href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-5/">Corset
 						with a Fancy Cut-Out <span>(22)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCorsetCutOut" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-5/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3396,7 +3396,7 @@
 					href="https://corsetacademy.net/tutorial-1-decoration-materials/">Rhinestones
 						Decoration <span>(5)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idRhinestonesDecoration" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-decoration-materials/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3424,7 +3424,7 @@
 					href="https://corsetacademy.net/tutorial-1-glue-on-half-pearls/">Additional
 						Decoration <span>(5)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idAdditionalDecoration" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-glue-on-half-pearls/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3452,7 +3452,7 @@
 					href="https://corsetacademy.net/tutorial-1-thick-decoration-element/">Thick
 						Decoration Elements <span>(5)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idThickDecorationElements" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-thick-decoration-element/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1. Thick
@@ -3480,7 +3480,7 @@
 					href="https://corsetacademy.net/tutorial-1-decoration-materials-2/">Wedding
 						Dress Decoration <span>(5)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idWeddingDressDecoration" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-decoration-materials-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3508,7 +3508,7 @@
 					href="https://corsetacademy.net/tutorial-1-types-of-sequins/">Sequins
 						Decoration <span>(11)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idSequinsDecoration" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-types-of-sequins/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1. Types
@@ -3563,7 +3563,7 @@
 					href="https://corsetacademy.net/tutorial-1-marking-the-borders-of-the-decoration/">Casual
 						Garment Decoration <span>(5)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idCasualGarmentDecoration" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-marking-the-borders-of-the-decoration/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3591,7 +3591,7 @@
 					href="https://corsetacademy.net/epaulettes-function-and-materials/">Epaulettes
 						<span>(8)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idEpaulettesSkirt" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/epaulettes-function-and-materials/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3631,7 +3631,7 @@
 					href="https://corsetacademy.net/tambour-or-luneville-embroidery-part-1/">Tambour
 						or Luneville Embroidery <span>(5)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idTambourLuneville" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tambour-or-luneville-embroidery-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3658,7 +3658,7 @@
 					href="https://corsetacademy.net/childrens-body-proportions/">The
 						Law of Proportions in Children's Wear <span>(3)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idTheLawProportionsChildren" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/childrens-body-proportions/"
 							class="access"><i class="fa fa-play-circle"></i>Introduction to
@@ -3678,7 +3678,7 @@
 					href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-style-for-the-childs-body-proportions/">Fancy
 						Dress for 3 Years Old Girl <span>(9)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idDressYearsOldGirl" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-style-for-the-childs-body-proportions/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3722,7 +3722,7 @@
 					href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-dress/">Fancy
 						Dress for 6 Years Old Girl <span>(16)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idFancyDressYearsOldGirl" FancyDress" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -3798,7 +3798,7 @@
 					href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-style-with-respect-to-the-childs-body-proportions/">Fancy
 						Dress for 9 Years Old Girl <span>(14)</span>
 				</a>
-					<ul class="list-unstyled">
+					<ul id="idDressFancyOldGirl" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-style-with-respect-to-the-childs-body-proportions/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.

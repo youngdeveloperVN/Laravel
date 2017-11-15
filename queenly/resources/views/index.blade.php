@@ -12,8 +12,6 @@
         <link
 			href="https://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css"
 			rel="stylesheet">
-     
-		
 		<script src="{{ asset('js/jquery.js') }}"></script>
 		<script src="{{ asset('js/bootstrap.min.js') }}"></script>
 		
@@ -46,8 +44,6 @@
 					</div>
 				</div>
 			</section>
-					
-        	
         	
         	<!-- Content -->
         	@include('layouts.footer')
