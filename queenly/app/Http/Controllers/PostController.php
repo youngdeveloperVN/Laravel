@@ -21,7 +21,7 @@ class PostController extends Controller {
 				"weddingdresswithoutseseams" => "29",
 				"dresssleeves" => "33",
 				"weddingdressfullskirt" => "42",
-				"cropgown" => "0",
+				"cropgown" => "43",
 				"princesswedding" => "13",
 				"ruffleskirt" => "22",
 				"mermaweddingskirt" => "26",
@@ -72,14 +72,14 @@ class PostController extends Controller {
 				// create file
 				$pathFile = $directory . 'tut' . $i . '.blade.php';
 				if (! File::exists($pathFile)) {
-					File::put($pathFile, "@extends('index')@section('content') @endsection");
+					File::put($pathFile, "@extends('index')@section('content') video-sc @endsection");
 				}
 			}
 		}
 	}
 
 	public function premiumdress($id) {
-		//PostController::createFolderAndFile();
+		PostController::createFolderAndFile();
 		return view('layouts.pages.premiumdress.tut' . $id);
 	}
 

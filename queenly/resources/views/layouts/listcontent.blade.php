@@ -1364,7 +1364,7 @@
 					href="https://corsetacademy.net/sewing-crop-top-wedding-gown/">Crop
 						Top Wedding Gown <span>(43)</span>
 				</a>
-					<ul id="idCropGown " class="list-unstyled">
+					<ul id="idCropGown" class="list-unstyled">
 						<li><a
 							href="https://corsetacademy.net/sewing-crop-top-wedding-gown/"
 							class="access"><i class="fa fa-play-circle"></i>Foreword.</a></li>
