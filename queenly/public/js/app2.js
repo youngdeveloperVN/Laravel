@@ -48,9 +48,6 @@ addIdToUl = function() {
 	
 	var codePHP = '$categories = array('+ arrayCategories +');';
 	console.log('Generate Code PHP : ' + codePHP);
-	
-	
-	
 }
 
 getMethodController = function(entry){
@@ -78,8 +75,6 @@ generateCategory= function(folder, total){
 	return item
 }
 
-
-
 refreshTabNav= function(){
 	$('a.faq-tab').parent().css("display", "none");
 	$('a#diploma').parent().css("display", "none");
@@ -98,25 +93,18 @@ activeURLCurrent = function(){
         // if the current path is like this link, make it active
         if($(this).attr('href') === current){
         	//
-        	
-        	$(this).addClass('active');
         	$(this).parent().css("display", "block");
+        	$(this).parent().parent('ul').css("display", "block");
+        	$(this).parents('li').addClass('active');
         	console.log(current+ ' is active');
         	console.log($(this).parent().html() + ' is active');
         }
     })
 }
 
-refreshUI = function(){
-	refreshTabNav();
-	//refreshMenu();
-}
-
-
 //reset
 resetActive = function(){
 	$('ul#courses>li>ul>li').removeClass('active');
-	
 	//change icon
 	$('li>a.nav-sub').click(function(){
 		var parent = $(this).parent();
@@ -127,30 +115,11 @@ resetActive = function(){
 		}
 		roleShow();
 	});
-	
-	/*$('ul#courses>li').addClass('active');
-	$('ul#courses>li>ul>li').removeClass('active');
-	$('ul#courses>li>ul>li>ul>li').removeClass('active');
-	console.log('Remove active: ' + $('#courses li').length);
-	
-	$('li>a.nav-sub').click(function(){
-		var parent = $(this).parent();
-		if (!$(parent).hasClass('active')) {
-			$(parent).addClass('active');
-		} else{
-			$(parent).removeClass('active');
-		}
-		
-	});*/
 }
 
 roleShow = function(){
 	$('ul#courses>li>ul>li>ul').css("display", "none");
 	$('ul#courses li.active>ul').css("display", "block");
-	//$('ul#courses li.active').css("display", "block");
-	//$('ul#courses li.active').parents().css("display", "block");
-	
-	//$('ul#courses>li.active>ul').css("display", "block");
 }
 
 $(document).ready(function() {
@@ -158,4 +127,5 @@ $(document).ready(function() {
 	resetActive();
 	roleShow();
 	activeURLCurrent();
+	refreshTabNav();
 });
