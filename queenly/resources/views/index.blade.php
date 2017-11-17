@@ -14,7 +14,7 @@
 			href="https://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css"
 			rel="stylesheet">
 		
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<!-- Latest compiled and minified JavaScript -->
@@ -41,7 +41,7 @@
 								@include('layouts.listcontent')
 							</div>
 							
-							<div id="lesson-content" class="col-md-8" style="min-height: 44150px;">
+							<div id="lesson-content" class="col-md-8">
 								@yield('content')
 							</div>
 						</div>
