@@ -282,7 +282,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image002.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\FINISHED\English\AK 1\mp4\Corset 1\Transcript\tut (book)_files\image1183.jpg"></p>
 <p>I begin by drawing a straight line and marking an assumed length of the lacing on it. </p>
 <p>The cleavage at the back, i.e. the triangle I have pressed, is about 1.6 inches wide. This means that loops can go beyond the edge of the garment by 0.5-0.6 inches to allow for beautiful lacing. I have drawn an imaginary borderline for the loops.&nbsp; </p>
-<p>You should step 0.8 inches inwards from the edge of the garment in order to make the spot where the ends or “tails” of the loops are going to end. I draw this line. </p>
+<p>You should step 0.8 inches inwards from the edge of the garment in order to make the spot where the ends or “tails" of the loops are going to end. I draw this line. </p>
 <p>I mark an assumed location of the loops on the edge of the garment, i.e. I mark their width and the distance between them. The stitch attaching these loops is going to go along this line.</p>
 <p>I mark middle and upper points of the loops on this imaginary borderline.</p>
 <p>I mark the location of the ends of these loops on the inner line.</p>
@@ -293,7 +293,7 @@
 <p><strong>I take a cord or a ribbon - whatever you want to use for the loops - and start arranging it between the pins:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image006.jpg" class="img-responsive center-block"></p>
-<p>I secure the end of the ribbon and arrange it in a “serpent”-like shape between the pins.</p>
+<p>I secure the end of the ribbon and arrange it in a “serpent"-like shape between the pins.</p>
 <p><strong>Now I only need to secure this ribbon at those spots where the stitch attaching the loops is going to pass:</strong></p>
 <p></p>
 <p>
@@ -309,11 +309,11 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image012.jpg" class="img-responsive center-block"></p>
 <p>I have pressed out the edge of the garment and now I mark the width of the loops and the distance between them on it.</p>
-<p><strong>Stepping away 0.6 and 0.8 inches correspondingly I draw borderlines for the loops and the end of the loop “tails”:</strong></p>
+<p><strong>Stepping away 0.6 and 0.8 inches correspondingly I draw borderlines for the loops and the end of the loop “tails":</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image014.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\FINISHED\English\AK 1\mp4\Corset 1\Transcript\tut (book)_files\image1195.jpg"></strong></p>
-<p>I mark middle and upper points of the loops on their borderline and the location of loop “tails” - on their own borderline.</p>
-<p>The line attaching the loops is going to go right along the crease or edge of the garment while the “tails” are going to go inside the seam allowance. </p>
+<p>I mark middle and upper points of the loops on their borderline and the location of loop “tails" - on their own borderline.</p>
+<p>The line attaching the loops is going to go right along the crease or edge of the garment while the “tails" are going to go inside the seam allowance. </p>
 <p>The loop width is determined by the thickness of the rope, cord or ribbon - i.e. any material you are using for it.&nbsp; The distance between the loops is determined by the same parameter.</p>
 <p>Make it whichever way you like it most!</p>
 <p><strong>I place pins to mark where future loops are going to be formed:</strong></p>
@@ -357,7 +357,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image037.jpg" class="img-responsive center-block"></p>
 <p>I do the same with the second bone.</p>
-<p><strong>I overlay the “tails” of the loops with the bone additionally securing the lacing:</strong></p>
+<p><strong>I overlay the “tails" of the loops with the bone additionally securing the lacing:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image039.jpg" class="img-responsive center-block"></p>
 <p><strong>I mark the spot where the bone is going to be sewn-on:</strong></p>
@@ -366,7 +366,7 @@
 <p><strong>I stitch up the end of the strap:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image043.jpg" class="img-responsive center-block"></p>
-<p>I bend the wrapped bone towards the face side, overlap&nbsp; loop “tails” and make two parallel stitches along the existing ones. The other end of the strap should be tucked and pushed underneath the bone.</p>
+<p>I bend the wrapped bone towards the face side, overlap&nbsp; loop “tails" and make two parallel stitches along the existing ones. The other end of the strap should be tucked and pushed underneath the bone.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image045.jpg" class="img-responsive center-block"></p>
 <p><strong>The result is the following:</strong></p>
@@ -383,7 +383,7 @@
 <p>You can decide for yourself whether you want to leave such a wide allowance or not. It is quite possible to trim and overlock it now. But I’ve decided to leave everything as it is!</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2013_files/image053.jpg" class="img-responsive center-block"></p>
-<p>I prefer making a lacing with hanging loops only when the corset has no tightening effect. I always make hanging loops “serpent”-shaped and secure them with Rigilene bones. It guarantees their safety and they won’t ever break. </p>
+<p>I prefer making a lacing with hanging loops only when the corset has no tightening effect. I always make hanging loops “serpent"-shaped and secure them with Rigilene bones. It guarantees their safety and they won’t ever break. </p>
 <p>As a matter of fact, you should always be very careful with corset garment fasteners. Any garment that requires tightening should be securely fastened. People often ask me why I don’t use zippers. And quite often my clients persuade me into sewing a zip fastener. But I always say that I cannot guarantee good quality of a plastic zipper!&nbsp; I don’t think you are going to be happy if your zipper suddenly breaks while you are embracing your guests or relatives during a ceremony. A couple times I have even asked my clients, who insisted on having a zip fastener, for a note of hand confirming that they have been warned and won’t hold any demands against me in this respect.</p>
 <p>&nbsp;</p>
 
@@ -397,7 +397,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

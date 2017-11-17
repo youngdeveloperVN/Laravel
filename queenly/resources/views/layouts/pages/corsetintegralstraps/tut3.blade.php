@@ -197,7 +197,7 @@
 							
 						<p><strong>Features: </strong></p>
 <ul>
-<li>Corset constructed in “Throw-over technique”;</li>
+<li>Corset constructed in “Throw-over technique";</li>
 <li>Cut cup with straps around the neck;</li>
 </ul>
 <p><strong>Skills you gain:</strong></p>
@@ -384,7 +384,7 @@
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%203_files/image068.jpg" class="img-responsive center-block"></strong></p>
 <p></p>
-<p><strong>And now I need to make a small “bridge” out of the selvage of our fabric. </strong>I spread the front pieces of the mock-up apart by the distance I have planned. Such bridges are important as they help you take correct measurements off the mock-up later. &nbsp;&nbsp;</p>
+<p><strong>And now I need to make a small “bridge" out of the selvage of our fabric. </strong>I spread the front pieces of the mock-up apart by the distance I have planned. Such bridges are important as they help you take correct measurements off the mock-up later. &nbsp;&nbsp;</p>
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%203_files/image070.jpg" class="img-responsive center-block"></p>
@@ -402,7 +402,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

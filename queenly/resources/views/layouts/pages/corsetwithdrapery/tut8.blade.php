@@ -286,7 +286,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%208_files/image002.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%208_files/image004.jpg" class="img-responsive center-block"></p>
-<p><strong>This means I need a 140cm long bone for all princess seams at the front. </strong>The length of our fabric strap for finishing the bones is 150cm which is obviously enough. This is it, our bone. I write “F” on it in order to remember that it’s meant for the princess seams at the front. </p>
+<p><strong>This means I need a 140cm long bone for all princess seams at the front. </strong>The length of our fabric strap for finishing the bones is 150cm which is obviously enough. This is it, our bone. I write “F" on it in order to remember that it’s meant for the princess seams at the front. </p>
 <p><strong>I determine the length of the bone for the princess seams at the back in the same manner. </strong></p>
 <p><strong>I need the length of the middle seam of the back (where the lacing will be located) and the remaining two princess seams. </strong></p>
 <p>
@@ -295,7 +295,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%208_files/image008.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%208_files/image010.jpg" class="img-responsive center-block"></p>
-<p>I measure the length of the bone with a ruler and the result is slightly over 75cm. This means I need about 152cm boning for the back. Right, this exceeds the length of our prepared 150cm fabric strap but remember that this fabric is elastic and we can easily stretch it by a couple centimeters. I mark this bone with a “B” for “back”. </p>
+<p>I measure the length of the bone with a ruler and the result is slightly over 75cm. This means I need about 152cm boning for the back. Right, this exceeds the length of our prepared 150cm fabric strap but remember that this fabric is elastic and we can easily stretch it by a couple centimeters. I mark this bone with a “B" for “back". </p>
 <p><strong>Now let’s start working on our bones. </strong></p>
 <p><strong>I shall start with the bone for the front. </strong></p>
 <p><strong>I take one fabric strap, put it wrong side up and place the bone over it.</strong> </p>
@@ -366,7 +366,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

@@ -941,7 +941,7 @@
 								class="img-responsive center-block">
 						</p>
 						<p>
-							<strong>Now I need to sew thin “spaghetti” straps</strong>.
+							<strong>Now I need to sew thin "spaghetti" straps</strong>.
 						</p>
 						<p>I have prepared a 1.4 wide strap of fabric for making the
 							straps. I fold the fabric in half face side inwards. It is
@@ -1014,9 +1014,9 @@
 			<div role="tabpanel" class="tab-pane" id="pattern">
 				<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF
 					format.</p>
-				<p>To print sewing patterns open the files, press “print” and choose
-					“print in actual size”. Then connect the part the way it shown in
-					“combination” file.</p>
+				<p>To print sewing patterns open the files, press "print" and choose
+					"print in actual size". Then connect the part the way it shown in
+					"combination" file.</p>
 				<a
 					href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/4.%20Bodysuit%20with%20corset%20cups.zip"
 					target="_blank" class=""><img

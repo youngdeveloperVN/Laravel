@@ -417,11 +417,11 @@
 <p>All calculated values are written down in red.</p>
 <p></p>
 <p><strong>Right now I want to determine the location of the front side seam.</strong></p>
-<p><strong>The location of the side seam is determined by two measurements: “bust front” and “under-bust front”.</strong></p>
+<p><strong>The location of the side seam is determined by two measurements: “bust front" and “under-bust front".</strong></p>
 <p><strong>Bust front:</strong></p>
 <p>This measurement equals 46cm on the pattern and 46cm on Kate as well.</p>
 <p>It is obvious that we don’t need to shift the side seam here.</p>
-<p>I write “0” into the table (column 4, line 2).</p>
+<p>I write “0" into the table (column 4, line 2).</p>
 <p><strong>Under-bust front:</strong></p>
 <p>It is 39cm on the pattern and 37cm according to Kate’s measurements. </p>
 <p> (37cm – 39cm) ÷ 2 = <strong>-1cm</strong></p>
@@ -441,14 +441,14 @@
 <p>6cm – 8cm = <strong>-2cm</strong></p>
 <p>I write these values into the table (column 4, line 8).</p>
 <p><strong>Bust middle:</strong></p>
-<p>The values coincide so I write down “0” into the table (column 4, line 9).</p>
+<p>The values coincide so I write down “0" into the table (column 4, line 9).</p>
 <p><strong>Side length:</strong></p>
 <p>It is 19cm on the pattern and 18cm on Kate which means the length of the side seam should be adjusted down by:</p>
 <p>18cm – 19cm = <strong>-1cm</strong></p>
 <p>I write it down into the table just like before (column 4, line 10).</p>
 <p><strong>Now I start calculating adjustments for the side seam of the back.</strong></p>
-<p>Of course, there are no “bust front” or “under-bust front” measurements now.</p>
-<p>Our first measurement is <strong>“bust circumference”</strong>. </p>
+<p>Of course, there are no “bust front" or “under-bust front" measurements now.</p>
+<p>Our first measurement is <strong>“bust circumference"</strong>. </p>
 <p>It is 86cm on the pattern and Kate’s measurement is 85cm.</p>
 <p>We need to remember about the adjustment along the front side seam (-1cm).</p>
 <p>This value then equals a total of 2cm for two pattern halves. </p>
@@ -476,7 +476,7 @@
 <p>71.5cm –2cm = 69.5cm</p>
 <p>(69cm – 69.5cm) ÷ 2 = <strong>- 0.25cm</strong></p>
 <p>We can say there is basically no alteration along the side seam of the back at the level of the stomach. </p>
-<p>I write “0” into the table (column 5, line 7).</p>
+<p>I write “0" into the table (column 5, line 7).</p>
 <p>There is the same -2cm <strong>along the side seam </strong>(column 5, line 10). </p>
 <p>As you can see, there is a great divergence of values along the side seam of the back piece in-between the bust and the under-bust areas. I need to re-distribute these values (+0.5cm and +2cm) in order to achieve a smooth side line. </p>
 <p>This requires a little working on the back curves. </p>
@@ -501,7 +501,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

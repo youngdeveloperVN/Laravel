@@ -282,7 +282,7 @@
 <p><strong>Needless to say that illusion mesh is perfect for imitating bare skin! </strong>But it is rather hard to embroider it because it stretches in all directions.</p>
 <p>For the same reason, it takes some skill to mount it in an embroidery hoop or frame without distorting the piece.</p>
 <p>Considering all this, I recommend cutting particularly complicated parts of bare-skin-effect garments from euromesh because it is two-way-stretch and more resilient. Parts of less complicated shapes can be cut from illusion mesh.</p>
-<p><strong>In “Wedding Dresses: The Bare Skin Effect” by the Corset Academy, </strong>I used illusion mesh only for the sleeves of long-sleeve dresses. All other nude-coloured parts were sewn with euromesh.</p>
+<p><strong>In “Wedding Dresses: The Bare Skin Effect" by the Corset Academy, </strong>I used illusion mesh only for the sleeves of long-sleeve dresses. All other nude-coloured parts were sewn with euromesh.</p>
 <p><strong>Using euromesh for tambour embroidery will make the process less time-consuming and allow you to determine the size of your embroidery more precisely with respect to the garment pattern. </strong></p>
 
 </div> <!-- Itemprop END: articleBody -->

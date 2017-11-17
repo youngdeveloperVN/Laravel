@@ -184,7 +184,7 @@
 <li>Strong lacing on hanging loops.</li>
 <li>Advanced decoration techniques.</li>
 <li>Peculiarities of long distance sewing.</li>
-<li>How to make a “virtual” fit test.</li>
+<li>How to make a “virtual" fit test.</li>
 <li>How to use a mannequin for fit test.</li>
 </ul>
 <p><strong>Where to use:</strong></p>
@@ -276,7 +276,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2020.files/image028.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2020.files/image030.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2020.files/image032.jpg" alt=""></p>
-<p><strong>And now there comes the last stage of working on the top. I need to create a decorative necklace for it. </strong>I will use 6mm “White Pearl” Swarovski beads. They have a very noble kind of shimmer.</p>
+<p><strong>And now there comes the last stage of working on the top. I need to create a decorative necklace for it. </strong>I will use 6mm “White Pearl" Swarovski beads. They have a very noble kind of shimmer.</p>
 <p><strong>The first thing I will do </strong>is mark the exact positions of the beginning and the end of the necklace on the dress-form and figure out the exact amount of pearls required for one half of the top.</p>
 <p><strong>I will need the following tools and materials: </strong>pearl beads, flat nose pliers, thick needle, clasp, stopper beads, pincers, and 0.4mm fishing line.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2020.files/image034.jpg" alt=""></p>
@@ -341,7 +341,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

@@ -244,7 +244,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Downloadable PDF pattern for home printing.</p>
-<p>To print sewing patterns open the file and choose “PRINT IN ACTUAL SIZE”</p>
+<p>To print sewing patterns open the file and choose “PRINT IN ACTUAL SIZE"</p>
 <a href="https://corsetacademy.s3.amazonaws.com/corset%20in%203%20hours/Corset%20pattern.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset Sewing Pattern</a><br>						
 					</div>
 

@@ -184,7 +184,7 @@
 <li>Strong lacing on hanging loops.</li>
 <li>Advanced decoration techniques.</li>
 <li>Peculiarities of long distance sewing.</li>
-<li>How to make a “virtual” fit test.</li>
+<li>How to make a “virtual" fit test.</li>
 <li>How to use a mannequin for fit test.</li>
 </ul>
 <p><strong>Where to use:</strong></p>
@@ -257,7 +257,7 @@
 <p><strong>I continue working on the skirt and now I need to make a waistband for it. </strong></p>
 <p><strong>The key requirement to the waistband</strong> is that it should hug the waist tightly and hold the skirt in the right position. I will use ribbon loops for lacing the waistband, which means we are not speaking of any waist restriction effect here.</p>
 <p>The wedding ceremony will take place in hot weather and <strong>the waistband must be hard and similar to a waist cincher</strong> because any soft wide waistband will inevitably wrinkle and the bride won’t feel comfortable in it. She must be able to sit down, stand up, or bend down freely.</p>
-<p><strong>My waistband pattern will be based on the pattern </strong>from “Top Wedding Dresses. Dress 1” adjusted to my client’s size. You can use corset patterns from other books by the Corset Academy, such as “Corset for a Young Girl” or “Teen Corset with Busk.”</p>
+<p><strong>My waistband pattern will be based on the pattern </strong>from “Top Wedding Dresses. Dress 1" adjusted to my client’s size. You can use corset patterns from other books by the Corset Academy, such as “Corset for a Young Girl" or “Teen Corset with Busk."</p>
 <p><strong>Here is the pattern I am going to use: </strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2037.files/image002.jpg" alt=""></strong></p>
@@ -312,7 +312,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

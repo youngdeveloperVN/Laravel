@@ -333,7 +333,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%201/Tutorial%208_files/image020.jpg" class="img-responsive center-block"></p>
 <p>I do exactly the same with <strong>the other side edge of the corset</strong>. </p>
-<p>The seam allowance on the lining side that is now “detached” is very useful for me because it will create additional density when grommets are punched through: </p>
+<p>The seam allowance on the lining side that is now “detached" is very useful for me because it will create additional density when grommets are punched through: </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%201/Tutorial%208_files/image022.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -355,7 +355,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%201/Corset%20in%20a%20Simplified%20Technique.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%201/tables-corset%201.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Corset pattern calculation table for 10 different sizes</a><br>						
 					</div>

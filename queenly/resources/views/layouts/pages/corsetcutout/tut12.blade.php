@@ -215,8 +215,8 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”.</p>
-<p>Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

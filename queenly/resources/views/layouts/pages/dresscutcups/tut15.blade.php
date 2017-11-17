@@ -290,7 +290,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2015_files/image008.jpg" class="img-responsive center-block"></p>
 <p>Then I take some Guterman fabric glue, lift each motif, apply a thin layer of glue and then glue it on.</p>
-<p>I like this glue because it dries fast, leaves no dirt stains and has a handy sharp “nose”. Moreover, if the appliqué has already been glued-on but after the fit test you notice that some alterations, for example of the side seam, should be made - you can easily unglue the lace using a steam iron. It will be enough to just heat up the side seam area, lift the appliqué, make all required alterations, and place the appliqué back.&nbsp;&nbsp; </p>
+<p>I like this glue because it dries fast, leaves no dirt stains and has a handy sharp “nose". Moreover, if the appliqué has already been glued-on but after the fit test you notice that some alterations, for example of the side seam, should be made - you can easily unglue the lace using a steam iron. It will be enough to just heat up the side seam area, lift the appliqué, make all required alterations, and place the appliqué back.&nbsp;&nbsp; </p>
 <p>I don’t remove all pins from the motif but only one of the 2 or 3 pins attaching it. I apply some glue onto the unpinned part of the motif and place it back. Then I remove the next pin off the same motif, glue the relevant part, and place it back and so on - until the whole motif is glued where it should be.</p>
 <p>You should never remove and glue the whole motif at once and then try to stick it to its original spot. It is usually very difficult to restore the pattern this way.</p>
 <p><strong>You can see the process of gluing a motif on:</strong></p>
@@ -302,12 +302,12 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2015_files/image011.jpg" class="img-responsive center-block"></p>
 <h4>Afterword.</h4>
 <p></p>
-<p><strong>I am sure that you’re asking yourself “How can I sew a dress with separately cut rounded cups?”</strong> </p>
+<p><strong>I am sure that you’re asking yourself “How can I sew a dress with separately cut rounded cups?"</strong> </p>
 <p>Fair enough, it truly is a very popular model!</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2015_files/image013.jpg" class="img-responsive center-block"></p>
 <p><strong>Here is the answer.</strong></p>
-<p>You will find out how to sew separately cut rounded cups like those in the drawing from my second DVD or my second book called “Transparent Corsets”. Both deal exactly with the technique of sewing separately cut rounded cups. Based on the knowledge you receive when studying the material of the second DVD or the second book you will easily construct a pattern for a dress with separately cut rounded cups.</p>
+<p>You will find out how to sew separately cut rounded cups like those in the drawing from my second DVD or my second book called “Transparent Corsets". Both deal exactly with the technique of sewing separately cut rounded cups. Based on the knowledge you receive when studying the material of the second DVD or the second book you will easily construct a pattern for a dress with separately cut rounded cups.</p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -319,7 +319,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

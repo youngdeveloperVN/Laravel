@@ -283,40 +283,40 @@
 <p><strong>Let us solve the task mathematically. </strong></p>
 <p>I need to measure the distance from my client's shoulder line to the floor. It was for this reason that I took a picture of her next to a height chart.</p>
 <p><strong>The distance from the shoulder line to the floor is 85cm. </strong></p>
-<p>Let us take <strong>the length of the dress </strong>as “<strong>a” </strong>and <strong>the visible part of the legs</strong> as <strong>“b”</strong>.</p>
+<p>Let us take <strong>the length of the dress </strong>as “<strong>a" </strong>and <strong>the visible part of the legs</strong> as <strong>“b"</strong>.</p>
 <p>I make a system of equations knowing that A and B must be in a golden ratio and their sum must be 85cm.</p>
 <p><strong>a = 1.62 × b (1)</strong></p>
 <p><strong>a + b = 85 (2)</strong></p>
 <p>Let us solve the system of equations.</p>
-<p>I put the numeric expression of “<strong>a” </strong>from equation 1 into equation 2:</p>
+<p>I put the numeric expression of “<strong>a" </strong>from equation 1 into equation 2:</p>
 <p><strong>1.62 × b + b = 85cm</strong></p>
 <p><strong>b = 32.5cm</strong></p>
-<p>And I put the found numeric expression of <strong>“b” </strong>into equation 1:</p>
+<p>And I put the found numeric expression of <strong>“b" </strong>into equation 1:</p>
 <p><strong>a = -52.5cm</strong></p>
 <p>Therefore, <strong>the length of the dress is 52.5cm and the visible part of the girl's legs is 32.5cm. </strong></p>
 <p><strong>Now I need to divide the dress into a bodice and a skirt. </strong></p>
-<p>Let us take <strong>the length of the skirt </strong>as <strong>“a” </strong>and <strong>the length of the bodice</strong> as <strong>“b”</strong>.</p>
-<p>I make a system of equations knowing that “a” and “b” must be in a golden ratio and their sum must be 52.5cm.</p>
+<p>Let us take <strong>the length of the skirt </strong>as <strong>“a" </strong>and <strong>the length of the bodice</strong> as <strong>“b"</strong>.</p>
+<p>I make a system of equations knowing that “a" and “b" must be in a golden ratio and their sum must be 52.5cm.</p>
 <p><strong>a = 1.62 × b (3)</strong></p>
 <p><strong>a + b = 52.5 (4)</strong></p>
 <p>Let us solve the system of equations.</p>
-<p>I put the numeric expression of <strong>“a” </strong>from equation 3 into equation 4:</p>
+<p>I put the numeric expression of <strong>“a" </strong>from equation 3 into equation 4:</p>
 <p><strong>1.62 × b + b = 52.5cm</strong></p>
 <p><strong>b = 20cm</strong></p>
-<p>And I put the found numeric expression of <strong>“b” </strong>into equation 3:</p>
+<p>And I put the found numeric expression of <strong>“b" </strong>into equation 3:</p>
 <p><strong>a = 32.5cm</strong></p>
 <p>Therefore, <strong>the length of the skirt is 32.5cm while the length of the bodice is 20cm. </strong></p>
 <p>Please note how the length of the skirt coincides with the length of the visible part of the girl's legs.&nbsp; Everything is very well-proportioned.</p>
 <p><strong>Last but not least, I need to divide the bodice into a waistband and a top part. </strong></p>
-<p>Let us take <strong>the length of the top part of the bodice </strong>as <strong>“a” </strong>and <strong>the width of the waistband</strong> as <strong>“b”</strong>.</p>
-<p>I make a system of equations knowing that “a” and “b” must be in a golden ratio and their sum must be 20cm.</p>
+<p>Let us take <strong>the length of the top part of the bodice </strong>as <strong>“a" </strong>and <strong>the width of the waistband</strong> as <strong>“b"</strong>.</p>
+<p>I make a system of equations knowing that “a" and “b" must be in a golden ratio and their sum must be 20cm.</p>
 <p><strong>a = 1.62 × b (5)</strong></p>
 <p><strong>a + b = 20 (6)</strong></p>
 <p>Let us solve the system of equations.</p>
-<p>I put the numeric expression of <strong>“a” </strong>from equation 5 into equation 6:</p>
+<p>I put the numeric expression of <strong>“a" </strong>from equation 5 into equation 6:</p>
 <p><strong>1.62 × b + b = 20cm</strong></p>
 <p><strong>b = -7.6cm</strong></p>
-<p>And I put the found numeric expression of <strong>“b” </strong>into equation 5:</p>
+<p>And I put the found numeric expression of <strong>“b" </strong>into equation 5:</p>
 <p><strong>a = 12.4cm</strong></p>
 <p>Therefore,<strong> the length of the top part of the bodice is 12.4cm and the width of the waistband is 7.6cm.</strong></p>
 <p>The width of the skirt is calculated in absolutely the same manner considering that I know the girl's shoulder to shoulder measurement. I will do this calculation during the cutting process.</p>

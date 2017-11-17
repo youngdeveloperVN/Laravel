@@ -239,7 +239,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%204_files/image004.jpg" alt=""></p>
 <p><strong>There are small holes on the second hide but only on the belly parts which I am not going to use anyway.</strong> I haven't found any scars or scratches on the hides. I check the flesh side. If you notice any scars that you don't want to see on the face of your garment, make sure to circle them with a pencil straight away so you can account for them during the cutting.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%204_files/image006.jpg" alt=""></p>
-<p><strong>It's time to arrange the pieces on the hides.</strong> If your leather is too wrinkled (particularly if it was simply folded several times and not rolled up for storage), I recommend you should carefully press it from the flesh side at the “wool” setting and without steam.</p>
+<p><strong>It's time to arrange the pieces on the hides.</strong> If your leather is too wrinkled (particularly if it was simply folded several times and not rolled up for storage), I recommend you should carefully press it from the flesh side at the “wool" setting and without steam.</p>
 <p><strong>I trace the central front piece (piece 1).</strong> I use a couple of weights to press the paper pattern down because you must never pin things to leather. I transfer all pieces onto the face of the hide to make sure I will notice any defects. It's OK if some defects get on the seam allowances but they should by no means get on the main part of the piece.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%204_files/image008.jpg" alt=""></p>
 <p><strong>I draw the second half of the central front piece in a mirrored fashion. Make sure to transfer the notches.</strong></p>
@@ -283,7 +283,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/pattern-lether1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing patern</a><br>						

@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress”</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -215,7 +215,7 @@
 <li>How to customize the size of a corset dress pattern for your client.</li>
 <li>How to cut sequin fabric with minimum princess seams and achieve a tight fit in the waist.</li>
 <li>In what order to join the pieces to achieve the best results.</li>
-<li>How to sew curved princess seams neatly on “complicated” fabric (sequin fabric).</li>
+<li>How to sew curved princess seams neatly on “complicated" fabric (sequin fabric).</li>
 <li>How to treat necklines (a new technique).</li>
 <li>How to sew a lining worthy of a premium class garment.</li>
 <li>How to sew concealed lacing panels into the dress.</li>
@@ -291,7 +291,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Introduction.">
 <meta itemprop="headline" content="Introduction.">
-<meta itemprop="description" content="It is a dress by Krikor Jabotian, a top fashion designer from Lebanon, distinguished for his outstanding gift of combining “uncombinable” in an absolutely beautiful way">
+<meta itemprop="description" content="It is a dress by Krikor Jabotian, a top fashion designer from Lebanon, distinguished for his outstanding gift of combining “uncombinable" in an absolutely beautiful way">
 <meta itemprop="articleSection" content="Premium Dress">
 <meta itemprop="keywords" content="premium dress, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -308,7 +308,7 @@
 <p><strong>I am glad to welcome you to this new sewing course dedicated to premium-class dresses. </strong>It is the result of collaboration between two authors: me, Tatiana Kozorovitsky, and my former student and now fellow seamstress Julia Trofimova.</p>
 <p><strong>And now, please take a look at the dress we are going to sew:</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Introduction_files/image002.jpg" alt=""></p>
-<p><strong>It is a dress by Krikor Jabotian, a top fashion designer from Lebanon</strong>, distinguished for his outstanding gift of combining “uncombinable” in an absolutely beautiful way.</p>
+<p><strong>It is a dress by Krikor Jabotian, a top fashion designer from Lebanon</strong>, distinguished for his outstanding gift of combining “uncombinable" in an absolutely beautiful way.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Introduction_files/image004.jpg" alt=""></p>
 <p>Sometimes, sewing a garment from materials of such different properties seems truly impossible. And our dress is just the case. Can you see it? It looks as though the girl were walking out from a cloud. The cloud effect is imitated by the abundant heavy ruffles sewn onto a skirt from very delicate mesh fabric.</p>
 <p>We decided to prepare this course to prove that you can create your own versions of dresses by the greatest fashion designers no matter how complicated they may seem! We want to show you that everything is in your hands! There is nothing impossible! You will see that the technique is not that difficult after we explain the whole sewing process step after step. We will even stick to the original palette to fully convince you that you can sew a dress based on any picture from any magazine.</p>
@@ -369,7 +369,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

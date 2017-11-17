@@ -310,8 +310,8 @@
 <p>My face fabric is a whole piece so I do everything the same way I did for the previous corset: I place the iron-on batiste over the fabric, even out cut edges and start pressing it. At first I secure the batiste on by stamping it down carefully with the iron. It is essential to use steam when pressing! Then I turn over the fused fabric and press it from the face side. I fold the fused fabric piece into half and put it aside. </p>
 <p><strong>I take the second piece of batiste </strong>used for the lining and start drawing the pieces of the corset pattern on it. </p>
 <p>There are only very light alterations of the standard pattern in my case. </p>
-<p>The client’s <strong>“bust middle” measurement</strong> is 0.8 inches smaller than that of the standard pattern. That is why I shift the central part of the front piece by 0.4 inches behind the batiste crease and outline it “as is”. </p>
-<p>Apart from this I will need to lower the neckline because <strong>the “clip” measurement</strong> of the client is 1.2 inches smaller than that of the standard pattern. </p>
+<p>The client’s <strong>“bust middle" measurement</strong> is 0.8 inches smaller than that of the standard pattern. That is why I shift the central part of the front piece by 0.4 inches behind the batiste crease and outline it “as is". </p>
+<p>Apart from this I will need to lower the neckline because <strong>the “clip" measurement</strong> of the client is 1.2 inches smaller than that of the standard pattern. </p>
 <p>Besides I also need to <strong>reduce the pattern by 0.5 inches at the back curve of the back piece going from the waistline to the bottom of the corset.</strong> </p>
 <p>&nbsp;Just like previously I lay out the patterns matching their waistlines and notches. </p>
 <p>It is also important to keep in mind that the waistline is perpendicular to the crease of the central piece of the front. </p>
@@ -320,7 +320,7 @@
 <p>You can see <strong>the alterations of the back curve on pieces 4 and 5</strong> in the picture: </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%202/Tutorial%202_files/image004.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\FINISHED\English\AK 1\mp4\Corset 1\Transcript\tut (book)_files\image344.jpg">)</p>
-<p>Then I <strong>lower the top line of the corset by 1.2 inches on each pattern piece</strong> corresponding to the “clip” measurement and preserving the shape of the top line on the standard pattern: </p>
+<p>Then I <strong>lower the top line of the corset by 1.2 inches on each pattern piece</strong> corresponding to the “clip" measurement and preserving the shape of the top line on the standard pattern: </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%202/Tutorial%202_files/image006.jpg" class="img-responsive center-block"></p>
 <p>Afterwards I put corresponding pieces of the lining material under the patterns drawn on the batiste. </p>
@@ -377,7 +377,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is shown in “combination” file.</p>
+<p>To print the sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/2.%20Corset%20with%20quilted%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Quilted Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%202/tables-corset%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Corset pattern calculation table for 10 different sizes</a><br>						

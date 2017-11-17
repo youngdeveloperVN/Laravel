@@ -278,7 +278,7 @@
 <h4>Pressing Cups.</h4>
 <p></p>
 <p>Upon being turned out the cups should be thoroughly pressed. I take the largest cup pressing mould I have. I place the cups on this form and spread them in such a way that the allowances of the upper seam lie very smooth and don’t ridge.</p>
-<p><strong>I “stamp” these seam allowances with the iron and then press them thoroughly:</strong></p>
+<p><strong>I “stamp" these seam allowances with the iron and then press them thoroughly:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2010_files/image002.jpg" class="img-responsive center-block"></p>
 <p>I believe you have noticed that I haven’t trimmed any seam allowances on the hard iron-on fabric. I haven’t done this in order to prevent the upper edge from stretching too much. I assumed that the seam allowances would be slightly seen through the face as you can see in the picture. But I also knew in advance that there would be some appliqué décor over the cup that’s why it didn’t bother me at all. On the plus side, the upper edge remains hard and its shape is well set. </p>
@@ -327,7 +327,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

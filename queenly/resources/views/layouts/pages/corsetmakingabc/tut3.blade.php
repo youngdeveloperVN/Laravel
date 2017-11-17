@@ -58,7 +58,7 @@
 						<p>&nbsp;</p>
 <p><strong>Features:</strong></p>
 <ul>
-<li>“ABC of Corset-making” is the basic course for beginners.</li>
+<li>“ABC of Corset-making" is the basic course for beginners.</li>
 <li>We learn basic sewing actions, required for corset making.</li>
 <li>We&nbsp;do not make finished products, only practice the technique.</li>
 </ul>
@@ -142,7 +142,7 @@
 <p>In this video I am going to explain you, how to topstitch correctly.</p>
 <p>Both pressed-open and pressed-flat seams can be topstitched, which means you can topstitch another seam at 1 mm distance.</p>
 <p>That’s how it looks. The same thing can be done with a pressed-flat seam. This stitch also adds extra strength that can be very important for tailoring.</p>
-<p>After making such a strengthening stitch we should normally trim the seam allowance. A special seam called “clean-finish-edge” is often used for finishing necklines.</p>
+<p>After making such a strengthening stitch we should normally trim the seam allowance. A special seam called “clean-finish-edge" is often used for finishing necklines.</p>
 <p>It is made through the following simple actions: first we stitch it together - this part will be our welt or lining - then we re-stitch it, fold over and press. As I have already mentioned, the seam allowance is trimmed and we have a fold there.</p>
 <p>You can see at what point the allowance was trimmed in the previous sample. Afterwards you should press it to reduce the thickness. This is the way to achieve a nice even piped-like edge and a clean front side.</p>
 <p>You were learning with Tatiana Kozorovitsky.</p>
@@ -157,7 +157,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/Corset_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Free Corset Sewing Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/shrug_bolero_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Bolero (Shrug) Sewing Pattern</a><br>						
 					</div>

@@ -121,7 +121,7 @@
 <div itemprop="articleBody">
 <p>In this video I would like to explain you how to make <strong>a corset pattern</strong>. </p>
 <p>The corset-theme is widely popular all over the world today, and it’s a pity that not everyone can attend my classes in person. And that is why I have created this website. Welcome to the Corset Academy. Here you will receive the knowledge and skills required for the creation of wedding dresses, evening gowns and high class haute-couture dresses. These skills and know-how’s will enable you to stand out among others. But remember that you should not focus only on one particular technique of corset garment production. There are plenty of varying techniques for the creation of wedding and evening dresses and I commit myself to teach you to use them. Upon subscribing to my newsletter you will start getting video tutorials and I will gradually guide you through the way from the basics to the know-how’s. Please don’t forget that theory should be backed up by practice. Without the practice any knowledge soon tends to melt away. You can download my video tutorials to your computer or watch them any time on my public access YouTube channel. Trust me: creating garments like this is only difficult at the first glance. I will show you that sewing a corset is a simple thing! </p>
-<p>Here are some creations made by my students who had also come to the Corset Academy believing that haute couture garments could only be produced by the “chosen” - by very exceptional people with very special gifted hands. But having acquired the necessary skills and learnt to apply them they started creating their own masterpieces. </p>
+<p>Here are some creations made by my students who had also come to the Corset Academy believing that haute couture garments could only be produced by the “chosen" - by very exceptional people with very special gifted hands. But having acquired the necessary skills and learnt to apply them they started creating their own masterpieces. </p>
 <p>
 <img src="http://corsetacademy.s3.amazonaws.com/where_to_begin/must_know/transcript/Corset%20academy.%20How%20to%20make%20a%20corset%20pattern_files/image001.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -215,7 +215,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern alteration table</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/Corset_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Free Corset Sewing Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/shrug_bolero_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Bolero (Shrug) Sewing Pattern</a><br>						

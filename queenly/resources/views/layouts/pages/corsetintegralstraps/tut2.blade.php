@@ -197,7 +197,7 @@
 							
 						<p><strong>Features: </strong></p>
 <ul>
-<li>Corset constructed in “Throw-over technique”;</li>
+<li>Corset constructed in “Throw-over technique";</li>
 <li>Cut cup with straps around the neck;</li>
 </ul>
 <p><strong>Skills you gain:</strong></p>
@@ -299,7 +299,7 @@
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%202_files/image012.jpg" class="img-responsive center-block"></strong></p>
 <p>As I sew the mock-up, I will check whether the pattern requires any adjustments or not. I will see if it all looks good or if we do need to correct something. <strong>The printable pattern that I provide you with is the final version. </strong></p>
-<p>By demonstrating the basic process of sewing a mock-up within the framework of this course I want to show you once and for all how it is done. I want you to see that despite being quite simple this process can answer many questions, such as “How do I measure a pattern?”; “How to check measurements on a pattern?”; and finally “How to alter a pattern?”. <strong>A mock-up can eliminate and answer a great number of questions!</strong></p>
+<p>By demonstrating the basic process of sewing a mock-up within the framework of this course I want to show you once and for all how it is done. I want you to see that despite being quite simple this process can answer many questions, such as “How do I measure a pattern?"; “How to check measurements on a pattern?"; and finally “How to alter a pattern?". <strong>A mock-up can eliminate and answer a great number of questions!</strong></p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -311,7 +311,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

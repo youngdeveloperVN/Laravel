@@ -282,7 +282,7 @@
 <p><strong>For sewing my dress I need:</strong></p>
 <p>&nbsp;- <strong>iron-on batiste</strong> for fusing the face and the lining;</p>
 <p>&nbsp;- <strong>hard iron-on fabric </strong>for fusing the cups;</p>
-<p>&nbsp;- <strong>Rigilene bones</strong>, both wide (0.5”) and narrow (0.3”). It’s enough to just use narrow bones for this very design;</p>
+<p>&nbsp;- <strong>Rigilene bones</strong>, both wide (0.5") and narrow (0.3"). It’s enough to just use narrow bones for this very design;</p>
 <p>&nbsp;- <strong>main fabric.</strong> I have chosen rather dense stretch satin as the main fabric. This dress can be made either with or without an additional lining. Additional lining is desirable if you use a thin material as the main fabric. However if the main fabric is dense enough and there is also an overlay of decorative fabric atop (in my case it is a lace overlay embroidered with glass beads and sequins) - then you don’t really need a lining. </p>
 <p>&nbsp;- <strong>ribbons</strong> for the lacing;</p>
 <p>&nbsp;- <strong>narrow ribbon </strong>for hanging loops;</p>
@@ -317,7 +317,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%203_files/image008.jpg" class="img-responsive center-block"></p>
 <p><strong>I start altering the standard pattern.</strong></p>
 <p>I take the final table with all calculations (Table 10). </p>
-<p><strong>I start from the “clip” measurement. </strong></p>
+<p><strong>I start from the “clip" measurement. </strong></p>
 <p>I step 1.6 inches atop from the curve, 0.5 inches - from the neckline, and 0.7 inches - on the side piece of the front. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%203_files/image010.jpg" class="img-responsive center-block"></p>
@@ -360,7 +360,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

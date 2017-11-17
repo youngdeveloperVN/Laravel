@@ -326,7 +326,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image006.jpg" class="img-responsive center-block"></p>
 <p><strong>These are all measurements involved in our calculations. </strong></p>
 <p><strong>Let us begin then.</strong> We basically do the same calculations as for any low-neck corset dress. </p>
-<p><strong>Let's start from the front half of the dress.</strong> First, I will pre-calculate the configuration of the side seam and write the values under “Back Sides 1” (column 3). </p>
+<p><strong>Let's start from the front half of the dress.</strong> First, I will pre-calculate the configuration of the side seam and write the values under “Back Sides 1" (column 3). </p>
 <p><strong>Now let's determine the configuration of the side seam.</strong> We use the first two measurements as guides.</p>
 <p><strong>Bust front measurement:</strong> 56cm on the client and 50cm on the pattern. </p>
 <p><strong>56cm – 50cm = 6cm</strong></p>
@@ -376,7 +376,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image020.jpg" class="img-responsive center-block"></p>
 <p><strong>Let’s move to the back half of the dress.</strong> </p>
-<p>The following calculations affect the lace part of the dress above the waistline. First, I will pre-calculate the configuration of the side seam and write the values under “Back Sides 1” (column 5). </p>
+<p>The following calculations affect the lace part of the dress above the waistline. First, I will pre-calculate the configuration of the side seam and write the values under “Back Sides 1" (column 5). </p>
 <p><strong>Let us begin.</strong> You will see what happens after I take into account all measurements and calculations from the table. </p>
 <p><strong>The bust front and under-bust front measurements are not involved in these calculations.</strong> I write dashes in the table.</p>
 <p><strong>Bust circumference:</strong> 99cm on the client and 94cm on the pattern.</p>
@@ -414,7 +414,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

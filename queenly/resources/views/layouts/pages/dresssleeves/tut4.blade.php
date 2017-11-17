@@ -153,7 +153,7 @@
 <ul>
 <li>Advanced pattern drafting.</li>
 <li>The right order of combining different parts of the dress.</li>
-<li>Sewing together curved reliefs of “difficult” materials (3 layers: basis, chiffon and lace).</li>
+<li>Sewing together curved reliefs of “difficult" materials (3 layers: basis, chiffon and lace).</li>
 <li>The right boning placement for complex curved garment.</li>
 <li>Fast chiffon train cutting method.</li>
 <li>Quilting cup in the dress with straps.</li>
@@ -232,7 +232,7 @@
 <p>Only then can you start calculating adjustments to the standard pattern based on your client's measurements.</p>
 <p>I believe there is no need in another step-by-step demonstration because you can find it in the previous chapter.</p>
 <p>I have already calculated all adjustments values and recorded them in the table and now I can start applying them to the standard paper pattern of our dress with shoulder straps.</p>
-<p><strong>I start from the side front piece.</strong> I draw the major circumference lines and apply adjustments based on the calculated values written in table 1 under “Adjusted Side Seam Front”: I remove 1cm at the bust line level, leave it as is at the under-bust level, and remove 1cm in the waist, in the stomach (12cm below the waist), and in the hips.</p>
+<p><strong>I start from the side front piece.</strong> I draw the major circumference lines and apply adjustments based on the calculated values written in table 1 under “Adjusted Side Seam Front": I remove 1cm at the bust line level, leave it as is at the under-bust level, and remove 1cm in the waist, in the stomach (12cm below the waist), and in the hips.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%203_files/image002.jpg" alt=""></p>
 <p><strong>I re-draw the side seam line using as a template the side front piece of the pattern after which I made the mock-up:</strong> first I draw the section from the waistline to the hip line, then I turn the pattern about the point on the waistline, prolong the side seam line up to the under-bust line, turn the pattern about the point on the under-bust line, and prolong the side seam line up to the top edge of the piece.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%203_files/image004.jpg" alt=""></p>
@@ -274,7 +274,7 @@
 <p><strong>I move on to the side back piece. </strong>I need to change the configuration and the length of the side seam line and apply alterations to the princess seam.</p>
 <p><strong>You should be able to align the side seam lines of the front and the back pieces perfectly.</strong> I have noticed a minor difference in their configuration and adjusted it before applying alterations to the side back piece. It is a very small adjustment: I simply made it a little narrower in the waist. You can do the same if you wish.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%203_files/image040.jpg" alt=""></p>
-<p>I shift <strong>the side seam line </strong>as indicated by the calculated values recorded under “Adjusted Side Seam Back”: 2.5cm inwards at the bust line level, in the stomach and in the ships, and 1.5cm inwards at the under-bust level.</p>
+<p>I shift <strong>the side seam line </strong>as indicated by the calculated values recorded under “Adjusted Side Seam Back": 2.5cm inwards at the bust line level, in the stomach and in the ships, and 1.5cm inwards at the under-bust level.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%203_files/image042.jpg" alt=""></p>
 <p><strong>I cut the adjusted side front piece along the side seam line.</strong> It will help me repeat the same length and configuration for the side seam line of the back piece.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%203_files/image044.jpg" alt=""></p>
@@ -311,7 +311,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

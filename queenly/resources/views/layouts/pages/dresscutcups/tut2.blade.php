@@ -412,10 +412,10 @@
 <p>I have removed 0.2 inches <strong>along the bust-line</strong> at the front and 1 inch <strong>along the bust-line</strong> at the back.</p>
 <p><strong>Now I need to even out the side seam for the under-bust line. </strong>There is quite a significant dispersion of values here. I need to remove 0.2 inches at the front and 1.4 inches at the back.</p>
 <p>Therefore the difference between the values along the bust-line and the under-bust line is as follows:</p>
-<p> - at the front: 0.2” – 0.2” = 0”;</p>
-<p> - at the back: 1”– 1.4” = -0.4”.</p>
+<p> - at the front: 0.2" – 0.2" = 0";</p>
+<p> - at the back: 1"– 1.4" = -0.4".</p>
 <p>This means that side seams of the front and back at the area between the bust-line and the under-bust line are going to have unlike inclinations, i.e. diverse configurations. It will then be very hard to match these pieces and join them together. Inclinations of these side seams need to be evened out.</p>
-<p>In other words, I need to calculate suitable values of “x” and “y” instead of the values of -0.4” and -1.4” along the under-bust line (line 5) to make the side seams of the front and back have the same inclination or an identical configuration.</p>
+<p>In other words, I need to calculate suitable values of “x" and “y" instead of the values of -0.4" and -1.4" along the under-bust line (line 5) to make the side seams of the front and back have the same inclination or an identical configuration.</p>
 <p><strong>I even out side seams using my formula:</strong></p>
 <p><strong>First of all I draw a separate table:</strong></p>
 <p></p>
@@ -479,14 +479,14 @@
 </tbody></table>
 </div>
 <p><strong>Along bust-line:</strong></p>
-<p> - front – minus 0.2” <strong>(a);</strong></p>
-<p> - back – minus 1” <strong>(b);</strong></p>
-<p> - bust middle – minus 0.4” <strong>(e).</strong></p>
+<p> - front – minus 0.2" <strong>(a);</strong></p>
+<p> - back – minus 1" <strong>(b);</strong></p>
+<p> - bust middle – minus 0.4" <strong>(e).</strong></p>
 <p>All these values have been calculated previously.</p>
 <p><strong>Along under-bust line:</strong></p>
 <p> - variables <strong>X</strong> and <strong>Y</strong> are gain values along the side seams of the front and back;</p>
-<p>- bust middle – minus 0.5” <strong>(e);</strong></p>
-<p> - under-bust circumference after Kate’s measurements and after the pattern correspondingly: 29.1” <strong>(c)</strong> and 33.1” <strong>(d).</strong></p>
+<p>- bust middle – minus 0.5" <strong>(e);</strong></p>
+<p> - under-bust circumference after Kate’s measurements and after the pattern correspondingly: 29.1" <strong>(c)</strong> and 33.1" <strong>(d).</strong></p>
 <p><strong>As a next step I substitute existing values from Table 2 into the formula:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%202_files/image001.png" class="img-responsive center-block" alt="Description: E:\Corset Academy\FINISHED\English\AK 1\mp4\Corset 1\Transcript\tut (book)_files\image748.png"></p>
@@ -915,17 +915,17 @@
 <p>Now I am going to schematically draw the location of the new side seam on the front and back.</p>
 <p>All values are taken from Table 10.</p>
 <p><strong>Side seam at the front:</strong></p>
-<p> - I reduce the pattern by 0.2” along the bust-line;</p>
-<p> - I reduce the pattern by 0.4” along the under-bust line;</p>
+<p> - I reduce the pattern by 0.2" along the bust-line;</p>
+<p> - I reduce the pattern by 0.4" along the under-bust line;</p>
 <p> - there are no alterations along the waistline (-0);</p>
-<p> - I expand the pattern by 0.2” along the stomach;</p>
-<p> - I expand the pattern by 0.2” along the hip.</p>
+<p> - I expand the pattern by 0.2" along the stomach;</p>
+<p> - I expand the pattern by 0.2" along the hip.</p>
 <p><strong>Side seam at the back:</strong></p>
-<p> - I reduce the pattern by 1” along the bust-line;</p>
-<p> - I reduce the pattern by 1.2” along the under-bust line;</p>
-<p> - I reduce the pattern by 0.8” along the waistline;</p>
-<p> - I reduce the pattern by 0.6” along the stomach;</p>
-<p> - I reduce the pattern by 0.6” along the hip.</p>
+<p> - I reduce the pattern by 1" along the bust-line;</p>
+<p> - I reduce the pattern by 1.2" along the under-bust line;</p>
+<p> - I reduce the pattern by 0.8" along the waistline;</p>
+<p> - I reduce the pattern by 0.6" along the stomach;</p>
+<p> - I reduce the pattern by 0.6" along the hip.</p>
 <p><strong>That is what the side seam of the front and back looks like (schematically):</strong></p>
 <p></p>
 <p>
@@ -933,8 +933,8 @@
 <p>You can notice even from this schematic drawing that the side seams are symmetrical and have the same configuration.</p>
 <p>Let me take the area of the side seam between the under-bust line and the waistline as an example.</p>
 <p>The difference of gain values between these lines is:</p>
-<p> - at the front: 0.4” – 0” = 0.4”;</p>
-<p> - at the back: 1.2” – 0.8” = 0.4”.</p>
+<p> - at the front: 0.4" – 0" = 0.4";</p>
+<p> - at the back: 1.2" – 0.8" = 0.4".</p>
 <p>Therefore the side seams of the front and back in the area between the under-bust line and waistline are going to have the same inclination, i.e. configuration. It is going to be very easy to match and join these pieces together. <strong>I have evened out inclinations of the side seams.</strong></p>
 <p>There is the same result after checking other areas of the pattern: the side seams of the front and back have the same inclination.</p>
 <p>Looking ahead, I would like to demonstrate you how correct my calculations and my formula really are.</p>
@@ -961,7 +961,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

@@ -153,7 +153,7 @@
 <ul>
 <li>Advanced pattern drafting.</li>
 <li>The right order of combining different parts of the dress.</li>
-<li>Sewing together curved reliefs of “difficult” materials (3 layers: basis, chiffon and lace).</li>
+<li>Sewing together curved reliefs of “difficult" materials (3 layers: basis, chiffon and lace).</li>
 <li>The right boning placement for complex curved garment.</li>
 <li>Fast chiffon train cutting method.</li>
 <li>Quilting cup in the dress with straps.</li>
@@ -292,7 +292,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image098.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image100.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image102.jpg" alt=""></p>
-<p>Instead of re-pinning that princess seam, I decided to leave it as it was. And guess what happened? <strong>The side cup piece got eased in!</strong> I couldn't fix it by pressing because the fabric is synthetic. As the result, the side piece looks “wavy”.</p>
+<p>Instead of re-pinning that princess seam, I decided to leave it as it was. And guess what happened? <strong>The side cup piece got eased in!</strong> I couldn't fix it by pressing because the fabric is synthetic. As the result, the side piece looks “wavy".</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image103.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image105.jpg" alt=""></p>
 <p><strong>Besides, if you take a closer look at the princess seam line, you will notice that it resembles a zig zag rather than an even line.</strong></p>
@@ -333,7 +333,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

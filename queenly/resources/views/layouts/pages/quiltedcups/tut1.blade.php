@@ -320,7 +320,7 @@
 <p>&nbsp;- central part of the back - piece 5. </p>
 <p>Calculating values for a non-standard version of this corset pattern for a client can be done exactly the same way as described for the previous corset sewn in the simplified technique. </p>
 <p><strong>The difference is that there is an additional curve on this corset</strong> which allows for greater freedom of possible pattern alteration. </p>
-<p>It is for example much easier to alter the “under-bust circumference” measurement in a corset pattern like this. Altering this measurement usually triggers many questions. That’s why if there is still something you haven’t quite grasped about the “under-bust circumference” measurement of the previous corset - you will certainly solve any issues when altering the pattern of this corset and there will be no questions left! </p>
+<p>It is for example much easier to alter the “under-bust circumference" measurement in a corset pattern like this. Altering this measurement usually triggers many questions. That’s why if there is still something you haven’t quite grasped about the “under-bust circumference" measurement of the previous corset - you will certainly solve any issues when altering the pattern of this corset and there will be no questions left! </p>
 <h4>Tools and Materials Required for Corset Tailoring: </h4>
 <p>I have made a collage of all things necessary for making a corset and took a picture of it.<br>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%202/tut_1_files/image004.jpg" class="img-responsive center-block"></p>
@@ -330,7 +330,7 @@
 <p>&nbsp;- for the lining I am going to use crepe-satin. </p>
 <p>Some <strong>fine iron-on material </strong>such as batiste for face and lining. </p>
 <p><strong>Dense iron-on fabric </strong>for additional support in the cup area. I am using fabric produced by the German brand, Hansel. I don’t know what kinds of materials are available in your region so I will simply name some important requirements. The material should be dense like stiffening fabric, it should not stretch either along the grain of fabric or along the shoot. Its fusible properties are not as important because the additional details that I’m going to cut out of this fabric can be secured by machine-stitching. However it is very important that the material preserves its shape and durability properties after pressing. </p>
-<p><strong>Rigilene bones: </strong>both wide (0.5”) and narrow (0.3”).&nbsp; </p>
+<p><strong>Rigilene bones: </strong>both wide (0.5") and narrow (0.3").&nbsp; </p>
 <p>Four <strong>plastic bones</strong> that will be used for securing the lacing. </p>
 <p><strong>Measuring tape.</strong></p>
 <p><strong>Scissors.</strong></p>
@@ -405,7 +405,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is shown in “combination” file.</p>
+<p>To print the sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/2.%20Corset%20with%20quilted%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Quilted Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%202/tables-corset%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Corset pattern calculation table for 10 different sizes</a><br>						

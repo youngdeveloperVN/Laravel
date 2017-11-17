@@ -33,19 +33,10 @@ addIdToUl = function() {
 			var folders = getMethodController(entry);
 			
 			arrayCategories = arrayCategories + generateCategory(folders, total);
-			
-			
-			
 			for (var i = 0; i < itemList.length; i++) {
 				var item  = itemList.get(i);
-				
-			
-				
 				var hrefNew = '/' + entry.toLowerCase().replace('id', '') + '/' + 'tut' + (i + 1); 
-				
 				$(item).attr('href', hrefNew);
-				
-				
 				//console.log($(item).attr('href'));
 			}
 		} else {
@@ -89,11 +80,14 @@ generateCategory= function(folder, total){
 
 
 
-createFolder = function(nameFolder){
-	
-	
+refreshUI = function(){
+	$('a.faq-tab').parent().css("display", "none");
+	$('a#diploma').parent().css("display", "none");
 }
+
+
 
 $(document).ready(function() {
 	addIdToUl();
+	refreshUI();
 });

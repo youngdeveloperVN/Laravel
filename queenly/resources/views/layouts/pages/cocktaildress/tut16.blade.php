@@ -290,7 +290,7 @@
 <p><strong>Let's prepare the third stripe.</strong></p>
 <p>I take the rest of the fabric and tear a 32cm wide strap of required length. Then I fold it in half lengthwise, stitch it up along the long edge, serge it, and secure it in place with the help of fusible web just like before.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%2016_files/image066.jpg" alt=""></p>
-<p>Now I will put it all on the dress-form and add the same kind of “drapes” in the area from the hip line to the under-bust line. The area which starts at the hip line is particularly curvy, so you need to arrange the stripes with the garment on the client. And in our case the dress-form imitates the client's body.</p>
+<p>Now I will put it all on the dress-form and add the same kind of “drapes" in the area from the hip line to the under-bust line. The area which starts at the hip line is particularly curvy, so you need to arrange the stripes with the garment on the client. And in our case the dress-form imitates the client's body.</p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -302,7 +302,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Dress sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the file, press “print” and choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is shown in the course.</p>
+<p>To print the sewing patterns open the file, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/patterns-coctail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the cocktail dress</a><br>						
 					</div>
 

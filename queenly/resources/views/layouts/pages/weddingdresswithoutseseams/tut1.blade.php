@@ -287,7 +287,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Bell Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/model.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The Model</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/patterns-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

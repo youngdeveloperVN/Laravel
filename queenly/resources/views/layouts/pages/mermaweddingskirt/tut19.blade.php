@@ -254,7 +254,7 @@
 <p><strong>Now I need to insert the lining in the skirt, face side out. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Tutorial%2018.files/image045.jpg" alt=""></p>
 <p><strong>The skirt will be sewn right over the bottom edge of the bodice together with the lining. </strong></p>
-<p><strong>Detailed guidelines to creating a custom dress-form can be found in “Wedding Dresses. Gown with Bare-Skin Effect” by the Corset Academy. </strong></p>
+<p><strong>Detailed guidelines to creating a custom dress-form can be found in “Wedding Dresses. Gown with Bare-Skin Effect" by the Corset Academy. </strong></p>
 <p>First I will secure the skirt and the top part of the dress on the dress-form and then I will join them on the sewing machine and decorate the joint so as to conceal it.</p>
 <p><strong>It is very important not to let any top scales get onto the seam allowance of the joining seam. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Tutorial%2018.files/image047.jpg" alt=""></p>
@@ -269,7 +269,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”.</p>
+<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
 <p>In each file the pattern is divided to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%201.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Skirt Pattern 1</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern 2</a><br>						

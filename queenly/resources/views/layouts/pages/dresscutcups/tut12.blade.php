@@ -304,12 +304,12 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2012_files/image014.jpg" class="img-responsive center-block"></p>
-<p>First of all I look for the waistline notch. The notch at the beginning of the zipper is 1.6 inches below it. I undo the zipper and place its corresponding side at the notch where it should begin. The seam allowance at the centre of the back is 0.8 inches. I fold the upper end of the zipper into a “hut-shape” to get it out of the way, and turn it down. I use a standard presser foot here. </p>
+<p>First of all I look for the waistline notch. The notch at the beginning of the zipper is 1.6 inches below it. I undo the zipper and place its corresponding side at the notch where it should begin. The seam allowance at the centre of the back is 0.8 inches. I fold the upper end of the zipper into a “hut-shape" to get it out of the way, and turn it down. I use a standard presser foot here. </p>
 <p><strong>I sew the zipper into place with just a basic catch seam for now:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2012_files/image016.jpg" class="img-responsive center-block"></p>
 <p>Thanks to the fact I secure the zipper in its place with a regular machine stitch - it will never go askew. Moreover, this will reduce the fullness on the fabric when I switch from a regular presser foot to a special foot for attaching concealed zippers.</p>
-<p>I find the point where the zipper should begin on the second piece of the back. I turn the stitchwork around and <strong>sew-on the other side of the concealed zipper</strong> using the notches as guiding lines and folding its end into a “hut” like before.</p>
+<p>I find the point where the zipper should begin on the second piece of the back. I turn the stitchwork around and <strong>sew-on the other side of the concealed zipper</strong> using the notches as guiding lines and folding its end into a “hut" like before.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%2012_files/image018.jpg" class="img-responsive center-block"></p>
 <p>At this stage the hardest part of the process of attaching a concealed zipper is over for me. Now it is fixed in the right place. Upon zipping it up I check how well the pieces match.</p>
@@ -363,7 +363,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

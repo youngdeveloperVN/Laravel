@@ -240,7 +240,7 @@
 <p>You can calculate your expected profit keeping in mind that the cost of production must not exceed 20% from the final price.</p>
 <p>A bodice and a full skirt like these can be made within 4-5 days of work at quite moderate pace.</p>
 <p>As you can see, you can have a decent income if you make 3-4 similar outfits a month.</p>
-<p>Of course, the next thing you need to do is find your target audience! “The Basics of Working in Sewing Industry” by the Corset Academy will be very helpful in that regard.</p>
+<p>Of course, the next thing you need to do is find your target audience! “The Basics of Working in Sewing Industry" by the Corset Academy will be very helpful in that regard.</p>
 <p><strong>Finally, I am happy to share some pictures of the finished garment. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/princess%20wedding%20skirt/Tutorial%2012.files/image002.jpg" alt=""></p>
 

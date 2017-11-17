@@ -184,7 +184,7 @@
 <li>Strong lacing on hanging loops.</li>
 <li>Advanced decoration techniques.</li>
 <li>Peculiarities of long distance sewing.</li>
-<li>How to make a “virtual” fit test.</li>
+<li>How to make a “virtual" fit test.</li>
 <li>How to use a mannequin for fit test.</li>
 </ul>
 <p><strong>Where to use:</strong></p>
@@ -423,7 +423,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

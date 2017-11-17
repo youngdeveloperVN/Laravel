@@ -948,9 +948,9 @@
 			<div role="tabpanel" class="tab-pane" id="pattern">
 				<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF
 					format.</p>
-				<p>To print sewing patterns open the files, press “print” and choose
-					“print in actual size”. Then connect the part the way it shown in
-					“combination” file.</p>
+				<p>To print sewing patterns open the files, press "print" and choose
+					"print in actual size". Then connect the part the way it shown in
+					"combination" file.</p>
 				<a
 					href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/4.%20Bodysuit%20with%20corset%20cups.zip"
 					target="_blank" class=""><img

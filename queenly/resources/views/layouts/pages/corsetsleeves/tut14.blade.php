@@ -378,7 +378,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

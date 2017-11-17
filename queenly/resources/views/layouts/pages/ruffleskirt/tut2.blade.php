@@ -217,7 +217,7 @@
 <div itemprop="articleBody">
 <h1>Tutorial 1. Taking the Key Measurements.</h1>
 <p><strong>The work starts from taking measurements. </strong>Measurements are the backbone in our business.</p>
-<p><strong>You can see the top part of the dress in the picture below. </strong>It is a low-back dress sewn in the technique described in “Low-Back Wedding Dresses” by the Corset Academy. It is a great book, highly recommended.</p>
+<p><strong>You can see the top part of the dress in the picture below. </strong>It is a low-back dress sewn in the technique described in “Low-Back Wedding Dresses" by the Corset Academy. It is a great book, highly recommended.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%201.files/image002.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%201.files/image004.jpg" alt=""></p>
 <p><strong>I already know all measurements required for sewing the top part of the dress but I still need to take some additional measurements for the skirt. </strong></p>
@@ -243,7 +243,7 @@
 <p><strong>Needless to say, I need to know her Waist Circumference, too. </strong></p>
 <p>This measurement is one of the key compulsory measurements required for sewing the top part of the dress and I have already taken it. <strong>My client’s Waist Circumference is 65cm. </strong></p>
 <p><strong>Next, I need to take measurements off the petticoat itself. </strong>I usually buy wholesale inexpensive petticoats with five or seven hoops. I prefer petticoats with seven hoops because of the bigger bottom diameter (usually, around 3m). If I need fewer hoops for a particular skirt, I can always trim away the excess and lengthen the top of the petticoat.</p>
-<p>If you have read “Full Skirt with Elastic Waistband” by the Corset Academy, then you probably remember that I moved the hoops higher up when adjusting the factory-made petticoat to increase the fullness of the skirt in the waist.</p>
+<p>If you have read “Full Skirt with Elastic Waistband" by the Corset Academy, then you probably remember that I moved the hoops higher up when adjusting the factory-made petticoat to increase the fullness of the skirt in the waist.</p>
 <p><strong>Petticoat hoops in a fishtail skirt, on the contrary, need to be lowered as much as possible. And you must always account for this when taking measurements. </strong>I would also like to share two methods of taking measurements off a petticoat put on the bride or on the dress-form.</p>
 <p><strong>Method 1, with the petticoat on the client. </strong>The bride must be wearing high-heel shoes. I help her put on the factory-made petticoat and then pull it down so as to have its bottom edge positioned 10-15cm above floor level. <strong>I measure the distance from the bottom hoop to the floor. It is 13cm. </strong></p>
 <p><strong>Method 2, with the petticoat on the dress-form.</strong> I have already adjusted my dress-form to my client’s height. After putting the petticoat on the dress-form, I pull it down just like in the previous case to have its bottom edge positioned 10-15cm above the floor. <strong>I measure the distance from the bottom hoop to the floor. It is 13cm. </strong></p>

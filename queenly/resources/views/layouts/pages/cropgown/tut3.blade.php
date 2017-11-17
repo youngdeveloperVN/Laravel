@@ -184,7 +184,7 @@
 <li>Strong lacing on hanging loops.</li>
 <li>Advanced decoration techniques.</li>
 <li>Peculiarities of long distance sewing.</li>
-<li>How to make a “virtual” fit test.</li>
+<li>How to make a “virtual" fit test.</li>
 <li>How to use a mannequin for fit test.</li>
 </ul>
 <p><strong>Where to use:</strong></p>
@@ -265,7 +265,7 @@
 <p><strong>Pyrography can be used for lots of things. </strong></p>
 <p><strong>It is hardly possible to name all situations when it comes in handy in wedding fashion, for example. </strong>Doing pyrography on fabric allows you to create 3D flowers, 3D appliqué compositions, various ruffles, and other decorative elements. You can burn patterns and ornaments on fabric − in different colours, too. You can imitate lace fabric. Nothing will limit your creativity if you master this technique!</p>
 <p><strong>But it is my duty to warn you against non-professionalism! The look of amateurish pyrography works on the Internet leaves much to be desired. </strong>Of course, there are true masterpieces made by talented artisans but those are very rare! And the majority of works widely exposed on various websites are obviously amateurish. Take a closer look and you will notice uneven lines, lack of symmetry, and other nuances that make it look messy. It is, of course, tedious work but it is not done professionally!</p>
-<p><strong>Such examples of pyrography on fabric are mainly represented by DIY interior objects which are very popular today. They are basic things like</strong> table napkins, tablecloths, cookies baskets, or (at the very most) separate motifs on kitchen curtains or decorative curtain borders. And you can notice impatience, non-professionalism, and plain untidiness even behind these simplest things. Doing pyrography on fabric does not take long at all: you can easily decorate a kilometer of curtain trim in one evening. And so whenever I see those works, I really want to ask the person who made it: “Why did you have to hurry so much? Why could you not invest just a little more time in it or make less but with much higher quality!”</p>
+<p><strong>Such examples of pyrography on fabric are mainly represented by DIY interior objects which are very popular today. They are basic things like</strong> table napkins, tablecloths, cookies baskets, or (at the very most) separate motifs on kitchen curtains or decorative curtain borders. And you can notice impatience, non-professionalism, and plain untidiness even behind these simplest things. Doing pyrography on fabric does not take long at all: you can easily decorate a kilometer of curtain trim in one evening. And so whenever I see those works, I really want to ask the person who made it: “Why did you have to hurry so much? Why could you not invest just a little more time in it or make less but with much higher quality!"</p>
 <p><strong>I am always for thoroughness! </strong>And that is why I don’t like the look of certain works I see on the Internet. They don’t inspire me to do the same! I don’t want to see a single trace of non-professionalism or amateurishness in my garments.</p>
 <p>For this very reason, I did not feel like making something primitive when I was thinking over a lace pattern for the top. I wanted to find a golden mean, something not too hard and yet not too easy, and I decided to do simple operations but on multiple layers of fabric.</p>
 <p><strong>I will show you how to make ajour lace fabric. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
@@ -299,7 +299,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

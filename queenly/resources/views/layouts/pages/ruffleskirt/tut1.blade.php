@@ -223,7 +223,7 @@
 <p>- It must be appropriate for different age groups.</p>
 <p>After analyzing a wide range of wedding dresses, relying on my own and my students’ experience, <strong>I decided that an elegant fishtail wedding dress is one of the most sought-after types and meets all the above-mentioned criteria. &nbsp;</strong></p>
 <p><strong>The fishtail skirt is particularly popular among brides between 20 and 26 years. </strong>Most of them are self-confident girls, rather tall, slender, and well-built.</p>
-<p><strong>They say a firm “no” to the princess wedding dress </strong>and don’t want their dress to have a full skirt.</p>
+<p><strong>They say a firm “no" to the princess wedding dress </strong>and don’t want their dress to have a full skirt.</p>
 <p><strong>These girls want to demonstrate their beautiful curves on the one hand and preserve the classic image of a princess-bride on the other hand! </strong></p>
 <p>For the same reason, <strong>most of them order their wedding dresses in white </strong>or, a little less often, in ivory.</p>
 <p><strong>The wedding dress must have a train </strong>and the longer the better.</p>

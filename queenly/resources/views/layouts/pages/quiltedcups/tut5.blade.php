@@ -430,7 +430,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%202/Tutorial%205_files/image044.jpg" class="img-responsive center-block"></p>
 <p>The cups are embossed and their shape corresponds to the shape of the corset.</p>
-<p><strong>The corset has more volume thanks to the fullness along its top; and its “lugs” look inward:</strong></p>
+<p><strong>The corset has more volume thanks to the fullness along its top; and its “lugs" look inward:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%202/Tutorial%205_files/image046.jpg" class="img-responsive center-block"></p>
 <p>This way I achieve good fitting of the corset to the chest.</p>
@@ -449,7 +449,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%202/Tutorial%205_files/image052.jpg" class="img-responsive center-block"></p>
 <p>If there is a deep enough vent that goes up to the under-bust on the front of the corset, then this dart will get re-distributed and pass onto the cup. In this case good fitting to the bust should be achieved in some other manner.</p>
 <p>However if the corset is whole like in my case there is nowhere to put this extra fabric which is why I make a dart. As a result there is a kind of a hollow formed between the corset cups, i.e. there is also better fitting at the in-between area of the bust. </p>
-<p><strong>It rules out the possibility of getting one of the main corset defects - this “buldged chest” effect. </strong>I receive very many letters asking how to eliminate this defect. That is why I have gone into so much detail concerning this issue. </p>
+<p><strong>It rules out the possibility of getting one of the main corset defects - this “buldged chest" effect. </strong>I receive very many letters asking how to eliminate this defect. That is why I have gone into so much detail concerning this issue. </p>
 <p>The dart I have made fully removes this fault and makes the corset look natural.</p>
 <p><strong>Then I cut the dart apart: </strong></p>
 <p>
@@ -470,7 +470,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is shown in “combination” file.</p>
+<p>To print the sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/2.%20Corset%20with%20quilted%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Quilted Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%202/tables-corset%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Corset pattern calculation table for 10 different sizes</a><br>						

@@ -116,7 +116,7 @@
 <div itemprop="articleBody">
 <p>In this video I would like to demonstrate you how to make detachable bars used for fit tests.</p>
 <p>Everyone knows that a corset is hard to try on especially when the garment hasn’t been finished yet. The main reason here is the lack of lacing which is still missing that makes it hard to perform a very precise fit test. You need to check how tight the garment sits, how correct the tailoring and the pattern size are. It is nearly impossible to hold together the back of the corset with pins because they won’t be able to resist the tightness and will end up breaking. That is why I came to the idea of making temporary detachable bars.</p>
-<p>The color of the bars makes no difference. When I’m making a fit test of a black dress using white, orange or red bars my clients often joke asking “Is it going to stay this way?” But you simply cannot do without such a simple unsophisticated tool!</p>
+<p>The color of the bars makes no difference. When I’m making a fit test of a black dress using white, orange or red bars my clients often joke asking “Is it going to stay this way?" But you simply cannot do without such a simple unsophisticated tool!</p>
 <p>How do I make these bars? I normally chose the most basic fabric; in this case it is crepe-satin. Then I tear off two straps of iron-on batiste and glue them onto the fabric - each strap is 4 inch wide and its length equals to the length of a ready bar.&nbsp; I prepare four wide Rigilene bones and tape their ends with some sticky tape.</p>
 <p>And then I tear or cut off straps of glued fabric, bend them precisely in half and press their crease line from the face side. Afterwards I unfold each strap and sew on the first Rigilene bone with two parallel seams from the batiste side right along the central crease. Next I sew on the second parallel Rigilene bone.</p>
 <p>This is what the piece looks like from the front.</p>
@@ -143,7 +143,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/Corset_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Free Corset Sewing Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/shrug_bolero_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Bolero (Shrug) Sewing Pattern</a><br>						
 					</div>

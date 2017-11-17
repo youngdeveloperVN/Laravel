@@ -1352,7 +1352,7 @@
 						<li><a
 							href="https://corsetacademy.net/tutorial-40-adding-an-expander-to-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 40.
-								Adding an “Expander” to the Petticoat.</a></li>
+								Adding an "Expander" to the Petticoat.</a></li>
 						<li><a
 							href="https://corsetacademy.net/tutorial-41-conclusion-material-consumption/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 41.

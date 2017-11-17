@@ -327,7 +327,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

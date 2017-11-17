@@ -197,7 +197,7 @@
 							
 						<p><strong>Features: </strong></p>
 <ul>
-<li>Corset constructed in “Throw-over technique”;</li>
+<li>Corset constructed in “Throw-over technique";</li>
 <li>Cut cup with straps around the neck;</li>
 </ul>
 <p><strong>Skills you gain:</strong></p>
@@ -289,7 +289,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%205_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>Our mock-up will be of great help to us. </strong>You can imagine your client by looking at the mock-up or at her photograph as a guide. By looking at a picture of your client, at her measurements, and at the mock-up you will be able to see what kind of alterations should be applied to the measurements of the cups. It might seem difficult at first but it really isn’t when you have a mock-up in front of your eyes!</p>
-<p>What concerns my particular case, the client’s measurements almost fully coincide with those on the pattern. Some of them differ by as little as 1-2cm and others are identical. One of the peculiarities of my client’s build is a relatively small bust. It is not as full and round as the cups of the mock-up that I stuffed with padding polyester. I’m sure my client would need thick push-up pads to fill cups like these with “body”. But in that case the upper edge of the cups would most likely start sticking out making it obvious there is some empty space in-between. </p>
+<p>What concerns my particular case, the client’s measurements almost fully coincide with those on the pattern. Some of them differ by as little as 1-2cm and others are identical. One of the peculiarities of my client’s build is a relatively small bust. It is not as full and round as the cups of the mock-up that I stuffed with padding polyester. I’m sure my client would need thick push-up pads to fill cups like these with “body". But in that case the upper edge of the cups would most likely start sticking out making it obvious there is some empty space in-between. </p>
 <p><strong>First of all I want to straighten the princess seams of the cups and remove extra fullness. </strong>There’s a very simple way of doing it! </p>
 <p><strong>I simply straighten the pattern by drawing a straight line on both cup pieces that goes from the top down to the bust line notch. </strong></p>
 <p>
@@ -299,7 +299,7 @@
 <p><strong>I have straightened the princess seams on the mock-up by pinning them.&nbsp; As you can see, the excessive fullness is gone.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%205_files/image010.jpg" class="img-responsive center-block"></p>
-<p><strong>You probably have a reasonable question: “Why make such full cups on a small corset like this?”</strong> </p>
+<p><strong>You probably have a reasonable question: “Why make such full cups on a small corset like this?"</strong> </p>
 <p><strong>I provide you with a multi-purpose pattern for all occasions! </strong>If you need to adjust this pattern for a full-breasted woman, you won’t need to worry about the fullness. Removing is always easier than adding. Think of it this way: if your client has a larger-sized full bust, you won’t have to change these princess seams. You will be able to tell by looking at the mock-up. </p>
 <p><strong>I will treat the under-bust, waist and stomach circumferences according to the traditional method. </strong></p>
 <p><strong>The distance from the side seam to the cup along the bust line is normally around 5-6cm. </strong>This distance is quite obvious on the mock-up and you can tell how it would change if you added, let’s say, 3cm to the side seam. If you find that it goes well beyond 5-6cm, then you will know the side cup piece should be made bigger so as to move it closer to the side seam and even out the distance. </p>
@@ -383,7 +383,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

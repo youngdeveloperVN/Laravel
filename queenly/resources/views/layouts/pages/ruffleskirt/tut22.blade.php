@@ -245,7 +245,7 @@
 <p>You can calculate your expected profit bearing in mind that the cost of production must not exceed 20% from the final price of the garment.</p>
 <p>A wedding dress like these can be made within 5-6 days of work at moderate pace.</p>
 <p><strong>As you can see, you can have a decent income if you make 3-4 similar outfits a month. </strong></p>
-<p>Of course, the next thing you need to do is find your target audience! “The Basics of Working in Sewing Industry” by the Corset Academy will be very helpful in that regard</p>
+<p>Of course, the next thing you need to do is find your target audience! “The Basics of Working in Sewing Industry" by the Corset Academy will be very helpful in that regard</p>
 <p><strong>In conclusion, let me give you some handy tips to increase the price of your garments. </strong></p>
 <p><strong>Firstly, </strong>a low back will automatically add to the price of any dress because it is very hard to find a beautiful ready-made low-back dress with the bare-skin effect.</p>
 <p><strong>Secondly,</strong> a full skirt with beautiful ruffles is always in high demand.</p>
@@ -254,7 +254,7 @@
 <p>All these details will not require serious additional investments in time or in materials and yet they may increase the price of your dress by at least 10-15%.</p>
 <p>I want you to understand that good wages in the world of wedding fashion can only be guaranteed by a professional approach to work!</p>
 <p><strong>And this is exactly why the key goal of this book, as well as all other courses by the Corset Academy, is to teach you how to sew high-quality sought-after garments which will allow you to stand out among the rest and make a living from sewing. </strong></p>
-<p><strong>Let me share my favorite quote with you: </strong>“Why walk the long ways of trial and error by foot, making stops here and there, getting bruises and bumps, when you can simply buy a plane ticket and fly straight to the destination point!” My dear fellow dressmakers, I urge you to take this plane ticket and fly toward the fulfillment of your goals and aspirations!</p>
+<p><strong>Let me share my favorite quote with you: </strong>“Why walk the long ways of trial and error by foot, making stops here and there, getting bruises and bumps, when you can simply buy a plane ticket and fly straight to the destination point!" My dear fellow dressmakers, I urge you to take this plane ticket and fly toward the fulfillment of your goals and aspirations!</p>
 <p>It is my big hope that this new book will help you on your way!</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%2021.files/image002.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%2021.files/image004.jpg" alt=""></p>

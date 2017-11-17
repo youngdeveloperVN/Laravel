@@ -197,7 +197,7 @@
 							
 						<p><strong>Features: </strong></p>
 <ul>
-<li>Corset constructed in “Throw-over technique”;</li>
+<li>Corset constructed in “Throw-over technique";</li>
 <li>Cut cup with straps around the neck;</li>
 </ul>
 <p><strong>Skills you gain:</strong></p>
@@ -294,8 +294,8 @@
 <p><strong>According to the throw-over technique for sewing corsets I should first of all cut bones of required length for sewing them onto corresponding princess seams and finish them. </strong>This means we should find out how long our whole wide bone should be and finish it before we start joining the princess seams. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2011_files/image008.jpg" class="img-responsive center-block"></p>
-<p>I measure a total length of two front princess seams referring to the cut out pieces. The result is 64cm. After multiplying it by two I can tell that <strong>I need a bone that is 135cm long for finishing the front of the corset. </strong>I mark this bone with “F” for “front”. </p>
-<p>Next I measure the side seam and the princess seam of the back to determine the length of the second bone. <strong>The result shows that this bone should be about as long as the first one, so 135cm. </strong>I mark this bone with “B” for “back”. </p>
+<p>I measure a total length of two front princess seams referring to the cut out pieces. The result is 64cm. After multiplying it by two I can tell that <strong>I need a bone that is 135cm long for finishing the front of the corset. </strong>I mark this bone with “F" for “front". </p>
+<p>Next I measure the side seam and the princess seam of the back to determine the length of the second bone. <strong>The result shows that this bone should be about as long as the first one, so 135cm. </strong>I mark this bone with “B" for “back". </p>
 <p>These two bones should be encased in the fabric straps that I’ve cut. It turns out that two straps are enough in my case. </p>
 <p><strong>I recommend that you should iron Rigilene bones to straighten them. </strong>Otherwise they will be hard to deal with later. </p>
 
@@ -309,7 +309,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

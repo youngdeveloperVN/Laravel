@@ -342,7 +342,7 @@
 <p>This procedure demonstrates how hard it is to fuse pieces that have been individually cut out of iron-on material. That is why I highly recommend you fusing the fabric beforehand and only afterwards going on to the cutting. </p>
 <p>However there are situations when fusing all fabric in advance is impossible which is why I have shown you what to do in a case like this. </p>
 <p>Then and there I have explained and demonstrated you <strong>the principle of fusing a corset.</strong> </p>
-<p>It is a “sandwich” principle. I place the pieces that need fusing onto the pieces that match the pattern best. </p>
+<p>It is a “sandwich" principle. I place the pieces that need fusing onto the pieces that match the pattern best. </p>
 <p>I repeat the same with the rest of the cut-out corset pieces.</p>
 <p><strong>The side pieces of the front: </strong></p>
 <p>
@@ -527,7 +527,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is shown in “combination” file.</p>
+<p>To print the sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/2.%20Corset%20with%20quilted%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Quilted Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%202/tables-corset%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Corset pattern calculation table for 10 different sizes</a><br>						

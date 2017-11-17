@@ -263,7 +263,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/pattern-lether1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing patern</a><br>						

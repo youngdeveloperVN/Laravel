@@ -269,7 +269,7 @@
 <p>It seems like I need to lower the neckline by 1cm. But I think it is better to decide on it when working with the garment. <strong>I write -1 in line 10 of column 4.</strong></p>
 <p><strong>These are all calculations related to the side seam of the front.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%206_files/image009.jpg" alt=""></p>
-<p><strong>Let’s move to the side seam of the back.</strong> First I pre-calculate the configuration of the side seam and write the values under “Side Seam Back” (column 5).</p>
+<p><strong>Let’s move to the side seam of the back.</strong> First I pre-calculate the configuration of the side seam and write the values under “Side Seam Back" (column 5).</p>
 <p><strong>Let’s begin calculating.</strong> You’ll see what happens after I take into account all measurements and calculations from the table.</p>
 <p><strong>The bust front and the under-bust front measurements are not involved in these calculations.</strong> I write dashes in the table.</p>
 <p><strong>Bust circumference: </strong>90cm on the client and 92cm on the pattern.</p>
@@ -299,11 +299,11 @@
 <p><strong>There are no alterations in the side seam of the front.</strong> If I needed to shift it inwards or outwards, I would have to choose a particular fixed value to preserve the shape of the seam. Always remember the Adjustable Dress-Form Principle! The shape of the side seam of the front, as well as the shape of the front princess seam and the side seam of the back, never changes on an adjustable dress-form! You should only ever alter the shape of the side seam very slightly and only if there is no other choice. Usually, the shape of the side seam should be preserved both at the front and at the back.</p>
 <p><strong>Look what happens with the side seam of the back.</strong> I need to shift it 1cm inwards at the bust-line level, 2.5cm inwards at the under-bust line level, 1cm inwards at the waistline level, 2cm inwards at the stomach level, and 1cm inwards at the hip line level. <strong>Instead of a beautiful and graceful contour, I got a messy irregular line!</strong> The column with preliminary adjustment values of the side seam of the back usually looks quite frightening to beginners! Do not despair though! You can cope with it! Simply study all calculation parameters and choose <strong><em>a fixed value</em></strong> by which you will shift the side seam of the back inwards or outwards.</p>
 <p><strong>I need to shift the side seam of the back inwards preserving the beautiful corset silhouette and at the same time bringing the pattern closer to the client's size</strong>. <strong>I will use -1cm as a fixed adjustment value.</strong></p>
-<p><strong>It's why column 6 is titled “Side Seam Back Adjusted.”</strong></p>
+<p><strong>It's why column 6 is titled “Side Seam Back Adjusted."</strong></p>
 <p><strong>The bust front and the under-bust front measurements are not involved in these calculations.</strong> I write dashes in the table.</p>
 <p><strong>I narrow down the pattern in the area between the bust line and the hip line by shifting the entire side seam of the back 1cm inwards.</strong> By doing so, I reduce all circumferences by 2cm. I write -1cm in lines 3-7 of column 6.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%206_files/image013.jpg" alt=""></p>
-<p><strong>Let us see what I get then. </strong>This time I will use the data from column 6 (“Side Seam Back Adjusted”) in the calculations and not the data from column 5 (“Side Seam Back”) which I simply ignore for now.</p>
+<p><strong>Let us see what I get then. </strong>This time I will use the data from column 6 (“Side Seam Back Adjusted") in the calculations and not the data from column 5 (“Side Seam Back") which I simply ignore for now.</p>
 <p><strong>Bust circumference: </strong>90cm on the client and 92cm on the pattern.</p>
 <p>I have already narrowed the pattern down by 2cm along the bust line though.</p>
 <p><strong>92cm – 2cm = 90cm</strong></p>
@@ -312,7 +312,7 @@
 <p>I have already narrowed the pattern down by 2cm along the under-bust line though.</p>
 <p><strong>82cm– 2cm= 80cm.</strong></p>
 <p>At the moment, the under-bust circumference of the pattern is 80cm while it is 77cm on the client. In other words, there is an excess of 3cm. I will need to take this 3cm into some or other seam. <strong>It is best to remove any extra or add any lacking centimeters using the princess seams at the back.</strong></p>
-<p><strong>It's why there is column 7 in the table, called “Princess Seam Back.”</strong> I need to remove extra 3cm from the under-bust circumference of the pattern. There are two princess seams at the back, which means each of them should be used to remove 1.5cm. But every princess seam is made of two edges that you sew together.</p>
+<p><strong>It's why there is column 7 in the table, called “Princess Seam Back."</strong> I need to remove extra 3cm from the under-bust circumference of the pattern. There are two princess seams at the back, which means each of them should be used to remove 1.5cm. But every princess seam is made of two edges that you sew together.</p>
 <p><strong>1.5cm ÷ 2 = 0.7cm</strong></p>
 <p><strong>Therefore, I need to shift each edge of each princess seam 0.7cm inwards at the under-bust level. </strong>In this case, the total circumference of the pattern will be 77cm, which fully complies with the client's measurement. <strong>I write -0.7cm in line 4 of column 7.</strong></p>
 <p><strong>Please note that I have preserved the correct corset shape of the side seam and the shape of the bust princess seam by using the princess seams at the back in the calculations.</strong> Adjustments in the princess seams of the back allow you to enhance its shape with regard to your client's silhouette. A correctly shaped and cut back ensures a good fit of the corset and prevents its top edge from biting into the skin. It looks very bad when people make the back too narrow and then try to lace it up tightly after distributing calculated adjustment values in a wrong way. It simply turns out too narrow and you can see skin bulging over the top edge of the corset. It is then obvious that the corset was constructed incorrectly and the pattern designer was not familiar with the basics of pattern-making!</p>
@@ -345,7 +345,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Dress sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the file, press “print” and choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is shown in the course.</p>
+<p>To print the sewing patterns open the file, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/patterns-coctail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the cocktail dress</a><br>						
 					</div>
 

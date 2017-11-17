@@ -290,9 +290,9 @@
 <p><strong>And now I put the corset onto the dress-form:</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2010_files/image012.jpg" class="img-responsive center-block"></p>
-<p>Take a look at this mismatch of the face and the lining and at the “bubble” in the middle! I tried my best to achieve good fitting of the central part against the bust. I have eased in the lining thereby significantly reducing the central front part. That is the main difficulty when you deal with techniques for better fitting of the centre against the bust used in corset tailoring. </p>
+<p>Take a look at this mismatch of the face and the lining and at the “bubble" in the middle! I tried my best to achieve good fitting of the central part against the bust. I have eased in the lining thereby significantly reducing the central front part. That is the main difficulty when you deal with techniques for better fitting of the centre against the bust used in corset tailoring. </p>
 <p><strong>I need to adjust the face and the lining in order to solve this problem. </strong></p>
-<p>I mark where this “bubble” begins and ends by adding pins from both sides along the curve lines. Next I’m going to re-shape the curves on the front piece. </p>
+<p>I mark where this “bubble" begins and ends by adding pins from both sides along the curve lines. Next I’m going to re-shape the curves on the front piece. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2010_files/image014.jpg" class="img-responsive center-block"></p>
 <p>Unfortunately, this just has to be done! You always need to adjust the face front pieces after making an additional dart and easing in in the middle. That is exactly the reason why I have never talked about this technique in my previous DVDs and books – many of you just weren’t ready for such adjustment work yet. But today most of my customers have already completed the first stages of my teaching courses and acquired all relevant skills and I can explain you how to adjust the face of a corset like this without trouble. </p>
@@ -306,7 +306,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2010_files/image018.jpg" class="img-responsive center-block"></p>
 <p>Please note that I start and finish the stitch at the same points where the old seam starts and finishes; you don’t need any bar tacks here.&nbsp;&nbsp; </p>
 <p>I stitch over the newly drawn line very carefully. Then I remove the unnecessary old seam, trim the seam allowance and press it open again. </p>
-<p>I believe I have managed to answer the frequently asked question “how to achieve good fitting against the bust at the neckline or in the centre of the front piece?” You can see it yourself that there is a whole sequence of steps: from sewing in bones to adjusting the shape of the front piece of your corset. </p>
+<p>I believe I have managed to answer the frequently asked question “how to achieve good fitting against the bust at the neckline or in the centre of the front piece?" You can see it yourself that there is a whole sequence of steps: from sewing in bones to adjusting the shape of the front piece of your corset. </p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -318,7 +318,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

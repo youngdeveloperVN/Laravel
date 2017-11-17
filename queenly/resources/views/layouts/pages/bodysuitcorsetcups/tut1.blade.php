@@ -324,20 +324,20 @@
 <p></p>
 <p>Since the main part of the bodysuit is sewn out of a highly elastic material, there is no need to go into detail about alteration of the pattern, in other words I won’t explain you in depth how this pattern should be changed. It is the same principle as when sewing a corset or a dress. </p>
 <p><strong>The only thing that will always require your attention when cutting a bodysuit is the elasticity coefficient of the fabric.</strong> That’s why the main part of a bodysuit should even be made a little smaller than client’s measurements both in length and volume. </p>
-<p><strong>However the rules of altering cups remain the same.</strong> Their size is adjusted by the side seam and the “clip” measurement. The location of the side seam is determined by the measurements “bust front” and “under-bust front”. </p>
-<p><strong>Let me say a few words on altering cups with the help of the “clip” measurement. </strong></p>
+<p><strong>However the rules of altering cups remain the same.</strong> Their size is adjusted by the side seam and the "clip" measurement. The location of the side seam is determined by the measurements "bust front" and "under-bust front". </p>
+<p><strong>Let me say a few words on altering cups with the help of the "clip" measurement. </strong></p>
 <p><strong>I often hear this question:</strong> </p>
-<p>“Tatyana, you keep drawing our attention to the fact that one should never, by no means, alter bust curves. But how come? Larger cups should be much deeper and smaller cups should be shallower, so what should we do then?” </p>
+<p>"Tatyana, you keep drawing our attention to the fact that one should never, by no means, alter bust curves. But how come? Larger cups should be much deeper and smaller cups should be shallower, so what should we do then?" </p>
 <p><strong>I will use this illustration to answer this question:</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%204/transcript/Tutorial%201_files/image006.jpg" class="img-responsive center-block"></p>
-<p>I always alter cups using the “clip” measurement. </p>
+<p>I always alter cups using the "clip" measurement. </p>
 <p>Please take a look at what happens: </p>
-<p>&nbsp;- if I make the “clip” measurement smaller, the cup becomes shallower automatically (line 1).</p>
-<p>&nbsp;- as soon as I start enlarging the cup based on the “clip” measurement, it automatically becomes deeper (line 2). </p>
+<p>&nbsp;- if I make the "clip" measurement smaller, the cup becomes shallower automatically (line 1).</p>
+<p>&nbsp;- as soon as I start enlarging the cup based on the "clip" measurement, it automatically becomes deeper (line 2). </p>
 <p><strong>The only thing you should always keep in mind: </strong>you should always control the depth of the dart if the bust is large and full. You cannot just enlarge the pattern thoughtlessly and continue the curve line right parallel to the line on the original pattern. A full bust requires some space. You should narrow the opening of the bust dart. </p>
 <p><strong>There is one simple rule here.</strong> </p>
-<p><strong>If you minify the location of the “clip”, </strong>you just go right along the bust curve, make markings after new measurements and lessen the cups length proportionally thereby reducing their depth. </p>
+<p><strong>If you minify the location of the "clip", </strong>you just go right along the bust curve, make markings after new measurements and lessen the cups length proportionally thereby reducing their depth. </p>
 <p>To prevent cups from being loose on the bust, you should necessarily ease them in onto a bone or organza when sewing, depending on the shape of the neckline. Thereby you can regulate how well the cups fit to the bust. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%204/transcript/Tutorial%201_files/image008.jpg" class="img-responsive center-block"></p>
@@ -363,7 +363,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in "combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/4.%20Bodysuit%20with%20corset%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Bodysuit with Corset Cups</a><br>						
 					</div>
 

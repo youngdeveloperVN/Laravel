@@ -318,12 +318,12 @@
 <p>Based on the calculation I shift the pattern by 0.4 inches beyond the fabric creases thereby reducing it: </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%201/tut%202_files/image012.jpg" class="img-responsive center-block"></p>
-<p>The pattern itself is outlined “as is” with no changes. </p>
+<p>The pattern itself is outlined “as is" with no changes. </p>
 <p>I transfer every notch very carefully. </p>
-<p>The pattern you see in pictures has a certain neckline shape. But I want to make a design with a straight cut or a “strapless” type. That is why I am taking another standard pattern but with a different neckline cut - the one I need: </p>
+<p>The pattern you see in pictures has a certain neckline shape. But I want to make a design with a straight cut or a “strapless" type. That is why I am taking another standard pattern but with a different neckline cut - the one I need: </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%201/tut%202_files/image014.jpg" class="img-responsive center-block"></p>
-<p>I outline the neckline cut according to this pattern and shift the cut down by 1.6 inches based on the “clip” measurement: </p>
+<p>I outline the neckline cut according to this pattern and shift the cut down by 1.6 inches based on the “clip" measurement: </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%201/tut%202_files/image016.jpg" class="img-responsive center-block"></p>
 <p>I am going to provide you with a ready-to-use strapless pattern but I think it is useful and interesting to see a possible implementation of patterns with varying top cuts. </p>
@@ -332,7 +332,7 @@
 <p>I am placing the pattern of the front side piece onto fabric so that the waistline of the pattern perfectly coincides with the waistline that has been drawn on fabric:</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%201/tut%202_files/image017.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\English\ДЛЯ ЗАПАДА!!!\Текст на англ\kn1 2.0 ENG - 2_files\image045.jpg"></p>
-<p>I outline the pattern “as is”. </p>
+<p>I outline the pattern “as is". </p>
 <p>Then I make all necessary changes based on the calculations. </p>
 <p>First of all I make a new side seam line. </p>
 <p>For that purpose I mark 0.4 inches (see the table) decreasingly along the waistline and draw a new side seam line of the front through this point, parallel to the line drawn after the standard pattern. </p>
@@ -374,7 +374,7 @@
 <p>This way I have drawn all corset patterns on the fabric after my client Kate’s measurements:</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%201/tut%202_files/image029.jpg" class="img-responsive center-block"></p>
-<p>I draw a “clip” pattern where fabric space allows it. I am going to sew it as well and put it underneath corset lacing so no skin can be seen through. It is a rectangle as long as the back piece and about as wide as 3.9-4.7 inches. </p>
+<p>I draw a “clip" pattern where fabric space allows it. I am going to sew it as well and put it underneath corset lacing so no skin can be seen through. It is a rectangle as long as the back piece and about as wide as 3.9-4.7 inches. </p>
 <p>I cut out my pattern pieces. Making notches is necessary. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%201/tut%202_files/image031.jpg" class="img-responsive center-block"></p>
@@ -405,7 +405,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%201/Corset%20in%20a%20Simplified%20Technique.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%201/tables-corset%201.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Corset pattern calculation table for 10 different sizes</a><br>						
 					</div>

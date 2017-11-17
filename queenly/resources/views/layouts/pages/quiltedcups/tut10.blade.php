@@ -329,7 +329,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%202/Tutorial%2010_files/image010.jpg" class="img-responsive center-block"></p>
 <p>As you can see in the picture I have left some extra face fabric on the rounded area on top hoping that the cut edges have been cut bias and it will allow me to re-distribute this fabric. </p>
-<p><strong>I re-distribute the fabric in the last “problem area” the same way: </strong></p>
+<p><strong>I re-distribute the fabric in the last “problem area" the same way: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%202/Tutorial%2010_files/image012.jpg" class="img-responsive center-block"></p>
 <p>I use quite many pins when joining the top and the lining.</p>
@@ -368,7 +368,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is shown in “combination” file.</p>
+<p>To print the sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/2.%20Corset%20with%20quilted%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Quilted Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%202/tables-corset%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Corset pattern calculation table for 10 different sizes</a><br>						

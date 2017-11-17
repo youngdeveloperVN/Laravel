@@ -267,7 +267,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2015_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>A short back-story:</strong> the idea of making a transformer dress didn’t strike me straight away. The client chose the model that you have seen in the picture. Only after buying the fabrics I realized that the upper skirt was going to be made of a rather tricky material (the structure of the embroidered flowers differs greatly from the structure of the chiffon: they are very thick while the chiffon is thin). However I would have to gather it very accurately. And then the main technical problem popped out: how to combine a beautiful draped belt, a chiffon skirt with ruffles and a lacing? I could imagine it clearly how bad it would look from the back: the pretty belt would have to be interrupted by the lacing and then I’d have to join the lacing and the skirt too. </p>
-<p>So the first thought I got was “this chiffon should stay uncut!” You can’t just insert a zipper into these thick flowers and finish the edges. Of course you could make a split seam at the back, but I really didn’t want to cut this gorgeous fabric. </p>
+<p>So the first thought I got was “this chiffon should stay uncut!" You can’t just insert a zipper into these thick flowers and finish the edges. Of course you could make a split seam at the back, but I really didn’t want to cut this gorgeous fabric. </p>
 <p>So this is how the idea of a detachable skirt was born. Then it gradually transformed into a dress and, finally, it was clear that this dress was going to be multifunctional. </p>
 <p>A detachable skirt can be replaced by any other skirt! </p>
 <p>A detachable skirt can be worn as a separate garment! </p>
@@ -298,7 +298,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

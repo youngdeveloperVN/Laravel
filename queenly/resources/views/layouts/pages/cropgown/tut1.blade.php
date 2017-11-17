@@ -186,7 +186,7 @@
 <li>Strong lacing on hanging loops.</li>
 <li>Advanced decoration techniques.</li>
 <li>Peculiarities of long distance sewing.</li>
-<li>How to make a “virtual” fit test.</li>
+<li>How to make a “virtual" fit test.</li>
 <li>How to use a mannequin for fit test.</li>
 </ul>
 <p><strong>Where to use:</strong></p>
@@ -266,7 +266,7 @@
 <p>Moreover, I will also explain certain laws and rules which will help you choose or create patterns for your lace fabric correctly to achieve the best results and complement the garment.</p>
 <p><strong>Let me say a couple of words about the skirt now.</strong> You can find detailed guidelines to sewing similar skirts in my previous books and video tutorials. But <strong>this particular skirt will be made in a totally different technique. </strong></p>
 <p><strong>Firstly,</strong> I will use a pattern which was never used for sewing skirts like this before. I will show you how to customize it and make it suitable for sewing a ruffle skirt.</p>
-<p><strong>Secondly,</strong> there will be no complicated inner supporting construction in this skirt. It will be lightweight and “mobile” and at the same time it will hold its shape very well under any conditions. This is another advantage of this skirt!</p>
+<p><strong>Secondly,</strong> there will be no complicated inner supporting construction in this skirt. It will be lightweight and “mobile" and at the same time it will hold its shape very well under any conditions. This is another advantage of this skirt!</p>
 <p><strong>And, thirdly, </strong>I will show you an absolutely new technique for assembling ruffle skirts. I am sure you will use it widely in the future.</p>
 <p><strong>What are the benefits of this new technique?</strong></p>
 <p><strong>First of all, it really helps you save a lot of time on working with complicated skirts like ours. It makes things easier physically. </strong>My new technique eliminates all those physical challenges that await you in the process of assembling heavy wedding skirts with lots and lots of ruffles. It will be a lot less tiresome.</p>
@@ -285,7 +285,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print” and choose “PRINT IN ACTUAL SIZE”. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

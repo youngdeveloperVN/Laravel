@@ -363,7 +363,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%2012_files/image104.jpg" class="img-responsive center-block"></strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%2012_files/image106.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>You can see the “lacing bar” of the corset in the picture below.</strong></p>
+<p><strong>You can see the “lacing bar" of the corset in the picture below.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%2012_files/image108.jpg" class="img-responsive center-block"></p>
 <p><strong>I will make tunnels on the central pieces of the front when the corset is as much as finished:</strong> I will need to lace it and then mark the placement of swing-arm latches. I will place them in the middle of this tunnel. As I have said before, the swing-arm latches at the front of the corset are purely decorative, which means I can insert a plastic bone in the tunnel on the central front piece.</p>
@@ -382,7 +382,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/pattern-lether1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing patern</a><br>						

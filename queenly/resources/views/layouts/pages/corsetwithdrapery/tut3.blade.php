@@ -302,14 +302,14 @@
 <p>Instead of measuring the distance between the middle of the bust and the middle of the neckline (3) on the central cup piece I have decided to take another measurement that would suit a crew neck and a strapless neckline better. It is better to measure the distance from the bust-line straight up to the neckline (4) for this purpose.&nbsp; It is a lot easier too. This measurement equals 4cm on my client.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image006.jpg" class="img-responsive center-block"></p>
-<p>This mark indicates the deepest point of your crew neck. It will help you draw a beautiful neckline later. Due to these changes I’ve denoted the clip measurements by a “tick” that represents the distance to the underarm area and to the corner of the corset and an “up-arrow” that represents the distance between the bust-line and the neckline. &nbsp;&nbsp;= =</p>
+<p>This mark indicates the deepest point of your crew neck. It will help you draw a beautiful neckline later. Due to these changes I’ve denoted the clip measurements by a “tick" that represents the distance to the underarm area and to the corner of the corset and an “up-arrow" that represents the distance between the bust-line and the neckline. &nbsp;&nbsp;= =</p>
 <p>- Side length (SL);</p>
 <p>- Back length (BL). This is the distance between the waistline and the shoulder-blade. Whenever I take measurements off my clients I ask them to move their arms to find the spot where the shoulder-blade ends.</p>
 <p>- Hip circumference (HC). I mention this measurement just in case. In my particular pattern the length from the waistline to the bottom is 18cm.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image008.jpg" class="img-responsive center-block"></p>
 <p>Our pattern is designed for a long corset. We are going to re-model it into a short corset – the one I drew before, with a down-pointing triangle at the front. I will demonstrate you how to re-model and alter it to achieve a beautiful bottom line at the front. The side seam will be rather short in this case (9cm from the waistline); in other words the side length of the corset will end at the stomach level.</p>
-<p>Nevertheless, this pattern will come in handy if you decide to sew a dress with a see-through corset top. You can attach any kind of a skirt to the bottom of a long corset to turn it into a pretty dress. And in this very case you will need the “hip circumference” measurement that equals 18cm or any required length of your corset.</p>
+<p>Nevertheless, this pattern will come in handy if you decide to sew a dress with a see-through corset top. You can attach any kind of a skirt to the bottom of a long corset to turn it into a pretty dress. And in this very case you will need the “hip circumference" measurement that equals 18cm or any required length of your corset.</p>
 <p><strong>Let’s return to the table.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image009.jpg" class="img-responsive center-block"></p>
@@ -326,7 +326,7 @@
 <p><strong>- Bust middle.</strong> This measurement will show how much you need to alter the central front piece including the cups (if relevant).</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image013.jpg" class="img-responsive center-block"></p>
-<p><strong>In my case</strong> the client’s bust middle measurement is 18.5cm and the one on the original pattern is 19.5cm. It is clear that I’ll end up with an extra centimeter if I cut the corset according to the pattern. This centimeter has to be removed. But since this piece has a fold line, we need to divide one centimeter in half and as a result narrow the centre of the front piece by 0.5cm. This 0.5cm should be kept in mind during the whole recalculation, for all measurements. That’s why I write -0.5cm into every =line of the third column. I write it down for the “hip circumference” as well – although this measurement is optional, we might need it later.</p>
+<p><strong>In my case</strong> the client’s bust middle measurement is 18.5cm and the one on the original pattern is 19.5cm. It is clear that I’ll end up with an extra centimeter if I cut the corset according to the pattern. This centimeter has to be removed. But since this piece has a fold line, we need to divide one centimeter in half and as a result narrow the centre of the front piece by 0.5cm. This 0.5cm should be kept in mind during the whole recalculation, for all measurements. That’s why I write -0.5cm into every =line of the third column. I write it down for the “hip circumference" as well – although this measurement is optional, we might need it later.</p>
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image015.jpg" class="img-responsive center-block"></p>
@@ -474,7 +474,7 @@
 <p><strong>As you can see we need to add 0.25cm at the waistline level of the front and back princess seams (columns 8 and 9, line 11).</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image033.jpg" class="img-responsive center-block"></p>
-<p><strong>This way we have re-distributed the “waviness” of the side seam by adjusting the curved seams by 1-2mm. </strong>Won’t you agree that a variation of a couple millimeters in our princess seams is not such a great change compared to the variation of a couple centimeters that we had on the side seam initially.</p>
+<p><strong>This way we have re-distributed the “waviness" of the side seam by adjusting the curved seams by 1-2mm. </strong>Won’t you agree that a variation of a couple millimeters in our princess seams is not such a great change compared to the variation of a couple centimeters that we had on the side seam initially.</p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -486,7 +486,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

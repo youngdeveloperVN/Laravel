@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress”</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -215,7 +215,7 @@
 <li>How to customize the size of a corset dress pattern for your client.</li>
 <li>How to cut sequin fabric with minimum princess seams and achieve a tight fit in the waist.</li>
 <li>In what order to join the pieces to achieve the best results.</li>
-<li>How to sew curved princess seams neatly on “complicated” fabric (sequin fabric).</li>
+<li>How to sew curved princess seams neatly on “complicated" fabric (sequin fabric).</li>
 <li>How to treat necklines (a new technique).</li>
 <li>How to sew a lining worthy of a premium class garment.</li>
 <li>How to sew concealed lacing panels into the dress.</li>
@@ -349,7 +349,7 @@
 <p><strong>I repeat the same steps again and again.</strong> I make four bias-cut straps at a time. </p>
 <p><strong>At this stage, I still don't know exactly how many straps I need. </strong>I will simply prepare a certain amount and sew them in place. And then I will cut out some more and sew them on as well. This will help me determine fabric consumption more precisely. </p>
 <p><strong>Now I need to finish the straps with a soldering iron.</strong> </p>
-<p><strong>Useful tips </strong>on choosing the right type of a soldering iron and preparing it for work (namely, sharpening its tip correctly) can be found in the first issue of “Premium Wedding Skirts” by the Corset Academy. </p>
+<p><strong>Useful tips </strong>on choosing the right type of a soldering iron and preparing it for work (namely, sharpening its tip correctly) can be found in the first issue of “Premium Wedding Skirts" by the Corset Academy. </p>
 <p><strong>I need to prepare a template and a work surface before I can heat seal the edges of the straps.</strong> </p>
 <p><strong>I draw a strap with a width of 18cm on the fabric...</strong></p>
 <p><strong><br>
@@ -395,7 +395,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

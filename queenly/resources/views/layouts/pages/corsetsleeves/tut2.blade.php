@@ -277,7 +277,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 2. Calculating Pattern Adjustments.">
 <meta itemprop="headline" content="Tutorial 2. Calculating Pattern Adjustments.">
-<meta itemprop="description" content="Tutorial 2. Calculating Pattern Adjustments. We need to work on the configuration of the side seam at the front. First I pre-calculate it and write the values under “Front Sides 1.” Let us begin.&nbsp; Bust front measurement: 56cm on the client and 49cm on the pattern.">
+<meta itemprop="description" content="Tutorial 2. Calculating Pattern Adjustments. We need to work on the configuration of the side seam at the front. First I pre-calculate it and write the values under “Front Sides 1." Let us begin.&nbsp; Bust front measurement: 56cm on the client and 49cm on the pattern.">
 <meta itemprop="articleSection" content="Corset-Dress with Sleeves">
 <meta itemprop="keywords" content="corset-dress with sleeves, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -291,7 +291,7 @@
 <div itemprop="articleBody">
 <h2>Tutorial 2. Calculating Pattern Adjustments.</h2>
 <p></p>
-<p><strong>We need to work on the configuration of the side seam at the front.</strong> First I pre-calculate it and write the values under “Front Sides 1.”</p>
+<p><strong>We need to work on the configuration of the side seam at the front.</strong> First I pre-calculate it and write the values under “Front Sides 1."</p>
 <p><strong>Let us begin.</strong>&nbsp; </p>
 <p><strong>Bust front measurement:</strong> 56cm on the client and 49cm on the pattern. </p>
 <p><strong>56cm – 49cm = -7cm</strong></p>
@@ -302,7 +302,7 @@
 <p><strong>I got the same value for the bust line and the under-bust line. It is then logical to assume that the entire side seam of the dress should be shifted 3.5cm outwards.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%202_files/image002.jpg" class="img-responsive center-block"></p>
-<p><strong>I fill in the entire column with that value.</strong> I will most likely need to apply some changes when I start calculating the back, which is why I referred to it as “pre-calculations” at the start. </p>
+<p><strong>I fill in the entire column with that value.</strong> I will most likely need to apply some changes when I start calculating the back, which is why I referred to it as “pre-calculations" at the start. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%202_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>The second thing you need to pay attention to is the clip measurements.</strong> </p>
@@ -320,7 +320,7 @@
 <p><strong>18cm – 19.5cm = -1.5cm</strong></p>
 <p><strong>I need to adjust it down by 1.5cm.</strong> </p>
 <p>The fourth column will contain the final values for adjusting the side seam. I leave it empty for now. </p>
-<p><strong>Let’s move to the back of the dress.</strong> First I will pre-calculate the configuration of the side seam and write the values under “Back Sides 1” (column 5). </p>
+<p><strong>Let’s move to the back of the dress.</strong> First I will pre-calculate the configuration of the side seam and write the values under “Back Sides 1" (column 5). </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%202_files/image008.jpg" class="img-responsive center-block"></p>
 <p><strong>Let us start calculating.</strong> You will see what happens after I take into account all measurements and values from the table. </p>
@@ -417,7 +417,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

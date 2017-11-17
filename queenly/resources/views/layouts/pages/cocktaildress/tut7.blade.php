@@ -223,7 +223,7 @@
 <h2>(For Those Who Have Understood the Previous Tutorial).</h2>
 <p></p>
 <p><strong>This tutorial is addressed to those who have studied the previous tutorials and got the point behind my pattern adjustment method.</strong> Now I want to offer you to re-calculate the same pattern but with minor alterations. I have simply chosen another client with different proportions. And I will show you a fast and easy way of determining necessary adjustments.&nbsp; </p>
-<p><strong>Let us use the same kind of a table for calculated values.</strong> There is an additional column in the table, “Bust Middle,” since the bust middle measurement of the pattern does not coincide with the client's.</p>
+<p><strong>Let us use the same kind of a table for calculated values.</strong> There is an additional column in the table, “Bust Middle," since the bust middle measurement of the pattern does not coincide with the client's.</p>
 <p><strong>The first column of the table contains the same key measurements which you need to take off the mock-up and off your client to adjust the pattern after her figure. They are:</strong> </p>
 <p>- Bust front, </p>
 <p>- Under-bust front, </p>
@@ -283,7 +283,7 @@
 <p><strong>These are all calculations related to the side seam of the front.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%207_files/image008.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>Let’s move to the side seam of the back.</strong> First I pre-calculate the configuration of the side seam and write the values under “Side Seams Back” (column 6). </p>
+<p><strong>Let’s move to the side seam of the back.</strong> First I pre-calculate the configuration of the side seam and write the values under “Side Seams Back" (column 6). </p>
 <p><strong>Let’s begin calculating.</strong> You’ll see what happens after I take into account all measurements and calculations from the table. </p>
 <p><strong>The bust front and the under-bust front measurements are not involved in these calculations.</strong> I write dashes in the table.</p>
 <p>I have narrowed down the standard pattern by 2cm in the bust middle measurement and by 1cm along the side seam of the front in the area between the bust line and the hip line.</p>
@@ -367,7 +367,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Dress sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the file, press “print” and choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is shown in the course.</p>
+<p>To print the sewing patterns open the file, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/patterns-coctail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the cocktail dress</a><br>						
 					</div>
 

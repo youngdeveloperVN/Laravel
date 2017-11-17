@@ -365,7 +365,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%205_files/image048.jpg" class="img-responsive center-block"></p>
 <p><strong>You can mark the location of bones right now on these patterns. </strong></p>
 <p><strong>First of all I need to match the bust notches. </strong></p>
-<p><strong>I am going to quilt these cups with bones using a “snowflake” technique. </strong>This technique is widely used in simple corsets. Bones are stitched-on in the following sequence: <strong>first along the perimeter and then in a crisscross fashion from the middle of the bust. </strong></p>
+<p><strong>I am going to quilt these cups with bones using a “snowflake" technique. </strong>This technique is widely used in simple corsets. Bones are stitched-on in the following sequence: <strong>first along the perimeter and then in a crisscross fashion from the middle of the bust. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%205_files/image050.jpg" class="img-responsive center-block"></p>
 <p>The markings I make are approximate because the bones themselves will dictate you how to arrange them better when you start sewing them on. However marking guidelines for the location of bones is highly recommended; they help you see where to direct the bones. <strong>It is compulsory to place a vertical bone along the central fold line. </strong></p>
@@ -380,7 +380,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%205_files/image058.jpg" class="img-responsive center-block"></p>
 <p><strong>That’s all about cutting the corset! </strong></p>
-<p>Now while the press-iron is still on, you can <strong>cut out fabric straps for finishing the bones of the corset</strong>. “Cut out” is rather overstated! The whole “cutting” process consists of tearing off straps of fabric. I normally use fabric at its whole width – 1.5m. I start by cutting off the selvage because it pulls on the fabric and hinders the process. If your fabric is ravel-prone, you should make straps that are 2.7-2.8cm wide (if it’s not that ravel-prone, 2.5cm should be enough). My fabric is elastic which means the width of a strap will shrink when it’s pulled on, that’s why I make my straps 2.7cm wide. I prepare two such straps in advance and I believe it should be enough. </p>
+<p>Now while the press-iron is still on, you can <strong>cut out fabric straps for finishing the bones of the corset</strong>. “Cut out" is rather overstated! The whole “cutting" process consists of tearing off straps of fabric. I normally use fabric at its whole width – 1.5m. I start by cutting off the selvage because it pulls on the fabric and hinders the process. If your fabric is ravel-prone, you should make straps that are 2.7-2.8cm wide (if it’s not that ravel-prone, 2.5cm should be enough). My fabric is elastic which means the width of a strap will shrink when it’s pulled on, that’s why I make my straps 2.7cm wide. I prepare two such straps in advance and I believe it should be enough. </p>
 <p>I iron the straps carefully through.</p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -393,7 +393,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

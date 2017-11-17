@@ -979,8 +979,8 @@
 
 			<div role="tabpanel" class="tab-pane" id="pattern">
 				<p>Dress sewing patterns in PDF format.</p>
-				<p>To print the sewing patterns open the file, press “print” and
-					choose “PRINT IN ACTUAL SIZE”. Then connect the part the way it is
+				<p>To print the sewing patterns open the file, press “print" and
+					choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is
 					shown in the course.</p>
 				<a
 					href="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/patterns-coctail.pdf"

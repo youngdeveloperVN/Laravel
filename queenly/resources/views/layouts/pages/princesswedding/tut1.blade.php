@@ -238,7 +238,7 @@
 <p><strong>Expect to hear lots of compliments from the bride and from her guests! </strong></p>
 <p><strong>I can guarantee that your bride will always become the centre of attention in any wedding hall or reception venue! </strong></p>
 <p><strong>No one else will have a fabulous full skirt like hers! </strong></p>
-<p><strong>You will learn all this and much more from the tutorials presented in this new book by the Corset Academy − “Top Wedding Skirts. Full Skirt with Elastic Waistband.” </strong></p>
+<p><strong>You will learn all this and much more from the tutorials presented in this new book by the Corset Academy − “Top Wedding Skirts. Full Skirt with Elastic Waistband." </strong></p>
 <h1>Foreword.</h1>
 <p><strong>I am about to start working on a full skirt with elastic waistband, a very popular style.&nbsp; </strong></p>
 <p><strong><br>
@@ -259,7 +259,7 @@
 <p><strong>What to do to improve the shape of the skirt then? </strong>You could press the top of the skirt with steam. It won’t look perfect but it will make it flatter and more even. The shape of the skirt will look more balanced in this case.</p>
 <p><strong>Finally, another disadvantage of this method deals with considerable fabric consumption. </strong>The skirt will require about 42 meters of veiling.</p>
 <p><strong>Of course, you could increase the fullness of the skirt by using a special petticoat. It would be the easiest solution </strong>but such petticoats are expensive and hard to find. I gave up on this idea very soon.</p>
-<p><strong>The sewing process was a real torture and the skirt turned out to be very expensive because of the high fabric consumption. Besides, it looked nothing like a “luxury skirt.”</strong></p>
+<p><strong>The sewing process was a real torture and the skirt turned out to be very expensive because of the high fabric consumption. Besides, it looked nothing like a “luxury skirt."</strong></p>
 <p><strong>After careful thought, I decided to use a different sewing technique which I want to share with you in this book. </strong></p>
 <p><strong>The main advantages of this method of sewing a full skirt with elastic waistband: </strong></p>
 <p>- It is fast;</p>

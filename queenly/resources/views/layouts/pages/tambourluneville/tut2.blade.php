@@ -186,7 +186,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/2.files/image068.jpg" alt=""></p>
 <p><strong>Now the mesh fabric is mounted in the frame properly. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/2.files/image070.jpg" alt=""></p>
-<p><strong>It has been almost 30 years since I learnt embroidering. My teacher was from Germany and I still remember her words: “Well-tightened fabric must be bouncy like a trampoline but it must not be too tight, or else it will simply burst!” </strong></p>
+<p><strong>It has been almost 30 years since I learnt embroidering. My teacher was from Germany and I still remember her words: “Well-tightened fabric must be bouncy like a trampoline but it must not be too tight, or else it will simply burst!" </strong></p>
 <p><strong>Please remember these words, too! </strong>You should be particularly careful with elastic and high-stretch materials. It was for this reason that I chose hard mesh fabric for you to start from.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/2.files/image072.jpg" alt=""></p>
 <p><strong>Now that the fabric is mounted and the frame is back on the stand, I can mark the embroidery area and then transfer the pattern on it. </strong></p>

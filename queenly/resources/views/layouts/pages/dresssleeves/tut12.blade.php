@@ -153,7 +153,7 @@
 <ul>
 <li>Advanced pattern drafting.</li>
 <li>The right order of combining different parts of the dress.</li>
-<li>Sewing together curved reliefs of “difficult” materials (3 layers: basis, chiffon and lace).</li>
+<li>Sewing together curved reliefs of “difficult" materials (3 layers: basis, chiffon and lace).</li>
 <li>The right boning placement for complex curved garment.</li>
 <li>Fast chiffon train cutting method.</li>
 <li>Quilting cup in the dress with straps.</li>
@@ -227,7 +227,7 @@
 </span> <!-- Scope END: ImageObject -->
 <div itemprop="articleBody">
 <h1>Tutorial 11. Gluing Together the Printed Out Patterns.</h1>
-<p><strong>The patterns enclosed with the book are supposed to be printed out and assembled by gluing.</strong> What you will have at hand afterwards is a pattern of our new dress adjusted for a certain body type, which can be used for cutting and sewing. Please remember that the pattern was customized for a certain woman. You can safely use it “as is” if your client’s figure is similar. But if it is different, you will need to shape the pattern yourself following the technique I have demonstrated.</p>
+<p><strong>The patterns enclosed with the book are supposed to be printed out and assembled by gluing.</strong> What you will have at hand afterwards is a pattern of our new dress adjusted for a certain body type, which can be used for cutting and sewing. Please remember that the pattern was customized for a certain woman. You can safely use it “as is" if your client’s figure is similar. But if it is different, you will need to shape the pattern yourself following the technique I have demonstrated.</p>
 <p><strong>Of course, most cases will require creating your own pattern.</strong> And even if not, I highly recommend that you still sew a dress after my pattern from some inexpensive fabric just to get the hang of it.</p>
 <p><strong>I print the patterns in the actual size and glue the separate parts together.</strong> Ignore the blank borders on the pages. You can see the prolonged contours of the piece through the top sheet when gluing two sheets together.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2011_files/image002.jpg" alt=""></p>
@@ -282,7 +282,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

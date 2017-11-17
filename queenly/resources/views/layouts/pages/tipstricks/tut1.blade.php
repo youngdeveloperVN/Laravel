@@ -102,7 +102,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Push-Up Pads">
 <meta itemprop="headline" content="Push-Up Pads">
-<meta itemprop="description" content="In this video I would like to demonstrate you how to make push-up pads. “How to create the push-up effect?” is probably the most frequently asked question that is addressed to me. This can be done very simply. I have some leftover padding polyester that I had used for covering the cups.">
+<meta itemprop="description" content="In this video I would like to demonstrate you how to make push-up pads. “How to create the push-up effect?" is probably the most frequently asked question that is addressed to me. This can be done very simply. I have some leftover padding polyester that I had used for covering the cups.">
 <meta itemprop="articleSection" content="Tips and Tricks">
 <meta itemprop="keywords" content="tips and tricks, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -115,7 +115,7 @@
 </span> <!-- Scope END: ImageObject -->
 <div itemprop="articleBody">
 <p>In this video I would like to demonstrate you how to make push-up pads.</p>
-<p>“How to create the push-up effect?” is probably the most frequently asked question that is addressed to me. This can be done very simply. I have some leftover padding polyester that I had used for covering the cups. I tear it, fluff it up so that it resembles cotton-wool, and shape it into two wads of the size I need depending on the measurements of my client and my own vision.</p>
+<p>“How to create the push-up effect?" is probably the most frequently asked question that is addressed to me. This can be done very simply. I have some leftover padding polyester that I had used for covering the cups. I tear it, fluff it up so that it resembles cotton-wool, and shape it into two wads of the size I need depending on the measurements of my client and my own vision.</p>
 <p>These two wads are of about the same size. I am also going to need some regular hook-and-loop tape that has two sides: the rougher hook side and the softer loop side. This sticky tape is 2-2.8 inch long.</p>
 <p>I take some extra fabric left from the lining material and put a polyester wad on, then fold it into a triangle and secure it with pins. I am securing it with pins to prevent the polyester from moving inside there. Now let me see if I can make the second triangle out of this little corner.</p>
 <p>Yes, it is quite enough. Again I secure it with a couple pins to fix the polyester. I trim the extra fabric and separate the two triangles. Now I should take a marker, a pencil or a chalk and mark it to ensure that the triangles are about the same. They are normally maximum 4 inch long and 2.8-3 inch wide.</p>
@@ -142,7 +142,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print” and choose “print in actual size”. Then connect the part the way it shown in “combination” file.</p>
+<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/Corset_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Free Corset Sewing Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/shrug_bolero_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Bolero (Shrug) Sewing Pattern</a><br>						
 					</div>

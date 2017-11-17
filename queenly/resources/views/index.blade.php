@@ -2,6 +2,7 @@
 <html lang="{{ app()->getLocale() }}">
     <head>
         <meta charset="utf-8">
+        <meta charset="ISO-8859-1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -18,13 +19,12 @@
 		<script src="{{ asset('js/app.js') }}"></script>
 		<script src="{{ asset('js/app2.js') }}"></script>
 		<link href="{{ asset('css/app.css') }}" rel="stylesheet">
+		<link href="{{ asset('css/player.css') }}" rel="stylesheet">
 		
     </head>
     <body>
     		<!-- Top nav -->
     		@include('layouts.navigator')
-    		
-    		
         	<!-- Navbar Left -->
         	<!-- lesson -->
 			<section class="push margin-top-contant">
