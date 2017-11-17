@@ -170,7 +170,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design – Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
+						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design - Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -293,7 +293,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2018.files/image036.jpg" alt=""></p>
 <p><strong>Now I would like to pay attention to a problem that needs to be solved. </strong>Although I did not account for waistline darts, I did shift the side seam lines inwards to make the top narrower in the waist. As the result, the bottom circumference of the top is rather small, which means it will be hard for the bride to get it over her head in a pre-wedding rush (especially with a bridal hair-do).</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2018.files/image038.jpg" alt=""></p>
-<p><strong>Needless to say, zippers provide a great solution in this case! </strong>But you don’t always have a short white blind zipper in stock. Of course, you could shorten a regular zipper the traditional way – no questions! But our garment is so delicate that the traditional way will simply not do.</p>
+<p><strong>Needless to say, zippers provide a great solution in this case! </strong>But you don’t always have a short white blind zipper in stock. Of course, you could shorten a regular zipper the traditional way - no questions! But our garment is so delicate that the traditional way will simply not do.</p>
 <p><strong>A zipper sewn in the side seam is supposed to be unnoticeable. </strong>The best way is to shorten it starting from the bottom. In this case, the zipper stop will be at the top of the side seam and you will choose an appropriate length: the other end of the closed zipper is not supposed to go beyond the edge of the garment.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2018.files/image040.jpg" alt=""></p>
 <p><strong>I will use the same old good pyrography tool for shortening the zipper. </strong></p>
@@ -327,7 +327,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

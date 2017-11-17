@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -237,14 +237,14 @@
 <img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%201_files/image002.jpg" alt=""></strong></p>
 <p><strong>What you see there is a regular display foam dress-form for US sizes 8-14 (Russian sizes 44-46). </strong>The packaging film protects it against glue stains during various handiwork.</p>
 <p>This dress-form is very light and easy to work with! But it is not perfect for fittings and I need to adjust it every time to imitate a particular client's body shape. I sew a mock-up based on my client's measurements, put it on the dress-form, stuff all hollows with padding polyester or any other suitable stuffing material, <strong>and get a proper imitation of my client's figure.</strong></p>
-<p>The main disadvantage of my dress-form is its large size – most of my models are smaller than that. It is hardly possible to have dress-forms of all possible sizes in your atelier. There is no need in investing so much money in that, especially for a beginner! <strong>What I do instead is spread apart the two halves of the back of the garment by equal distance from the centre back line of the dress-form. </strong>You should always keep the central edges of the back strictly vertical.</p>
+<p>The main disadvantage of my dress-form is its large size - most of my models are smaller than that. It is hardly possible to have dress-forms of all possible sizes in your atelier. There is no need in investing so much money in that, especially for a beginner! <strong>What I do instead is spread apart the two halves of the back of the garment by equal distance from the centre back line of the dress-form. </strong>You should always keep the central edges of the back strictly vertical.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%201_files/image004.jpg" alt=""></p>
 <p><strong>The side seams must also be strictly vertical.</strong> Of course, they will get shifted toward the front of the garment if your mock-up is smaller than the dress-form, and yet they must still stay vertical!</p>
 <p><strong>This is how I imitate my client's figure.</strong> You can always double-check all dimensions. Practice makes perfect and with time you will develop a good understanding of peculiarities related to non-standard body types. After sewing several dresses, you will be experienced enough to notice peculiar features of your client's body via Skype.</p>
 <p><strong>The key challenge of sewing for a long distance client lies solely in choosing the right sewing technique.</strong> But then again, it is just as important when you work with someone in person. There are no doubts that seeing your client face to face helps you adjust the garment sooner because you will notice all flaws during an intermediate fitting. For this reason, I always recommend beginners should first practice sewing for clients whom they can meet with personally until they feel confident enough to accept long distance orders. Needless to say, there is absolutely nothing to be worried about when you work with well-proportioned women!</p>
 <p>Now you have seen my regular display foam dress-form, perfect for handiwork, for imitating different figures, and for carrying out virtual fittings with a mock-up.&nbsp; You need to have at least two such dress-forms. <strong>As you can see in the picture, I have another one of just the same size. </strong>The fabric casing needs to be changed from time to time because it tends to get dirty. It can be sewn with any plain knit fabric.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%201_files/image006.jpg" alt=""></p>
-<p><strong>And now let me show you my favourite beauty – a professional size-8 dress-form! Look what a wonderful shape! Nearly perfect!&nbsp; </strong></p>
+<p><strong>And now let me show you my favourite beauty - a professional size-8 dress-form! Look what a wonderful shape! Nearly perfect!&nbsp; </strong></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%201_files/image008.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%201_files/image010.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%201_files/image012.jpg" alt=""></p>
@@ -266,7 +266,7 @@
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%201_files/image022.jpg" alt=""></p>
 <p><strong>- It is very heavy.</strong> But it is also an advantage because the dress-form stands firmly and it is hard to knock it down by accident. This makes it perfect for working on full, heavy wedding dresses!</p>
 <p><strong>But the main disadvantage of a professional dress-form is its price!</strong> It will cost minimum 400 USD (I have compared prices from various online stores).</p>
-<p><strong>Professional dress-forms are available in a wide range of sizes: from 6 to 20. </strong>&nbsp;Of course, famous fashion houses and rich sewing ateliers are equipped with dress-forms of all possible sizes because they are a great help, and especially when you work with custom orders. Small private ateliers obviously cannot afford a full range of dress-forms, both financially and in terms of available work space. As for me, I bought a single professional size-8 dress-form – it is the most popular size, very easy to work with!</p>
+<p><strong>Professional dress-forms are available in a wide range of sizes: from 6 to 20. </strong>&nbsp;Of course, famous fashion houses and rich sewing ateliers are equipped with dress-forms of all possible sizes because they are a great help, and especially when you work with custom orders. Small private ateliers obviously cannot afford a full range of dress-forms, both financially and in terms of available work space. As for me, I bought a single professional size-8 dress-form - it is the most popular size, very easy to work with!</p>
 <p><strong>In conclusion, I would like to warn you against a big mistake made by basically all beginners (as follows from your E-mails and forum posts)!</strong></p>
 <p><strong>They tend to start from the wrong thing</strong>: they buy expensive high quality equipment first and only then do they start searching for clients and buying various teaching materials.</p>
 <p><strong>Please understand that this is totally wrong! </strong></p>
@@ -284,7 +284,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

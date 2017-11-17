@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -228,7 +228,7 @@
 <p><strong>I have here scraps of beaded lace, soutache lace, and another type of soutache lace with particularly soft and delicate mesh fabric foundation.</strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2036_files/image002.jpg" alt=""></strong></p>
-<p><strong>If you take a closer look at the motifs on different lace fabrics with the same texture, you will notice that they are often very similar (especially when embroidered with similar seed beads, bugle beads, or sequins).</strong> Even when the motifs themselves are different (for example, I have roses on one scrap and some fantasy flowers on the other), you can cut them out and combine them on the garment – no one will ever guess that they come from different lace fabrics. These pieces match each other perfectly because the texture is nearly the same in all of them: same thread, same mesh fabric foundation, same colour of beads.</p>
+<p><strong>If you take a closer look at the motifs on different lace fabrics with the same texture, you will notice that they are often very similar (especially when embroidered with similar seed beads, bugle beads, or sequins).</strong> Even when the motifs themselves are different (for example, I have roses on one scrap and some fantasy flowers on the other), you can cut them out and combine them on the garment - no one will ever guess that they come from different lace fabrics. These pieces match each other perfectly because the texture is nearly the same in all of them: same thread, same mesh fabric foundation, same colour of beads.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2036_files/image004.jpg" alt=""></p>
 <p><strong>I have some scraps of beaded soutache lace and others with no beads or sequins on them. I will need both for my appliqué. </strong></p>
 <p><strong><br>
@@ -242,7 +242,7 @@
 <p><strong>Firstly,</strong> remember to thoroughly press your lace fabric before cutting out individual motifs! It will make the process a lot easier.</p>
 <p><strong>Secondly,</strong> as I mentioned before, sometimes lace fabric has such a delicate foundation that a cut out motif turns out so soft that it is really hard to glue or sew it in place. But what if you really want to use that very motif! Look at this little rose for example!</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2036_files/image012.jpg" alt=""></p>
-<p><strong>Here is what I do in such cases.</strong> I take a piece of euromesh or a scrap of mesh fabric left from the petticoat, put it on the glass plate, put the desired motif on top of it, and cut it out with the pyrography tool together with the mesh fabric. The mesh fabric backing will get fused with the motif. The flower will become stiffer and denser – more suitable for appliqué. If you simply cut it out with scissors, it will be too soft and you will have lots of trouble working with it.</p>
+<p><strong>Here is what I do in such cases.</strong> I take a piece of euromesh or a scrap of mesh fabric left from the petticoat, put it on the glass plate, put the desired motif on top of it, and cut it out with the pyrography tool together with the mesh fabric. The mesh fabric backing will get fused with the motif. The flower will become stiffer and denser - more suitable for appliqué. If you simply cut it out with scissors, it will be too soft and you will have lots of trouble working with it.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2036_files/image014.jpg" alt=""></p>
 <p><strong>I take my pyrography tool and start cutting out selected lace motifs.</strong></p>
 <p><strong>Here is a rather complicated motif of soutache lace with a mesh fabric foundation.</strong> For your consideration, it took me less than a minute to cut it out with this tool.</p>
@@ -278,7 +278,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

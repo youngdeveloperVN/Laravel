@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -222,11 +222,11 @@
 </span> <!-- Scope END: ImageObject -->
 <div itemprop="articleBody">
 <h1>Tutorial 32. Sewing a Mock-Up Top. Calculating the Mesh Skirts.</h1>
-<p><strong>I have sewn a mock-up top and put it on the main dress.</strong> It fits very well! I have carefully examined the back and the front – both are perfect!</p>
+<p><strong>I have sewn a mock-up top and put it on the main dress.</strong> It fits very well! I have carefully examined the back and the front - both are perfect!</p>
 <p><strong>Instead of sewing the side seams, I simply mark the exact positions of front and back side seam lines and pin the pieces together along them. The seam allowance is 2cm. </strong></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2032_files/image002.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2032_files/image004.jpg" alt=""></p>
-<p><strong>Before marking shoulder straps at the front and at the back of the top, I take all measurements again:</strong> both the ones I could not take off the initial pattern, as well as the ones I had taken before – just to double-check them. Now I can replace those question marks in the table with actual values.</p>
+<p><strong>Before marking shoulder straps at the front and at the back of the top, I take all measurements again:</strong> both the ones I could not take off the initial pattern, as well as the ones I had taken before - just to double-check them. Now I can replace those question marks in the table with actual values.</p>
 <p><strong>Next, I start working on the shoulder straps. </strong></p>
 <p><strong>I have noticed that the shoulder straps are positioned in the middle of the shoulder on the mock-up</strong> as they would be on a summer singlet dress. <strong>But I want them to cover up the bride's shoulder tips. </strong></p>
 <p><strong>I have measured Shoulder to Shoulder across the front of the top and here is what I think:</strong> I need to add 2cm to this measurement to position the shoulder straps the way I want. All other measurements are correct.</p>
@@ -245,10 +245,10 @@
 <img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2032_files/image010.jpg" alt=""></strong></p>
 <p><strong>Mine are all taken 6cm from the waistline. </strong></p>
 <p><strong>Here are the measurements I take off the main assembled dress: </strong></p>
-<p><strong>Waist Circumference</strong> – relative waist circumference taken 6cm from the actual waistline – <strong>86cm;</strong></p>
-<p><strong>Skirt Length Front</strong> – <strong>118cm;</strong></p>
-<p><strong>Skirt Length Side</strong> – <strong>120cm;</strong></p>
-<p><strong>Skirt Length Back</strong> (small train included) – <strong>145cm.</strong></p>
+<p><strong>Waist Circumference</strong> - relative waist circumference taken 6cm from the actual waistline - <strong>86cm;</strong></p>
+<p><strong>Skirt Length Front</strong> - <strong>118cm;</strong></p>
+<p><strong>Skirt Length Side</strong> - <strong>120cm;</strong></p>
+<p><strong>Skirt Length Back</strong> (small train included) - <strong>145cm.</strong></p>
 <p><strong>I use a plain formula for calculating the circumference of a circle:</strong></p>
 <p><strong>2πR = WC = 86cm, </strong>where</p>
 <p><strong>π</strong> = 3.14 (invariable value) and <strong>R</strong> = the radius I will mark during the cutting.</p>
@@ -273,7 +273,7 @@
 <p><strong>WARNING: remember to mark a seam allowance along the top edge when cutting the skirt! </strong></p>
 <p>Mine will be 1.5cm.</p>
 <p><strong>In this case, I need to cut it with the following radius: </strong></p>
-<p><strong>Rmax1 = 30cm – 1.5cm = 28.5cm.</strong></p>
+<p><strong>Rmax1 = 30cm - 1.5cm = 28.5cm.</strong></p>
 <p><strong>There is no need in adding a seam allowance along the bottom edge because I will simply trim the hem! </strong></p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -285,7 +285,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

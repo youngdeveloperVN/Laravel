@@ -570,7 +570,7 @@
 						<p>
 							<strong>Smaller tips are used with rhinestones of particular
 								sizes.</strong> Some of them have an indentation for
-							accommodating the rhinestone and others don't – you simply press
+							accommodating the rhinestone and others don't - you simply press
 							the rhinestone down whenever it becomes hot enough. SS34 tip, for
 							example, is used with ss34 (7mm) rhinestones. The same tip can be
 							used with ss40 rhinestones. Just make sure the size of your

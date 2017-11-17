@@ -242,7 +242,7 @@
 <h2>Tutorial 10. Assembling the One-Colored Central Front Part.</h2>
 <p></p>
 <p><strong>Now it’s time to begin assembling the central part of our corset front. </strong>I unpin the pieces, lay them out and study the way they should be joined. </p>
-<p><strong>First of all I’m going to finish the top edge of the central body piece, i.e. the part that’s going to be located between the cups. </strong>I press the seam allowance flat, <strong>take a narrow Rigilene bone and sew it on. </strong>Be careful not to skew the stitch – it won’t look nice. </p>
+<p><strong>First of all I’m going to finish the top edge of the central body piece, i.e. the part that’s going to be located between the cups. </strong>I press the seam allowance flat, <strong>take a narrow Rigilene bone and sew it on. </strong>Be careful not to skew the stitch - it won’t look nice. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2010_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>I wrap the bone pulling the fabric carefully over it and make a strengthening stitch. </strong>This is the underside of the central piece. I leave the tips of the bone ‘as is’ for now. </p>
@@ -259,7 +259,7 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2010_files/image010.jpg" class="img-responsive center-block"></p>
-<p><strong>I sew the opposite princess seam the same way matching the central piece and the other side piece of the front underside to underside. </strong>When you’re topstitching the seam allowance, direct it wherever you have directed your first one (in my case – towards the central piece). Make sure not to pull the fabric too tight. </p>
+<p><strong>I sew the opposite princess seam the same way matching the central piece and the other side piece of the front underside to underside. </strong>When you’re topstitching the seam allowance, direct it wherever you have directed your first one (in my case - towards the central piece). Make sure not to pull the fabric too tight. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2010_files/image012.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -282,7 +282,7 @@
 <p><strong>Trim the excess off the strap length, pull it up slightly and fold it over the other edge of the bone. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2010_files/image024.jpg" class="img-responsive center-block"></p>
-<p>That’s all – the bone is encased in fabric. We have a ready tunnel. <strong>It’s important to check if a plastic bone fits into it. </strong>Since the fabric is non-elastic, there’s a risk of making the tunnel too narrow for a plastic bone. But in our case it’s fine! </p>
+<p>That’s all - the bone is encased in fabric. We have a ready tunnel. <strong>It’s important to check if a plastic bone fits into it. </strong>Since the fabric is non-elastic, there’s a risk of making the tunnel too narrow for a plastic bone. But in our case it’s fine! </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2010_files/image026.jpg" class="img-responsive center-block"></p>
 <p>I place the finished bone over the princess seam slightly overlaying its stitch line to conceal it. <strong>I start sewing right through the stitch that attaches the fabric casing to the bone. </strong>There shouldn’t be any additional stitches on this bone/tunnel. Try to repeat the existing one! Pull the fabric to yourself to spread the princess seam. It has been somewhat drawn-in by all these stitches and now you should restore its original shape. </p>
@@ -291,7 +291,7 @@
 <p><strong>Make a stitch along the other edge of the bone and remember to spread the fabric carefully. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2010_files/image030.jpg" class="img-responsive center-block"></p>
-<p><strong>I stitch a bone over the second princess seam exactly the same way. </strong>I conceal the stitch underneath the bone, pull the fabric to myself, spread the pieces and trim the bone at the end. Make sure to spread the fabric underneath the bone very carefully – there should be no bubbles. </p>
+<p><strong>I stitch a bone over the second princess seam exactly the same way. </strong>I conceal the stitch underneath the bone, pull the fabric to myself, spread the pieces and trim the bone at the end. Make sure to spread the fabric underneath the bone very carefully - there should be no bubbles. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2010_files/image032.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -311,7 +311,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

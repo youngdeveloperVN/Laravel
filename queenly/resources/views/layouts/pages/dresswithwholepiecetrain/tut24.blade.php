@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -355,7 +355,7 @@
 <p><strong>First of all we need to mark the location of holes for the grommets. </strong>The intervals between them should not exceed 4cm. </p>
 <p>Moreover: the larger the garment is the smaller the intervals should be, i.e. <strong>there is an inverse proportion between the size of the garment and the intervals between the grommets. </strong></p>
 <p>The more full-bodied the woman is the higher degree of tightening the garment requires. Therefore there should be smaller intervals between the grommets. This will help preserve the shape of the back and protect it from deformation. </p>
-<p>And vice versa – the smaller the garment is the less tightening is required, so you can make larger intervals between the grommets. </p>
+<p>And vice versa - the smaller the garment is the less tightening is required, so you can make larger intervals between the grommets. </p>
 <p><strong>I step 1.2-1.5cm from the top of the bar and measure the length of the grommets section. </strong></p>
 <p><strong>It is 24cm long. </strong></p>
 <p>
@@ -363,7 +363,7 @@
 <p><strong>Since the size of our dress isn’t big, I decide to use 4cm intervals. I make corresponding markings. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2024_files/image004.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>I set the hole-cutting die onto my hand press and punch the holes according to the markings. </strong>&nbsp;I highly recommend placing a piece of cardboard underneath the fabric – it will make the holes cleaner. </p>
+<p><strong>I set the hole-cutting die onto my hand press and punch the holes according to the markings. </strong>&nbsp;I highly recommend placing a piece of cardboard underneath the fabric - it will make the holes cleaner. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2024_files/image006.jpg" class="img-responsive center-block"></p>
 <p><strong>I punch perfectly symmetric holes on the other lacing bar. </strong>I simply put the first bar over the second one, match their edges precisely, and mark reference points through the holes punched in the first lacing bar. </p>
@@ -402,7 +402,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

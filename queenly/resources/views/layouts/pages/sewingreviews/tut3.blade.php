@@ -136,7 +136,7 @@
 <p>And this design is dedicated to all who are fond of buttons. Bobbinet fabric that stretches only vertically is embellished with corded motifs and rhinestones. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/fancy-back%20text_files/image007.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\English\texts for translate\fancy-back\Sequence 02.00_01_43_06.Still006.jpg"> </p>
-<p>This is a clever idea for a really low-cut dress back that can’t do without supporting straps – you imitate a short shrug and disguise the lacing area with a flower to restrict the waist without demonstrating the lacing. </p>
+<p>This is a clever idea for a really low-cut dress back that can’t do without supporting straps - you imitate a short shrug and disguise the lacing area with a flower to restrict the waist without demonstrating the lacing. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/fancy-back%20text_files/image008.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\English\texts for translate\fancy-back\Sequence 02.00_02_02_12.Still007.jpg"> </p>
 <p>This dress has a gorgeous back rich in beads and rhinestones. But you should know that this model can’t be based on a corset. It can be a bodice-reinforced dress at the very best since it is zipped up from the side. Please warn your client in advance that she won’t be able to put this dress on with her hair done. She’ll need to get dressed first and then have her hair styled. </p>
@@ -148,7 +148,7 @@
 <p>Here is a lovely idea for an open-back dress: crossed straps provide additional bust support. You need to prepare separate patterns in order to make straps like this, i.e. you need to draw them and cut them out individually. The straps can be draped only when they’re finished. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/fancy-back%20text_files/image014.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\English\texts for translate\fancy-back\Sequence 02.00_03_06_00.Still010.jpg"> </p>
-<p>And another variation of a dress with halter-neck straps and a stand-up collar. Don’t try to choose lace elements with a ready border. It’s done the other way round – you cut patterns out of bobbinet fabric, sew them and then attach the border. Moreover, please notice that the lace motifs on the opaque part of the dress are appliquéd over bobbinet fabric. That’s called final decoration of a ready dress. </p>
+<p>And another variation of a dress with halter-neck straps and a stand-up collar. Don’t try to choose lace elements with a ready border. It’s done the other way round - you cut patterns out of bobbinet fabric, sew them and then attach the border. Moreover, please notice that the lace motifs on the opaque part of the dress are appliquéd over bobbinet fabric. That’s called final decoration of a ready dress. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/fancy-back%20text_files/image016.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\English\texts for translate\fancy-back\Sequence 02.00_03_38_11.Still011.jpg"> </p>
 <p>This model is only suitable for women with small breasts. Since the back is open and the straps are used for a purely decorative purpose, the dress is hardly secured in place.</p>
@@ -164,7 +164,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/fancy-back%20text_files/image021.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\English\texts for translate\fancy-back\Sequence 02.00_04_19_24.Still015.jpg"> </p>
 <p>Here is another way you can use a whole sheet of lace fabric. But in this case the fastener is located on the side of the dress, which can be either bodice-reinforced or soft. </p>
-<p>And this dress provides a nice creative way to cover upper arms: it is not a shawl, neither a throw-over nor sleeves. Please note that the drapery is imitated by separate straps of fabric – it makes the sewing process a lot easier and creates a particular effect. </p>
+<p>And this dress provides a nice creative way to cover upper arms: it is not a shawl, neither a throw-over nor sleeves. Please note that the drapery is imitated by separate straps of fabric - it makes the sewing process a lot easier and creates a particular effect. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/fancy-back%20text_files/image022.jpg" class="img-responsive center-block" alt="Description: E:\Corset Academy\English\texts for translate\fancy-back\Sequence 02.00_04_32_11.Still016.jpg"> </p>
 <p>This is a perfect idea for those who think big instead of limiting their imagination to a vertical row of buttons. I personally love teardrop closures regardless of their size. They look delicate and feminine, they are neat and convenient and at the same time you can add slim straps for better fitting to the body. Lace appliqué will cover up any problem areas. </p>
@@ -182,7 +182,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/Corset_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Free Corset Sewing Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/shrug_bolero_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Bolero (Shrug) Sewing Pattern</a><br>						
 					</div>

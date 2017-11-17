@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -305,7 +305,7 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%209_files/image004.jpg" class="img-responsive center-block"></p>
-<p><strong>As you can see below</strong>, I tried my best to align the squares on the paper. Don't worry about blank borders left by your printer. Don't trim them – simply get the squares aligned and everything will work out well.</p>
+<p><strong>As you can see below</strong>, I tried my best to align the squares on the paper. Don't worry about blank borders left by your printer. Don't trim them - simply get the squares aligned and everything will work out well.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%209_files/image006.jpg" class="img-responsive center-block"></p>
 <p><strong>After gluing the pieces together you will get a large skirt pattern. </strong>It’s good enough for further work. </p>
@@ -343,7 +343,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%209_files/image026.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>Let me remind you:</strong> there are 2cm seam allowances in the middle of the back, where the zipper and the lacing will be installed, as well as along the side edges and all side seams. The seam allowances at the top, along the entire neck hole, and along all princess seams are 1.2cm (0.5 inches) each. </p>
 <p><strong>I will cut the stiff iron-on fabric later</strong>, after finalizing the shape of the cut-out pieces. </p>
-<p><strong>Look what we need to do now.</strong> I will pin together the marked pieces – simply to prevent the layers of fabric from shifting. </p>
+<p><strong>Look what we need to do now.</strong> I will pin together the marked pieces - simply to prevent the layers of fabric from shifting. </p>
 <p>Moreover, it is likely that <strong>we will have to re-draw the pattern of the back from the opposite side.</strong> And here is why! Since the dress will feature a bell-shaped skirt, it simply makes more sense to spare fabric by placing the pieces next to each other in a head-to-tail fashion. </p>
 <p><strong>I have cut through the bottom line of the pieces and now I will cut the batiste up into two large pieces: the front and the back.</strong> </p>
 <p>
@@ -367,7 +367,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

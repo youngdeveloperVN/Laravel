@@ -413,7 +413,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

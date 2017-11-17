@@ -219,7 +219,7 @@
 <h1>Tutorial 13. Marking Guidelines and Putting the Rest of Scales on the Train.</h1>
 <p><strong>Let us return to the scales layout on the writing board. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Tutorial%2013.files/image002.jpg" alt=""></p>
-<p><strong>I have already put scales along the first five guidelines (1 – 5).</strong></p>
+<p><strong>I have already put scales along the first five guidelines (1 - 5).</strong></p>
 <p><strong>Now I will transfer guidelines (6), (7), (8), and (9) on the fabric and put decorative scales along them. </strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Tutorial%2013.files/image004.jpg" alt=""></strong></p>
@@ -314,7 +314,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>In each file the pattern is divided to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%201.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Skirt Pattern 1</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern 2</a><br>						

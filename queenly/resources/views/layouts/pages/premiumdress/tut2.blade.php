@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -333,10 +333,10 @@
 <p>These measurements indicate the configuration of the side seam line on the pattern customized after client's measurements.</p>
 <p><strong>Let us determine the configuration of the front side seam line.</strong>&nbsp; All calculated values are written in column 3.</p>
 <p><strong>Bust front measurement</strong> is 46cm on the client and 48cm on the pattern.</p>
-<p><strong>46cm – 48cm = -2cm</strong></p>
+<p><strong>46cm - 48cm = -2cm</strong></p>
 <p>The pattern is 2cm larger than needed. I divide the value in half because there are two side seams. As the result, <strong>I need to remove 1cm from either side of the pattern</strong>.</p>
 <p><strong>Under-bust front</strong> is 40cm on the client and 38cm on the pattern.</p>
-<p><strong>40cm – 38cm = 2cm</strong></p>
+<p><strong>40cm - 38cm = 2cm</strong></p>
 <p>This time the pattern is 2cm smaller than it should be. I divide the value in half. As the result, <strong>I need to widen the pattern by 1cm from either side</strong>.</p>
 <p><strong>As you can see, I got two absolutely opposite results for the first two measurements: -1cm and +1cm. </strong></p>
 <p><strong>I will know how to change the front side seam line of the standard pattern after analyzing the rest of the measurements.</strong> Most measurements of the standard pattern are larger than the ones taken off the client. The only exception is the under-bust circumference (the measurements coincide). It makes sense, in this case, to shift the entire side seam line of the standard pattern inwards by a fixed value: for example, 1cm. <strong>I write the pre-estimated adjustment value of -1cm into column 3.</strong> I will define precise adjustments to the front side seam line in further calculations.</p>
@@ -347,16 +347,16 @@
 <p>In this case, this measurement is taken from the bust apex point to the armscye (clip 1) and from the bust apex point up along the princess seam (clip 2). The second clip measurement roughly determines the length of the cup.</p>
 <p><strong>- Clip 1 </strong>measurements coincide and <strong>I write a zero in the table.</strong></p>
 <p><strong>- Clip 2</strong> is 6cm on the client and 8.5cm on the pattern.</p>
-<p><strong>6cm – 8.5cm = -2.5cm</strong></p>
+<p><strong>6cm - 8.5cm = -2.5cm</strong></p>
 <p>The cup is 2.5cm taller than needed. <strong>I write -2.5cm in the table.</strong></p>
 <p><strong>Front neck depth (taken from the bust line)</strong> is 5cm on the client and 7.5cm on the pattern.</p>
-<p><strong>5cm – 7.5cm = -2.5cm</strong></p>
+<p><strong>5cm - 7.5cm = -2.5cm</strong></p>
 <p>The front neck depth is 2.5cm larger than needed. <strong>I write -2.5cm in the table.</strong></p>
 <p><strong>Side length</strong> is 19cm on the client and 20cm on the pattern.</p>
-<p><strong>19cm – 20cm = -1cm</strong></p>
+<p><strong>19cm - 20cm = -1cm</strong></p>
 <p>The side length measurement is 1cm bigger than needed. <strong>I write the pre-estimated value of -1cm in the table. I will double check it when building the pattern. </strong></p>
 <p><strong>Blade height back </strong>is 20cm on the client and 18cm on the pattern.</p>
-<p><strong>20cm – 18cm = 2cm</strong></p>
+<p><strong>20cm - 18cm = 2cm</strong></p>
 <p>Since the blade height back measurement is 2cm smaller on the pattern than on the client, there is no risk of skin bulging over the back neckline. No changes needed. <strong>I write dashes in the table.</strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%201_files/image006.jpg" alt=""></strong></p>
@@ -366,27 +366,27 @@
 <p><strong>Bust circumference </strong>is 86cm on the client and 92cm on the pattern.</p>
 <p>But I have already adjusted the pattern down by 1cm from either side, i.e. a total of 2cm.</p>
 <p><strong>92cm - 2cm = 90cm</strong></p>
-<p><strong>86cm – 90cm = -4cm</strong></p>
+<p><strong>86cm - 90cm = -4cm</strong></p>
 <p>I divide the value in half. As a result, <strong>I need to narrow the back by 2cm from either side.</strong> I write -2cm in the table.</p>
 <p><strong>Under-bust circumference </strong>is 78cm on the client and 78cm on the pattern.</p>
 <p>But I have already adjusted the pattern down by 1cm from either side, i.e. a total of 2cm.</p>
 <p><strong>78cm- 2cm= 76cm</strong></p>
-<p><strong>78cm – 76cm = 2cm</strong></p>
+<p><strong>78cm - 76cm = 2cm</strong></p>
 <p>Again, I divide it in half. As the result, <strong>I need to widen the pattern by 1cm from either side. I write 1cm in the table.</strong></p>
 <p><strong>Waist circumference</strong> is 68cm on the client and 72cm on the pattern.</p>
 <p>But I have already adjusted the pattern down by 1cm from either side, i.e. a total of 2cm.</p>
 <p><strong>72cm- 2cm= 70cm</strong></p>
-<p><strong>68cm – 70cm = -2cm</strong></p>
+<p><strong>68cm - 70cm = -2cm</strong></p>
 <p>I divide it in half. As the result, <strong>I need to remove 1cm from either side of the pattern. I write -1cm in the table.</strong></p>
 <p><strong>Stomach circumference</strong> is 80cm on the client and it is 88cm on the pattern.</p>
 <p>I have already adjusted the pattern down by 1cm from either side, i.e. a total of 2cm. Therefore:</p>
 <p><strong>88cm- 2cm= 86cm</strong></p>
-<p><strong>80cm – 86cm = -6cm</strong></p>
+<p><strong>80cm - 86cm = -6cm</strong></p>
 <p>I divide the value in half. As the result, <strong>I need to remove 3cm from either side of the pattern. I write -3cm in the table.</strong></p>
 <p><strong>Hip circumference</strong> is 98cm on the client and 100cm on the pattern.</p>
 <p>But I have already adjusted the pattern down by 1cm from either side, i.e. a total of 2cm.</p>
 <p><strong>100cm- 2cm= 98cm</strong></p>
-<p><strong>98cm – 98cm = 0cm</strong></p>
+<p><strong>98cm - 98cm = 0cm</strong></p>
 <p><strong>It follows that the pattern meets my client's measurement in the hips. I write a zero in the table.</strong></p>
 <p><strong>Bust middle, clip, front neck depth, and blade height back are not involved in the calculations of the back side seam line. I write dashes in the table. </strong></p>
 <p><strong>The pre-estimated adjustment to the side length measurement stays the same. I write -1cm in the table.</strong></p>
@@ -394,7 +394,7 @@
 <p><strong>Judging by the values in the Side Seam Back column, the back side seam line resembles a zigzag. </strong></p>
 <p><strong>I have to apply alterations to the front and the back princess seams to even out the side seam line.</strong></p>
 <p><strong>There is a significant difference though, between my new pattern and the classic corset pattern I used before, where front and back princess seams were straight and ran from the top all the way down to the bottom.</strong></p>
-<p><strong>With the old pattern,</strong> I could adjust the front princess seams only in the waist, stomach, and hips, and the back princess seams – along their full length, i.e. in the bust, under the bust, in the waist, stomach, and hips.</p>
+<p><strong>With the old pattern,</strong> I could adjust the front princess seams only in the waist, stomach, and hips, and the back princess seams - along their full length, i.e. in the bust, under the bust, in the waist, stomach, and hips.</p>
 <p><strong>The situation becomes somewhat different with the new pattern.</strong> The princess seams between the intermediate front pieces and the side front pieces allow for adjustments at the level of the under-bust line, the waistline, and the stomach line.</p>
 <p><strong>I cannot change anything at the hip line level though</strong> because it is exactly where the front princess seams acquire their semi-circle shape. It is where they meet the intermediate front princess seams.</p>
 <p>I can't change anything at the hip line level because, if I do, I will have to change the configuration of the entire pattern and the shape of the princess seams.</p>
@@ -415,8 +415,8 @@
 <p><strong>I start from the bust line.</strong> During calculations, I must also remember to account for bust front and under- bust front adjustments to determine whether I need to apply changes to the intermediate princess seam lines at the front and the back of the dress or solely at the back.</p>
 <p><strong>Back to the bust line.</strong> It is 86cm on the client and 92cm on the pattern.</p>
 <p>I have, however, already adjusted the pattern down by shifting the front side seam line 1cm inwards from either side, i.e. a total of 2cm (column 3, line 1), and by doing the same with the adjusted back side seam line (column 4, line 3).&nbsp; In other words, I have adjusted the pattern down by 4cm.</p>
-<p><strong>92cm – 4cm = 188cm</strong></p>
-<p><strong>86cm – 88cm = -2cm</strong></p>
+<p><strong>92cm - 4cm = 188cm</strong></p>
+<p><strong>86cm - 88cm = -2cm</strong></p>
 <p>As you can see, I need to adjust it down by another 2cm by applying changes to the princess seams at the front and at the back of the dress. I have already removed 1cm from the bust front measurement at the bust line level to even out the side seam lines of the front and the back half of the dress, so I will remove this excess 2cm using only the back princess seams, i.e. <strong>without touching the front princess seams </strong>.</p>
 <p>There are two princess seams and therefore four raw edges at the back of the dress.</p>
 <p><strong>-2cm / 4 = -0.5cm</strong></p>
@@ -428,22 +428,22 @@
 <p><strong>-2cm / 4 = -0.5cm</strong></p>
 <p>Now I need to calculate necessary adjustments to the back princess seams to bring the pattern measurement up to my client's measurement (78cm).</p>
 <p>The standard pattern has been adjusted down: the front side seam line has been shifted 1cm inwards from either side (2cm total), and the same thing has been done to the back side seam line. I have added 2cm using the intermediate front princess seams though.</p>
-<p><strong>78cm– 2cm – 2cm + 2cm = 76cm</strong></p>
-<p><strong>78cm – 76cm = 2cm</strong></p>
+<p><strong>78cm- 2cm - 2cm + 2cm = 76cm</strong></p>
+<p><strong>78cm - 76cm = 2cm</strong></p>
 <p>As you can see, I need to add 2cm to the standard pattern using the back princess seams.</p>
 <p><strong>-2cm / 4 = -0.5cm</strong></p>
 <p><strong>I need to shift the front and the back princess seams 0.5cm outwards at the under-bust level. I write it in the table (columns 7 and 8, line 4).</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%201_files/image018.jpg" alt=""></p>
 <p><strong>Waistline.</strong> It is 68cm on the client and 72cm on the pattern.</p>
 <p>The standard pattern has been adjusted down: the front side seam line has been shifted 1cm inwards from either side (2cm total), and the same thing has been done to the back side seam line. In other words, I have made it 4cm smaller.</p>
-<p><strong>72cm – 4cm = 68cm</strong></p>
-<p><strong>68cm– 68cm= 0cm</strong></p>
+<p><strong>72cm - 4cm = 68cm</strong></p>
+<p><strong>68cm- 68cm= 0cm</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%201_files/image020.jpg" alt=""></p>
 <p>I have already arrived at my client's measurement so I don't need to remove anything in the front or the back princess seams here. <strong>I put a zero in line 5 of columns 7 and 8.</strong></p>
 <p><strong>Let's move to the stomach line.</strong> My client’s measurement is 80cm and it is 88cm on the pattern.</p>
 <p>Again, the standard pattern has been adjusted down by a total of 4cm: the front side seam line has been shifted 1cm inwards from either side (2cm total), and the same thing has been done to the back side seam line.</p>
-<p><strong>88cm – 4cm = 84cm</strong></p>
-<p><strong>80cm – 84cm = -4cm</strong></p>
+<p><strong>88cm - 4cm = 84cm</strong></p>
+<p><strong>80cm - 84cm = -4cm</strong></p>
 <p>As you can see, I need to remove another 4cm by applying changes to the princess seam lines at the front and at the back of the dress. If I want to do it using the intermediate front and back princess seams, then I am supposed to divide 4cm between the eight raw edges and shift each princess seam line 0.5cm inwards.</p>
 <p><strong>-4cm / 8 = -0.5cm</strong></p>
 <p>In this case though, the back princess seams will bend way too abruptly in the area between the waistline and the stomach line, which may result in a poor fit of the dress. I will use both the main and the intermediate princess seams on the front half of the dress alongside the back princess seams to solve this problem. This way I can distribute the total value of 4cm between 12 raw edges.</p>
@@ -467,7 +467,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

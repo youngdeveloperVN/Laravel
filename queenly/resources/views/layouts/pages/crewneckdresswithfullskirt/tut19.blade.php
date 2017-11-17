@@ -253,7 +253,7 @@
 <ul>
 <li>The primary&nbsp;technique for sewing&nbsp;corset-based sleeveless crew-neck dress with individually cut collar and full skirt.</li>
 <li>In the&nbsp;tutorial “Altering the pattern" (tutorial 5) &nbsp;I explain how to adjust the patterns and to cut the dress. This knowledge erases the limitations and makes this course universal for sewing unlimited variety of styles of wedding and evening dresses with&nbsp;crew-neck, with or without collar.</li>
-<li>In this course explained how to work with f fabrics with different texture: taffeta – “capricious" and hard to work with fabric, tulle nets of different hardness.</li>
+<li>In this course explained how to work with f fabrics with different texture: taffeta - “capricious" and hard to work with fabric, tulle nets of different hardness.</li>
 <li>The technique of connecting of the corset to the fluffy skirt.</li>
 <li>Making fasteners on the back: zipper on the skirt and lacing on the corset.</li>
 <li>Special attention is paid to choice of the length of the corset in this kind of garments. Precaution from the mistakes made by beginners.</li>
@@ -352,7 +352,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%2019_files/image004.png" class="img-responsive center-block"></p>
 <p><strong>&nbsp;= 22cm. </strong></p>
 <p><strong>For the first skirt:</strong></p>
-<p>Let's gather about two times the initial length – the waist circumference will then be about 140cm. </p>
+<p>Let's gather about two times the initial length - the waist circumference will then be about 140cm. </p>
 <p><strong>R = </strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%2019_files/image006.png" class="img-responsive center-block"></p>
 <p><strong>&nbsp;= 44cm.</strong></p>
@@ -433,7 +433,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%2019_files/image046.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>My cutting method is really fast and efficient!</strong> </p>
 <p><strong>However I know it from my own experience that you might have troubles folding the fabric correctly before cutting out the skirts. That's why I'm going to demonstrate the entire skirt cutting process once more on a paper mock-up. </strong></p>
-<p><strong>Imagine that this piece of paper folded in half is the fabric that you've folded in half. </strong>The fold line is on the left and the selvages are at the top and down the bottom.&nbsp; The main skirt is cut against corner A and the lining skirt – against corner B. </p>
+<p><strong>Imagine that this piece of paper folded in half is the fabric that you've folded in half. </strong>The fold line is on the left and the selvages are at the top and down the bottom.&nbsp; The main skirt is cut against corner A and the lining skirt - against corner B. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%2019_files/image048.jpg" class="img-responsive center-block"></p>
 <p><strong>I take the top left corner of the fabric and bring it down to make another new fold line passing through the middle of corner A. Then I fold it once more to make a kind of a flat cone. </strong></p>
@@ -468,7 +468,7 @@
 <p><strong>I cut it out. Here is the lining skirt:</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%2019_files/image067.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>We have cut two skirts using just 2m of fabric – very efficient consumption!</strong></p>
+<p><strong>We have cut two skirts using just 2m of fabric - very efficient consumption!</strong></p>
 <p><strong>The inner skirt sewn in-between the layers of taffeta will be made of special nylon netting for skirts. </strong>This netting is 3m wide and it only stretches crosswise. <strong>I'm going to cut three rectangles: each 3m long and 55cm wide sticking by the length of the lining skirt.&nbsp; </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%2019_files/image069.jpg" class="img-responsive center-block"></p>
@@ -485,7 +485,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/dress2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress sewing pattern</a><br>						
 					</div>
 

@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -330,7 +330,7 @@
 <p><strong>I repeat the same procedures from the other side.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%206_files/image019.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>Now let's work on the next piece – the side front piece. </strong></p>
+<p><strong>Now let's work on the next piece - the side front piece. </strong></p>
 <p><strong>I put down and trace the standard pattern.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%206_files/image021.jpg" class="img-responsive center-block"></strong></p>
@@ -365,7 +365,7 @@
 <p><strong>Let's take the standard pattern and put it to the newly marked points. </strong>We’ll see what we get. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%206_files/image039.jpg" class="img-responsive center-block"></p>
-<p><strong>We need to prolong the side seam upwards to preserve the shape of the armscye.</strong> It's why I highly recommend you should make an under-bust dart on large-size garments, equal to the value by which you prolong the side seam. This dart will ensure better fitting in the bust and help eliminate wrinkles on the finished garment. We don't need to worry about those wrinkles in this particular case since the top part of the dress will be draped. If you were sewing a clean smooth-surface dress though, it would naturally ask for this dart. This issue raises many debates. Some people don't like seeing a horizontal seam on the face of the dress. As for me, I see nothing wrong with it. A seam is definitely better than wrinkles. Experienced seamstresses, who have been dealing with corset-based garments for years, often re-distribute this dart from up to down. They manage to distribute the fabric smoothly but – mind you – only very skilled professionals, who are well acquainted with fabric properties, are capable of doing this. They just have a good feel of the fabric: they can tell how to re-arrange the face without making a dart in that place. I recommend all beginner seamstresses should simply use it. You might be able to do without it one day but first you need to become absolutely confident in working with fabric. </p>
+<p><strong>We need to prolong the side seam upwards to preserve the shape of the armscye.</strong> It's why I highly recommend you should make an under-bust dart on large-size garments, equal to the value by which you prolong the side seam. This dart will ensure better fitting in the bust and help eliminate wrinkles on the finished garment. We don't need to worry about those wrinkles in this particular case since the top part of the dress will be draped. If you were sewing a clean smooth-surface dress though, it would naturally ask for this dart. This issue raises many debates. Some people don't like seeing a horizontal seam on the face of the dress. As for me, I see nothing wrong with it. A seam is definitely better than wrinkles. Experienced seamstresses, who have been dealing with corset-based garments for years, often re-distribute this dart from up to down. They manage to distribute the fabric smoothly but - mind you - only very skilled professionals, who are well acquainted with fabric properties, are capable of doing this. They just have a good feel of the fabric: they can tell how to re-arrange the face without making a dart in that place. I recommend all beginner seamstresses should simply use it. You might be able to do without it one day but first you need to become absolutely confident in working with fabric. </p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -376,7 +376,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

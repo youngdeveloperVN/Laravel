@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -353,7 +353,7 @@
 <p><strong>Then I fold in the bottom edge of my piece of fabric and align it with the bottom edge of the waistband on the dress aligning the centre with the central bone of the corset.</strong> I pin it down.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%2027_files/image038.jpg" class="img-responsive center-block"></p>
-<p><strong>I start forming random chaotic drapes.</strong> They will always try to settle in a fixed order – it's not what we want! We want to try and make these drapes totally random by pulling on the fabric and forming creases. By the way, it's really hard to drape an entire corset that way. It's a lot easier to make evenly distributed drapes. </p>
+<p><strong>I start forming random chaotic drapes.</strong> They will always try to settle in a fixed order - it's not what we want! We want to try and make these drapes totally random by pulling on the fabric and forming creases. By the way, it's really hard to drape an entire corset that way. It's a lot easier to make evenly distributed drapes. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%2027_files/image040.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -406,7 +406,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

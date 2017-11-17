@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -313,7 +313,7 @@
 <p><strong>The last ruffle on each half-fragment stops at point 2. </strong>I leave its end detached. </p>
 <p><strong>Only after doing all this, I sew the central seam. </strong>I step 20-25cm down from the waistline and join the two halves of the skirt down to the bottom keeping the seam allowance on the outside. I fold the seam allowance to the side on the hard mesh fabric, topstitch it, and trim it. And I leave it as is on the soft mesh fabric. </p>
 <p><strong>After sewing the central back seam, I sew the detached ends of the ruffles onto the opposite halves of the skirt placing one above the other. </strong></p>
-<p><strong>I also add a kind of "strengthening ribs" to prevent the central seam from sinking in under the weight of the skirt. </strong>I do this by sewing two additional ruffles in-between the ruffles at the top of the red fragment. Half of the ruffle (lengthwise) is secured on the left side of the skirt and the other half – on the right side of it. This secures the top part of the central back seam. The rest of the seam spreads out evenly under the weight of the skirt. The hard mesh fabric will secure the central seam additionally because of the seam allowance that has been folded to the side and topstitched.&nbsp; </p>
+<p><strong>I also add a kind of "strengthening ribs" to prevent the central seam from sinking in under the weight of the skirt. </strong>I do this by sewing two additional ruffles in-between the ruffles at the top of the red fragment. Half of the ruffle (lengthwise) is secured on the left side of the skirt and the other half - on the right side of it. This secures the top part of the central back seam. The rest of the seam spreads out evenly under the weight of the skirt. The hard mesh fabric will secure the central seam additionally because of the seam allowance that has been folded to the side and topstitched.&nbsp; </p>
 <p><strong>A colossal amount of work has been done and the skirt is nearly finished. </strong>&nbsp;</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2038_files/image004.jpg" class="img-responsive center-block"></p>
@@ -338,7 +338,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

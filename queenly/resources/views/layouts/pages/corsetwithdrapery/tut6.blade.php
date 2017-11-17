@@ -287,7 +287,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%206_files/image002.jpg" class="img-responsive center-block"></p>
 <p>Whenever you start performing this operation, it is hard to tell whether you should place drapery fabric over mesh fabric or underneath it. I work with the first piece to test the process. This time after making the first seam I could tell that sewing is uncomfortable with the chiffon on top. </p>
 <p><strong>I turn the piece upside down and stitch along the other vertical edge. </strong>Transparent mesh fabric allows me to see the way the chiffon lies and I can spread it, pull it and even it out to match the edges well. </p>
-<p><strong>The stitch is made at a presser foot distance. </strong>Don’t worry about the chiffon going beyond the edges of the mesh fabric at the top or down the bottom – this is not relevant at the moment. <strong>The main task is to join the vertical edges of the parts as neatly as possible.</strong> </p>
+<p><strong>The stitch is made at a presser foot distance. </strong>Don’t worry about the chiffon going beyond the edges of the mesh fabric at the top or down the bottom - this is not relevant at the moment. <strong>The main task is to join the vertical edges of the parts as neatly as possible.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%206_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>Next I take an intermediate front piece (piece 2). </strong>I unpin it and prepare it for sewing. I recommend unpinning the pieces one by one as the process advances instead of unpinning them all in one go. </p>
@@ -334,7 +334,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

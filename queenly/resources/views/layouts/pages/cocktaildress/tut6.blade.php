@@ -155,7 +155,7 @@
 <p><strong>Where to use:</strong></p>
 <ul>
 <li>The technique in this course is perfect for making not only cocktail and evening dresses, but wedding dresses as well;</li>
-<li>If you are a beginner in corset making&nbsp;– this is the perfect course to begin with!&nbsp;Understanding this technique will open the world of professional dressmaking before you!</li>
+<li>If you are a beginner in corset making&nbsp;- this is the perfect course to begin with!&nbsp;Understanding this technique will open the world of professional dressmaking before you!</li>
 </ul>
 <p><strong>Author:</strong> Tatiana Kozorovitsky</p>
 <p><strong>Total length:</strong>&nbsp;3h 46m</p>
@@ -254,18 +254,18 @@
 <p><strong>The first thing you need to do is determine the configuration of the side seam on the front half of the dress.</strong> All calculated values should be recorded in column 4.</p>
 <p>Two measurements are responsible for the configuration of the side seam or the balance of the garment: bust front and under-bust front.</p>
 <p><strong>Bust front measurement:</strong> 49cm on the client and 49cm on the pattern. The measurements coincide.</p>
-<p><strong>49cm – 49cm = 0</strong></p>
+<p><strong>49cm - 49cm = 0</strong></p>
 <p><strong>Under-bust front measurement:</strong> 40cm on the client and 40cm on the pattern. The measurements coincide.</p>
-<p><strong>40cm – 40cm = 0</strong></p>
+<p><strong>40cm - 40cm = 0</strong></p>
 <p>These values show that the configuration of the side seam on the pattern coincides with the desired configuration on the garment. In other words, I don’t need to change the shape of the side seam at the front. It follows that <strong>all adjustment values for the side seam of the front are zero in my client's case. I write zeroes in lines 1-7 of column 4.</strong></p>
 <p><strong>The bust middle measurements fully coincide on the pattern and on the client and equal 20cm.</strong> Since there are no alterations in the middle of the piece, the edge of the pattern will be aligned with the fold line of the fabric. In other words, I don't need to shift it inwards or outwards. <strong>I write 0 in line 8 of column 4. </strong></p>
 <p><strong>Let’s look at the clip measurement. </strong></p>
 <p><strong>- Towards the armscye:</strong> 11.5cm on the client and 11.5cm on the pattern. The measurements coincide.</p>
 <p><strong>- Towards the corner:</strong> 11.5cm on the client and 12cm on the pattern.</p>
-<p><strong>11.5cm – 12cm = -0.5cm</strong></p>
+<p><strong>11.5cm - 12cm = -0.5cm</strong></p>
 <p>I need to remove 0.5cm in the corner. But I don't think it makes sense to actually do it. I will decide on it when working with the actual garment. <strong>I write 0 in line 9 of column 4.</strong></p>
 <p><strong>- Distance from the bust line to the neckline of the corset:</strong> 6cm on the client and 7cm on the pattern.</p>
-<p><strong>6cm – 7cm = -1cm</strong></p>
+<p><strong>6cm - 7cm = -1cm</strong></p>
 <p>It seems like I need to lower the neckline by 1cm. But I think it is better to decide on it when working with the garment. <strong>I write -1 in line 10 of column 4.</strong></p>
 <p><strong>These are all calculations related to the side seam of the front.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%206_files/image009.jpg" alt=""></p>
@@ -273,21 +273,21 @@
 <p><strong>Let’s begin calculating.</strong> You’ll see what happens after I take into account all measurements and calculations from the table.</p>
 <p><strong>The bust front and the under-bust front measurements are not involved in these calculations.</strong> I write dashes in the table.</p>
 <p><strong>Bust circumference: </strong>90cm on the client and 92cm on the pattern.</p>
-<p><strong>90cm – 92cm = -2cm</strong></p>
+<p><strong>90cm - 92cm = -2cm</strong></p>
 <p>It looks like the pattern is 2cm larger than it should be. In this case, I need to shift the side seam of the back 2cm inwards. Since the back of the dress is made of two halves, I need to narrow each one down by 1cm.</p>
 <p>I divide -2cm in half because of the two halves. As the result, <strong>I need to shift it 1cm inwards at the bust-line level. &nbsp;I write -1cm in the table (column 5, line 3).</strong></p>
 <p><strong>Under-bust circumference:</strong> 77m on the client and 82cm on the pattern.</p>
-<p><strong>77cm – 82cm = -5cm</strong></p>
+<p><strong>77cm - 82cm = -5cm</strong></p>
 <p>If I altered the side seam of the front at this level, I would have to account for the adjustment value in the rest of the calculations. In other words, I would have to add or remove that value (multiplied by two since we record the half-size in the table). I would subtract the pattern’s measurement from the client's measurement and divide the resulting value in half. But right now we are working with a very simple case with no alterations in the side seam of the front. I explain more complicated calculation cases in my other, advanced courses.</p>
 <p>I divide -5cm in half to account for the two halves of the back. As the result, <strong>I need to shift it 2.5cm inwards at the under-bust line level. &nbsp;I write -2.5cm in the table (column 5, line 4).</strong></p>
 <p><strong>Waist circumference:</strong> 75cm on my client and 77cm on the pattern.</p>
-<p><strong>75cm– 77cm= -2cm.</strong></p>
+<p><strong>75cm- 77cm= -2cm.</strong></p>
 <p>I divide -2cm in half to account for the two halves. As the result, <strong>I need to shift it 1cm inwards at the waistline level. &nbsp;I write -1cm in the table (column 5, line 5).</strong></p>
 <p><strong>Stomach circumference: </strong>93cm on the client and 97cm on the pattern.</p>
-<p><strong>93cm– 97cm = -4cm</strong></p>
+<p><strong>93cm- 97cm = -4cm</strong></p>
 <p>I divide -4cm in half. As the result, <strong>I need to shift it 2cm inwards at the stomach level. &nbsp;I write -2cm in the table (column 5, line 6).</strong></p>
 <p><strong>Hip circumference: </strong>100cm on the client and 102cm on the pattern.</p>
-<p><strong>100cm– 102cm= -2cm.</strong></p>
+<p><strong>100cm- 102cm= -2cm.</strong></p>
 <p>I divide -2cm in half. As the result, <strong>I need to shift it 1cm inwards at the hip line level. &nbsp;I write -1cm in the table (column 5, line 7).</strong></p>
 <p><strong>Bust middle, clip, and the distance from the bust line to the neckline of the corset are not involved in the calculations of the side seam of the back.</strong> I write dashes in the table.</p>
 <p><strong>You might need additional measurements, such as 'side length' or 'back length,' to work on the back of the dress. </strong></p>
@@ -306,29 +306,29 @@
 <p><strong>Let us see what I get then. </strong>This time I will use the data from column 6 (“Side Seam Back Adjusted") in the calculations and not the data from column 5 (“Side Seam Back") which I simply ignore for now.</p>
 <p><strong>Bust circumference: </strong>90cm on the client and 92cm on the pattern.</p>
 <p>I have already narrowed the pattern down by 2cm along the bust line though.</p>
-<p><strong>92cm – 2cm = 90cm</strong></p>
+<p><strong>92cm - 2cm = 90cm</strong></p>
 <p>As the result, the pattern corresponds with the client's size along the bust line.</p>
 <p><strong>Under-bust circumference: </strong>77m on the client and 82cm on the pattern.</p>
 <p>I have already narrowed the pattern down by 2cm along the under-bust line though.</p>
-<p><strong>82cm– 2cm= 80cm.</strong></p>
+<p><strong>82cm- 2cm= 80cm.</strong></p>
 <p>At the moment, the under-bust circumference of the pattern is 80cm while it is 77cm on the client. In other words, there is an excess of 3cm. I will need to take this 3cm into some or other seam. <strong>It is best to remove any extra or add any lacking centimeters using the princess seams at the back.</strong></p>
-<p><strong>It's why there is column 7 in the table, called “Princess Seam Back."</strong> I need to remove extra 3cm from the under-bust circumference of the pattern. There are two princess seams at the back, which means each of them should be used to remove 1.5cm. But every princess seam is made of two edges that you sew together.</p>
+<p><strong>It's why there is column 7 in the table, called "Princess Seam Back."</strong> I need to remove extra 3cm from the under-bust circumference of the pattern. There are two princess seams at the back, which means each of them should be used to remove 1.5cm. But every princess seam is made of two edges that you sew together.</p>
 <p><strong>1.5cm ÷ 2 = 0.7cm</strong></p>
 <p><strong>Therefore, I need to shift each edge of each princess seam 0.7cm inwards at the under-bust level. </strong>In this case, the total circumference of the pattern will be 77cm, which fully complies with the client's measurement. <strong>I write -0.7cm in line 4 of column 7.</strong></p>
 <p><strong>Please note that I have preserved the correct corset shape of the side seam and the shape of the bust princess seam by using the princess seams at the back in the calculations.</strong> Adjustments in the princess seams of the back allow you to enhance its shape with regard to your client's silhouette. A correctly shaped and cut back ensures a good fit of the corset and prevents its top edge from biting into the skin. It looks very bad when people make the back too narrow and then try to lace it up tightly after distributing calculated adjustment values in a wrong way. It simply turns out too narrow and you can see skin bulging over the top edge of the corset. It is then obvious that the corset was constructed incorrectly and the pattern designer was not familiar with the basics of pattern-making!</p>
 <p><strong>Waist circumference:</strong> 75cm on my client and 77cm on the pattern.</p>
 <p>I have already narrowed the pattern down by 2cm along the waistline though.</p>
-<p><strong>77cm – 2cm = 75cm</strong></p>
+<p><strong>77cm - 2cm = 75cm</strong></p>
 <p>As the result, the pattern corresponds with the client's size along the waistline. <strong>The princess seam of the back remains unchanged in the waist.</strong></p>
 <p><strong>Stomach circumference:</strong> 93cm on the client and 97cm on the pattern.</p>
 <p>I have already narrowed the pattern down by 2cm in the stomach though.</p>
-<p><strong>97cm – 2cm = 95cm</strong></p>
+<p><strong>97cm - 2cm = 95cm</strong></p>
 <p>At the moment, the stomach circumference of the pattern is 95cm while it is 93cm on the client. In other words, there is extra 2cm. I will remove it using the same princess seams of the back. There are two princess seams at the back, and each princess seam is made of two raw edges. Therefore:</p>
 <p><strong>1cm&nbsp; ÷ 2 = 0.5cm</strong></p>
 <p><strong>&nbsp;I need to shift each edge of each princess seam 0.5cm inwards at the stomach level. </strong>In this case, the total circumference of the pattern will be 93cm, which fully complies with the client's measurement. <strong>I write -0.5cm in line 6 of column 7.</strong> Make sure to mark each value in the table with a minus or a plus so you don't forget whether you need to add or remove it.</p>
 <p><strong>Hip circumference: </strong>100cm on the client and 102cm on the pattern.</p>
 <p>But I have already narrowed the pattern down by 2cm along the hip line.</p>
-<p><strong>102cm – 2cm = 100cm</strong></p>
+<p><strong>102cm - 2cm = 100cm</strong></p>
 <p>As the result, the pattern corresponds with the client's size along the hip line. <strong>The princess seam of the back remains unchanged at the hip level.</strong></p>
 <p><strong>I have finished calculating pattern adjustments for my client.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%206_files/image015.jpg" alt=""></p>
@@ -345,7 +345,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Dress sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the file, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
+<p>To print the sewing patterns open the file, press "print" and choose "PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/patterns-coctail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the cocktail dress</a><br>						
 					</div>
 

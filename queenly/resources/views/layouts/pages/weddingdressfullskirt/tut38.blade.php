@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -255,9 +255,9 @@
 <p><strong>I will leave it at that for now in case I need to adjust the dress after the fitting.</strong> The shoulder seams are still undone and the shoulder straps remain undecorated for now. I have already prepared the motifs though.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2037_files/image038.jpg" alt=""></p>
 <p><strong>I am quite happy with the result!</strong></p>
-<p><strong>I have used five absolutely different types of lace fabrics which I bought at different times of my career.</strong> All of them are soutache but this is about the only thing they have in common. Some motifs have thinner and others denser mesh foundation. Some are embellished with seed and bugle beads, others – with seed beads, sequins, and pearls, and still others are simply smooth. The smooth motifs were used for the front neckline and the edges of the back because I will decorate them with rhinestones.</p>
+<p><strong>I have used five absolutely different types of lace fabrics which I bought at different times of my career.</strong> All of them are soutache but this is about the only thing they have in common. Some motifs have thinner and others denser mesh foundation. Some are embellished with seed and bugle beads, others - with seed beads, sequins, and pearls, and still others are simply smooth. The smooth motifs were used for the front neckline and the edges of the back because I will decorate them with rhinestones.</p>
 <p>It looks as if it took a lot of complicated work to decorate the dress: lots of beautiful rich lace with smooth transitions from one type to another.</p>
-<p><strong>It is a classic European style dress</strong> and I would be glad to leave it as is – very delicate – but my client really wants those rhinestones.</p>
+<p><strong>It is a classic European style dress</strong> and I would be glad to leave it as is - very delicate - but my client really wants those rhinestones.</p>
 <p><strong>I will leave the dress like this until my bride arrives for the final fitting. </strong></p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -269,7 +269,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

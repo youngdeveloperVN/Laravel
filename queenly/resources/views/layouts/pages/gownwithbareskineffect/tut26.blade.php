@@ -362,7 +362,7 @@
 <p>Total:&nbsp; 104cm.</p>
 <p>My client's hip circumference is 98cm. </p>
 <p><strong>That means I need to shift the side seams inwards at the hip level by the following value: </strong></p>
-<p><strong>(104cm – 98cm) / 4 = 1.5cm</strong></p>
+<p><strong>(104cm - 98cm) / 4 = 1.5cm</strong></p>
 <p><strong>I measure the semi- stomach circumference 12cm below the waistline.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2025.files/image008.jpg" class="img-responsive center-block"></p>
@@ -374,7 +374,7 @@
 <p>Total: 96cm.</p>
 <p>My client's hip circumference is 90cm.</p>
 <p><strong>I need to shift the side seams inwards at the hip level by the following value:</strong></p>
-<p><strong>(96cm – 90cm) / 4 = 1.5cm</strong></p>
+<p><strong>(96cm - 90cm) / 4 = 1.5cm</strong></p>
 <p><strong>Next I measure the semi- waist circumference. </strong>&nbsp;</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2025.files/image012.jpg" class="img-responsive center-block"></p>
@@ -386,21 +386,21 @@
 <p>Total: 78cm.</p>
 <p>My client's waist circumference is 68cm.</p>
 <p><strong>I need to shift the side seams inwards at the waistline by the following value:</strong></p>
-<p><strong>(78cm – 68cm) / 4 = 2.5cm</strong></p>
+<p><strong>(78cm - 68cm) / 4 = 2.5cm</strong></p>
 <p><strong>I measure the semi- bust circumference at the front.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2025.files/image016.jpg" class="img-responsive center-block"></p>
 <p>- It is 48cm on the front half of the dress.</p>
 <p>My client's bust front measurement is 46cm.</p>
 <p><strong>So I need to shift the side seams inwards along the bust line by the following value:</strong></p>
-<p><strong>(48cm – 46cm) / 2 = 1cm</strong></p>
+<p><strong>(48cm - 46cm) / 2 = 1cm</strong></p>
 <p><strong>I measure the under-bust semi-circumference at the front.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2025.files/image018.jpg" class="img-responsive center-block"></p>
 <p>- It is 40cm on the front half of the dress.</p>
 <p>My client's under-bust front measurement is 42cm.</p>
 <p><strong>I need to shift the side seams inwards at the under-bust level by the following value:</strong></p>
-<p><strong>(42cm – 40cm) / 2 = 1cm</strong></p>
+<p><strong>(42cm - 40cm) / 2 = 1cm</strong></p>
 <p><strong>I mark all calculated alterations along the major reference lines on the sides of the front and re-draw the contour of the side seams.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2025.files/image020.jpg" class="img-responsive center-block"></strong></p>

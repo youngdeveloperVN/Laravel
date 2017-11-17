@@ -779,7 +779,7 @@
 								src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/6%20yo/Tutorial%203_files/image004.jpg"
 								alt="">
 						</p>
-						<p>The bodice will be made of genuine linen and the skirt – of
+						<p>The bodice will be made of genuine linen and the skirt - of
 							cotton fabric with a little lycra in it.</p>
 						<p>
 							<img class="img-responsive center-block"

@@ -236,27 +236,27 @@
 <p><strong>Finally, I will need two more measurements: Front Skirt Length and Train Length. These will be measured down from the waistline. </strong></p>
 <p><strong>I use the classic method of taking measurements when you tie cords around the waistline and other relevant circumference lines. </strong></p>
 <p><strong>Here is what I got and put in the table: </strong></p>
-<p>- Stomach Circumference (4cm below waistline) – 80cm;</p>
-<p>- Hip Circumference (25cm below waistline) – 99cm;</p>
-<p>- Front Skirt Length – 110cm;</p>
-<p>- Train Length – 140cm.</p>
+<p>- Stomach Circumference (4cm below waistline) - 80cm;</p>
+<p>- Hip Circumference (25cm below waistline) - 99cm;</p>
+<p>- Front Skirt Length - 110cm;</p>
+<p>- Train Length - 140cm.</p>
 <p><strong>Client’s measurements are to be compared with the measurements of the initial skirt pattern so I can adjust it accordingly.</strong></p>
 <p><strong>If the whole skirt were cut as a bell-shaped skirt or a gored skirt (after a single pattern), then the measurements would be as follows:</strong></p>
-<p>- Stomach Circumference (4cm below waistline) – 88cm;</p>
-<p>- Hip Circumference (25cm below waistline) – 103cm;</p>
-<p>- Front Skirt Length (from waistline down) – 100cm.</p>
+<p>- Stomach Circumference (4cm below waistline) - 88cm;</p>
+<p>- Hip Circumference (25cm below waistline) - 103cm;</p>
+<p>- Front Skirt Length (from waistline down) - 100cm.</p>
 <p><strong>But I am combining two absolutely different patterns. And so I need to measure the front and the back along the circumference lines, i.e. find their half-circumferences before getting down to the calculations.</strong></p>
 <p><strong>Bell-shaped front piece: </strong></p>
-<p>- ½ Stomach Circumference (4cm below waistline) – 21.5cm;</p>
-<p>- ½ Hip Circumference (25cm below waistline) – 22.5cm;</p>
+<p>- ½ Stomach Circumference (4cm below waistline) - 21.5cm;</p>
+<p>- ½ Hip Circumference (25cm below waistline) - 22.5cm;</p>
 <p><strong>Gored back piece (1.5 gores): </strong></p>
-<p>- ½ Stomach Circumference (4cm below waistline) – 25.5cm;</p>
-<p>- ½ Hip Circumference (25cm below waistline) – 26cm;</p>
+<p>- ½ Stomach Circumference (4cm below waistline) - 25.5cm;</p>
+<p>- ½ Hip Circumference (25cm below waistline) - 26cm;</p>
 <p><strong>Let us suppose the skirt will be sewn after a single pattern and not two combined patterns and compare the bride’s measurements with the pattern measurements. </strong></p>
 <p><strong>The bride’s ½ Stomach Circumference is 4cm smaller than on the pattern:</strong></p>
-<p><strong>(80cm – 88cm) / 2 = -4cm</strong></p>
+<p><strong>(80cm - 88cm) / 2 = -4cm</strong></p>
 <p><strong>Her ½ Hip Circumference is 2cm smaller than on the pattern: </strong></p>
-<p><strong>(103cm – 99cm) / 2 = -2cm</strong></p>
+<p><strong>(103cm - 99cm) / 2 = -2cm</strong></p>
 <p><strong>Both the front and the back of the skirt must be adjusted down by these values. </strong></p>
 <p>I narrow the front and the back by 2cm <strong>in the stomach </strong>(4cm below waistline).</p>
 <p>And I narrow the front and the back by 1cm <strong>in the hips </strong>(25cm below waistline).</p>
@@ -267,7 +267,7 @@
 <p><strong>And now let me address a very important issue. </strong></p>
 <p>The gored skirt pattern used for the back of our skirt is basically represented by a half of a gore.</p>
 <p>The whole back will be made of three full gores, two of which are cut as a single piece with a fold line.</p>
-<p>When I start assembling the back of the skirt, the full gore will be positioned between the central back seam and the princess seam and the half-gore – between the back princess seam and the side seam.</p>
+<p>When I start assembling the back of the skirt, the full gore will be positioned between the central back seam and the princess seam and the half-gore - between the back princess seam and the side seam.</p>
 <p>What you see on the pattern draft is a half of the back made of 1.5 gores.</p>
 <p>I have already adjusted the back piece by shifting the side seam and I don’t need to shift the princess seam on the other side of the gore. It will be cut right after the basic pattern.</p>
 <p><strong>Please be very attentive when cutting the gored part of the skirt! </strong>If you don’t feel confident enough, simply make another pattern of a half of the back, only without the 1cm shift of the princess seam at the stomach level.</p>
@@ -277,10 +277,10 @@
 <p>According to the bride’s measurements, the skirt should be 110cm long at the front and 140cm long along the train. I prolong the centre front line of the initial pattern by 10cm and the centre back line by 40cm.</p>
 <p><strong>The side seam length </strong>is the mean value between the front length and the back (train) length.</p>
 <p><strong>In other words, the side seam length of the skirt is: </strong></p>
-<p><strong>110cm + (140cm – 110cm) / 2 = 115cm</strong></p>
+<p><strong>110cm + (140cm - 110cm) / 2 = 115cm</strong></p>
 <p><strong>The back princess seam length </strong>is the mean value between the side seam length and the back (train) length.</p>
 <p><strong>And, therefore, the length of the skirt along the back princess seam is: </strong></p>
-<p><strong>115cm + (140cm – 115cm) / 2 = 128cm</strong></p>
+<p><strong>115cm + (140cm - 115cm) / 2 = 128cm</strong></p>
 <p><strong>Since our skirt will have a fancy train, </strong>I draw the bottom edge of the back as a scalloped line connecting the calculated length points.</p>
 <p><strong>The skirt will also have a lining. </strong></p>
 <p><strong>The lining will be cut based on the length of the initial basic pattern (100cm) with account for all adjustments made. </strong>The hem will be plain smooth and parallel to the floor. There will be no train on the lining.</p>
@@ -295,7 +295,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>In each file the pattern is divided to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%201.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Skirt Pattern 1</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern 2</a><br>						

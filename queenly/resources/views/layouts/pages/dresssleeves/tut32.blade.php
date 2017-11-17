@@ -246,7 +246,7 @@
 <p><strong>Then I put the sleeve on the plastic tube and decorate it.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2031_files/image018.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2031_files/image020.jpg" alt=""></p>
-<p><strong>It is a clever idea to put the sleeves from either end of the tube simultaneously and align their seams – it will allow you to create perfectly symmetrically decorated cuffs.</strong></p>
+<p><strong>It is a clever idea to put the sleeves from either end of the tube simultaneously and align their seams - it will allow you to create perfectly symmetrically decorated cuffs.</strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2031_files/image022.jpg" alt=""></strong></p>
 <p>Unfortunately, my dress does not fit onto the dress-form so <strong>I put it on the previously prepared small ironing board and secure it with pins.</strong></p>
@@ -284,7 +284,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

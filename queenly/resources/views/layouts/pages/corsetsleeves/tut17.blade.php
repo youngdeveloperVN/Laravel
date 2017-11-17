@@ -315,7 +315,7 @@
 <p><strong>You can make the area with the darts neater by cutting them up and pressing the seam allowances open. </strong>In my case, the darts are going to be covered up by lace so I simply press them flat without cutting the fabric up. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%2017_files/image015.jpg" class="img-responsive center-block"></p>
-<p><strong>I join the lace overlay with the back of the dress just the same way.</strong> I stitch along the waistline, along the side seam – down to the hip-line notch, and along the middle of the back – down to the very bottom of the dress. </p>
+<p><strong>I join the lace overlay with the back of the dress just the same way.</strong> I stitch along the waistline, along the side seam - down to the hip-line notch, and along the middle of the back - down to the very bottom of the dress. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%2017_files/image017.jpg" class="img-responsive center-block"></p>
 <p>
@@ -420,7 +420,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

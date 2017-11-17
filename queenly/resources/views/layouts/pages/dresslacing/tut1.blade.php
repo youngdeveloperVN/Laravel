@@ -143,7 +143,7 @@
 <p><strong>How to sew an open décolleté dress of size 14 or above?</strong>&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%201_files/image002.jpg" class="img-responsive center-block"></p>
-<p>It won't be a long dress. It will only just cover the knees – a classic Chanel length. You can make a slit in the princess seam at the front or, alternatively, a vent or a slit in the princess seam at the back for better comfort of movement.&nbsp; </p>
+<p>It won't be a long dress. It will only just cover the knees - a classic Chanel length. You can make a slit in the princess seam at the front or, alternatively, a vent or a slit in the princess seam at the back for better comfort of movement.&nbsp; </p>
 <p>I will explain the following things during the work process: </p>
 <p>- How to design cups for heavy full breasts;</p>
 <p>- How to prevent the corset from 'breaking' in the waist, i.e. achieve a smooth even surface in that area; </p>
@@ -169,7 +169,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

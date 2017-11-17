@@ -345,7 +345,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%2022_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>The common radius (R) of both skirts is calculated the following way: </strong>&nbsp;</p>
-<p>The length of the total skirt circumference (i.e. the full sweep skirt plus the semi-circle) should equal the hip circumference or the length of the bottom edge of the dress – 96cm.&nbsp; </p>
+<p>The length of the total skirt circumference (i.e. the full sweep skirt plus the semi-circle) should equal the hip circumference or the length of the bottom edge of the dress - 96cm.&nbsp; </p>
 <p><strong>Therefore: </strong></p>
 <p><strong>2π R + π R = 96cm</strong></p>
 <p><strong>I find the radius (R): </strong></p>
@@ -385,7 +385,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%2022_files/image012.jpg" class="img-responsive center-block"></p>
 <p>First I assembled the full sweep ruffled underskirt, then I overlaid it with the mesh and topped it with one and a half of the full sweep face skirt. I joined the layers along the top edge, serged it, and attached the skirt to the bottom of the dress by machine. Then I decorated the joining seam with a lace border.&nbsp; </p>
-<p><strong>I did no particular handling on the raw edges of the neck hole of the lace inset</strong> – I simply glued lace motifs along the perimeter. In my case they are flowers. I sewed hooks and eyes onto the closure at the back. I highly recommend that you should sew the hooks in the following order to prevent them from coming undone in wear: first place a hook on the left and an eye on the right, then place the next eye on the left and the next hook on the right, etc. This helps the hooks stay in the eyes and not come undone when the wearer moves her shoulders.&nbsp; </p>
+<p><strong>I did no particular handling on the raw edges of the neck hole of the lace inset</strong> - I simply glued lace motifs along the perimeter. In my case they are flowers. I sewed hooks and eyes onto the closure at the back. I highly recommend that you should sew the hooks in the following order to prevent them from coming undone in wear: first place a hook on the left and an eye on the right, then place the next eye on the left and the next hook on the right, etc. This helps the hooks stay in the eyes and not come undone when the wearer moves her shoulders.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%2022_files/image014.jpg" class="img-responsive center-block"></p>
 <p><strong>There is some handwork embellishment left to do after the final fitting. </strong>&nbsp;</p>
@@ -395,7 +395,7 @@
 <p>They look somewhat wrinkled at the moment. <strong>But they will get straightened out when the client puts the dress on.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%2022_files/image018.jpg" class="img-responsive center-block"></p>
-<p><strong>I'm highlighting the fact that you should pin those lace motifs on when the garment is on the person. </strong>Otherwise you can never guess where exactly and how much you should stretch the garment to make them settle in a beautiful way later. Use a generous amount of pins – you need to secure the lace right at the very spot where it is situated.&nbsp; </p>
+<p><strong>I'm highlighting the fact that you should pin those lace motifs on when the garment is on the person. </strong>Otherwise you can never guess where exactly and how much you should stretch the garment to make them settle in a beautiful way later. Use a generous amount of pins - you need to secure the lace right at the very spot where it is situated.&nbsp; </p>
 <p><strong>There are many ways you can attach your lace motifs: </strong>hand-stitching, gluing, etc. I attach mine with the help of Gutermann fabric glue. I don't glue all motifs at once but work on separate areas: I stretch a small area of the garment, put some packaging film underneath it so I can easily tear it off later, smear the specified area with glue, and stick the lace on. I add small flowers at the ends of the lace motifs for a more finished look.&nbsp; </p>
 <p><strong>You should fold the area of the closure and secure it with hand stitches.&nbsp; </strong></p>
 <p>
@@ -412,7 +412,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%2022_files/image026.jpg" class="img-responsive center-block"></p>
 <p></p>
-<p><strong>I recommend you additionally secure the top parts of the lace motifs on the skirt. </strong>&nbsp;You can either do it with the help of fusible web, or with Gutermann fabric glue, or even by hand-stitching – whichever way you prefer.&nbsp; </p>
+<p><strong>I recommend you additionally secure the top parts of the lace motifs on the skirt. </strong>&nbsp;You can either do it with the help of fusible web, or with Gutermann fabric glue, or even by hand-stitching - whichever way you prefer.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%2022_files/image028.jpg" class="img-responsive center-block"></p>
 <p><strong>The process of framing the edges of the back with lace motifs is demonstrated in the pictures below. </strong></p>
@@ -477,7 +477,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

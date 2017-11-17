@@ -242,7 +242,7 @@
     <h2>Tutorial 20. Finishing the Bottom Edge of the Corset. </h2>
     <p></p>
     <p><strong>It’s time to finish the bottom edge of the corset. </strong></p>
-    <p><strong>I take a narrow gathered Rigilene bone, tape its end and start sewing it on along the bottom edge of the corset. </strong>Before doing this you should make sure both halves of the back are identical in length. I place the bone stepping 0.5cm from the corner (see below). And again, similarly to the way we finished the top edge of the corset, you need to spread the fabric between the princess seams. Do not stretch it, simply spread it. I arrange the bone trying to repeat the bottom line. This stage is very important because you’re basically shaping the bottom edge and if you skew it – the whole corset will look skewed. So don’t rush: spread the fabric carefully with your fingers and when you finish attaching the bone, put the corset on the dress-form to see if it’s been done well enough. </p>
+    <p><strong>I take a narrow gathered Rigilene bone, tape its end and start sewing it on along the bottom edge of the corset. </strong>Before doing this you should make sure both halves of the back are identical in length. I place the bone stepping 0.5cm from the corner (see below). And again, similarly to the way we finished the top edge of the corset, you need to spread the fabric between the princess seams. Do not stretch it, simply spread it. I arrange the bone trying to repeat the bottom line. This stage is very important because you’re basically shaping the bottom edge and if you skew it - the whole corset will look skewed. So don’t rush: spread the fabric carefully with your fingers and when you finish attaching the bone, put the corset on the dress-form to see if it’s been done well enough. </p>
     <p>
     <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2020_files/image002.jpg" class="img-responsive center-block"></p>
     <p></p>
@@ -254,7 +254,7 @@
     <p><strong>Then I make another strengthening stitch across the bone </strong>between its first and second fishing lines. </p>
     <p>
     <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2020_files/image008.jpg" class="img-responsive center-block"></p>
-    <p><strong>And now another essential procedure: </strong>we need to even out the entire bottom line and trim any extra bone ends, threads or fabric – anything that sticks out from behind the bone. </p>
+    <p><strong>And now another essential procedure: </strong>we need to even out the entire bottom line and trim any extra bone ends, threads or fabric - anything that sticks out from behind the bone. </p>
     <p><strong>Next I take some duct tape, tape the ends of the bones of all vertical princess seams (including those on the lacing bars) and secure them by machine-stitching. </strong>Then I flip the corset over and trim any duct tape that sticks out from the stitch to make sure the lining is neat. </p>
     <p>
     <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2020_files/image010.jpg" class="img-responsive center-block"></p>
@@ -290,7 +290,7 @@
 
                         <div role="tabpanel" class="tab-pane" id="pattern">
                             <p>There are&nbsp;corset sewing patterns in PDF format.</p>
-    <p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+    <p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
     <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
     Pattern combination</a><br>						
                         </div>

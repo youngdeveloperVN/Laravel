@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -310,7 +310,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2035_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>Although only a small part of the skirt is covered with ruffles, it has already gained some weight and volume and the mesh fabric got pulled on. </strong>I expect you to ask what to do with the length of the skirt at the front if it is already getting pulled on. I will talk about it in detail at the end of the book (the solution involves applying changes to the radius of the skirt in the waist). The mesh fabric is very thin and I will remove the excess by easing it in around the waist. </p>
 <p><strong>Whether the hem of the base will hold its shape or not</strong> remains a question at this stage. </p>
-<p><strong>What you can already see is the texture of the skirt though.</strong> It shimmers in a very elegant way. Bias-cut half-organza creates an iridescence effect: the light ruffles shimmer with darker tones and the dark ruffles – with lighter tones. There is beautiful depth to it, which was achieved by always sewing light ruffles at the top and making the fragment dark in the middle.&nbsp; </p>
+<p><strong>What you can already see is the texture of the skirt though.</strong> It shimmers in a very elegant way. Bias-cut half-organza creates an iridescence effect: the light ruffles shimmer with darker tones and the dark ruffles - with lighter tones. There is beautiful depth to it, which was achieved by always sewing light ruffles at the top and making the fragment dark in the middle.&nbsp; </p>
 <p><strong>Please look at the way the ruffles are arranged at the top of the fragment!</strong> This effect was achieved by gathering the ruffles additionally.&nbsp; </p>
 <p><strong>It is impossible to tell how the ruffles were sewn on from just looking at the skirt. </strong>You couldn't copy it without the ruffles layout even if you examined the seams on the inside!&nbsp; </p>
 <p><strong>This layout is the most valuable thing you have at hand now. No one could sew a skirt like this without it! </strong></p>
@@ -325,7 +325,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

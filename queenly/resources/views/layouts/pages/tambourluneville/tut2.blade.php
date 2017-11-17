@@ -246,7 +246,7 @@
 <p><strong>I grab the thread. </strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/2.files/image110.jpg" alt=""></strong></p>
-<p><strong>I rotate the hook (screw backward), grab the thread, pull out a loop, pull up the thread and that’s it – the knot is made! Now I can go ahead!</strong></p>
+<p><strong>I rotate the hook (screw backward), grab the thread, pull out a loop, pull up the thread and that’s it - the knot is made! Now I can go ahead!</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/2.files/image112.jpg" alt=""></p>
 <p><strong>After making the knot, I can make the first stitch. </strong></p>
 <p><strong>The process resembles crocheting very much. </strong></p>

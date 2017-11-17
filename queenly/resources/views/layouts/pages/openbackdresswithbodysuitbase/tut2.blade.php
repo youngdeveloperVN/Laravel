@@ -314,7 +314,7 @@
 <p><strong>Please take a look at the sketch of the dress we are going to sew.</strong> There are no princess seams at the front at all. There are darts at the back and we cannot afford to increase their depth or else they will stick out too much at the ends. In addition, there is a resilient bodysuit inside our dress with no darts whatsoever. </p>
 <p><strong>How can we re-calculate the standard pattern in this case?</strong></p>
 <p><strong>We will use the Side-Seam Even-Out Formula.</strong> I developed this formula a long time ago and I use it on a regular basis. It is explained in great detail in the ‘Dress with Separately Cut Cups’ tutorial from my Opaque Corsets 2.0 Teaching Course. This formula consists of a set of two simple equations. I won't delve into any details concerning the origin and the essence of this formula in this course. We will simply apply it in practice. </p>
-<p><strong>Now before we start calculating adjustments to the standard pattern, let's go through all relevant measurements.</strong> They are the same key measurements as in corset-based garments <strong>apart from the clip. </strong>The latter is absolutely irrelevant since we plan to use ready-made cups of a matching size. The only reason you might still want to take the clip measurement is for choosing the right size of the cups before purchase. In any case, this measurement won't be involved in the pattern construction process. The <strong>bust middle measurement</strong>, although you do need to take it off your client, will be approximate. We will determine the location of the cups based on the standard parameters used in lingerie tailoring. The key parameter is the distance between the cups or the length of the bridge – that is normally 1cm. So our task will be to place the cups on the pattern and account for all alterations using the side seams.</p>
+<p><strong>Now before we start calculating adjustments to the standard pattern, let's go through all relevant measurements.</strong> They are the same key measurements as in corset-based garments <strong>apart from the clip. </strong>The latter is absolutely irrelevant since we plan to use ready-made cups of a matching size. The only reason you might still want to take the clip measurement is for choosing the right size of the cups before purchase. In any case, this measurement won't be involved in the pattern construction process. The <strong>bust middle measurement</strong>, although you do need to take it off your client, will be approximate. We will determine the location of the cups based on the standard parameters used in lingerie tailoring. The key parameter is the distance between the cups or the length of the bridge - that is normally 1cm. So our task will be to place the cups on the pattern and account for all alterations using the side seams.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%202_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>We need to adjust the standard pattern by altering the side seam contours at the front and at the back after the Side-Seam Even-Out Formula. </strong>It's crucial to achieve the same kind of curvature in all side seam contours so we can join the front with the back symmetrically from both sides. </p>
@@ -323,8 +323,8 @@
 <p><strong>I have already taken all standard measurements off my client:</strong> </p>
 <p><strong>- Bust front, </strong></p>
 <p><strong>- Under-bust front, </strong></p>
-<p><strong>- Bust back – a new <em>calculated</em> measurement. </strong></p>
-<p><strong>How to calculate it:</strong> subtract the bust front measurement from the bust circumference – the remaining value falls upon the back of the dress. I introduce this additional measurement because we plan to use ready-made cups and don't have any cup pattern at hand. We will create a cup pattern during the work process but at this stage it is easier to use the additional bust back measurement to determine the location of the side seam at the bust-line level. </p>
+<p><strong>- Bust back - a new <em>calculated</em> measurement. </strong></p>
+<p><strong>How to calculate it:</strong> subtract the bust front measurement from the bust circumference - the remaining value falls upon the back of the dress. I introduce this additional measurement because we plan to use ready-made cups and don't have any cup pattern at hand. We will create a cup pattern during the work process but at this stage it is easier to use the additional bust back measurement to determine the location of the side seam at the bust-line level. </p>
 <p><strong>- Bust circumference, </strong></p>
 <p><strong>- Under-bust circumference, </strong></p>
 <p><strong>- Waist circumference, </strong></p>
@@ -336,20 +336,20 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%202_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>I write my client’s measurements in column 1.</strong> </p>
 <p>The <strong>bust back measurement</strong> is calculated as the difference between the bust circumference and the bust front measurement: </p>
-<p><strong>85cm – 46cm = 39cm</strong></p>
+<p><strong>85cm - 46cm = 39cm</strong></p>
 <p><strong>I write all dimensions of the standard pattern into column 2.</strong> </p>
 <p>The <strong>bust back measurement</strong> is calculated as previously:</p>
-<p><strong>93cm– 49cm = 44cm</strong></p>
+<p><strong>93cm- 49cm = 44cm</strong></p>
 <p><strong>The first thing we need to do is determine the configuration of the side seam contour of the front piece after the traditional approach.</strong> </p>
 <p><strong>It is determined by two measurements: bust front and under-bust front.</strong> </p>
 <p><strong>Bust front measurement:</strong> 46cm on the client and 49cm on the pattern.</p>
-<p><strong>46cm – 49cm = -3cm</strong></p>
+<p><strong>46cm - 49cm = -3cm</strong></p>
 <p>I divide the value in half (because each piece has two sides). As a result we need to narrow the front piece by 1.5cm from each side at the bust-line level to put the side seam in the right place on this particular client. I write -1.5cm into line 1 of column 3.</p>
 <p><strong>Under-bust front measurement:</strong> 37cm on the client and 40cm on the pattern. </p>
-<p><strong>37cm – 40cm = -3cm</strong></p>
+<p><strong>37cm - 40cm = -3cm</strong></p>
 <p>I divide it in half to account for two sides: we need to narrow the front piece down by 1.5cm from each side at the under-bust level. I write -1.5cm into line 2 of column 3.</p>
 <p><strong>Our new bust back measurement:</strong> 39cm on the client and 44cm on the pattern. </p>
-<p><strong>39cm– 44cm= -5cm</strong></p>
+<p><strong>39cm- 44cm= -5cm</strong></p>
 <p>I divide it in half to account for two sides. As you can see, we need to narrow the piece down by 2.5cm from each side at the bust-line level.</p>
 <p>We have found out that 1.5cm needs to be removed both at the bust-line level and at the under-bust level. Common sense says <strong>we should shift the entire side seam 1.5cm inwards</strong> to achieve a smooth graceful line. I write -1.5cm in the third column for the entire length of the side seam. And I write a dash for the bust back measurement.</p>
 <p><strong><br>
@@ -362,27 +362,27 @@
 <p><strong>Bust circumference: </strong>85cm on the client and 93cm on the pattern.</p>
 <p>However we have already narrowed the front down by 1.5cm from each side, i.e. a total of 3cm. </p>
 <p><strong>93cm - 3cm = 90cm</strong></p>
-<p><strong>85cm – 90cm = -5cm</strong></p>
+<p><strong>85cm - 90cm = -5cm</strong></p>
 <p>Therefore there are five extra centimeters left on the pattern and we need to distribute them between the left and the right side of the back. In other words <strong>we need to shift both sides of the back 2.5cm inwards at the bust-line level.&nbsp; </strong></p>
 <p><strong>The next measurement is under-bust circumference.</strong> It is 74cm on the client and 84cm on the pattern.</p>
 <p>However we have already narrowed down the front piece by 1.5cm from each side, i.e. a total of 3cm. </p>
 <p><strong>84cm - 3cm = 81cm</strong></p>
-<p><strong>74cm – 81cm = -7cm</strong></p>
+<p><strong>74cm - 81cm = -7cm</strong></p>
 <p>There are seven extra centimeters we need to remove using the left and the right side of the back. In other words <strong>we need to shift both side seams of the back 3.5cm inwards at the under-bust level.&nbsp; </strong></p>
 <p><strong>Let's move on to the waist circumference.</strong> It is 71cm on my client and 77cm on the pattern.</p>
 <p>However we have already narrowed down the front piece by 1.5cm from each side, i.e. a total of 3cm. </p>
 <p><strong>77cm - 3cm = 74cm</strong></p>
-<p><strong>71cm – 74cm = -3cm</strong></p>
+<p><strong>71cm - 74cm = -3cm</strong></p>
 <p><strong>We need to narrow the back piece down by 1.5cm from each side at the waistline level</strong> in order to adjust the pattern after client’s measurements and ensure proper fitting in the waist.<strong>&nbsp; </strong></p>
 <p><strong>Now let’s look at the stomach circumference taken 12cm below the waistline.</strong> It is 91cm on the client and 95cm on the pattern.</p>
 <p>But we have already narrowed down the front piece by 1.5cm from each side, i.e. a total of 3cm. </p>
 <p><strong>95cm - 3cm = 92cm</strong></p>
-<p><strong>91cm – 92cm = -1cm</strong></p>
+<p><strong>91cm - 92cm = -1cm</strong></p>
 <p>In order to adjust the size of the pattern, <strong>we need to narrow the back piece down by 0.5cm from both sides at the stomach level.&nbsp; </strong></p>
 <p><strong>Hip circumference: </strong>96cm on the client and 100cm on the pattern.</p>
 <p>We have already narrowed down the front piece by 1.5cm from each side, i.e. a total of 3cm. </p>
 <p><strong>100cm - 3cm = 97cm</strong></p>
-<p><strong>96cm – 97cm = -1cm</strong></p>
+<p><strong>96cm - 97cm = -1cm</strong></p>
 <p><strong>Therefore we need to narrow the back piece down by 0.5cm from both sides at the hip level </strong>to adjust the size of the pattern<strong>.&nbsp; </strong></p>
 <p></p>
 <p>
@@ -478,7 +478,7 @@
 <p><strong>Variable B </strong>is the alteration value of the side seam contour at the back that we determined in the previous line. In other words, it is the alteration of the side seam at the bust-line level at the back.</p>
 <p><strong>b = -2,5cm</strong></p>
 <p><strong>Variable E </strong>is the alteration of the bust middle measurement, when relevant. For example (if we did need to use this measurement), my client's bust middle measurement is 18cm and it is 20cm on the pattern. </p>
-<p><strong>18cm – 20cm = -2cm</strong></p>
+<p><strong>18cm - 20cm = -2cm</strong></p>
 <p>This means the central part of the front would have to be narrowed down by 1cm from both sides. In other words, we would place the pattern at the fold line of our fabric and shift it 1cm outwards so as to make the piece smaller. Therefore <strong>e = -1cm. </strong></p>
 <p><strong>But we don't actually need the bust middle measurement for our calculations.</strong></p>
 <p><strong>e = 0 </strong></p>
@@ -492,12 +492,12 @@
 <p>- Minus 1.5cm at the bust-line level;</p>
 <p>- Another minus 1.5cm at the under-bust level.</p>
 <p>Therefore the incline of the front side seam contour in the area between the bust-line and the under-bust line equals: </p>
-<p><strong>1.5cm – 1.5cm = 0 </strong></p>
+<p><strong>1.5cm - 1.5cm = 0 </strong></p>
 <p><strong>Alterations of the side seam contour at the back:</strong></p>
 <p>- Minus 2.5cm at the bust-line level;</p>
 <p>- Minus 3.5cm at the under-bust level.</p>
 <p>Therefore the incline of the back side seam contour in the area between the bust-line and the under-bust line equals:</p>
-<p><strong>2.5cm – 3.5cm = 1cm</strong></p>
+<p><strong>2.5cm - 3.5cm = 1cm</strong></p>
 <p><strong>This shows that the area of the side seam between the bust-line and the under-bust line is going to have different inclines or unlike configurations at the front and at the back. It will be really hard to join such pieces. We need to even out the inclines of those side seams.</strong></p>
 <p><strong>That is to say, our task is to find such values of X and Y that will provide for the same incline or the same configuration of the side seam contours on the front and on the back piece.</strong></p>
 <p><strong>I start evening out the side seams according to my formula.</strong></p>
@@ -625,11 +625,11 @@
 <p><strong>Let's double check it to save ourselves from making a mistake in cutting. Do not embark upon the cutting process before you double check everything!</strong></p>
 <p>I go through every line of the table with newly calculated values.</p>
 <p><strong>Remember: the standard pattern measurement plus all calculated additions (their values should be multiplied by 2) equals your client's measurement. </strong></p>
-<p><strong>At the bust-line level:&nbsp; 93 – 3 – 5 = 85.</strong></p>
-<p><strong>At the under-bust level: 84 – 4 – 6 = 74.</strong></p>
-<p><strong>At the waistline level: 77 – 2 – 4 = 71.</strong></p>
-<p><strong>At the waistline level: 95 – 1 – 3 = 91.</strong></p>
-<p><strong>At the hip-line level: 100 – 1 – 3 = 96.</strong></p>
+<p><strong>At the bust-line level:&nbsp; 93 - 3 - 5 = 85.</strong></p>
+<p><strong>At the under-bust level: 84 - 4 - 6 = 74.</strong></p>
+<p><strong>At the waistline level: 77 - 2 - 4 = 71.</strong></p>
+<p><strong>At the waistline level: 95 - 1 - 3 = 91.</strong></p>
+<p><strong>At the hip-line level: 100 - 1 - 3 = 96.</strong></p>
 <p><strong>Now we can safely start cutting. </strong></p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -641,7 +641,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

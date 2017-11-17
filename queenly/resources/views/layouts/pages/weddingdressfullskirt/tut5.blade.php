@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -229,7 +229,7 @@
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%204_files/image004.jpg" alt=""></p>
 <p><strong>There will be a tunnel for a 3cm-wide elastic band at the top of the petticoat.</strong> I will make the tunnel 3.5cm just to be on the safe side.</p>
 <p><strong>The adjoining area is 11.5cm of light knit fabric that clings to the body. </strong></p>
-<p><strong>15cm – 3.5cm = 11.5cm</strong></p>
+<p><strong>15cm - 3.5cm = 11.5cm</strong></p>
 <p><strong>The mesh petticoat itself starts just below that area. </strong>I will first sew hoop tunnels on it and then reinforce it with Rigilene bones and add ruffles.</p>
 <p><strong>Further calculations are done from down to up. </strong>The dashed line marks the floor level.</p>
 <p><strong>The bottom hoop (1) is sewn on along the hem of the petticoat. It is raised 20cm above floor level at the front. </strong>Later, the bottom hoop will be overlaid by a ruffle and the front of the petticoat will reach all the way down to the floor. <strong>The bottom hoop will gradually descend as it approaches the side seam and settle upon the floor at about 10cm past it. </strong>In other words, it will be positioned at an angle at the front and then gradually go horizontal toward the back. It is flexible enough for being bent that way.</p>
@@ -287,7 +287,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

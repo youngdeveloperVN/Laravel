@@ -290,7 +290,7 @@
 <p><strong>Let’s give it a try. </strong>I shall start arranging straps in the first drapery area and if the result is satisfying, we’ll continue working with straps of the same size. </p>
 <p><strong>I tear off a 10cm wide strap and prepare it. </strong></p>
 <p><strong>What do I mean by preparing the strap? </strong>I mean you should iron it, fold it and fuse it with iron-on web. I will use iron-on web (that is sold in broad sheets or rolls) not only for fusing it onto the straps but <strong>for fixing their fold lines in place</strong>. </p>
-<p>I’ve decided to use a steel ruler as<strong> a template for the bend </strong>because it has a suitable width – 2.8cm. If I don’t like the result, I will make a cardboard template. </p>
+<p>I’ve decided to use a steel ruler as<strong> a template for the bend </strong>because it has a suitable width - 2.8cm. If I don’t like the result, I will make a cardboard template. </p>
 <p><strong>I have torn off a strap across the entire width of the fabric. Now I iron it and bend it over my steel ruler.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%2017_files/image004.jpg" class="img-responsive center-block"></p>
@@ -398,7 +398,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

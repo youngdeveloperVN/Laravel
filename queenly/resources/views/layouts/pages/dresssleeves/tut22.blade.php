@@ -314,7 +314,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image121.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image123.jpg" alt=""></p>
 <p><strong>I would also like to add a few words about the seam allowances.</strong></p>
-<p>I will press them flat towards the bottom of the dress <strong>on the triangular part of the central skirt piece</strong>. In this case, there will be no tucks and the triangle won't sink in in the middle from the face side. <strong>On the cups,</strong> I press the bottom part of the seam allowance (before the princess seam) flat towards the bottom of the dress and the top part (after the princess seam) – flat and up onto the cup. This will enhance the shape of the cup.</p>
+<p>I will press them flat towards the bottom of the dress <strong>on the triangular part of the central skirt piece</strong>. In this case, there will be no tucks and the triangle won't sink in in the middle from the face side. <strong>On the cups,</strong> I press the bottom part of the seam allowance (before the princess seam) flat towards the bottom of the dress and the top part (after the princess seam) - flat and up onto the cup. This will enhance the shape of the cup.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image125.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2021_files/image127.jpg" alt=""></p>
 <p><strong>Although the cup pieces were aligned very well,</strong> the princess seam which was not sewn neatly enough comes off from the center of the triangle. As you can see, one flaw brings about many consequences.</p>
@@ -333,7 +333,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

@@ -261,7 +261,7 @@
 </span> <!-- Scope END: ImageObject -->
 <div itemprop="articleBody">
 <h1>Tutorial 24. Finishing the Slit and the Hem of the Dress with the Lining.</h1>
-<p><strong>The slit in the middle of the front is not made in a seam </strong>so I need to cut up the fabric. I have already duplicated the slit area with iron-on batiste – both on the face and on the lining.</p>
+<p><strong>The slit in the middle of the front is not made in a seam </strong>so I need to cut up the fabric. I have already duplicated the slit area with iron-on batiste - both on the face and on the lining.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2024_files/image002.jpg" alt=""></p>
 <p><strong>The fabric needs to be cut up to the marked end of the slit. Remember that the lining is supposed to be pulled 0.5cm higher up as compared to the face.</strong></p>
 <p><strong><br>
@@ -288,7 +288,7 @@
 <p>Before pinning the face with the lining along the bottom edge of the dress, <strong>I align and pin together all layers of the face </strong>(namely: the main fabric, the chiffon, and the lace).</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2024_files/image024.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2024_files/image026.jpg" alt=""></p>
-<p><strong>And then I pin the face and the lining together along the bottom edge referring to the main fabric as the standard.</strong> I don't pin the train area – it will be finished later.</p>
+<p><strong>And then I pin the face and the lining together along the bottom edge referring to the main fabric as the standard.</strong> I don't pin the train area - it will be finished later.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2024_files/image028.jpg" alt=""></p>
 <p><strong>I turn out the dress and align the bottom edges from the other side of the slit.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2024_files/image030.jpg" alt=""></p>
@@ -307,7 +307,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Bell Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/model.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The Model</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/patterns-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

@@ -162,7 +162,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2021_files/image028.jpg" class="img-responsive center-block"></p>
 <p><strong>The point of using this method is to prevent the lining from pulling on the main fabric of the skirt and at the same time leave the side seam of the dress open. </strong>This was the first trick. </p>
-<p><strong>Now I'll share another trick that can help reduce the amount of wrinkles in the transition from the corset to the skirt on a not so long straight-cut dress.</strong> You surely know those treacherous wrinkles that tend to form around the stomach or around the thigh area whenever you sit down or stand up. It's one thing when you sit down and stand up – this makes wrinkles inevitable. But it's a whole different thing if they form while you're just standing. </p>
+<p><strong>Now I'll share another trick that can help reduce the amount of wrinkles in the transition from the corset to the skirt on a not so long straight-cut dress.</strong> You surely know those treacherous wrinkles that tend to form around the stomach or around the thigh area whenever you sit down or stand up. It's one thing when you sit down and stand up - this makes wrinkles inevitable. But it's a whole different thing if they form while you're just standing. </p>
 <p><strong>The trick I want to share with you might not eliminate such wrinkles entirely but it definitely helps reduce their amount considerably.</strong> </p>
 <p><strong>The first thing I do is sew a wide Rigilene bone onto the seam allowance of the side seam. It should reach down to the hip level.</strong> </p>
 <p>

@@ -170,7 +170,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design – Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
+						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design - Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -293,7 +293,7 @@
 <p><strong>This time I will use a different sewing and cutting technique. </strong>Please note that the direction of the lengthwise grain is marked on the pattern. The fold line of the front piece runs parallel to the lengthwise grain and so does the central back seam line. What concerns the side piece, the lengthwise grain may run parallel to the front edge or parallel to the princess seam line. I have chosen the latter.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2021.files/image028.jpg" alt=""></p>
 <p><strong>You always need to decide on the width and the shape of your ruffles before sewing them on the skirt. </strong>Moreover, you need to keep in mind that the ruffles at the bottom of the skirt must be larger than the ruffles at the top of it.</p>
-<p><strong>My ruffles will be made of thin voile curtain fabric. </strong>The largest will have a width of 11cm and the smallest – a width of 7cm. I will gradually go from the largest to the smallest ruffles and try to make the transition as smooth as possible. The distance between the bottom ruffles will be a little bigger than between the top ruffles. The ruffles at the top of the skirt need to be positioned with smaller intervals because of their smaller size.</p>
+<p><strong>My ruffles will be made of thin voile curtain fabric. </strong>The largest will have a width of 11cm and the smallest - a width of 7cm. I will gradually go from the largest to the smallest ruffles and try to make the transition as smooth as possible. The distance between the bottom ruffles will be a little bigger than between the top ruffles. The ruffles at the top of the skirt need to be positioned with smaller intervals because of their smaller size.</p>
 <p><strong>I also need to account for the curved train line in the layout.</strong> I purposely marked the bottom line on the skirt pattern to know where exactly the transition to the train begins, i.e. to know what part of the skirt hangs vertically and what part starts settling upon the floor. This will affect the layout: it is highly recommended to position ruffles parallel to the floor on the part of the skirt that hangs vertically whereas on the train they can be positioned in half-circle rows from one edge to the other.</p>
 <p><strong>I start drawing the layout without paying attention to the princess seam line which joins two separate parts of the skirt.</strong> Before we continue, I would like to show schematically and explain how I made the layout enclosed with this book.</p>
 <p><strong>I start drawing ruffle guidelines on the skirt pattern. </strong>At first, I draw them at an angle and with bigger intervals along the central back seam line than along the front line. You can see it in the draft below.</p>
@@ -331,7 +331,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

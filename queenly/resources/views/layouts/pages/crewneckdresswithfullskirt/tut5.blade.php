@@ -253,7 +253,7 @@
 <ul>
 <li>The primary&nbsp;technique for sewing&nbsp;corset-based sleeveless crew-neck dress with individually cut collar and full skirt.</li>
 <li>In the&nbsp;tutorial “Altering the pattern" (tutorial 5) &nbsp;I explain how to adjust the patterns and to cut the dress. This knowledge erases the limitations and makes this course universal for sewing unlimited variety of styles of wedding and evening dresses with&nbsp;crew-neck, with or without collar.</li>
-<li>In this course explained how to work with f fabrics with different texture: taffeta – “capricious" and hard to work with fabric, tulle nets of different hardness.</li>
+<li>In this course explained how to work with f fabrics with different texture: taffeta - “capricious" and hard to work with fabric, tulle nets of different hardness.</li>
 <li>The technique of connecting of the corset to the fluffy skirt.</li>
 <li>Making fasteners on the back: zipper on the skirt and lacing on the corset.</li>
 <li>Special attention is paid to choice of the length of the corset in this kind of garments. Precaution from the mistakes made by beginners.</li>
@@ -396,7 +396,7 @@
 <p><strong>I bend the top of the side front piece along the seam allowance and place it at the seam allowance of the central front piece.&nbsp; </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%205_files/image033.jpg" class="img-responsive center-block"></p>
-<p>The armscye looks too sharp in my opinion. I suggest we should make it rounder and make the princess seam a little longer – we can always trim the armscye later when working on the garment.&nbsp; Besides, our 22cm side length accounts for set-in sleeves. But our dress is sleeveless so we can safely cut the side length down to 21cm. </p>
+<p>The armscye looks too sharp in my opinion. I suggest we should make it rounder and make the princess seam a little longer - we can always trim the armscye later when working on the garment.&nbsp; Besides, our 22cm side length accounts for set-in sleeves. But our dress is sleeveless so we can safely cut the side length down to 21cm. </p>
 <p></p>
 <p><strong>The armscye with applied alterations looks like this: </strong></p>
 <p>
@@ -481,7 +481,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/dress2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress sewing pattern</a><br>						
 					</div>
 

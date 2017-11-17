@@ -136,7 +136,7 @@
 <h2>Tutorial 14. Quilting the Cups with Bones (Continued). </h2>
 <p></p>
 <p><strong>In this tutorial we are going to continue quilting the cups with bones and finish quilting the entire lining of the central piece. </strong></p>
-<p><strong>You are already familiar with the steps: </strong>I arrange the bones according to the markings and sew them on with two parallel stitches. Please always keep in mind that you need to make dome-shaped cups – don’t let the fabric gather underneath the bones. </p>
+<p><strong>You are already familiar with the steps: </strong>I arrange the bones according to the markings and sew them on with two parallel stitches. Please always keep in mind that you need to make dome-shaped cups - don’t let the fabric gather underneath the bones. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2014_files/image002.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -235,7 +235,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

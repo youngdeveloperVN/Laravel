@@ -308,7 +308,7 @@
 <p>- Hip circumference (HC). I mention this measurement just in case. In my particular pattern the length from the waistline to the bottom is 18cm.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image008.jpg" class="img-responsive center-block"></p>
-<p>Our pattern is designed for a long corset. We are going to re-model it into a short corset – the one I drew before, with a down-pointing triangle at the front. I will demonstrate you how to re-model and alter it to achieve a beautiful bottom line at the front. The side seam will be rather short in this case (9cm from the waistline); in other words the side length of the corset will end at the stomach level.</p>
+<p>Our pattern is designed for a long corset. We are going to re-model it into a short corset - the one I drew before, with a down-pointing triangle at the front. I will demonstrate you how to re-model and alter it to achieve a beautiful bottom line at the front. The side seam will be rather short in this case (9cm from the waistline); in other words the side length of the corset will end at the stomach level.</p>
 <p>Nevertheless, this pattern will come in handy if you decide to sew a dress with a see-through corset top. You can attach any kind of a skirt to the bottom of a long corset to turn it into a pretty dress. And in this very case you will need the “hip circumference" measurement that equals 18cm or any required length of your corset.</p>
 <p><strong>Let’s return to the table.</strong></p>
 <p>
@@ -326,7 +326,7 @@
 <p><strong>- Bust middle.</strong> This measurement will show how much you need to alter the central front piece including the cups (if relevant).</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image013.jpg" class="img-responsive center-block"></p>
-<p><strong>In my case</strong> the client’s bust middle measurement is 18.5cm and the one on the original pattern is 19.5cm. It is clear that I’ll end up with an extra centimeter if I cut the corset according to the pattern. This centimeter has to be removed. But since this piece has a fold line, we need to divide one centimeter in half and as a result narrow the centre of the front piece by 0.5cm. This 0.5cm should be kept in mind during the whole recalculation, for all measurements. That’s why I write -0.5cm into every =line of the third column. I write it down for the “hip circumference" as well – although this measurement is optional, we might need it later.</p>
+<p><strong>In my case</strong> the client’s bust middle measurement is 18.5cm and the one on the original pattern is 19.5cm. It is clear that I’ll end up with an extra centimeter if I cut the corset according to the pattern. This centimeter has to be removed. But since this piece has a fold line, we need to divide one centimeter in half and as a result narrow the centre of the front piece by 0.5cm. This 0.5cm should be kept in mind during the whole recalculation, for all measurements. That’s why I write -0.5cm into every =line of the third column. I write it down for the “hip circumference" as well - although this measurement is optional, we might need it later.</p>
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image015.jpg" class="img-responsive center-block"></p>
@@ -338,40 +338,40 @@
 <p>Let’s calculate this shift.</p>
 <p>However we have already narrowed the bust middle down by 1cm.</p>
 <p>Therefore:</p>
-<p>45cm – 1cm= 44cm</p>
-<p>44cm– 47cm= -3cm</p>
+<p>45cm - 1cm= 44cm</p>
+<p>44cm- 47cm= -3cm</p>
 <p>This is the value our pattern lacks. That being said, we need to add a half of this value (1.5cm) to the pattern. I write this value into the table (column 5, line 1).</p>
 <p><strong>Under-bust front measurement:</strong></p>
 <p>37cm on the pattern correspond to 39cm on the client.</p>
 <p>However we have already narrowed the bust middle down by 1cm.</p>
 <p>Therefore:</p>
-<p>37cm – 1cm = 36cm</p>
-<p>36cm – 39cm = -3cm</p>
+<p>37cm - 1cm = 36cm</p>
+<p>36cm - 39cm = -3cm</p>
 <p>This is the value our pattern lacks. This means we need to add a half of this value (1.5cm) to the pattern. I write this value into the table (column 5, line 2).</p>
 <p>Well, we have found two main values and they seem logical if we look at the front side and back side patterns. <strong>But we are talking about the side seam of the front.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image017.jpg" class="img-responsive center-block"></p>
-<p>If we need to add 1.5cm at the bust-line and the under-bust line levels, then it is reasonable to assume that the same 1.5cm should be added along the whole side of the front. If something doesn’t match well later, we can work on the back princess seams and on the front princess seams that go down from the waistline. Of course no alterations can be made for the front princess seams under the bust. But our front piece consists of three parts, i.e. there are two princess seams at the front. If we add 1-2mm to each edge of both seams, the resulting shape alteration will be inferior whereas the gain of circumference will be considerable. This way we can alter the pattern significantly with the help of an inconsiderable adjustment of these seams. But I’ve run ahead of time – <strong>for now we should add this 1.5cm along the whole length of the corset.</strong> There is no alteration in the bust middle of course.</p>
+<p>If we need to add 1.5cm at the bust-line and the under-bust line levels, then it is reasonable to assume that the same 1.5cm should be added along the whole side of the front. If something doesn’t match well later, we can work on the back princess seams and on the front princess seams that go down from the waistline. Of course no alterations can be made for the front princess seams under the bust. But our front piece consists of three parts, i.e. there are two princess seams at the front. If we add 1-2mm to each edge of both seams, the resulting shape alteration will be inferior whereas the gain of circumference will be considerable. This way we can alter the pattern significantly with the help of an inconsiderable adjustment of these seams. But I’ve run ahead of time - <strong>for now we should add this 1.5cm along the whole length of the corset.</strong> There is no alteration in the bust middle of course.</p>
 <p><strong>And since we are talking about the front, let’s see what we should do with the clip.</strong></p>
 <p><strong>Clip to the scye:</strong></p>
 <p>It is 12cm on the pattern and the client’s measurement is 9cm so I need to remove the following value:</p>
-<p>9cm – 12cm = <strong>-3cm</strong></p>
+<p>9cm - 12cm = <strong>-3cm</strong></p>
 <p><strong>Clip to the corner:</strong></p>
 <p>It is 12cm on the pattern and the client’s measurement is 10cm so I need to remove the following value:</p>
-<p>10cm – 12cm = <strong>-2cm</strong></p>
+<p>10cm - 12cm = <strong>-2cm</strong></p>
 <p>And I need to <strong>lower</strong> the neckline by 2.5cm:</p>
-<p>4cm– 6.5cm = <strong>-2.5cm</strong></p>
+<p>4cm- 6.5cm = <strong>-2.5cm</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image019.jpg" class="img-responsive center-block"></strong></p>
 <p>Now the neckline should look beautiful and correspond to the measurement.</p>
 <p>I write the values into the table (column 5, line 8).</p>
 <p><strong>Side length:</strong></p>
 <p>It is 20cm on the pattern and the client’s measurement is 18cm. This means the standard side length should be shortened by 2cm.</p>
-<p>18cm – 20cm = <strong>-2cm</strong></p>
+<p>18cm - 20cm = <strong>-2cm</strong></p>
 <p>I write it down in the table (column 5, line 9).</p>
 <p><strong>Back length:</strong></p>
 <p>It is 19cm on the pattern and the client’s measurement is 17cm. This means the standard back length should be shortened by 2 cm.</p>
-<p>17cm – 19cm = <strong>-2cm</strong></p>
+<p>17cm - 19cm = <strong>-2cm</strong></p>
 <p>I write it down in the table (column 5, line 10).</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image021.jpg" class="img-responsive center-block"></p>
@@ -384,24 +384,24 @@
 <p>-1cm + 3cm = 2cm</p>
 <p>Thus:</p>
 <p>82cm+ 2cm = 84cm</p>
-<p>84cm– 85cm= <strong>-1cm</strong></p>
+<p>84cm- 85cm= <strong>-1cm</strong></p>
 <p>This is what our pattern lacks. And therefore we need to add a half of this value or 0.5cm to its bust circumference. I write it into the table (column 6, line 3).</p>
 <p><strong>Under-bust circumference:</strong></p>
 <p>It is 72cm on the pattern and 70cm on the client. I perform the same kind of calculation:</p>
 <p>72cm + 2cm = 74cm</p>
-<p>74cm – 70cm= <strong>4cm</strong></p>
+<p>74cm - 70cm= <strong>4cm</strong></p>
 <p>As we can see, we have extra 4cm that needs to be removed. If we divide it between two sides, we get the value of -2cm. I write it into the table (column 6, line 4).</p>
 <p><strong>Waist circumference:</strong></p>
 <p>It is 62cm on the pattern and 64cm on the client. Let me calculate:</p>
 <p>62cm + 2cm = 64cm</p>
 <p>This value corresponds to the client’s measurement. That means we don’t need to change anything. I write a zero in the table (column 6, line 5).</p>
 <p><strong>Stomach circumference 9cm below the waistline:</strong></p>
-<p>The client’s measurement coincides with that on the pattern – 78cm. But we have already added 2cm (1cm for each side) and it should be removed now. I write the value of -1cm into the table (column 6, line 6).</p>
-<p><strong>Bust middle – no alteration; clip – no alteration; side length – -2cm; back length – -2cm.</strong></p>
+<p>The client’s measurement coincides with that on the pattern - 78cm. But we have already added 2cm (1cm for each side) and it should be removed now. I write the value of -1cm into the table (column 6, line 6).</p>
+<p><strong>Bust middle - no alteration; clip - no alteration; side length - -2cm; back length - -2cm.</strong></p>
 <p><strong>Hip circumference:</strong></p>
 <p>It is 92cm on the pattern and the client’s measurement is 96cm. Let me calculate:</p>
 <p>92cm + 2cm = 94cm</p>
-<p>94cm – 96cm= <strong>-2cm</strong></p>
+<p>94cm - 96cm= <strong>-2cm</strong></p>
 <p>This shows that the pattern lacks 2cm. So we should add 1cm to each side. I write this value into the table (column 6, line 11).</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image023.jpg" class="img-responsive center-block"></p>
@@ -417,7 +417,7 @@
 <p>Since I wouldn’t recommend making any changes to the bust circumference measurement, I write a zero there (column 7, line 3). The thing is that there is quite a great divergence between the bust-line and the under-bust line at the side seam of the back (2.5cm). This value is hard to distribute between princess seams. In order to make this task easier, I have minified this divergence by altering the side seam of the front by -1cm. In this case the divergence between the bust-line and the under-bust line will be 1cm and the rest can be distributed between the princess seams.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%203_files/image029.jpg" class="img-responsive center-block"></p>
-<p>And now we need to recalculate everything very carefully in order to understand the way we will use princess seams at the front and at the back. The front princess seams at the bust and underneath it should remain untouched – it is a rule (I write dashes in lines 3 and 4 of column 8). Only the seams at the back are involved.</p>
+<p>And now we need to recalculate everything very carefully in order to understand the way we will use princess seams at the front and at the back. The front princess seams at the bust and underneath it should remain untouched - it is a rule (I write dashes in lines 3 and 4 of column 8). Only the seams at the back are involved.</p>
 <p><strong>Let us calculate it all over again, accounting for all values written in the table.</strong></p>
 <p><strong>Bust circumference:</strong></p>
 <p>It is 82cm on the pattern and the client’s measurement equals 85cm.</p>
@@ -426,7 +426,7 @@
 <p>-1cm + 3cm + 0 = 2cm</p>
 <p>Therefore:</p>
 <p>82cm + 2cm = 84cm</p>
-<p>84cm – 85cm= <strong>-1cm</strong></p>
+<p>84cm - 85cm= <strong>-1cm</strong></p>
 <p><strong>That’s the value we are to account for in the pattern.</strong></p>
 <p><strong>There are two back princess seams and therefore four cuts (red lines in the picture below), or eight cuts if we look from both sides.</strong></p>
 <p>
@@ -438,10 +438,10 @@
 <p>72cm on the pattern corresponds to the client’s measurement of 70cm.</p>
 <p>I need to account for the adjustment of the bust middle (1cm), along the side seam of the front (3cm) and along the adjusted side seam of the back (-2cm).</p>
 <p>The adjustment value for two halves of the pattern is:</p>
-<p>-1cm + 3cm – 2cm = 0cm</p>
+<p>-1cm + 3cm - 2cm = 0cm</p>
 <p>Therefore:</p>
 <p>72cm + 0cm = 72cm</p>
-<p>72cm – 70cm= <strong>2cm</strong></p>
+<p>72cm - 70cm= <strong>2cm</strong></p>
 <p><strong>So I need to distribute this 2cm between eight cuts.</strong></p>
 <p>2cm ÷ 8 = <strong>0.25cm</strong></p>
 <p><strong>To cut a long story short, the pattern should be narrowed by 2mm at the under-bust level of our back princess seams (column 9, line 4).</strong></p>
@@ -451,10 +451,10 @@
 <p>It is 62cm on the pattern and 64cm on the client.</p>
 <p>I need to account for the adjustment of the bust middle (-1cm), along the side seam of the front (3cm) and along the adjusted side seam of the back (-2cm).</p>
 <p>The adjustment value for two halves of the pattern is:</p>
-<p>-1cm + 3cm – 2cm = 0cm</p>
+<p>-1cm + 3cm - 2cm = 0cm</p>
 <p>Therefore:</p>
 <p>62cm + 0cm = 62cm</p>
-<p>62cm – 64cm= <strong>-2cm</strong></p>
+<p>62cm - 64cm= <strong>-2cm</strong></p>
 <p><strong>The pattern lacks 2cm. </strong>It can be distributed in the following manner: 1cm for the front princess seams and another 1cm for the back princess seams.</p>
 <p>1cm ÷ 8 = <strong>0.125cm</strong></p>
 <p><strong>So I need to add 1mm at the waistline level of the front and back princess seams (columns 8 and 9, line 5).</strong></p>
@@ -465,10 +465,10 @@
 <p>It is 93cm on the pattern and the client’s measurement is 96cm.</p>
 <p>I need to account for the adjustment of the bust middle (-1cm), along the side seam of the front (3cm) and along the adjusted side seam of the back (-2cm).</p>
 <p>The adjustment value for two halves of the pattern is:</p>
-<p>-1cm + 3cm – 2cm = 0cm</p>
+<p>-1cm + 3cm - 2cm = 0cm</p>
 <p>Therefore:</p>
 <p>92cm + 0cm = 92cm</p>
-<p>92cm – 96cm= <strong>-4cm</strong></p>
+<p>92cm - 96cm= <strong>-4cm</strong></p>
 <p><strong>The pattern lacks 4cm. </strong>It can be distributed the following way: 2cm for the front princess seams and another 2cm for the back princess seams.</p>
 <p>2cm÷ 8 = <strong>0.25cm</strong></p>
 <p><strong>As you can see we need to add 0.25cm at the waistline level of the front and back princess seams (columns 8 and 9, line 11).</strong></p>
@@ -486,7 +486,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

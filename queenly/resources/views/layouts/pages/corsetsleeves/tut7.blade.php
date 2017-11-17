@@ -338,7 +338,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%207_files/image030.jpg" class="img-responsive center-block"></p>
 <p></p>
-<p><strong>The part of the lay with the pattern sketched right over the batiste will serve as the lining</strong> and the clean one – as the face. I remove the remaining pins from the skirt. </p>
+<p><strong>The part of the lay with the pattern sketched right over the batiste will serve as the lining</strong> and the clean one - as the face. I remove the remaining pins from the skirt. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%207_files/image032.jpg" class="img-responsive center-block"></p>
 <p><strong>And I fuse the prepared stiff iron-on fabric onto the lay of the lining. </strong>I have trimmed away the seam allowances of the stiff iron-on pieces.</p>
@@ -453,7 +453,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

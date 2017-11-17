@@ -143,7 +143,7 @@
 <p><strong>I take the central piece of the corset front (#1) and trace it. </strong>This pattern remains unchanged since there are no alterations in the central part (the bust middle measurement coincides with the client’s). </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%205_files/image004.jpg" class="img-responsive center-block"></p>
-<p><strong>Make sure to transfer all notches. </strong>There is a notch at the bust-line level (1), a notch on the princess seam of the cup (2), and a marking (3) for matching it with the opaque piece – you should mark the latter on fabric without notching it. </p>
+<p><strong>Make sure to transfer all notches. </strong>There is a notch at the bust-line level (1), a notch on the princess seam of the cup (2), and a marking (3) for matching it with the opaque piece - you should mark the latter on fabric without notching it. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%205_files/image006.jpg" class="img-responsive center-block"></p>
 <p><strong>Next I take the intermediate front piece (#2).</strong> Try to arrange the patterns so as to make the waistline coincide with the no-stretch thread. If you have enough fabric, you can lay this piece at an angle and match its waistline notch with the lengthwise thread because my fabric stretches crosswise and not lengthwise. On the other hand it will be a very slant cut. You need to steer a middle course here. I have arranged the piece the way shown in the picture below: </p>
@@ -152,7 +152,7 @@
 <p><strong>I trace the pattern.</strong> There are no adjustments anywhere so I just transfer it and trace it as is. The only thing we have noticed on the mock-up is that we might straighten the top line of the piece. We are going to shorten the length of the cups to remove 1cm from the clip measurement. So we are most likely going to lower the whole top line of the piece by 1cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%205_files/image010.jpg" class="img-responsive center-block"></p>
-<p><strong>Let’s take the next piece – the side piece of the front (#3).</strong> You can arrange it in such a way that its waistline is perfectly horizontal. <strong>First I outline the whole piece: </strong></p>
+<p><strong>Let’s take the next piece - the side piece of the front (#3).</strong> You can arrange it in such a way that its waistline is perfectly horizontal. <strong>First I outline the whole piece: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%205_files/image012.jpg" class="img-responsive center-block"></p>
 <p><strong>There are notches at the bottom and on the right side of the piece. </strong>Notches 1 and 2 demonstrate the start and end of a decorative bone that’ll be sewn right on top of the piece. This bone will lie at the same angle as the princess seams. Its function is purely decorative but it’s important to transfer its location and maybe even draw it to avoid mistakes. There are notches at the waistline (3 and 4), too. </p>
@@ -202,7 +202,7 @@
 <p><strong>The side back piece is finished: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%205_files/image041.jpg" class="img-responsive center-block"></p>
-<p><strong>It’s time to work on the last piece – the central piece of the back. </strong>I trace the initial pattern. </p>
+<p><strong>It’s time to work on the last piece - the central piece of the back. </strong>I trace the initial pattern. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%205_files/image043.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -230,7 +230,7 @@
 <p>There are no alterations in the bottom part of the central cup piece. All adjustments concern the area of the princess seam that joins the central cup piece with the side one. <strong>I trace the side cup piece so I can apply and compare alterations to both princess seams later: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%205_files/image055.jpg" class="img-responsive center-block"></p>
-<p><strong>All these alterations are made at the levels of the décolleté cut-out and the scye. </strong>Looking at the mock-up on the dress-form we have decided to <strong>remove 2cm at the underarm level and shorten the side cup piece by 1cm </strong>with a 1.2cm seam allowance in mind. <strong>&nbsp;The corner needs to be shifted down by 1.5cm. </strong>It won’t be a big deal <strong>if you shift it by 2cm </strong>because this measurement is rather <strong>relevant</strong>. You took it looking at a person but now that you’re going to draw a pretty décolleté or scye line you can choose what looks better – a smoother or a steeper line. <strong>I prefer a smoother line so I’m going to shift the corner down by 2cm. </strong>I draw a new (red dashed) line parallel to the original one. <strong>I am removing 2cm as you can see in the picture: </strong></p>
+<p><strong>All these alterations are made at the levels of the décolleté cut-out and the scye. </strong>Looking at the mock-up on the dress-form we have decided to <strong>remove 2cm at the underarm level and shorten the side cup piece by 1cm </strong>with a 1.2cm seam allowance in mind. <strong>&nbsp;The corner needs to be shifted down by 1.5cm. </strong>It won’t be a big deal <strong>if you shift it by 2cm </strong>because this measurement is rather <strong>relevant</strong>. You took it looking at a person but now that you’re going to draw a pretty décolleté or scye line you can choose what looks better - a smoother or a steeper line. <strong>I prefer a smoother line so I’m going to shift the corner down by 2cm. </strong>I draw a new (red dashed) line parallel to the original one. <strong>I am removing 2cm as you can see in the picture: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%205_files/image057.jpg" class="img-responsive center-block"></p>
 <p>I drew a beautiful décolleté line on the mock-up. And now I can check how much the princess seam changed back then. <strong>It was in fact the same 2cm. </strong></p>
@@ -254,7 +254,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

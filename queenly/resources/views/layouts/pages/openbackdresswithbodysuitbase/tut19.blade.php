@@ -319,7 +319,7 @@
 <p><strong>The fourth and the fifth piece make the front of the skirt. They are two rectangular pieces of bobbinet, each 3m wide and 25cm long.</strong></p>
 <p><strong>It's easy to calculate how much bobbinet fabric you need </strong>by summing up the lengths of all rectangular pieces. <strong>I need as little as 3.5m of 3m-wide bobbinet for the entire skirt,</strong> which is a lot less than what you'd need for a full sweep skirt, let alone a multi-layer full sweep skirt. The skirt will be lightweight and really full despite the thrifty fabric consumption. </p>
 <p><strong>Let me show you an easy way of cutting trapezium skirt pieces on a small rectangular piece of bobbinet. </strong></p>
-<p><strong>I cut a piece of bobbinet that is 300cm wide and 130cm long for the first piece and fold it in half widthwise. </strong>Bobbinet is normally sold that way – folded in half. </p>
+<p><strong>I cut a piece of bobbinet that is 300cm wide and 130cm long for the first piece and fold it in half widthwise. </strong>Bobbinet is normally sold that way - folded in half. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%2019_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>Then I mark 30cm inwards from the top and the bottom of the raw edge and mark the very middle of the fold line. </strong></p>
@@ -357,7 +357,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

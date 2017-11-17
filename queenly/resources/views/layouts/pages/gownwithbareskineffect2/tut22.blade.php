@@ -344,7 +344,7 @@
 <p><strong>We also need to decorate the area where the skirt joins the bodysuit.</strong> </p>
 <p><strong>And here a small issue arises.</strong> I glued on the lace motifs when the dress was on the dress-form, i.e. it was pulled on as if on the actual body. Putting the finished dress back on the dress-form is very challenging: it's easy to spoil it. But we can't continue decorating it on the surface of the table either: the dress shrinks when taken off the dress-form and if we overlay the specified area with non-stretch lace, it might make the size of the dress smaller and it'll end up too tight for the client. </p>
 <p><strong>That's why we must insert some kind of a template into the dress in the area of the waistline that we want to decorate.</strong> Its size should equal a half of the waistline circumference of the dress-form. You can make a template by gluing together multiple layers of cardboard or use ready-made wood boards of suitable dimensions. It's best to wrap the template in packaging film for more convenience. </p>
-<p><strong>As for my template – it's a regular cutting board.</strong> Its length equals a half of the waistline circumference – 34cm. </p>
+<p><strong>As for my template - it's a regular cutting board.</strong> Its length equals a half of the waistline circumference - 34cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%2016_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>I wrap the template in packaging film and put it in the dress at the waist level.</strong></p>
@@ -371,7 +371,7 @@
 <p><strong>I use small lace motifs to decorate the spot where the upper part of the skirt merges with the lower part </strong>covering up the transition from the lace to the main fabric.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%2016_files/image020.jpg" class="img-responsive center-block"></p>
-<p><strong>And I sew decorative buttons </strong>with 2.5cm intervals<strong> onto the flap that covers up the zipper on the bodysuit. </strong>You can make these buttons smaller or larger – it all depends on the dress model and your creativity. </p>
+<p><strong>And I sew decorative buttons </strong>with 2.5cm intervals<strong> onto the flap that covers up the zipper on the bodysuit. </strong>You can make these buttons smaller or larger - it all depends on the dress model and your creativity. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%2016_files/image022.jpg" class="img-responsive center-block"></p>
 <p><strong>To make thing harmonious I have also sewn the same kind of buttons onto the flap that covers the zipper on the skirt. </strong>I have disguised the end of the zipper with a button but you could also use a bow or a lace motif.</p>
@@ -379,7 +379,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%2016_files/image024.jpg" class="img-responsive center-block"></p>
 <p><strong>These are basically all steps required to finish the dress completely.</strong></p>
 <p><strong>I have a couple more words to say to those who want to sew their lace motifs on by hand.</strong></p>
-<p>I highly recommend that you still secure the layout with glue in advance. It is not compulsory to use Gutermann textile glue for this purpose – you can replace it with special glue for temporary bonding that dissolves in water. With that kind of glue you just secure your lace elements on the mesh, then sew them on by hand, and then put the garment in warm water and the glue dissolves. Your client will have no clue that you used glue! </p>
+<p>I highly recommend that you still secure the layout with glue in advance. It is not compulsory to use Gutermann textile glue for this purpose - you can replace it with special glue for temporary bonding that dissolves in water. With that kind of glue you just secure your lace elements on the mesh, then sew them on by hand, and then put the garment in warm water and the glue dissolves. Your client will have no clue that you used glue! </p>
 <p><strong>Let me warn you again:</strong> never try to sew lace appliqué elements onto a garment without securing them by glue first! It will either be a total failure or you will waste incredibly much time! </p>
 <p></p>
 <p><strong>Pictures of the Finished Garment.</strong></p>

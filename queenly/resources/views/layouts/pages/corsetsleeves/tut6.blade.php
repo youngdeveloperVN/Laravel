@@ -368,7 +368,7 @@
 <p><strong>There is the last adjustment: the princess seams need to be shifted 0.5cm outwards in the waist.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%206_files/image044.jpg" class="img-responsive center-block"></p>
-<p><strong>Let me share a small tip before you pin the pieces together and start cutting them out.</strong> If you are not entirely sure about the accuracy of your neck base to bust middle, back neck base to waist, and shoulder tip to bust middle measurements (as well as any other measurements that affect the location of the shoulder seam), I recommend you should use a 2-3cm seam allowance instead of the regular 1.2cm – just in case. </p>
+<p><strong>Let me share a small tip before you pin the pieces together and start cutting them out.</strong> If you are not entirely sure about the accuracy of your neck base to bust middle, back neck base to waist, and shoulder tip to bust middle measurements (as well as any other measurements that affect the location of the shoulder seam), I recommend you should use a 2-3cm seam allowance instead of the regular 1.2cm - just in case. </p>
 <p><strong>How does it help?</strong> If you do notice an error, you will have some extra fabric for a minor adjustment of the location of the side seam. It is particularly handy for garments with narrow fitted sleeves. You will simply improve the fit and pin the shoulder seam in place during the fitting. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%206_files/image046.jpg" class="img-responsive center-block"></p>
@@ -445,7 +445,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

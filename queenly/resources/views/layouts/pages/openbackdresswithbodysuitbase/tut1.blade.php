@@ -311,9 +311,9 @@
 <p></p>
 <p></p><p><strong>Why have I chosen this particular dress model?</strong> It is the most basic one from the range of models that involve a straight cut, a low back, sew-in cups, and ‘sleeves.’ This dress can be overlaid by lace, chiffon, resilient mesh or any other similar fabric. You can also make it a mermaid dress. You can use a mermaid skirt or a full skirt likewise. Feel free to go creative with various decorative elements, such as drapes, appliqué, rhinestones, ribbons, bows or ruffles. </p>
 <p>In other words, this dress will help me explain and illustrate that very basic sewing technique that you can later employ to create dresses of countless styles and your own designs! </p>
-<p><strong>Your main goal is to understand the method of assembling this garment – as soon as you do, you will know how to amaze your clients! </strong></p>
+<p><strong>Your main goal is to understand the method of assembling this garment - as soon as you do, you will know how to amaze your clients! </strong></p>
 <p><strong>I would like to tell you about the materials we are going to use.</strong> </p>
-<p><strong>The most important and uncommon one – something we have never used before – is the reReady-Something that we’ve never used before is ready-made foam cups.</strong> You can use any kind of them. </p>
+<p><strong>The most important and uncommon one - something we have never used before - is the reReady-Something that we’ve never used before is ready-made foam cups.</strong> You can use any kind of them. </p>
 <p><strong>As for me I will use foam cups that have a semi-circle top edge and no push-up pads. </strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%201_files/image004.jpg" class="img-responsive center-block"> </p>
@@ -324,7 +324,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%201_files/image008.jpg" class="img-responsive center-block"> </p>
 <p><strong>You will need some specific materials apart from fabric. Elastic bands, for example. </strong></p>
-<p><strong>Shoulder strap elastic:</strong> it is more robust and less stretchy than the regular lingerie elastic. It is available in very many versions: narrow, wide, ruffle, scallop, printed, multi-colour, etc. <strong>The key requirement – it should be springy enough.</strong> </p>
+<p><strong>Shoulder strap elastic:</strong> it is more robust and less stretchy than the regular lingerie elastic. It is available in very many versions: narrow, wide, ruffle, scallop, printed, multi-colour, etc. <strong>The key requirement - it should be springy enough.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%201_files/image010.jpg" class="img-responsive center-block"> </p>
 <p><strong>Elastic band for finishing the top edge and the low neckline at the back of the dress:</strong> </p>
@@ -337,7 +337,7 @@
 <p><strong>We also need semi-circle metal bra underwires that we'll insert in the cups.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%201_files/image016.jpg" class="img-responsive center-block"> </p>
-<p><strong>How to choose such underwires correctly?</strong> First of all, just take the very same kind of a cup you are going to use and place an underwire at its bottom edge where it’s supposed to be sewn in. The underwire should be 1.5-2cm shorter than the bottom arch of the cup – otherwise it will stand in your way when you try to make bar tacks after sewing it in.</p>
+<p><strong>How to choose such underwires correctly?</strong> First of all, just take the very same kind of a cup you are going to use and place an underwire at its bottom edge where it’s supposed to be sewn in. The underwire should be 1.5-2cm shorter than the bottom arch of the cup - otherwise it will stand in your way when you try to make bar tacks after sewing it in.</p>
 <p><strong>Another thing we need is bone casing for our semi-circle metal underwires.</strong> It is non-elastic tape. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%201_files/image018.jpg" class="img-responsive center-block"> </p>
@@ -366,12 +366,12 @@
 <p><strong>The dress itself will be made of stretch satin.</strong> It is rather dense two-way stretch fabric that stretches crosswise and not lengthwise. One side of it is sheen and the other is matte. I will use the matte side as the face and add a delicate lace overlay to make the design more up-to-date and suitable for young women.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%201_files/image032.jpg" class="img-responsive center-block"> </p>
-<p><strong>Let me say a couple of words about something that I use quite frequently – mock-up fabric.</strong> No living fashion designer or dressmaker could possibly imagine their work without this fabric. You should definitely add it to your toolkit! This fabric is above all essential for creating various patterns in the mock-up technique (from basic ones to complicated corset and dress patterns). </p>
+<p><strong>Let me say a couple of words about something that I use quite frequently - mock-up fabric.</strong> No living fashion designer or dressmaker could possibly imagine their work without this fabric. You should definitely add it to your toolkit! This fabric is above all essential for creating various patterns in the mock-up technique (from basic ones to complicated corset and dress patterns). </p>
 <p><strong>What is mock-up fabric then?</strong> It is non-stretch fabric or thick resilient fabric normally made from natural fibers. It can be cotton or linen or contain viscose as well. This kind of fabric usually comes in the widths of 2m, 2.5m or even 3m and it's really handy for creating garments with the draping method. This fabric is also unbleached and its natural ecru colour does not wash off. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%201_files/image034.jpg" class="img-responsive center-block"> </p>
 <p><strong>Now you know what main materials are required for our dress.</strong> </p>
-<p><strong>In conclusion I would like to bring your attention back to the model of our dress.</strong> Certain challenges often arise when you are sewing a garment with sew-in cups (sewn or made of foam alike) and a low neckline at the back! More often than not the wearer tends to feel uneasy in a garment sewn in the wrong technique and assembled in the wrong way. She is likely to feel as though the dress were sliding off so she’s constantly trying to pull it up. I'm sure you know those awkward moves your client makes when she doesn’t feel comfortable in her dress. <strong>And for that very reason the lining of a low-back dress is often represented by a bodysuit – to dispel any doubts and give confidence to the wearer!</strong> The bodysuit should be dense and resilient, with a perfect fit. </p>
+<p><strong>In conclusion I would like to bring your attention back to the model of our dress.</strong> Certain challenges often arise when you are sewing a garment with sew-in cups (sewn or made of foam alike) and a low neckline at the back! More often than not the wearer tends to feel uneasy in a garment sewn in the wrong technique and assembled in the wrong way. She is likely to feel as though the dress were sliding off so she’s constantly trying to pull it up. I'm sure you know those awkward moves your client makes when she doesn’t feel comfortable in her dress. <strong>And for that very reason the lining of a low-back dress is often represented by a bodysuit - to dispel any doubts and give confidence to the wearer!</strong> The bodysuit should be dense and resilient, with a perfect fit. </p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -382,7 +382,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

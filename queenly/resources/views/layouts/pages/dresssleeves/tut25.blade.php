@@ -279,7 +279,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2024_files/image040.jpg" alt=""></p>
 <p><strong>The train will look like this.</strong> About 40cm of it will extend along the floor.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2024_files/image042.jpg" alt=""></p>
-<p><strong>This was the fastest and neatest way of finishing a train made from two layers of fabric. </strong>You can find more methods of cutting and sewing in trains in my other course – "Premium Wedding Skirts."</p>
+<p><strong>This was the fastest and neatest way of finishing a train made from two layers of fabric. </strong>You can find more methods of cutting and sewing in trains in my other course - "Premium Wedding Skirts."</p>
 <p><strong>I have sewn a soft cascading two-layer chiffon train using the very same technique.</strong></p>
 <p><strong>I fold the train in half.</strong> The raw edge (which is 103cm long) needs to be sewn into the central seam at the back of the skirt.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2024_files/image044.jpg" alt=""></p>
@@ -303,7 +303,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

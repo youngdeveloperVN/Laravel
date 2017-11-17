@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -308,7 +308,7 @@
 <p><strong>First I will color all flower petals.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2046_files/image002.jpg" class="img-responsive center-block"></p>
-<p>It is basically impossible to tone brown plastic suede so <strong>I made the petals from white plastic suede</strong> even though I will color them different shades of brown. You can achieve a wonderful chatoyance effect on white petals – it looks just fabulous.&nbsp; </p>
+<p>It is basically impossible to tone brown plastic suede so <strong>I made the petals from white plastic suede</strong> even though I will color them different shades of brown. You can achieve a wonderful chatoyance effect on white petals - it looks just fabulous.&nbsp; </p>
 <p><strong>I start toning the larger petals.</strong> I have prepared dry pastels in three shades. I roll up a wet wipe and use it to paint the petals in a gradient starting from the lightest and gradually moving to the darkest tone.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2046_files/image004.jpg" class="img-responsive center-block"></p>
@@ -355,7 +355,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2046_files/image042.jpg" class="img-responsive center-block"></p>
 <p><strong>You can apply some brown paint on the petals after toning them. </strong></p>
-<p><strong>I take a palette, sprinkle some glitter on it, pick up some brown textile acrylic paint with a brush, and mix it all together</strong>. You can also safely use gouache or watercolors – they hold very well on plastic suede. All you need is find a perfectly matching color.</p>
+<p><strong>I take a palette, sprinkle some glitter on it, pick up some brown textile acrylic paint with a brush, and mix it all together</strong>. You can also safely use gouache or watercolors - they hold very well on plastic suede. All you need is find a perfectly matching color.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2046_files/image044.jpg" class="img-responsive center-block"></p>
 <p>
@@ -391,7 +391,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

@@ -259,7 +259,7 @@
 <p><strong>I start building the actual sleeve pattern. </strong>I use the sleeve patterns I printed out together with the patterns of the shoulder-seam dress enclosed with the book.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2029_files/image018.jpg" alt=""></p>
 <p><strong>I mark my client's upper arm circumference on the pattern (28cm),</strong> divide the value in half, and add 1cm seam allowance. In other words, I mark 15cm left and right of the center of the sleeve cap.</p>
-<p><strong>Then I measure the sleeve cap circumference on the pattern.</strong> I remove the seam allowance and get 47cm. As we know, it is supposed to be 44 cm – same as the armscye circumference on the dress.</p>
+<p><strong>Then I measure the sleeve cap circumference on the pattern.</strong> I remove the seam allowance and get 47cm. As we know, it is supposed to be 44 cm - same as the armscye circumference on the dress.</p>
 <p><strong>I keep lowering the sleeve cap until it meets the desired length of 44cm. </strong>And I re-draw the sleeve cap and the seam allowance (red line).</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2029_files/image020.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2029_files/image022.jpg" alt=""></p>
@@ -298,7 +298,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

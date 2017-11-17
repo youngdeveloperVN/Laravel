@@ -400,7 +400,7 @@
 <p><strong>I put mesh fabric for the panties over the dress-form and pin it down.</strong> It's the same mesh I've used for the front half of the panties and I lay it down the same way: with the stretchy side widthwise.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2021.files/image036.jpg" class="img-responsive center-block"></p>
-<p><strong>I draw the outline of the panties.</strong> You can use a pattern or do it by eye – the key requirement is keeping the same width down the bottom at the front and at the back.</p>
+<p><strong>I draw the outline of the panties.</strong> You can use a pattern or do it by eye - the key requirement is keeping the same width down the bottom at the front and at the back.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2021.files/image038.jpg" class="img-responsive center-block"></p>
 <p><strong>I cut out a half of the panties, bend it over the central line, and cut out the other half.</strong></p>

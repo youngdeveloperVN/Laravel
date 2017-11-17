@@ -333,7 +333,7 @@
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2010_files/image002.jpg" alt=""></strong></p>
 <p><strong>I want to decorate it with 3D poppies.</strong> I really love these flowers! So bright and beautiful! The appliqué itself will be made of leather. You will find different patterns of leaves and petals in the appendix. My appliqué will be made of a single large flower, a smaller bud just ready to burst, three closed buds, and three leaves: two larger ones and a smaller one. <strong>I mark the layout on the piece.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2010_files/image004.jpg" alt=""></p>
-<p><strong>I transfer five petals for the large poppy and three for the smaller bud onto red leather.</strong> Of course you can draw your own patterns and make your own flowers – nothing limits your creativity here!</p>
+<p><strong>I transfer five petals for the large poppy and three for the smaller bud onto red leather.</strong> Of course you can draw your own patterns and make your own flowers - nothing limits your creativity here!</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2010_files/image006.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2010_files/image008.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2010_files/image010.jpg" alt=""></p>
@@ -361,7 +361,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/pattern-black%20leather%20corset%20%2B%20belt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the black leather corset + elastic belt</a><br>						

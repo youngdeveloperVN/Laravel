@@ -145,16 +145,16 @@
 <p><strong>All calculations are recorded in the fourth column of the table. </strong></p>
 <p><strong>Both bust middle measurements coincide (19cm) which means there are no alterations on the central front piece. </strong></p>
 <p><strong>Now let’s see what happens with the location of the side seam. </strong></p>
-<p><strong>Bust front measurement:&nbsp; </strong>my client’s measurement is 47cm but we have 48 on the pattern – therefore we need to narrow the pattern by 0.5cm to get the right size. </p>
-<p><strong>Under-bust measurement: </strong>it’s all the other way round here – the client’s 39cm correspond to 37cm on the pattern so we need to expand the pattern by 1cm. </p>
+<p><strong>Bust front measurement:&nbsp; </strong>my client’s measurement is 47cm but we have 48 on the pattern - therefore we need to narrow the pattern by 0.5cm to get the right size. </p>
+<p><strong>Under-bust measurement: </strong>it’s all the other way round here - the client’s 39cm correspond to 37cm on the pattern so we need to expand the pattern by 1cm. </p>
 <p>And now with our calculations in mind we need to choose a value that will be either added or removed with the help of the side seam to preserve the beautiful shape of the side curve. </p>
 <p>First of all let’s look at all other measurements and try to estimate what adjustments in general we really have to make. The client’s bust circumference almost coincides with the pattern, only some 0.5cm is lacking. Her waist and stomach circumferences are considerably smaller than on the pattern. The clip and other measurements are not as relevant. </p>
-<p>All this tells me that I need to add a certain value to all measurements of the pattern – at least at the bust-line and the under-bust line level. It should be expanded, not narrowed. <strong>I have decided to expand the whole side by 0.5cm. </strong>This means I will slightly shift the side seam back at the bust-line level and at the same time expand the pattern across its entire length the way the measurements call for. </p>
-<p><strong>Bust middle measurement </strong>requires no alterations – I write a zero in the table. </p>
+<p>All this tells me that I need to add a certain value to all measurements of the pattern - at least at the bust-line and the under-bust line level. It should be expanded, not narrowed. <strong>I have decided to expand the whole side by 0.5cm. </strong>This means I will slightly shift the side seam back at the bust-line level and at the same time expand the pattern across its entire length the way the measurements call for. </p>
+<p><strong>Bust middle measurement </strong>requires no alterations - I write a zero in the table. </p>
 <p><strong>Now the clip measurement:</strong> </p>
-<p><strong>- Clip towards the scye</strong> – I need to remove 2cm; </p>
-<p><strong>- Clip towards the corner</strong> – I need to remove 1.5cm; </p>
-<p><strong>- Clip towards the décolleté</strong> – according to the calculations I need to remove 2cm but I am going to remove just 1.5cm. I noticed that you could make the décolleté indent either 5 or 6cm wide when I was taking the measurement. If the original measurement is 7cm and I remove 1.5cm, the client’s measurement will equal 5.5cm, i.e. the average value between 5 and 6. </p>
+<p><strong>- Clip towards the scye</strong> - I need to remove 2cm; </p>
+<p><strong>- Clip towards the corner</strong> - I need to remove 1.5cm; </p>
+<p><strong>- Clip towards the décolleté</strong> - according to the calculations I need to remove 2cm but I am going to remove just 1.5cm. I noticed that you could make the décolleté indent either 5 or 6cm wide when I was taking the measurement. If the original measurement is 7cm and I remove 1.5cm, the client’s measurement will equal 5.5cm, i.e. the average value between 5 and 6. </p>
 <p>The side length and the back length measurements coincide so I write zeros in the table. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%204_files/image004.jpg" class="img-responsive center-block"></p>
@@ -164,17 +164,17 @@
 <p><strong>Under-bust circumference. </strong>It was 68cm on the pattern but we have added another centimeter and got 69cm. It still lacks 1cm to match the client’s measurement (70cm). We need to divide this value by half and expand the pattern by 0.5cm. </p>
 <p><strong>Waist circumference. </strong>It’s a whole different situation here. The pattern was already too large in the waistline (70cm) and we have added another centimeter. The client’s measurement is 64cm. </p>
 <p>Therefore: </p>
-<p>71 – 64 = 7cm.</p>
+<p>71 - 64 = 7cm.</p>
 <p>I divide 7cm by two and get 3.5cm that should be removed from each side at the waistline level. </p>
 <p><strong>Stomach circumference. </strong>It is 88cm on the pattern and we have added another centimeter and got 89cm while the client’s measurement is 84cm. </p>
 <p>Therefore: </p>
-<p>89&nbsp; –&nbsp; 84 = 5cm.</p>
+<p>89&nbsp; -&nbsp; 84 = 5cm.</p>
 <p>I divide 5cm by two and get 2.5cm that should be removed from each side at the stomach level. </p>
 <p>The remaining measurements require no alterations. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%204_files/image006.jpg" class="img-responsive center-block"></p>
 <p><strong>Let us examine the back side piece before determining the exact location of its side seam. </strong>As you can see, there is great divergence of values in the area between the stomach level and the under-bust level: from -3.5cm to +0.5cm. I will obviously have to remove a little at the waistline and stomach levels using the princess seams at the back, i.e. I will have to adjust the side seam of the back. </p>
-<p><strong>Let’s look at the front side piece before adjusting the side seam of the back. </strong>I don’t have a separate column in the table because only one measurement needs to be adjusted – the bust circumference. <strong>Here:</strong> we have removed 0.5cm from the bust front measurement and added 0.5cm to the bust circumference for the side seam of the front. I think it makes sense to add nothing at all at the bust level, i.e. write a zero there. </p>
+<p><strong>Let’s look at the front side piece before adjusting the side seam of the back. </strong>I don’t have a separate column in the table because only one measurement needs to be adjusted - the bust circumference. <strong>Here:</strong> we have removed 0.5cm from the bust front measurement and added 0.5cm to the bust circumference for the side seam of the front. I think it makes sense to add nothing at all at the bust level, i.e. write a zero there. </p>
 <p></p>
 <p>It is no big deal at all: if you take the side piece of the front and look at the shape of its side seam line, you will see that it’s perfectly fine if we leave it ‘as is’ at the bust level, add 0.5cm under the bust and prolong the line downwards. The side seam will be straighter that’s all: </p>
 <p>
@@ -185,7 +185,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%204_files/image010.jpg" class="img-responsive center-block"></p>
 <p>I’m doing it despite the fact that I need to remove quite a lot from the standard pattern both at the waistline level and at the stomach level. </p>
 <p><strong>There are two ways of re-distributing these extra centimeters: you can either use the side seams or the princess seams at the back. </strong></p>
-<p><strong>Your choice is determined by your client’s body shapes. </strong>I have already said it multiple times – take pictures of your clients! You will know better what to add or remove if you have a picture as a reference at hand. </p>
+<p><strong>Your choice is determined by your client’s body shapes. </strong>I have already said it multiple times - take pictures of your clients! You will know better what to add or remove if you have a picture as a reference at hand. </p>
 <p><strong>If your client’s figure is far from an hourglass, </strong>it makes sense to narrow the pattern at the waistline and stomach levels using the side seams so as to emphasize the curve and create more of an hourglass-like silhouette. <strong>If your client’s body has a nicely curved side line </strong>but her buttocks are not full enough, then you should definitely use the princess seams at the back. </p>
 <p><strong>In my particular case it makes more sense to narrow the pattern using the princess seams at the back. </strong>My client’s natural side line is fine and the curve on the pattern doesn’t need to be emphasized for a more distinct hourglass shape. <strong>That is why I’m going to use the princess seams at the back for any adjustments that concern narrowing the pattern. </strong></p>
 <p><strong>Let us move on to our calculations related to the princess seams at the back. They should be recorded in column 7. </strong></p>
@@ -218,7 +218,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

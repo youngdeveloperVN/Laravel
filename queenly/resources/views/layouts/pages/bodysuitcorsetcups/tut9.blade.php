@@ -731,7 +731,7 @@
 						<strong>Where to use:</strong>
 					</p>
 					<ul>
-						<li>It’s a fashion trend – wedding and evening gowns on bodysuit
+						<li>It’s a fashion trend - wedding and evening gowns on bodysuit
 							basis;</li>
 						<li>The variety of styles is great, but they all made by
 							technology taught in this course.</li>

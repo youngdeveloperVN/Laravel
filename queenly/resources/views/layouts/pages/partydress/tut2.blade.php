@@ -306,7 +306,7 @@
 <p><strong>Now your printer should start printing:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%202_files/image014.jpg" class="img-responsive center-block"></p>
-<p>Please take a ruler and measure the size of the squares after printing out the first sheet. Each blue square should be 1 x 1cm and each red one – 0.5 x 0.5cm.  Just measure 10 squares in a row, you should get 10cm. If the result is different, you must have made a mistake in the properties. You need to achieve perfect matching!</p>
+<p>Please take a ruler and measure the size of the squares after printing out the first sheet. Each blue square should be 1 x 1cm and each red one - 0.5 x 0.5cm.  Just measure 10 squares in a row, you should get 10cm. If the result is different, you must have made a mistake in the properties. You need to achieve perfect matching!</p>
 <p>You should repeat the same procedure for printing out the second, third and further patterns. The corset consists of 5 pieces: 3 front pieces and 2 back ones. Only the first and the second pattern sheets need to be merged together. <strong>There is a special merging line for this purpose:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%202_files/image016.jpg" class="img-responsive center-block"></p>
@@ -424,7 +424,7 @@
 <p>I write “0" into the table (column 4, line 2).</p>
 <p><strong>Under-bust front:</strong></p>
 <p>It is 39cm on the pattern and 37cm according to Kate’s measurements. </p>
-<p> (37cm – 39cm) ÷ 2 = <strong>-1cm</strong></p>
+<p> (37cm - 39cm) ÷ 2 = <strong>-1cm</strong></p>
 <p>I write this value into the table (column 4, line 3).</p>
 <p>This means I will need to make the pattern smaller because its original size is 2cm larger than Kate’s. I need to remove 1cm from each side seam of the front.</p>
 <p>However I am going to adjust down the whole pattern by 1cm to preserve the beautiful side curve of the corset thereby reducing all circumferences (bust, under-bust, waistline, stomach) by 2cm. </p>
@@ -432,49 +432,49 @@
 <p><strong>Let me now calculate how much I need to remove from the clip measurement. </strong></p>
 <p><strong>To the scye:</strong></p>
 <p>Since 10.5cm on the pattern correspond to 9cm of the client’s measurement, I do the following:</p>
-<p>9cm – 10.5cm = <strong>-1.5cm</strong></p>
+<p>9cm - 10.5cm = <strong>-1.5cm</strong></p>
 <p><strong>Along the curve line:</strong></p>
 <p>It is 9cm on the pattern and the client’s measurement shows 6cm, thus:</p>
-<p>6cm – 9cm = <strong>-3cm</strong></p>
+<p>6cm - 9cm = <strong>-3cm</strong></p>
 <p><strong>To the neckline:</strong></p>
 <p>8cm on the pattern correspond to the client’s measurement of 6cm, thus:</p>
-<p>6cm – 8cm = <strong>-2cm</strong></p>
+<p>6cm - 8cm = <strong>-2cm</strong></p>
 <p>I write these values into the table (column 4, line 8).</p>
 <p><strong>Bust middle:</strong></p>
 <p>The values coincide so I write down “0" into the table (column 4, line 9).</p>
 <p><strong>Side length:</strong></p>
 <p>It is 19cm on the pattern and 18cm on Kate which means the length of the side seam should be adjusted down by:</p>
-<p>18cm – 19cm = <strong>-1cm</strong></p>
+<p>18cm - 19cm = <strong>-1cm</strong></p>
 <p>I write it down into the table just like before (column 4, line 10).</p>
 <p><strong>Now I start calculating adjustments for the side seam of the back.</strong></p>
 <p>Of course, there are no “bust front" or “under-bust front" measurements now.</p>
-<p>Our first measurement is <strong>“bust circumference"</strong>. </p>
+<p>Our first measurement is <strong>"bust circumference"</strong>. </p>
 <p>It is 86cm on the pattern and Kate’s measurement is 85cm.</p>
 <p>We need to remember about the adjustment along the front side seam (-1cm).</p>
 <p>This value then equals a total of 2cm for two pattern halves. </p>
 <p>Thus:</p>
-<p>86cm – 2cm = 84cm</p>
-<p>(85cm – 84cm) ÷ 2 = <strong>+0.5cm</strong></p>
+<p>86cm - 2cm = 84cm</p>
+<p>(85cm - 84cm) ÷ 2 = <strong>+0.5cm</strong></p>
 <p>This means I should add 0.5cm along each side seam of the back at the level of the bust. </p>
 <p>I write this value into the table (column 5, line 4).</p>
 <p><strong>Under-bust circumference:</strong></p>
 <p>It is 72cm on the pattern that correspond to Kate’s 74cm.</p>
 <p>I perform the same kind of a calculation:</p>
-<p>72cm – 2cm = 70cm</p>
-<p>(74cm – 70cm) ÷ 2 = <strong>+2cm</strong></p>
+<p>72cm - 2cm = 70cm</p>
+<p>(74cm - 70cm) ÷ 2 = <strong>+2cm</strong></p>
 <p>So I need to add 2cm along each side seam of the back at the under-bust level. </p>
 <p>I write the value into the table (column 5, line 5).</p>
 <p><strong>Waistline: </strong></p>
 <p>It is 66cm on the pattern and 64cm on Kate.</p>
 <p>Let me calculate:</p>
-<p>66cm – 2cm = 64cm</p>
-<p>(64cm – 64cm) ÷ 2 = <strong>0cm</strong></p>
+<p>66cm - 2cm = 64cm</p>
+<p>(64cm - 64cm) ÷ 2 = <strong>0cm</strong></p>
 <p>I write it down into the table (column 5, line 6).</p>
 <p><strong>Stomach measurement at a 4cm distance above the waistline:</strong></p>
 <p>It is 71.5cm on the pattern and Kate’s measurement equals 69cm.</p>
 <p>Let me calculate:</p>
-<p>71.5cm –2cm = 69.5cm</p>
-<p>(69cm – 69.5cm) ÷ 2 = <strong>- 0.25cm</strong></p>
+<p>71.5cm -2cm = 69.5cm</p>
+<p>(69cm - 69.5cm) ÷ 2 = <strong>- 0.25cm</strong></p>
 <p>We can say there is basically no alteration along the side seam of the back at the level of the stomach. </p>
 <p>I write “0" into the table (column 5, line 7).</p>
 <p>There is the same -2cm <strong>along the side seam </strong>(column 5, line 10). </p>
@@ -501,7 +501,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -393,7 +393,7 @@
 <p><strong>Here’s a simple way to make a smooth transition from the lacing to the zipper. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2023_files/image026.jpg" class="img-responsive center-block"></p>
-<p><strong>I join the face and the lining along the side seam down to the hip level – like I did on the front part. </strong></p>
+<p><strong>I join the face and the lining along the side seam down to the hip level - like I did on the front part. </strong></p>
 <p>You can secure it with pins at the sides if you don’t feel confident enough. I carefully spread the fabric with my hands and match the notches. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2023_files/image028.jpg" class="img-responsive center-block"></p>
@@ -473,7 +473,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

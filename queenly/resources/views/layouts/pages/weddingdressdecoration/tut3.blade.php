@@ -176,7 +176,7 @@
 <p><strong>And I hide the thread tail in the lace: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/decoration/1/Tutorial%203_files/image027.jpg" class="img-responsive center-block"></p>
-<p><strong>NB:</strong> I hide it in the lace and not in the fusible interfacing because the latter is going to dissolve! In this case, nothing will ever happen to the knot and the embroidery won't come undone – it will be neat and you won't be able to see any thread tails. </p>
+<p><strong>NB:</strong> I hide it in the lace and not in the fusible interfacing because the latter is going to dissolve! In this case, nothing will ever happen to the knot and the embroidery won't come undone - it will be neat and you won't be able to see any thread tails. </p>
 <p><strong>I continue embroidering the flower following the same technique:</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/decoration/1/Tutorial%203_files/image029.jpg" class="img-responsive center-block"></p>
@@ -211,7 +211,7 @@
 <p><strong>I bring the needle out at the corner, pick up the beads, and bring it down at about 2mm from the edge to leave room for the next stitch.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/decoration/1/Tutorial%203_files/image041.jpg" class="img-responsive center-block"></p>
-<p>I continue making the same kind of stitches until I reach the turn. After reaching the turn, I continue stepping 2mm from the edge for each next stitch. You can use fewer beads in each stitch if you need to make a difficult sharp turn – it will be easier this way. I keep stepping 2mm from the edge. You can fix the beads in place with your fingers if they shift around. There is little room at the sharp turn, so I pick up fewer beads and finish the paisley with a small stitch. </p>
+<p>I continue making the same kind of stitches until I reach the turn. After reaching the turn, I continue stepping 2mm from the edge for each next stitch. You can use fewer beads in each stitch if you need to make a difficult sharp turn - it will be easier this way. I keep stepping 2mm from the edge. You can fix the beads in place with your fingers if they shift around. There is little room at the sharp turn, so I pick up fewer beads and finish the paisley with a small stitch. </p>
 <p><strong>Here is the paisley I have embroidered: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/decoration/1/Tutorial%203_files/image043.jpg" class="img-responsive center-block"></p>

@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -364,22 +364,22 @@
 <p><strong>Batiste patterns are ready for the proper cutting process: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image008.jpg" class="img-responsive center-block"></p>
-<p><strong>I take the skirt patterns I’ve prepared. </strong>One pattern is used for the princess seams at the back and the other one – for flaring the side seams. I fold the skirt patterns along the hip line. </p>
+<p><strong>I take the skirt patterns I’ve prepared. </strong>One pattern is used for the princess seams at the back and the other one - for flaring the side seams. I fold the skirt patterns along the hip line. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image010.jpg" class="img-responsive center-block"></p>
 <p><strong>I have spread the main and the lining fabrics on the table in advance. </strong>There are four layers of fabric with a fold line. I have secured the fold line with pins. The face of the lining will be its shiny side and the face of the main fabric will be its matte side. I am going to cut the lace overlay separately. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image012.jpg" class="img-responsive center-block"></p>
-<p><strong>People often ask me how to estimate fabric consumption. </strong>According to my estimations I need 2.3m of fabric each for the face and for the lining – a total of 4.6m. I am going to cut it crosswise with the selvage located vertically. </p>
+<p><strong>People often ask me how to estimate fabric consumption. </strong>According to my estimations I need 2.3m of fabric each for the face and for the lining - a total of 4.6m. I am going to cut it crosswise with the selvage located vertically. </p>
 <p><strong>How did I determine it? </strong>I took my paper patterns and lay them out on the table the same way as during the cutting process. I imagined the fold line and placed the first central front piece at it. Then I imagined the flare of the skirt and placed the second pattern there. Then I imagined the side seam, etc. And then I took a measuring tape and measured how much folded fabric I need. It was 1.1m. I made it 1.15m just in case. Then I simply multiplied it by four and got 4.6m. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image014.jpg" class="img-responsive center-block"></p>
 <p><strong>In short here is the algorithm to calculate fabric consumption: </strong>you image that your 150cm wide fabric is lying on the table and imagine putting down your patterns gradually moving away from the fold line. And then you measure it. </p>
 <p><strong>Let’s start cutting the dress. </strong></p>
-<p><strong>I step inwards from the selvage and mark 115cm </strong>– it’s the length of the skirt when finished. <strong>Then I place the central front pattern with its waistline right at that mark </strong>and secure it with pins. </p>
+<p><strong>I step inwards from the selvage and mark 115cm </strong>- it’s the length of the skirt when finished. <strong>Then I place the central front pattern with its waistline right at that mark </strong>and secure it with pins. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image016.jpg" class="img-responsive center-block"></p>
-<p><strong>Next I measure the distance between the fold line and the outermost point of the hip line – it is 10cm. </strong>I mark the same 10cm down the bottom of the dress and <strong>add another 6cm for the flare. </strong>It’s not that wide because I don’t want a big flare at the front. </p>
+<p><strong>Next I measure the distance between the fold line and the outermost point of the hip line - it is 10cm. </strong>I mark the same 10cm down the bottom of the dress and <strong>add another 6cm for the flare. </strong>It’s not that wide because I don’t want a big flare at the front. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image018.jpg" class="img-responsive center-block"></p>
 <p><strong>I mark the hemline of the skirt with a 115cm radius from the waistline to the bottom. </strong></p>
@@ -407,14 +407,14 @@
 <p><strong>This way you find the outermost point of the side line and you can draw a smooth transition to the opposite horizontal point using the pattern as a stencil. It’ll be the hemline of the piece. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image032.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>I remove the paper pattern and secure the piece with pins. That is all – we have outlined all front pieces with regard to the model! </strong></p>
+<p><strong>I remove the paper pattern and secure the piece with pins. That is all - we have outlined all front pieces with regard to the model! </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image034.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>Now let’s move on to the patterns of the back. </strong></p>
 <p><strong>The side back pattern: </strong>you need to determine the location of the waistline before putting this piece in place. The waistline is parallel to the selvage but don’t forget that <strong>we want to have a small train</strong>, about 20cm long. I have added a train solely to show you how it should be cut. You could also make a longer train but this fabric is not wide enough. If your client wants a longer train, you’ll have to look for other ways to cut it. I cut dress patterns crosswise because it’s easier to sew their vertical seams then. It’s a lot easier to sew in the crosswise direction. I am speaking about the fabric I’m using right now but it also concerns crepe-back satin and many other synthetic fabrics available today. You can test your fabric and if you get good results sewing in the lengthwise direction along the selvage, then you can safely cut it lengthwise and make a train of any desired length. You can lay patterns of any length along the selvage whereas the crosswise direction will be limited to 1.5m (i.e. the width of your fabric). </p>
 <p>If you have to cut a long train crosswise and there’s no other way, try to come up with some gores, inserts or feel free to use any other tricks that will allow you to cut the dress crosswise and add a long train with the help of some decorative elements. </p>
 <p><strong>Let’s return to the location of the waistline. </strong></p>
-<p>I want to make a train that’s 20cm long. This length should be distributed between two back pieces – the central one and the side one. I have decided to prolong the side piece by just 10cm and prolong the central piece by full 20cm. </p>
+<p>I want to make a train that’s 20cm long. This length should be distributed between two back pieces - the central one and the side one. I have decided to prolong the side piece by just 10cm and prolong the central piece by full 20cm. </p>
 <p><strong>So I need to mark 125cm from the selvage (instead of 115cm) to determine the location of the waistline on the side back pattern. </strong>That’s where the waistline passes. I put down the side pattern made of batiste, match its waistline with the waistline drawn on the main fabric, and pin it down. </p>
 <p>You should be very accurate when laying the patterns over the fabric: if the waistline is not parallel to the selvage, the symmetry will be disturbed, all seams will go askew and the dress won’t fit well. </p>
 <p>
@@ -424,7 +424,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image038.jpg" class="img-responsive center-block"></p>
 <p></p>
-<p><strong>The side seam length should always stay the same – 115cm. </strong></p>
+<p><strong>The side seam length should always stay the same - 115cm. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image040.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -441,7 +441,7 @@
 <p><strong>I extend the flare line and draw the hemline of the dress by connecting the end of the side seam and the end of the princess seam. </strong>I secure the pieces with pins. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image048.jpg" class="img-responsive center-block"></p>
-<p><strong>And now it’s time to work with the last piece – the central back piece. </strong></p>
+<p><strong>And now it’s time to work with the last piece - the central back piece. </strong></p>
 <p><strong>I place the central back piece made of batiste at the very edge of the fabric and secure it with pins. </strong>Although I had to shift the fabric in order to take pictures, you must never do this during the cutting process! <strong>I place the fishtail skirt piece so as to prolong the princess seam, match the hip lines </strong>and trace it. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image050.jpg" class="img-responsive center-block"></p>
@@ -462,7 +462,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image058.jpg" class="img-responsive center-block"></p>
 <p></p>
-<p><strong>Let’s draw the hemline of the central piece of the back. </strong>Make sure each end of the hemline starts at the right angle to the side seam or the princess seam – it’ll help match the patterns better. </p>
+<p><strong>Let’s draw the hemline of the central piece of the back. </strong>Make sure each end of the hemline starts at the right angle to the side seam or the princess seam - it’ll help match the patterns better. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image060.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -470,7 +470,7 @@
 <p><strong>We have prepared our dress patterns and now we simply need to cut them out of the main fabric and the batiste following the outlines. </strong></p>
 <p><strong>First I cut the patterns of the back. </strong></p>
 <p><strong>Let’s cut the front patterns with duplicated cups.</strong></p>
-<p><strong>I take a piece of stiff iron-on fabric and put it underneath the cup area of the side front piece. </strong>I bend back the main fabric and place two layers of stiff iron-on fabric underneath it. I like cutting it all simultaneously – it comes out much more precise. </p>
+<p><strong>I take a piece of stiff iron-on fabric and put it underneath the cup area of the side front piece. </strong>I bend back the main fabric and place two layers of stiff iron-on fabric underneath it. I like cutting it all simultaneously - it comes out much more precise. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image062.jpg" class="img-responsive center-block"></p>
 <p><strong>I secure the iron-on fabric with pins. </strong></p>
@@ -482,7 +482,7 @@
 <p><strong>I bend back the cup area and trim the excess of iron-on fabric up to the notches underneath the bust. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%208_files/image068.jpg" class="img-responsive center-block"></p>
-<p>And I’m going to put the same stiff iron-on fabric underneath the cup area of the central front piece – only this time with a fold line – and trim the excess after cutting it out. </p>
+<p>And I’m going to put the same stiff iron-on fabric underneath the cup area of the central front piece - only this time with a fold line - and trim the excess after cutting it out. </p>
 <p><strong>It’s safe to say that we’re done with cutting the dress and its iron-on duplicating parts!</strong></p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -494,7 +494,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

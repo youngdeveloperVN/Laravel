@@ -134,7 +134,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/decoration/6/Tutorial%208_files/image005.jpg" alt=""></p>
 <p><strong>I tie a knot after finishing the top half of the element.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/decoration/6/Tutorial%208_files/image007.jpg" alt=""></p>
-<p><strong>I embroider the bottom half of the element the same way – moving from left to right.</strong></p>
+<p><strong>I embroider the bottom half of the element the same way - moving from left to right.</strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/decoration/6/Tutorial%208_files/image009.jpg" alt=""></strong></p>
 <p><strong>I have embroidered the element:</strong></p>

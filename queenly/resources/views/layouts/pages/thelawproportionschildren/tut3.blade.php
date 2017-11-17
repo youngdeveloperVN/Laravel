@@ -171,7 +171,7 @@
 <p>It is seen clearly in the picture that the width of the skirt corresponds with the girl's key ratio. And this means we can keep this amount of fullness for the skirt.</p>
 <p><strong>Now let's decide on the length of the bodice.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/Some%20Examples%20of%20How%20the%20Law%20of%20Proportions%20Works_files/image030.jpg" alt=""></p>
-<p>According to the head-to-height ratio, the bodice is supposed to be 1/4 and the skirt – 3/4.</p>
+<p>According to the head-to-height ratio, the bodice is supposed to be 1/4 and the skirt - 3/4.</p>
 <p><strong>I change the lengths of the skirt and the bodice and get a completely new look!</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/Some%20Examples%20of%20How%20the%20Law%20of%20Proportions%20Works_files/image032.jpg" alt=""></p>
 <p>Now the dress looks a lot more beautiful on this particular child.</p>
@@ -189,7 +189,7 @@
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/Some%20Examples%20of%20How%20the%20Law%20of%20Proportions%20Works_files/image042.jpg" alt=""></p>
 <p>You can see in the picture that the skirt is a little narrow. It will look better if I make it just a little fuller. To be honest, those thin shoulder straps bother me as well. I just don't like them! Let us remove them completely. <strong>The dress looks a lot better this way to me. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/Some%20Examples%20of%20How%20the%20Law%20of%20Proportions%20Works_files/image044.jpg" alt=""></p>
-<p><strong>I want to look at a shorter version of the same dress, too. </strong>According to the golden ratio rule, the bodice should then make 3/8 and the skirt – 5/8 of the dress.</p>
+<p><strong>I want to look at a shorter version of the same dress, too. </strong>According to the golden ratio rule, the bodice should then make 3/8 and the skirt - 5/8 of the dress.</p>
 <p><strong>Look what a lovely little dress it is! </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/Some%20Examples%20of%20How%20the%20Law%20of%20Proportions%20Works_files/image046.jpg" alt=""><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/Some%20Examples%20of%20How%20the%20Law%20of%20Proportions%20Works_files/image048.jpg" alt=""></p>

@@ -283,7 +283,7 @@
 <p><strong>And now it’s time to add plastic or steel bones to our corset. </strong>You can use whichever type you prefer. You need the bones themselves, thread clippers for cutting them, and a screwdriver for pushing them into their tunnels. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2024_files/image002.jpg" class="img-responsive center-block"></p>
-<p><strong>I often hear the following question: “Can I use plastic bones that are sold in rolls by the meter?"&nbsp; </strong>I don’t see why not if they are strong and resilient enough. I don’t use bones sold in rolls simply because the kind sold at the local stores are too soft and fragile (although they do use them at some sewing salons). You should rely on your own experience. If you’re satisfied with the quality of the bones and if your corset stays lightweight and resilient – then feel free to use them! If there is no suitable choice, then switch to spiral steel bones. </p>
+<p><strong>I often hear the following question: “Can I use plastic bones that are sold in rolls by the meter?"&nbsp; </strong>I don’t see why not if they are strong and resilient enough. I don’t use bones sold in rolls simply because the kind sold at the local stores are too soft and fragile (although they do use them at some sewing salons). You should rely on your own experience. If you’re satisfied with the quality of the bones and if your corset stays lightweight and resilient - then feel free to use them! If there is no suitable choice, then switch to spiral steel bones. </p>
 <p><strong>Let us begin. </strong></p>
 <p><strong>I need to insert bones into all tunnels including those in the middle. </strong>I need a total of 10 bones. I insert them as per usual, i.e. lift the fabric layers and push them in above the Rigilene bone. </p>
 <p><strong>You should cut the bone at the length that equals the length of a tunnel minus 1.5cm. </strong>I leave this 1.5cm so that the presser-foot can pass through as I finish the bottom. </p>
@@ -306,7 +306,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -352,7 +352,7 @@
 <p></p>
 <p><strong>Let us talk about the fabrics that can and will be used for sewing the given dress model. </strong></p>
 <p><strong>The base of the dress will be made of stretch satin. </strong>It’s not the most robust and not the most expensive fabric but it’s perfect for sewing such dresses, especially those with a lace overlay. You can also use crepe-back satin. </p>
-<p>The main fabric is easy to work with provided you have cut it correctly: all seams are easy to press open and they don’t produce those small ugly tucks. You could choose more expensive fabric of course – it all depends on your client’s budget. </p>
+<p>The main fabric is easy to work with provided you have cut it correctly: all seams are easy to press open and they don’t produce those small ugly tucks. You could choose more expensive fabric of course - it all depends on your client’s budget. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%202_files/image002.jpg" class="img-responsive center-block"></p>
 <p>I’m going to use the sheen side of the stretch satin as the face because it will be covered with lace. But you can also use the matte side. </p>
@@ -364,14 +364,14 @@
 <p><strong>Here’s another essential detail: </strong>you must hang your lace fabric before working with it if it initially features bead or sequin embroidery. Fold it a couple of times, put it on a clothes hanger and leave it like this for several days to prevent it from stretching out later when on the garment. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%202_files/image006.jpg" class="img-responsive center-block"></p>
-<p>Nevertheless this method doesn’t provide any ironclad guarantee that the patterns won’t ever stretch out. <strong>There is another handy trick. </strong>If your lace is heavy enough, I suggest pinning lace patterns onto the dress while it hangs in the air. How to do this properly? It’s really easy to pin them... to the curtains: you secure each pattern made of main fabric with a couple of pins and then pin the corresponding lace pattern over it. Make sure to spread the lace accurately – trust me, you will see where to pull tighter and where to loosen it. It’s easy to pin patterns together when they’re hanging like this and it’ll help you sew their princess seams later, too. You’ll avoid those wrinkles that might appear under the weight of the lace fabric. I will demonstrate this method in the corresponding tutorial later. </p>
-<p><strong>The lining of our dress will be made of the same main fabric – stretch satin. </strong>I don’t like using too many kinds of fabric in one garment. It’s quite acceptable to use the same fabric for the face and for the lining unless your face fabric is extraordinarily expensive. Just be careful not to make it too thick. </p>
-<p><strong>What fabrics in general are suitable for sewing such dresses? </strong>If you plan to make a smooth surface dress (i.e. without a lace overlay) with no decoration or appliqué above the hip line, then you’d better carefully choose the degree of fabric transparency – especially if your fabric is white – to make sure the border with the iron-on material doesn’t show through. </p>
+<p>Nevertheless this method doesn’t provide any ironclad guarantee that the patterns won’t ever stretch out. <strong>There is another handy trick. </strong>If your lace is heavy enough, I suggest pinning lace patterns onto the dress while it hangs in the air. How to do this properly? It’s really easy to pin them... to the curtains: you secure each pattern made of main fabric with a couple of pins and then pin the corresponding lace pattern over it. Make sure to spread the lace accurately - trust me, you will see where to pull tighter and where to loosen it. It’s easy to pin patterns together when they’re hanging like this and it’ll help you sew their princess seams later, too. You’ll avoid those wrinkles that might appear under the weight of the lace fabric. I will demonstrate this method in the corresponding tutorial later. </p>
+<p><strong>The lining of our dress will be made of the same main fabric - stretch satin. </strong>I don’t like using too many kinds of fabric in one garment. It’s quite acceptable to use the same fabric for the face and for the lining unless your face fabric is extraordinarily expensive. Just be careful not to make it too thick. </p>
+<p><strong>What fabrics in general are suitable for sewing such dresses? </strong>If you plan to make a smooth surface dress (i.e. without a lace overlay) with no decoration or appliqué above the hip line, then you’d better carefully choose the degree of fabric transparency - especially if your fabric is white - to make sure the border with the iron-on material doesn’t show through. </p>
 <p>We are going to duplicate all pieces of the lining and the face of the front and back with iron-on batiste down to the hip level. </p>
 <p><strong>You can see my iron-on batiste in the picture below: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%202_files/image008.jpg" class="img-responsive center-block"></p>
-<p>This batiste is very thin – you can easily see my hand through it. Heavy muslin used for collars would be too rough in this case. There’s also iron-on flannel and knit. All iron-on materials I work with have been selected by trial. I always focus on the result I wanted to achieve and the function the fabric needs to perform. If you have troubles finding a certain type of fabric, feel free to ask for tips from members of the Corset Academy Online Forum. </p>
+<p>This batiste is very thin - you can easily see my hand through it. Heavy muslin used for collars would be too rough in this case. There’s also iron-on flannel and knit. All iron-on materials I work with have been selected by trial. I always focus on the result I wanted to achieve and the function the fabric needs to perform. If you have troubles finding a certain type of fabric, feel free to ask for tips from members of the Corset Academy Online Forum. </p>
 <p><strong>I am going to use hard iron-on fabric to give additional support to the cups. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%202_files/image010.jpg" class="img-responsive center-block"></p>
@@ -390,7 +390,7 @@
 <p><strong>To sum it all up: please make sure your face fabric is not too see-through! </strong></p>
 <p><strong>And, last but not least, let’s talk about mock-up fabric. </strong></p>
 <p><strong>What is mock-up fabric? </strong>It is any fabric that doesn’t stretch in all directions. I recommend using cotton or linen fabric of a single neutral color because then you’ll be able to see the stitches when sewing and it won’t get washed out with time. It shouldn’t glide and shouldn’t be shiny. For instance acetate lining won’t do as mock-up fabric. </p>
-<p>A perfect width for mock-up fabric is 2-3m – it makes it really easy to drape the skirt with the help of pins and experiment to find the best way to arrange them. </p>
+<p>A perfect width for mock-up fabric is 2-3m - it makes it really easy to drape the skirt with the help of pins and experiment to find the best way to arrange them. </p>
 <p><strong>I am going to sew my mock-up with white cotton fabric. </strong>My mock-up won’t be that detailed, I’m making it just to double-check the pattern. </p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -402,7 +402,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

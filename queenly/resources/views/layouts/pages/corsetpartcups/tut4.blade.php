@@ -245,7 +245,7 @@
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%204_files/image002.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>I need to adjust the standard pattern </strong>that I measured after putting the mock-up on the dress-form. Now you know what the third ‘pattern’ column is about. </p>
-<p><strong>I have also taken measurements off my client </strong>– they are written in the second column titled ‘client’. </p>
+<p><strong>I have also taken measurements off my client </strong>- they are written in the second column titled ‘client’. </p>
 <p><strong>Let us work on the side seam of the corset front. </strong>Let’s look at the difference between the original pattern and the client’s measurements. </p>
 <p><strong>Bust front measurement.&nbsp; </strong>My client’s measurement is 47cm and it is 47cm on the pattern, too. There is no difference so I write a zero in the table (column 4, line 1). </p>
 <p><strong>Under-bust front measurement.&nbsp; </strong>My client’s 39cm corresponds to 38cm on the pattern, which means I need to expand the pattern by 0.5cm to get the required size. But this measurement is always somewhat relevant. In other words a difference of 0.5cm might’ve easily been a mistake, a small inaccuracy. In any case, I write +0.5cm in the table (column 4, line 2). </p>
@@ -253,8 +253,8 @@
 <p><strong>Both bust middle measurements </strong>coincide; there are no alterations on the central piece of the corset. I write another zero (column 4, line 7). </p>
 <p><strong>Clip measurement. </strong>There is a noticeable divergence here! </p>
 <p><strong>- Clip from the middle of the bust to the scye:</strong></p>
-<p>This measurement shows at what level the cup should connect to the body in the underarm area. Since the pattern measurement is a whole centimeter bigger (10cm against client’s 9cm), we can’t leave it as is – otherwise the cups will push into the client’s underarms and rub against the skin too much. This calls for some alteration! Luckily, we can test everything in practice with the help of the mock-up. </p>
-<p>Let’s return to the distance between the middle of the bust and the scye: <strong>&nbsp;I mark -1cm on the mock-up.</strong> Now looking at the table I have noticed that the client’s side length measurement is also one centimeter smaller than on the pattern – therefore <strong>I need to reduce the side of the mock-up by 1cm.</strong> I mark this centimeter on the side seam. It’s logical to assume that the whole cup is going to be reduced by 1cm starting from a certain spot (we’ll determine it precisely a little later) and gradually passing onto the side piece. </p>
+<p>This measurement shows at what level the cup should connect to the body in the underarm area. Since the pattern measurement is a whole centimeter bigger (10cm against client’s 9cm), we can’t leave it as is - otherwise the cups will push into the client’s underarms and rub against the skin too much. This calls for some alteration! Luckily, we can test everything in practice with the help of the mock-up. </p>
+<p>Let’s return to the distance between the middle of the bust and the scye: <strong>&nbsp;I mark -1cm on the mock-up.</strong> Now looking at the table I have noticed that the client’s side length measurement is also one centimeter smaller than on the pattern - therefore <strong>I need to reduce the side of the mock-up by 1cm.</strong> I mark this centimeter on the side seam. It’s logical to assume that the whole cup is going to be reduced by 1cm starting from a certain spot (we’ll determine it precisely a little later) and gradually passing onto the side piece. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%204_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>Below is the cup piece that’s going to be altered. </strong></p>
@@ -311,7 +311,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

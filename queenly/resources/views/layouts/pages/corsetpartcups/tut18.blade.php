@@ -243,7 +243,7 @@
 <h2>Pulling the Face over the Lining. </h2>
 <p></p>
 <p><strong>I start securing the first cup with a machine stitch. </strong></p>
-<p><strong>I lay the stitch 1mm above the bottom edge of the cup </strong>basically repeating the stitch attaching its perimeter bone. <strong>Bar tacks at the beginning and the end of sewing are a must. </strong>The layers are thick so don’t rush – take your time and sew carefully. Breaking a needle while sewing at a fast pace is dangerous. It’s better if you help it pass through thicker areas by turning the flywheel manually. </p>
+<p><strong>I lay the stitch 1mm above the bottom edge of the cup </strong>basically repeating the stitch attaching its perimeter bone. <strong>Bar tacks at the beginning and the end of sewing are a must. </strong>The layers are thick so don’t rush - take your time and sew carefully. Breaking a needle while sewing at a fast pace is dangerous. It’s better if you help it pass through thicker areas by turning the flywheel manually. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2018_files/image002.jpg" class="img-responsive center-block"></p>
 <p>
@@ -321,7 +321,7 @@
 <p><strong>Here is a noteworthy trick: turn the cup inside out before bending the face over its top edge.</strong> It makes bending the fabric over the edge and sewing it a lot easier. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2018_files/image054.jpg" class="img-responsive center-block"></p>
-<p><strong>The top edge of the cup looks very neat – as neat as when you use the traditional method. </strong></p>
+<p><strong>The top edge of the cup looks very neat - as neat as when you use the traditional method. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2018_files/image056.jpg" class="img-responsive center-block"></p>
 <p><strong>I remove the pins and turn the cup back out. </strong>Look, the top edge got slightly pulled on and looks even better now. </p>
@@ -338,7 +338,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

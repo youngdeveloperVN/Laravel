@@ -180,7 +180,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%207_files/image028.jpg" class="img-responsive center-block"></p>
 <p><strong>Now both pieces have bones sewn onto them! </strong></p>
 <p><strong>It's time to work on the lacing bar inset that will be hidden 'inside' the dress.</strong> </p>
-<p>I put the pieces down and divide them into the face and the lining as per usual. In this particular case it doesn't matter which piece to choose for the face and which for the lining – just make sure they make symmetric left and right pairs. </p>
+<p>I put the pieces down and divide them into the face and the lining as per usual. In this particular case it doesn't matter which piece to choose for the face and which for the lining - just make sure they make symmetric left and right pairs. </p>
 <p><strong>Here is the plan for working on the inset.</strong> We will make stay-stitches along all sides of each lining piece <strong>save for the side of the princess seam</strong>. Then we will sew three parallel wide Rigilene bones onto each inset to turn it into a lacing bar and make space for grommets. Sometimes they add horizontal bones at the bottom and at the top of the lacing bar. But that is only applicable if the lacing bar is really wide and you are afraid it might stretch out under tension. I won’t do that since we are not looking for a strong tightening effect. </p>
 <p><strong>I make stay-stitches on the lining pieces.</strong></p>
 <p><strong><br>
@@ -288,7 +288,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

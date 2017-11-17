@@ -402,7 +402,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%2013_files/image047.jpg" class="img-responsive center-block"></p>
 <p><strong>Now let's work on the spot where the zipper merges with the central seam of the skirt.</strong></p>
-<p><strong>I notch the seam allowances from both sides of the skirt down to the seam that attaches the zipper – the spot where it merges with the central seam.</strong> </p>
+<p><strong>I notch the seam allowances from both sides of the skirt down to the seam that attaches the zipper - the spot where it merges with the central seam.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%2013_files/image049.jpg" class="img-responsive center-block"></p>
 <p>

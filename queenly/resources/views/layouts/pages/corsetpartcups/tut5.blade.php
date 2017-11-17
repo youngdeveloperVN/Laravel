@@ -314,7 +314,7 @@
 <p><strong>I secure the fabric with pins, cut out the pieces following the new lines, and make necessary notches.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%205_files/image041.jpg" class="img-responsive center-block"></strong></p>
-<p>Since we’re using the technique for sewing see-through corsets, there are nearly no seam allowances. There are some along the vertical princess seams joining the pieces – but none at the top or bottom edge of the corset! </p>
+<p>Since we’re using the technique for sewing see-through corsets, there are nearly no seam allowances. There are some along the vertical princess seams joining the pieces - but none at the top or bottom edge of the corset! </p>
 <p>The only exception is the central front piece: I have left a seam allowance in the area of the bridge just in case because I’ll have to finish that spot somehow later. You can either do some welting or make a pencil-edge and fold it. I will show you how to do it. So just in case I always leave a seam allowance there and bear it in mind. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%205_files/image043.jpg" class="img-responsive center-block"></p>
@@ -330,7 +330,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

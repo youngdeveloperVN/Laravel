@@ -344,7 +344,7 @@
 <p><strong>Then I draw the hip line 19cm below the waistline or 7cm below the stomach line.</strong> My client's hip circumference is 98cm. I divide it by four, measure 24.5cm on the hip line left and right of the centre of the dress-form and mark the notches.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%203.files/image004.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-054.jpg"></p>
-<p><strong>I mark a half of the crotch length on the central vertical line down from the waistline.</strong> My client's crotch length is 63cm, therefore I mark 31.5cm – it's the length of the panties from up to down.</p>
+<p><strong>I mark a half of the crotch length on the central vertical line down from the waistline.</strong> My client's crotch length is 63cm, therefore I mark 31.5cm - it's the length of the panties from up to down.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%203.files/image006.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-055.jpg"></p>
 <p><strong>I mark 5cm left and right of the central vertical line at the bottom of the panties and join the points with the hip-line notches.</strong></p>
@@ -382,7 +382,7 @@
 <p><strong>I restore the initial waistline, re-draw the stomach line, the hip line and the crotch length, transfer all notches onto the new lines and adjust the shape of the dress-form.</strong> The new lines of the front are marked green.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%203.files/image026.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-065.jpg"></p>
-<p><strong>Now let's work on the armscyes. </strong>My client's armscye circumference is 45cm and I need a half of it – 22.5cm. </p>
+<p><strong>Now let's work on the armscyes. </strong>My client's armscye circumference is 45cm and I need a half of it - 22.5cm. </p>
 <p><strong>First I mark the side length in accordance with the measurement (22cm).</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%203.files/image028.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-066.jpg"></p>

@@ -218,13 +218,13 @@
 <h1>Tutorial 2. Doing Supplementary Calculations. Preparing to Cut the Petticoat.</h1>
 <p><strong>I need to do all necessary calculations before I can start cutting the petticoat. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
 <p><strong>I already know the following measurements: </strong></p>
-<p><strong>- Waist to Floor – 109cm.</strong> This is the key measurement.</p>
-<p><strong>- Mini-Skirt Length – 36cm</strong></p>
-<p><strong>- Waist Circumference – 65cm</strong></p>
-<p><strong>- Mini-Skirt Bottom Circumference – 100cm</strong></p>
-<p><strong>- Train Length – 130cm</strong></p>
-<p><strong>- Bottom Hoop to Floor – 13cm</strong></p>
-<p><strong>- ½ Bottom Hoop Circumference – 150cm</strong></p>
+<p><strong>- Waist to Floor - 109cm.</strong> This is the key measurement.</p>
+<p><strong>- Mini-Skirt Length - 36cm</strong></p>
+<p><strong>- Waist Circumference - 65cm</strong></p>
+<p><strong>- Mini-Skirt Bottom Circumference - 100cm</strong></p>
+<p><strong>- Train Length - 130cm</strong></p>
+<p><strong>- Bottom Hoop to Floor - 13cm</strong></p>
+<p><strong>- ½ Bottom Hoop Circumference - 150cm</strong></p>
 <p><strong>I make a schematic drawing of my petticoat on the writing board. </strong></p>
 <p>And I need to find three additional measurements to cut the petticoat correctly:</p>
 <p>- Front Petticoat Length;</p>
@@ -247,20 +247,20 @@
 <p><strong>Front Petticoat Length.</strong></p>
 <p>I know my client’s Waist to Floor (109cm). The length of the bottom part of the skirt can be found by subtracting Mini-Skirt Length (36cm) from Waist to Floor. But I need to know the length of the petticoat and not the length of the skirt itself. And the bottom edge of the petticoat is positioned 13cm above floor level.</p>
 <p><strong>Considering the above-said, the front length of the petticoat is: </strong></p>
-<p><strong>109cm – 36cm – 13cm = 60cm</strong></p>
+<p><strong>109cm - 36cm - 13cm = 60cm</strong></p>
 <p><strong>I add a seam allowance for joining it with the mini-skirt part: </strong></p>
 <p><strong>60cm + 1.2cm = 61.2cm</strong></p>
 <p><strong>Back Petticoat Length.</strong></p>
 <p>Following the same algorithm as before, I will subtract the length of the mini-skirt and the distance from the bottom edge to the floor from the length of the train (130cm).</p>
 <p>Personal experience, however, tells me that the train will look a lot more elegant if I remove another 5cm from the back length of the petticoat.</p>
 <p><strong>Thus the length of the petticoat along the back is: </strong></p>
-<p><strong>130cm – 36cm – 13cm – 5cm = 76cm</strong></p>
+<p><strong>130cm - 36cm - 13cm - 5cm = 76cm</strong></p>
 <p><strong>I add a seam allowance: </strong></p>
 <p><strong>76cm + 1.2cm = 77.2cm</strong></p>
 <p><strong>Side Petticoat Length.</strong></p>
 <p>This measurement is simply calculated as the mean value between the front length and the back length. I divide in half the difference between the front length and the back length and add it to the front length of the petticoat.</p>
 <p><strong>The length of the petticoat along the side is therefore as follows: </strong></p>
-<p><strong>60cm + (76cm – 60cm) / 2 = 68cm</strong></p>
+<p><strong>60cm + (76cm - 60cm) / 2 = 68cm</strong></p>
 <p><strong>I add a seam allowance: </strong></p>
 <p><strong>68cm + 1.2cm = 69.2cm</strong></p>
 <p>All calculations have been done. But before cutting and sewing the petticoat, <strong>I must customize the factory-made petticoat</strong> which will serve as an inner supporting construction for the skirt.</p>

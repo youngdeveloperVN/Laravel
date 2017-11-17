@@ -350,7 +350,7 @@
 <p>If not for the separately cut cups, we could have simply placed the fold line of the central front piece to the fold line of the fabric and narrowed the pattern by shifting it 1cm beyond the border of fabric and tracing the contour. That would make the bust middle measurement smaller. </p>
 <p><strong>However our garment does feature separately cut sew-in cups.</strong> </p>
 <p>If I shift the fold line of the central piece 1cm outwards, I will thereby move the cups closer to one another and reduce the distance between them to nearly zero. This is totally unacceptable here!</p>
-<p><strong>Taking that into account let me suggest a non-conventional way of removing that extra centimeter at the bust middle level – with the help of the princess seam at the front. </strong></p>
+<p><strong>Taking that into account let me suggest a non-conventional way of removing that extra centimeter at the bust middle level - with the help of the princess seam at the front. </strong></p>
 <p><strong>Please note that you need to adjust the princess seam of the cup correspondingly whenever you alter this princess seam! </strong></p>
 <p>Keep it in mind that you can only use a single fixed value, from top to bottom, for altering the princess seam of the cup. </p>
 <p><strong>I remove 1cm at the bust middle level by shifting the princess seam of the front piece. And I re-draw the princess seam. </strong></p>
@@ -362,7 +362,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%203_files/image008.jpg" class="img-responsive center-block"></p>
 <p><strong>Next, the side front piece:</strong></p>
-<p><strong>I shift the entire side seam of this piece inwards by a fixed value – 0.5cm.</strong> I re-draw the side seam and transfer the notches.</p>
+<p><strong>I shift the entire side seam of this piece inwards by a fixed value - 0.5cm.</strong> I re-draw the side seam and transfer the notches.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%203_files/image010.jpg" class="img-responsive center-block"></p>
 <p><strong>The side length is now 2cm smaller than it was.</strong> I re-draw the top of the side front piece. </p>
@@ -403,7 +403,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

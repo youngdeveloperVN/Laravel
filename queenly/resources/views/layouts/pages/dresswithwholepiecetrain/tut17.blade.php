@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -352,7 +352,7 @@
 <p></p>
 <p><strong>The next stage is joining all front and back face pieces with their lace overlays. </strong></p>
 <p>We have already cut separate lace pieces and now we need to put them over the corresponding face pieces. If you use plain lace like in the case at hand, you can arrange and assemble the pieces right on the table. </p>
-<p><strong>But what to you do if your lace is embellished with beads, rhinestones or sequins? </strong>They add a certain bit of weight to the fabric so they will certainly pull it down. If you arranged such lace pieces and pinned them to the main pieces on a horizontal surface, your lace would not only stretch out vertically when the garment is finished – it would also pull on the seams. We want to join our lace overlays with the main pieces from the top down to the hip line. All princess seams and side seams that hold the lace would then stretch (and stretch differently) and distort the contour of the dress. It’s particularly bad on large-sized dresses made of rather broad pieces. It’s nearly impossible to even it out in that case! I have faced this problem more than once in my practice. </p>
+<p><strong>But what to you do if your lace is embellished with beads, rhinestones or sequins? </strong>They add a certain bit of weight to the fabric so they will certainly pull it down. If you arranged such lace pieces and pinned them to the main pieces on a horizontal surface, your lace would not only stretch out vertically when the garment is finished - it would also pull on the seams. We want to join our lace overlays with the main pieces from the top down to the hip line. All princess seams and side seams that hold the lace would then stretch (and stretch differently) and distort the contour of the dress. It’s particularly bad on large-sized dresses made of rather broad pieces. It’s nearly impossible to even it out in that case! I have faced this problem more than once in my practice. </p>
 <p><strong>Let me share a trick that will help you overcome this problem. </strong>My know-how is to join the lace overlays and the main dress pieces while they’re hung up in the air. </p>
 <p><strong>You simply pin the main piece to the curtain with just a couple of pins along its top edge. </strong>It’s very important that it should hang freely. <strong>I have pinned the side part of the back: </strong></p>
 <p>
@@ -374,7 +374,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

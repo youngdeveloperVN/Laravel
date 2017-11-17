@@ -259,41 +259,41 @@
 <p><strong>- Shoulder to elbow, </strong></p>
 <p><strong>- Wrist circumference. </strong></p>
 <p><strong>- Sleeve cap circumference. </strong>I have supplied you with a sleeve template to use for building the sleeve with your client's measurements. The circumference of the sleeve cap is 47cm. It is not supposed to be eased in on narrow elastic lace sleeves. In other words, puff sleeves or gathered sleeves are not a suitable choice. The circumference of the sleeve cap must fully coincide with the armscye circumference on the dress. My client's armscye circumference is 38cm and it needs to be the same for the sleeve cap. I write 38cm in table 2 (column 1, line 17).</p>
-<p><strong>Column 1 contains all client’s measurements and column 2 – all measurements taken off the pattern. </strong></p>
+<p><strong>Column 1 contains all client’s measurements and column 2 - all measurements taken off the pattern. </strong></p>
 <p><strong>Let us begin.</strong></p>
 <p><strong>Sleeve cap circumference:</strong> my client’s measurement is 38cm and it is 47cm on the pattern.</p>
-<p><strong>38cm – 47cm = -9cm</strong></p>
+<p><strong>38cm - 47cm = -9cm</strong></p>
 <p>The sleeve cap circumference needs to be 9cm smaller. <strong>I write -9cm in the table (column 5, line 17).</strong></p>
 <p><strong>Front width:</strong> it is 33cm on the client and 33cm on the pattern. The measurements coincide. <strong>I write a zero in line 1 of column 3.</strong></p>
 <p><strong>Back width:</strong> my client’s measurement is 31cm and it is 38cm on the pattern.</p>
-<p><strong>31cm– 38cm= -7cm</strong></p>
+<p><strong>31cm- 38cm= -7cm</strong></p>
 <p>I divide it between the two halves of the back. As the result, I need to narrow each half by 3.5cm. <strong>I write -3.5cm into line 2 of column 4.</strong></p>
 <p><strong>Front shoulder width:</strong> my client’s measurement is 36cm and it is 37cm on the pattern.</p>
-<p><strong>36cm – 37cm = -1cm</strong></p>
+<p><strong>36cm - 37cm = -1cm</strong></p>
 <p>I divide it between the two halves of the front. As the result, I need to narrow either half of the pattern by 0.5cm in the shoulders. <strong>I write -0.5cm in line 3 of column 3.</strong></p>
 <p><strong>Back shoulder width:</strong> it is 38cm on the client and 38cm on the pattern. The measurements coincide. <strong>I write a zero in line 4 of column 4.</strong></p>
 <p><strong>Shoulder:</strong> it is 10cm on the client and 9cm on the pattern.</p>
 <p>Let me explain how to take this measurement correctly. Since the sleeves will be very narrow, basically clinging to the body, it makes sense to take this measurement as if the sleeve were supposed to fall off the shoulder by some 0.5-1.0cm. It will allow the wearer to move her arms freely enough.</p>
-<p><strong>10cm – 9cm = 1cm</strong></p>
+<p><strong>10cm - 9cm = 1cm</strong></p>
 <p>I need to add 1cm to the shoulder at the front and at the back of the dress. <strong>I write 1cm in line 5 of columns 3 and 4.</strong></p>
 <p><strong>Armscye circumference:</strong> my client’s measurement is 38cm and it is 39cm on the pattern.</p>
-<p><strong>38cm – 39cm = -1cm</strong></p>
+<p><strong>38cm - 39cm = -1cm</strong></p>
 <p>The armscye circumference of the pattern needs to be 1cm smaller. <strong>I write -1cm in line 6 of column 3.</strong></p>
 <p><strong>Upper arm circumference:</strong> my client’s measurement is 77cm and it is 33cm on the pattern.</p>
-<p><strong>27cm – 33cm = -6cm</strong></p>
+<p><strong>27cm - 33cm = -6cm</strong></p>
 <p>I divide the value in half because the sleeve is made of two halves. Thus I need to remove 3cm from the upper arm circumference on the pattern. <strong>I write -3cm in line 7 of column 5.</strong></p>
 <p><strong>Nape to waist:</strong> it is 38cm on the client and 38cm on the pattern. The measurements coincide. <strong>I write a zero in line 8 of column 4.</strong></p>
 <p><strong>Back shoulder slope:</strong> my client’s measurement is 43cm and it is 41.5cm on the pattern.</p>
-<p><strong>43cm – 41.5cm = 1.5cm</strong></p>
+<p><strong>43cm - 41.5cm = 1.5cm</strong></p>
 <p>I need to prolong the back shoulder slope of the pattern by 1.5cm. <strong>I write 1.5cm in line 9 of column 4.</strong></p>
 <p><strong>Shoulder to waist (back):</strong> it is 44cm on the client and 40cm on the pattern.</p>
-<p><strong>44cm – 40cm = 4cm</strong></p>
+<p><strong>44cm - 40cm = 4cm</strong></p>
 <p>I need to remove 4cm from the shoulder to waist measurement on the back half of the pattern. <strong>I write -4cm in line 10 of column 4.</strong></p>
 <p><strong>Neck base to bust point:</strong> my client’s measurement is 23cm and it is 27.5cm on the pattern.</p>
-<p><strong>23cm – 27.5cm = -4.5cm</strong></p>
+<p><strong>23cm - 27.5cm = -4.5cm</strong></p>
 <p>The neck base to bust point measurement needs to be made 4.5cm smaller. <strong>I write -4.5cm in the table (column 3, line 11).</strong></p>
 <p><strong>Shoulder tip to bust point:</strong> my client’s measurement is 21cm and it is 26.5cm on the pattern.</p>
-<p><strong>21cm – 26.5cm = -5.5cm</strong></p>
+<p><strong>21cm - 26.5cm = -5.5cm</strong></p>
 <p>I need to remove 5.5cm from the initial shoulder tip to bust middle measurement. <strong>I write -5.5cm in line 12 of column 3.</strong></p>
 <p>Next, I simply record the <strong>elbow circumference, shoulder to wrist, shoulder to elbow, and wrist circumference measurements</strong> in the table to use them when building the sleeve on paper or on fabric.</p>
 <p><strong>Let me add a few words about sewing a mock-up.</strong> You don't have to sew a mock-up for your strap dress if you have already sewn the halter-neck dress from the previous chapter because, as I have mentioned before, their initial patterns are identical. Of course, you could do it out of pure curiosity, put it on the dress-form, and check how well the strap settles upon the shoulder. If you haven't sewn the halter-neck dress and therefore haven't sewn any mock-up based on the first pattern, then I highly recommend you should do so, take all measurements off it, and write them in the pattern measurements column of table 2. Sewing a mock-up is compulsory. What concerns the lace part of the dress that features shoulder seams, it is enough to lay the pattern flat on the table and measure it. However, I still recommend that you sew a mock-up, put it on the dress-form, and apply all adjustments right on it.</p>
@@ -309,7 +309,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

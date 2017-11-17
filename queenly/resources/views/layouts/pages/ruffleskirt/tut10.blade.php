@@ -220,12 +220,12 @@
 <p></p>
 <p><strong>Now that the petticoat is ready, let me present a list of used materials with all costs and quantities. </strong></p>
 <p><strong>I have used the following materials for the petticoat: </strong></p>
-<p>- Hard mesh fabric – 6m. I actually cut thirty 160cm-long strips for the ruffles, i.e. the initial strip which I gathered with a 4:1 ratio was 48 meters long. </p>
-<p>- Bias tape – 52m;</p>
-<p>- Rigilene boning – 10m;</p>
-<p>- Knit fabric for the mini-skirt – 0.5m;</p>
-<p>- Elastic band – 0.6m;</p>
-<p>- Factory-made petticoat – 1 piece;</p>
+<p>- Hard mesh fabric - 6m. I actually cut thirty 160cm-long strips for the ruffles, i.e. the initial strip which I gathered with a 4:1 ratio was 48 meters long. </p>
+<p>- Bias tape - 52m;</p>
+<p>- Rigilene boning - 10m;</p>
+<p>- Knit fabric for the mini-skirt - 0.5m;</p>
+<p>- Elastic band - 0.6m;</p>
+<p>- Factory-made petticoat - 1 piece;</p>
 <p><strong>All these materials cost me about 1,140 RUR (wholesale). </strong></p>
 <p>I don’t know how much the same materials cost in your region or country but <strong>the final price of the dress is supposed to include the cost of the petticoat </strong>in any way. </p>
 <p><strong>A factory-made petticoat for a skirt with a train is not much more expensive but its quality leaves much to be desired and so will the shape of your skirt! </strong>It will look like that skirt from the bridal salon. </p>

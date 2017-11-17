@@ -326,7 +326,7 @@
 <p><strong>Let's move to the next stage.</strong>&nbsp; The dress pattern is ready but we still need to make fabric covers for the cups and embellish them with lace insets. <strong>The easiest way to make a fabric cover for a cup like ours </strong>is to make a pattern of the cup after the mock-up method and then cut and sew the cover. <strong>We also need to cut a mock-up of the dress itself</strong> to double-check the configuration of the back. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%207_files/image012.jpg" class="img-responsive center-block"></p>
-<p><strong>But first let's cut another lace piece – the short-sleeve bolero.</strong> </p>
+<p><strong>But first let's cut another lace piece - the short-sleeve bolero.</strong> </p>
 <p>I fold the lace in half trying to align the scallops and the motifs on both halves. My lace fabric stretches better along the crosswise grain. <strong>I put the bolero piece onto it with the shoulder perpendicular to the crosswise grain.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%207_files/image014.jpg" class="img-responsive center-block"></strong></p>
@@ -349,7 +349,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

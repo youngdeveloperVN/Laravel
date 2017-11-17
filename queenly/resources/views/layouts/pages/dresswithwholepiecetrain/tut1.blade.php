@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -359,7 +359,7 @@
 <p><strong>The skirt is bell-shaped.</strong>&nbsp; What does it mean? The skirt fits rather tightly at the hips, slightly narrowed below the hip line to create a more elegant silhouette, and flares towards the bottom. Those of you who are familiar with corset-based dress patterns know that it’s impossible to sew a one-piece dress like this without vertical princess seams going from top to bottom! That’s why we will definitely make princess seams reach to the very bottom. And I suggest we make them flare starting from the hip line, by maximum 5cm from each side of the princess seam. This is done just to ensure that you can move freely in this dress, so it’s not too tight.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%201_files/image004.jpg" alt=""></p>
 <p><strong>Now let’s move to the back of the dress. </strong></p>
-<p>The back is absolutely straight at the top – you won’t need any additional measurements. It’s up to you where you want to add straps or not. And I’m going to make a train with the help of fishtail elements at the back of the dress. It won’t be longer than 20cm. I’d like to draw your attention to the fact that all garments sewn by me in my tutorials are not made for particular clients – they are made for purely educational purposes. That’s why the train will be rather schematic just to show you how to prolong the dress and determine the degree of flare. The entire back of the dress will also be covered with lace.</p>
+<p>The back is absolutely straight at the top - you won’t need any additional measurements. It’s up to you where you want to add straps or not. And I’m going to make a train with the help of fishtail elements at the back of the dress. It won’t be longer than 20cm. I’d like to draw your attention to the fact that all garments sewn by me in my tutorials are not made for particular clients - they are made for purely educational purposes. That’s why the train will be rather schematic just to show you how to prolong the dress and determine the degree of flare. The entire back of the dress will also be covered with lace.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%201_files/image006.jpg" alt=""></p>
 <p>But that’s not all! <strong>We will make an additional skirt for the dress once it’s finished. </strong>Transformer dresses are on trend today and I’d like to use a lightweight full skirt made of tulle. I have chosen tulle used for bridal veiling but you can also use stiffer mesh fabric. Our skirt will be semi-circle with a prolonged train, slightly gathered at the back in accordance with the initial dress model. The skirt can be detachable or sewn onto the dress. I’m going to sew it on to speed up the process as I believe making a separate belt for a detachable skirt is not a challenge for you. The skirt will be decorated with lace appliqué.</p>
 <p><strong>Below is another rough sketch. </strong></p>
@@ -379,7 +379,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

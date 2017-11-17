@@ -334,7 +334,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%209_files/image026.jpg" class="img-responsive center-block"></p>
 <p>I match it with the other half of the back piece and transfer the notch onto its seam allowance. This is done in order to ensure that the front piece will be attached to the back piece symmetrically from both sides. This will help attach the cup piece later. </p>
-<p><strong>Now I place the front piece at the other half of the back piece very accurately and – making the first and only bar-tack – sew the second side seam. </strong></p>
+<p><strong>Now I place the front piece at the other half of the back piece very accurately and - making the first and only bar-tack - sew the second side seam. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%209_files/image028.jpg" class="img-responsive center-block"></p>
 <p><strong>You probably have a question: where to direct the side seam? </strong></p>
@@ -372,7 +372,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

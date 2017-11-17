@@ -233,7 +233,7 @@
 <p><strong>Now let me touch upon the materials I am going to use for my peplum. </strong></p>
 <p><strong>I will use the same face and lining fabrics as for the skirt. </strong>The lining will be duplicated with stiff woven interfacing which we normally use for duplicating corset cups at the Corset Academy. <strong>I will also put Rigilene bones on the lining to give the peplum the desired shape. </strong></p>
 <p>The peplum will be fastened by large sew-on snaps.</p>
-<p><strong>It will be decorated </strong>by the remaining 4cm scales and I will also cut triangles of matching sizes from the same fabric (their base will be 4cm and their height – 2cm).</p>
+<p><strong>It will be decorated </strong>by the remaining 4cm scales and I will also cut triangles of matching sizes from the same fabric (their base will be 4cm and their height - 2cm).</p>
 <p>By alternating between scales and triangles, I will create a different yet matching pattern on the peplum.</p>
 <p><strong>Let us start cutting. </strong></p>
 <p><strong>I fold stiff woven interfacing two times and cut out the peplum in accordance to the calculations. </strong></p>
@@ -335,7 +335,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>In each file the pattern is divided to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%201.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Skirt Pattern 1</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern 2</a><br>						

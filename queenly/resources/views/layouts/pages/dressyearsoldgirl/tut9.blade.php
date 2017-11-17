@@ -296,7 +296,7 @@
 <p>K1P = 7/2 = 3.5cm. </p>
 <p>Draw a 1-1.2cm bisector line up from point K1. This is the area where the armscye starts to curve. Examine the curve − it should be smooth and even. </p>
 <p>W1N = Waist to Sternal Notch = 21.5cm. </p>
-<p>A1A2 = Shoulder to Shoulder Across Front/2 + 0.5 = 25/2 + 0.5 = 13cm. Since Sophia Liel's shoulder to shoulder measurement is the same at the back as it is at the front, I mark an identical line from point A – AA4. </p>
+<p>A1A2 = Shoulder to Shoulder Across Front/2 + 0.5 = 25/2 + 0.5 = 13cm. Since Sophia Liel's shoulder to shoulder measurement is the same at the back as it is at the front, I mark an identical line from point A - AA4. </p>
 <p>A2A3 = Shoulder Length = 7cm. You can make it 5cm straight away because that is the length according to the dress style. </p>
 <p>Draw a smooth neckline. </p>
 <p>Now let us check the Shoulder Slope Front measurement and double-check the position of point A2. Check if it corresponds with the Armpit to Armpit Front measurement. Draw the armscye. </p>

@@ -354,7 +354,7 @@
 <p>Even if the top line is located somewhat higher than needed in the middle, it might be worth leaving as is. You should always ask yourself what’s more important: a precisely taken measurement or beautiful blending of lines. Remember that taking a 100% precise measurement is impossible; it remains an approximation. And it’s important to have all lines blending smoothly. <strong>You can always arrange pieces together to check where the top line of the corset will go when the garment is finished.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%205_files/image042.jpg" class="img-responsive center-block"></p>
-<p>If you’re satisfied with the way the top line passes from the side cup piece onto the central one – just leave it as is. <strong>You can always correct your top line, should you for whatever reason need to make it end at the point that strictly corresponds to the measurement.</strong></p>
+<p>If you’re satisfied with the way the top line passes from the side cup piece onto the central one - just leave it as is. <strong>You can always correct your top line, should you for whatever reason need to make it end at the point that strictly corresponds to the measurement.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%205_files/image044.jpg" class="img-responsive center-block"></p>
 <p><strong>In our case the princess seam got shifted down by a couple millimeters and the corner of the corset went upwards. </strong>But the top line is precise and the length of the princess seam has been double-checked.</p>
@@ -374,13 +374,13 @@
 <p>I mark symmetrical guidelines for bones from the other side of the side piece as well. <strong>That’s the simplest way of marking their location.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%205_files/image054.jpg" class="img-responsive center-block"></p>
-<p><strong>Working on the cups reminded me that more adjustments are yet to be made – I need to shorten all back pieces by 2cm </strong>parallel from both sides of the corset because the side seam and the length of the back coincide. </p>
+<p><strong>Working on the cups reminded me that more adjustments are yet to be made - I need to shorten all back pieces by 2cm </strong>parallel from both sides of the corset because the side seam and the length of the back coincide. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%205_files/image056.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%205_files/image058.jpg" class="img-responsive center-block"></p>
 <p><strong>That’s all about cutting the corset! </strong></p>
-<p>Now while the press-iron is still on, you can <strong>cut out fabric straps for finishing the bones of the corset</strong>. “Cut out" is rather overstated! The whole “cutting" process consists of tearing off straps of fabric. I normally use fabric at its whole width – 1.5m. I start by cutting off the selvage because it pulls on the fabric and hinders the process. If your fabric is ravel-prone, you should make straps that are 2.7-2.8cm wide (if it’s not that ravel-prone, 2.5cm should be enough). My fabric is elastic which means the width of a strap will shrink when it’s pulled on, that’s why I make my straps 2.7cm wide. I prepare two such straps in advance and I believe it should be enough. </p>
+<p>Now while the press-iron is still on, you can <strong>cut out fabric straps for finishing the bones of the corset</strong>. “Cut out" is rather overstated! The whole “cutting" process consists of tearing off straps of fabric. I normally use fabric at its whole width - 1.5m. I start by cutting off the selvage because it pulls on the fabric and hinders the process. If your fabric is ravel-prone, you should make straps that are 2.7-2.8cm wide (if it’s not that ravel-prone, 2.5cm should be enough). My fabric is elastic which means the width of a strap will shrink when it’s pulled on, that’s why I make my straps 2.7cm wide. I prepare two such straps in advance and I believe it should be enough. </p>
 <p>I iron the straps carefully through.</p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -393,7 +393,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

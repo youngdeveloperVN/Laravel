@@ -274,7 +274,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%205_files/image012.jpg" alt=""></p>
 <p><strong>The new central front piece looks like this:</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%205_files/image014.jpg" alt=""></p>
-<p><strong>I add a seam allowance of 1.2cm– that's it, now the central front piece is ready. </strong></p>
+<p><strong>I add a seam allowance of 1.2cm- that's it, now the central front piece is ready. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%205_files/image016.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%205_files/image018.jpg" alt=""></p>
 <p><strong>And I do the same with the central back piece.</strong></p>
@@ -322,7 +322,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Bell Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/model.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The Model</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/patterns-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

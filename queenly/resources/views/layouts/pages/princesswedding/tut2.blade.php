@@ -250,7 +250,7 @@
 <p><strong>The lining skirt is normally made 10-20cm shorter than the main veiling skirt. </strong></p>
 <p>My veiling fabric is wide enough (150cm) to fit everything, even with a skirt length of 120cm and a radius of 26cm.</p>
 <p><strong>When cutting the lining, I will make it 15cm shorter than the main skirt. </strong></p>
-<p><strong>120cm – 15cm = 105cm</strong></p>
+<p><strong>120cm - 15cm = 105cm</strong></p>
 <p>I will cut the skirt right on the table using the method described in the previous books by the Corset Academy, i.e. by folding the fabric in a triangle.</p>
 <p>I will also account for the fact that the skirt needs to be sewn to a bodice with a V-shaped bottom edge the bottom point of which reaches 7cm below the waistline.</p>
 

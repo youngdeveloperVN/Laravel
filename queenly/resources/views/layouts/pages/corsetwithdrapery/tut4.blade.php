@@ -296,9 +296,9 @@
 <p><strong>So I outline the piece, shift it by 1.5cm and draw a new line for the side seam. Please note the way it should be done:</strong> I shift the piece and re-draw its original line using the pattern. And then I connect the ends of the old and new lines of the side seam with a smooth line using the original pattern as a stencil. I don’t just use horizontal lines to connect the old and new lines of the side seam at the top and down the bottom. Had I done so, we would’ve already lost 2mm of the side seam length. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%204_files/image008.jpg" class="img-responsive center-block"></p>
-<p><strong>This often raises questions when done wrong: </strong>“I have adjusted the pattern but the pieces don’t match. Neither the side seams nor the length of the princess seams match. There must be a fault in your pattern". </p>
-<p>No, this is not the case! <strong>There are no faults in the original pattern – you must have made a mistake during the cutting process! Now let me draw the side piece of the back. </strong>I start by outlining the piece as is and apply necessary alterations afterwards. </p>
-<p><strong>The princess seam: </strong>I add 1mm at the bust level, remove 2mm at the under-bust level, add 1mm at the waistline level and proceed to the stomach level with no alterations. The seam looks rather wavy but – trust me – it will straighten when you join the pieces together.&nbsp; </p>
+<p><strong>This often raises questions when done wrong: </strong>"I have adjusted the pattern but the pieces don’t match. Neither the side seams nor the length of the princess seams match. There must be a fault in your pattern". </p>
+<p>No, this is not the case! <strong>There are no faults in the original pattern - you must have made a mistake during the cutting process! Now let me draw the side piece of the back. </strong>I start by outlining the piece as is and apply necessary alterations afterwards. </p>
+<p><strong>The princess seam: </strong>I add 1mm at the bust level, remove 2mm at the under-bust level, add 1mm at the waistline level and proceed to the stomach level with no alterations. The seam looks rather wavy but - trust me - it will straighten when you join the pieces together.&nbsp; </p>
 <p><strong>The side seam: </strong>there are no alterations at the bust-line level but I need to remove 1cm starting at the under-bust level and going down to the bottom along the whole length. I use the original pattern as a template for drawing a new side seam in the area from under the bust down to the bottom. I join the ends of the old and new side seam lines using the pattern as a stencil, the same way I did with the side piece of the front.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%204_files/image009.jpg" class="img-responsive center-block"></p>
@@ -315,7 +315,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%204_files/image014.jpg" class="img-responsive center-block"></p>
 <p>It is better to use some “throwaway" scissors for paper or cardboard because mesh fabric might dull your working scissors. </p>
-<p><strong>Here it is – I have carefully cut out all our corset pieces.</strong> They are numbered. Don’t worry if the chiffon doesn’t look that neat from the other side. It is very thin and prone to deformation. But we will cope with this trouble and sew a beautiful corset!</p>
+<p><strong>Here it is - I have carefully cut out all our corset pieces.</strong> They are numbered. Don’t worry if the chiffon doesn’t look that neat from the other side. It is very thin and prone to deformation. But we will cope with this trouble and sew a beautiful corset!</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%204_files/image016.jpg" class="img-responsive center-block"></p>
 
@@ -329,7 +329,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

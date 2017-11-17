@@ -193,7 +193,7 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2017_files/image042.jpg" class="img-responsive center-block"></p>
-<p><strong>And then I secure the padding polyester on the second cup in the same fashion – following the inner stitch that attaches the perimeter bones. </strong>If you follow the outer stitch at the very edge of the cup, there’ll be bits of padding polyester left after you trim it. It’ll lie too close to the edge of the cup and inhibit further work. That’s why I always stitch it on through the inner side of the bones. </p>
+<p><strong>And then I secure the padding polyester on the second cup in the same fashion - following the inner stitch that attaches the perimeter bones. </strong>If you follow the outer stitch at the very edge of the cup, there’ll be bits of padding polyester left after you trim it. It’ll lie too close to the edge of the cup and inhibit further work. That’s why I always stitch it on through the inner side of the bones. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2017_files/image044.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -219,7 +219,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

@@ -222,7 +222,7 @@
 <div itemprop="articleBody">
 <h1>Tutorial 16. Decorating the Dress with Ribbons.</h1>
 <h1>Pictures of the Finished Garment.</h1>
-<p><strong>I have approached the most fun part of the process – decoration! </strong></p>
+<p><strong>I have approached the most fun part of the process - decoration! </strong></p>
 <p><strong>The armlets and the skirt will be decorated with flower motifs: </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/6%20yo/Tutorial%2016_files/image002.jpg" alt=""></p>
 <p><strong>How do I make these motifs? </strong></p>

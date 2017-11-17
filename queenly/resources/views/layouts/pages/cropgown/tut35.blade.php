@@ -170,7 +170,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design – Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
+						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design - Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -278,7 +278,7 @@
 <p><strong>But what to do if you decide to change the style or the silhouette of the skirt: for example, make it wider and form drapes?</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%2034.files/image008.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>In this case, you will need to find a way to reinforce the top part of the skirt down to the hip line. </strong>As I said before, if you sew a skirt in the technique described in this book and want to increase its volume by widening the pattern, then the front and the back are supposed to be finished with a lining sewn in the princess seams. You cannot put an additional supporting construction with hoops or Rigilene boning between the layers – it will be very obvious and look messy! </p>
+<p><strong>In this case, you will need to find a way to reinforce the top part of the skirt down to the hip line. </strong>As I said before, if you sew a skirt in the technique described in this book and want to increase its volume by widening the pattern, then the front and the back are supposed to be finished with a lining sewn in the princess seams. You cannot put an additional supporting construction with hoops or Rigilene boning between the layers - it will be very obvious and look messy! </p>
 <p><strong>One of the possible ways to reinforce the skirt and improve its balance </strong>is to put hard Rigilene bones under the ruffles starting from the hip level. </p>
 <p><strong>Another solution</strong> is to add another lining layer made of denser and yet still lightweight non-see-through synthetic fabric. Similar fabric, for example, is used in ready-made low-budget petticoats. You will need to cut the central front piece and a short combined piece for the back and the sides of the skirt. You will also need to put one or more Rigilene bones along the bottom of these lining pieces to make them stiffer. This third lining layer will be placed between the main fabric and the see-through lining and sewn in the princess seams together with it. As the result, the top of the skirt will be strong enough and non-see-through. </p>
 <p><strong>In conclusion, I would like to warn you about one more thing: </strong>when you are making an inner supporting construction for a skirt, remember that it must not obstruct the wearer’s movements. The bride is supposed to be able to sit down and stand up freely. The construction must be carefully thought-out and well-balanced, and the bride must feel comfortable in the garment! </p>
@@ -293,7 +293,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

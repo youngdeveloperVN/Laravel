@@ -357,7 +357,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2012.files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>The length of the train equals the diagonal of the square. </strong>The diagonal is calculated according to the right triangle formula and makes about 180cm. Considering the distance from the waistline to the beginning of the train, the length of our train should be about 2m, 80cm of which will lie on the floor. The train will be even longer if you sew ruffles along the sides of the square that are not sewn in the skirt. If you find your train way too long, you can round off its bottom edge.&nbsp; </p>
-<p><strong>The second possible version of a train is a semi-circle.</strong> You need a piece of fabric that's 250cm long (2 x 125cm). The width is standard – 150cm. Please note that the train will be rather short in this case, with only 50cm lying on the floor.</p>
+<p><strong>The second possible version of a train is a semi-circle.</strong> You need a piece of fabric that's 250cm long (2 x 125cm). The width is standard - 150cm. Please note that the train will be rather short in this case, with only 50cm lying on the floor.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2012.files/image006.jpg" class="img-responsive center-block"></p>
 <p><strong>If that's too short, you will have to make a two-piece train</strong>, i.e. cut a train with a seam in the middle. Then you will need a piece of fabric that is 125cm wide and has the desired length. The lengthwise grain should be parallel to the joining seam.</p>

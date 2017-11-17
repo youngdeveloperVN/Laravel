@@ -324,7 +324,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 2. Preparing the Cups.">
 <meta itemprop="headline" content="Tutorial 2. Preparing the Cups.">
-<meta itemprop="description" content="Tutorial 2. Preparing the Cups. I move on to the cups. As I've already said, they are a little too big. My client's bust circumference is not that large – 86cm. I suggest trimming the top of each cup down by about 2cm. Their material allows us to do it without worrying about fraying.">
+<meta itemprop="description" content="Tutorial 2. Preparing the Cups. I move on to the cups. As I've already said, they are a little too big. My client's bust circumference is not that large - 86cm. I suggest trimming the top of each cup down by about 2cm. Their material allows us to do it without worrying about fraying.">
 <meta itemprop="articleSection" content="Gown with Bare-Skin Effect II">
 <meta itemprop="keywords" content="gown with bare-skin effect ii, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -338,7 +338,7 @@
 <div itemprop="articleBody">
 <h3>Tutorial 2. Preparing the Cups.</h3>
 <p></p>
-<p><strong>I move on to the cups. </strong>As I've already said, they are a little too big. My client's bust circumference is not that large – 86cm. </p>
+<p><strong>I move on to the cups. </strong>As I've already said, they are a little too big. My client's bust circumference is not that large - 86cm. </p>
 <p><strong>I suggest trimming the top of each cup down by about 2cm. </strong>Their material allows us to do it without worrying about fraying. &nbsp;</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%202_files/image001.jpg" class="img-responsive center-block"></p>
@@ -366,7 +366,7 @@
 <p><strong>I trim the ends of the bias tape. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%202_files/image021.jpg" class="img-responsive center-block"></p>
-<p><strong>I take one semi-circular underwire</strong> and determine which end faces the centre of the bust and which one – the underarm. I insert the right end of the underwire into the bias tape and push it in. </p>
+<p><strong>I take one semi-circular underwire</strong> and determine which end faces the centre of the bust and which one - the underarm. I insert the right end of the underwire into the bias tape and push it in. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%202_files/image023.jpg" class="img-responsive center-block"></p>
 <p><strong>There is some room between the end of the underwire and the edge of the cup</strong> so I can make another bar tack there. The underwire won't be in the way. It is for that very reason that the underwire should be a little shorter than the bottom arch of the cup.</p>

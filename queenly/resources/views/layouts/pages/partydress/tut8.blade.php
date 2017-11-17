@@ -320,7 +320,7 @@
 <p><strong>And it’s time for some pressing:</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%208_files/image030.jpg" class="img-responsive center-block"></p>
-<p>You should straighten all bones. I always try to press it step-by-step or piece-by-piece instead of pressing the whole surface at once. You don’t want to flatten your garment – you want to shape it well and at the same time thoroughly press every pattern piece. </p>
+<p>You should straighten all bones. I always try to press it step-by-step or piece-by-piece instead of pressing the whole surface at once. You don’t want to flatten your garment - you want to shape it well and at the same time thoroughly press every pattern piece. </p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -332,7 +332,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

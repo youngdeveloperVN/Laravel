@@ -168,7 +168,7 @@
 <p><strong>As the result the seam looks like this.</strong> Now we can press it and turn it out.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2011_files/image020.jpg" class="img-responsive center-block"></p>
-<p><strong>Now we need to join the face with the lining in the armscye.</strong> If you prefer sewing shoulder straps right into the corners at this stage – feel free to do so. As for me I’m not a fan of this method because it limits further adjustment opportunities. I usually attach shoulder straps to the dress at the very last moment. </p>
+<p><strong>Now we need to join the face with the lining in the armscye.</strong> If you prefer sewing shoulder straps right into the corners at this stage - feel free to do so. As for me I’m not a fan of this method because it limits further adjustment opportunities. I usually attach shoulder straps to the dress at the very last moment. </p>
 <p><strong>I pin the pieces together in the armscye area.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2011_files/image022.jpg" class="img-responsive center-block"></strong></p>
@@ -231,7 +231,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

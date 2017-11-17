@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -353,7 +353,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2017_files/image040.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2017_files/image042.jpg" class="img-responsive center-block"></p>
-<p><strong>I put together the seam allowances of the central back seam and align the notches at the end of the zipper.</strong> I step 7-8 from that level and start sewing the central back seam with a 2cm seam allowance. You don't have to start from the very end of the zipper – leave a small area of the seam undone. In this case, the lining won't pull on the dress. I heat seal the edges of the seam allowance with a soldering iron and press it open. </p>
+<p><strong>I put together the seam allowances of the central back seam and align the notches at the end of the zipper.</strong> I step 7-8 from that level and start sewing the central back seam with a 2cm seam allowance. You don't have to start from the very end of the zipper - leave a small area of the seam undone. In this case, the lining won't pull on the dress. I heat seal the edges of the seam allowance with a soldering iron and press it open. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2017_files/image044.jpg" class="img-responsive center-block"></p>
 <p>
@@ -391,7 +391,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

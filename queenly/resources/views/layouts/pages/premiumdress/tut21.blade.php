@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -346,7 +346,7 @@
 <p>I formed the drapes at the back of the dress starting from the bottom but now <strong>I will first pin them at the top </strong>to make sure they settle down in the right direction toward the shoulder. I make a smooth transition from one draping direction to the other, adjusting the length of the drapes at the same time.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2020_files/image030.jpg" class="img-responsive center-block"></p>
-<p><strong>I continue forming new drapes.</strong> Since the mesh fabric is pinned on diagonally over the shoulder, it no longer stretches as easily as before, which makes the draping process much more difficult. Sometimes you need to pull the mesh fabric on tighter, other times – loosen it, and still other times – re-pin everything anew. You should know that it's impossible to make two identical draperies because each time you deal with new sizes, new fabrics, new designs, etc. </p>
+<p><strong>I continue forming new drapes.</strong> Since the mesh fabric is pinned on diagonally over the shoulder, it no longer stretches as easily as before, which makes the draping process much more difficult. Sometimes you need to pull the mesh fabric on tighter, other times - loosen it, and still other times - re-pin everything anew. You should know that it's impossible to make two identical draperies because each time you deal with new sizes, new fabrics, new designs, etc. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2020_files/image032.jpg" class="img-responsive center-block"></p>
 <p>
@@ -378,7 +378,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

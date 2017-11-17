@@ -340,7 +340,7 @@
 <h3>Tutorial 5. Shaping the Back of the Dress.</h3>
 <p></p>
 <p><strong>I begin working on the back of the dress.</strong> I need to cut a mock-up to design a beautiful low neckline and determine adjustments to give a graceful shape to the entire back. </p>
-<p><strong>I lay the adjusted back pieces onto mock-up fabric. </strong>I will only cut a half of the back or one copy per each piece – it's more than enough for working on the shape of the neckline. The seam allowances are included. </p>
+<p><strong>I lay the adjusted back pieces onto mock-up fabric. </strong>I will only cut a half of the back or one copy per each piece - it's more than enough for working on the shape of the neckline. The seam allowances are included. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%205_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>I cut the back pieces from mock-up fabric</strong> and make notches. </p>
@@ -432,7 +432,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

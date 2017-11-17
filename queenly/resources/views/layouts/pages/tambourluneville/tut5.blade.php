@@ -135,7 +135,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/5.files/image006.jpg" alt=""></p>
 <p><strong>I believe you can now see that there is nothing too hard in doing tambour embroidery. All you need to do is stick to certain basic rules. </strong></p>
 <p><strong>You must simply practice! A few 20-30 minutes sessions a day will allow you to upgrade your skills rather fast! </strong>You will develop your own manner and technique.</p>
-<p><strong>Only practice makes perfect – there are no other secrets here!</strong></p>
+<p><strong>Only practice makes perfect - there are no other secrets here!</strong></p>
 <p><strong>In conclusion, I would like to go through the key rules of tambour embroidery one more time. </strong></p>
 <p><strong>You mount your fabric in the embroidery frame and put beads on a thread. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/5.files/image008.jpg" alt=""></p>
@@ -208,10 +208,10 @@
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/5.files/image058.jpg" alt=""></strong></p>
 <p><strong>Remember to secure your embroidery on the purse unless it was made with some special-purpose reinforced thread. </strong>You must understand that anything can happen with the purse in wear!</p>
-<p><strong>I recommend you smear all threads with fabric glue to secure the embroidery. </strong>You know what the tambour stitch is! It is basically a braid – just yank on a torn thread and the whole embroidery will go undone! And clear fabric glue will not be visible from the face side of the piece.</p>
+<p><strong>I recommend you smear all threads with fabric glue to secure the embroidery. </strong>You know what the tambour stitch is! It is basically a braid - just yank on a torn thread and the whole embroidery will go undone! And clear fabric glue will not be visible from the face side of the piece.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/5.files/image060.jpg" alt=""></p>
 <p><strong>Needless to say that you must not use any glue if your embroidery will be in direct contact with bare skin! </strong>You must use very high-quality tear-proof thread in that case.</p>
-<p><strong>Just to let you know: this small embroidered piece weighs 110 grams. </strong>And now imagine a whole dress fully embroidered with seed beads, rhinestones, sequins, let alone pearl beads! Not every bride can cope with such “pressure!" Please remember about your own responsibility when accepting such orders. The final garment must be wearable in the end!</p>
+<p><strong>Just to let you know: this small embroidered piece weighs 110 grams. </strong>And now imagine a whole dress fully embroidered with seed beads, rhinestones, sequins, let alone pearl beads! Not every bride can cope with such "pressure!" Please remember about your own responsibility when accepting such orders. The final garment must be wearable in the end!</p>
 <p><strong>As for us, we have fulfilled our task. </strong>All we need to do is cut and sew the purse and then embellish it with this beautiful embroidery!</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/decoration/Tambour%20or%20Luneville%20Embroidery/5.files/image062.jpg" alt=""></p>
 

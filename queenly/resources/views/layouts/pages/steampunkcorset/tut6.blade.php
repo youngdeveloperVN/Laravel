@@ -220,7 +220,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 5. Cutting All Parts of the Corset.">
 <meta itemprop="headline" content="Tutorial 5. Cutting All Parts of the Corset.">
-<meta itemprop="description" content="Cutting All Parts of the leather Corset. do not throw away small bits of leather – you can always use them for appliqué or other DIY projects later">
+<meta itemprop="description" content="Cutting All Parts of the leather Corset. do not throw away small bits of leather - you can always use them for appliqué or other DIY projects later">
 <meta itemprop="articleSection" content="Steampunk Corset">
 <meta itemprop="keywords" content="steampunk corset, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -233,7 +233,7 @@
 </span> <!-- Scope END: ImageObject -->
 <div itemprop="articleBody">
 <h3>Tutorial 5. Cutting All Parts of the Corset.</h3>
-<p><strong>Now that the hide is duplicated, I can finally start cutting.</strong> It is best to do it with well-sharpened scissors. Don't leave any marked lines inside the piece: otherwise, it may turn out larger than needed. I also make all necessary notches, each about 3mm deep. You can number the pieces with a silver leather marking pen to avoid confusion. And do not throw away small bits of leather – you can always use them for appliqué or other DIY projects later.</p>
+<p><strong>Now that the hide is duplicated, I can finally start cutting.</strong> It is best to do it with well-sharpened scissors. Don't leave any marked lines inside the piece: otherwise, it may turn out larger than needed. I also make all necessary notches, each about 3mm deep. You can number the pieces with a silver leather marking pen to avoid confusion. And do not throw away small bits of leather - you can always use them for appliqué or other DIY projects later.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%205_files/image002.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%205_files/image004.jpg" alt=""></p>
 <p><strong>I cut out the non-duplicated lay-on side elements. </strong></p>
@@ -263,7 +263,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/pattern-lether1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing patern</a><br>						

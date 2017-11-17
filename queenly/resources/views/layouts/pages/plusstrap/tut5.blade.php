@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -312,7 +312,7 @@
 <p><strong>We know the distance between the shoulder straps: 26cm. </strong>Let's find out where its starting point lies (point B):</p>
 <p><strong>(26cm- 19cm) ÷ 2 = 3.5cm</strong></p>
 <p>It is that distance from the princess seam to point B (without the seam allowance), from which we measured the distance between the shoulder straps. </p>
-<p><strong>There is an additional measurement that helps determine the location of point B – the corner height, which is 26cm.&nbsp; </strong></p>
+<p><strong>There is an additional measurement that helps determine the location of point B - the corner height, which is 26cm.&nbsp; </strong></p>
 <p>I mark 3.5cm horizontally from the raw edge of the side piece (without the seam allowance) and mark 26cm upwards from the waistline. Point B lies at the intersection of those two lines. </p>
 <p><strong>I connect points A and B</strong> and finish shaping the top edge. </p>
 <p><strong>I would like to say a couple of words about working with patterns.</strong></p>
@@ -333,7 +333,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

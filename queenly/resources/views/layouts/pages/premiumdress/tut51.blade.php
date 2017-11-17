@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -320,7 +320,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2050_files/image010.jpg" class="img-responsive center-block"></p>
 <p><strong>I have cut out the required amount of petals and leaves from white and brown plastic suede.&nbsp; </strong></p>
-<p><strong>I have prepared five petals made from white plastic suede </strong>(in accordance with the template). Three of them were cut out with regular scissors and the remaining two – with zigzag edge scissors.</p>
+<p><strong>I have prepared five petals made from white plastic suede </strong>(in accordance with the template). Three of them were cut out with regular scissors and the remaining two - with zigzag edge scissors.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2050_files/image012.jpg" class="img-responsive center-block"></p>
 <p><strong>In addition, I have cut out: </strong>11 small and 11 medium-sized flower pieces from white plastic suede, 11 larger flower pieces (8 golden and 3 brown), 3 bottom parts (2 white and 1 brown).&nbsp; As I said before, I also cut out a brown plastic suede base for the brooch. I will cut out additional pieces if the need comes in the process. </p>
@@ -407,7 +407,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

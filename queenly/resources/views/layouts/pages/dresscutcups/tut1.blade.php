@@ -513,7 +513,7 @@
 <p>You won’t have to make any alterations if the measurements of the pattern coincide with those of your client. In this case the whole column 4 of the table should be left out. </p>
 <p>However in my case Kate’s measurement is 7.1 inches corresponding to the value of 7.9 inches on the pattern which means this pattern does have to be changed along the middle, along the crease line. </p>
 <p> Let me calculate:</p>
-<p>7.1" – 7.9" = -0.8"</p>
+<p>7.1" - 7.9" = -0.8"</p>
 <p>However this value should be divided into 2 sides - the right and the left one. </p>
 <p>Therefore: </p>
 <p>- 0.8" ÷ 2 = -0.4"</p>
@@ -624,16 +624,16 @@
 <p>Let us calculate this shift. </p>
 <p>I have already adjusted down all circumferences by 0.8 inches when calculating the “bust middle" measurement and shifted the pattern by 0.4 inches against the fabric crease. </p>
 <p>And therefore:</p>
-<p>19.3" – 0.8" = 18.5"</p>
-<p>(18.1" – 18.5") ÷ 2 = - 0.2"</p>
+<p>19.3" - 0.8" = 18.5"</p>
+<p>(18.1" - 18.5") ÷ 2 = - 0.2"</p>
 <p>So the side seam along the bust-line is going to be adjusted down by 0.2 inches. </p>
 <p>I write this value into the table (column 5, line 2). </p>
 <p><strong>Under-bust front:</strong></p>
 <p>Let me calculate the location of the side seam. </p>
 <p>It is 15.7 inches on the pattern and 14.6 inches on Kate. </p>
 <p>I calculate it the same way keeping in mind that the bust middle has been reduced by 0.8 inches. </p>
-<p>15.7" – 0.8" = 15"</p>
-<p>(14.6" – 15") ÷ 2 = -0.2"</p>
+<p>15.7" - 0.8" = 15"</p>
+<p>(14.6" - 15") ÷ 2 = -0.2"</p>
 <p>I add this value into the table (column 5, line 3). </p>
 <p>It is now perfectly clear that the side seam is shifted by 0.2 inches. </p>
 <p>However I am going to adjust down the whole pattern by 0.2 inches to keep the beautiful side shape of the corset, this lovely curve, thereby reducing all circumferences (bust, under-bust, waistline, stomach) by 0.4 inches. </p>
@@ -735,52 +735,52 @@
 <p><strong>Clip measurement.</strong></p>
 <p><strong>To the scye:</strong></p>
 <p>Since there are 4.2 inches on the pattern corresponding to 3.5 inches of the client’s measurement then I do the following: </p>
-<p>3.5" – 4.2" = <strong>-0.7"</strong></p>
+<p>3.5" - 4.2" = <strong>-0.7"</strong></p>
 <p><strong>Upward:</strong></p>
 <p>Since there are 3.5 inches on the pattern corresponding to 2 inches of the client’s measurement then I do the following: </p>
-<p>2" – 3.5" = <strong>-1.6"</strong></p>
+<p>2" - 3.5" = <strong>-1.6"</strong></p>
 <p><strong>To the neckline:</strong></p>
 <p>Since there are 2.9 inches on the pattern corresponding to 2.4 inches of the client’s measurement then I do the following:</p>
-<p>2.4"– 2.9"= <strong>-0.5"</strong></p>
+<p>2.4"- 2.9"= <strong>-0.5"</strong></p>
 <p>I write these values down into the table (column 5, line 9).</p>
 <p><strong>Side length:</strong></p>
 <p>It is 7.9 inches on the pattern corresponding to 7.5 inches according to Kate’s measurements which means the side length should be reduced along the scye by: </p>
-<p>7.5" – 7.9" = <strong>-0.4"</strong></p>
+<p>7.5" - 7.9" = <strong>-0.4"</strong></p>
 <p>This value is also recorded into the table (column 5, line 11).</p>
 <p><strong>I start calculating alterations of the side seam of the back.</strong></p>
 <p>There are naturally no more “bust front" or “under-bust front" measurements now. </p>
-<p>Our next measurement is <strong>“bust circumference"</strong>. </p>
+<p>Our next measurement is <strong>"bust circumference"</strong>. </p>
 <p>It is 36.6 inches on the pattern and 33.5 inches according to Kate’s measurements. </p>
 <p>I have already taken into account the alteration along the middle of the bust-line (-0.4") and the front side seam (-0.2"). </p>
 <p>This value makes up 1.2 inches for two pattern halves. </p>
 <p>Thus:</p>
-<p>36.6" – 1.2" = 35.4"</p>
-<p>(33.5" – 35.4") ÷ 2 = <strong>-1"</strong></p>
+<p>36.6" - 1.2" = 35.4"</p>
+<p>(33.5" - 35.4") ÷ 2 = <strong>-1"</strong></p>
 <p>The value is added to the table (column 6, line 4).</p>
 <p><strong> Under-bust circumference. </strong></p>
 <p>It is 33.1 inches on the pattern and 29.1 inches for Kate. </p>
 <p>It is calculated the same way:</p>
-<p>33.1" – 1.6" = 31.9"</p>
-<p>(29.1" – 31.9") ÷ 2 = <strong>-1.4"</strong></p>
+<p>33.1" - 1.6" = 31.9"</p>
+<p>(29.1" - 31.9") ÷ 2 = <strong>-1.4"</strong></p>
 <p>I write down this value in the table (column 6, line 5). </p>
 <p>I don’t think over these values for now, I just calculate and record them.</p>
 <p><strong>Waistline.</strong> </p>
 <p>It is 30.3 inches on the pattern and Kate’s measurement makes  28 inches. </p>
 <p>Let us calculate:</p>
-<p>30.3" – 1.2" = 29.1"</p>
-<p>(28" – 29.1") ÷ 2 = <strong>-0.6"</strong></p>
+<p>30.3" - 1.2" = 29.1"</p>
+<p>(28" - 29.1") ÷ 2 = <strong>-0.6"</strong></p>
 <p>I add the value to the table (column 6, line 6).</p>
 <p><strong>Stomach measurement at a 4.7 inch distance above the waistline.</strong> </p>
 <p>It is 37.4 inches on the pattern and 35.8 inches on Kate. </p>
 <p>I calculate it:</p>
-<p>37.4" – 1.2" = 36.2"</p>
-<p>(35.8" – 36.2") ÷ 2 = <strong>-0.2"</strong></p>
+<p>37.4" - 1.2" = 36.2"</p>
+<p>(35.8" - 36.2") ÷ 2 = <strong>-0.2"</strong></p>
 <p>This value is then added to the table (column 6, line 7).  </p>
 <p><strong>Hip circumference:</strong></p>
 <p>It is 39.4 inches on the pattern and 37.8 inches according to Kate’s measurements.</p>
 <p>Let us calculate:</p>
-<p>39.4"– 1.2" = 38.2"</p>
-<p>(37.8" – 38.2") ÷ 2 = <strong>-0.2"</strong></p>
+<p>39.4"- 1.2" = 38.2"</p>
+<p>(37.8" - 38.2") ÷ 2 = <strong>-0.2"</strong></p>
 <p>I write down this value in the table (column 6, line 8).</p>
 <div class="table-responsive">
 <table class="table table-bordered table-striped">
@@ -942,7 +942,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

@@ -151,36 +151,36 @@
 <p><strong>I’d like to add a couple more words on the importance of sewing mock-ups. </strong>As you saw your patterns, you probably wondered why there is a fold line on the central piece when the model is supposed to have such a deep cut-out at the front. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image008.jpg" class="img-responsive center-block"></p>
-<p>After sewing a mock-up you will see that it’s much easier to use one central piece made of bobbinet with a fold line and then make the cut-out rather than join two separate central pieces – one made of hard fabric and the other of bobbinet. You won’t have to match the pieces: it’ll be fast and very easy! </p>
+<p>After sewing a mock-up you will see that it’s much easier to use one central piece made of bobbinet with a fold line and then make the cut-out rather than join two separate central pieces - one made of hard fabric and the other of bobbinet. You won’t have to match the pieces: it’ll be fast and very easy! </p>
 <p><strong>So, let’s start taking the key measurements. </strong>I mark all measurements directly on the patterns. I prefer having all measurements written down on each pattern designed for a certain model. I’m going to mark them on the central piece and on the cups. </p>
-<p><strong>Bust middle measurement – 19cm: </strong></p>
+<p><strong>Bust middle measurement - 19cm: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image010.jpg" class="img-responsive center-block"></p>
 <p><strong>Clip measurement.</strong> &nbsp;Start at the middle of the bust and don’t account for the seam allowance.</p>
-<p><strong>- Towards the scye – 11cm;</strong></p>
+<p><strong>- Towards the scye - 11cm;</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image012.jpg" class="img-responsive center-block"></p>
 <p><strong>- Towards the corner - 11,5cm; </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image014.jpg" class="img-responsive center-block"></p>
-<p><strong>- Towards the décolleté – 7cm. </strong></p>
+<p><strong>- Towards the décolleté - 7cm. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image016.jpg" class="img-responsive center-block"></p>
-<p><strong>Bust front measurement – 48cm:</strong></p>
+<p><strong>Bust front measurement - 48cm:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image018.jpg" class="img-responsive center-block"></p>
-<p><strong>Under-bust front measurement – 37cm:</strong></p>
+<p><strong>Under-bust front measurement - 37cm:</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image020.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>Before you start measuring the circumferences, make up your mind about the way you want to measure them.</strong> Do we account for the gap between the halves of the back or not? I’m going to say there is no gap between them, i.e. they close edge-to-edge. So I’m going to measure a half of each circumference and multiply it by two. </p>
-<p><strong>Bust circumference – 84cm:</strong> </p>
+<p><strong>Bust circumference - 84cm:</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image022.jpg" class="img-responsive center-block"></p>
-<p><strong>Under-bust circumference – 68cm.</strong> </p>
-<p><strong>Waist circumference – 70cm.</strong> I follow the marked waistline with the measuring tape until I reach the middle. </p>
+<p><strong>Under-bust circumference - 68cm.</strong> </p>
+<p><strong>Waist circumference - 70cm.</strong> I follow the marked waistline with the measuring tape until I reach the middle. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image024.jpg" class="img-responsive center-block"></p>
-<p><strong>Stomach circumference – 88cm (taken 9cm below the waistline): </strong></p>
+<p><strong>Stomach circumference - 88cm (taken 9cm below the waistline): </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%203_files/image026.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>Side length - 17cm:</strong> </p>
@@ -201,7 +201,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

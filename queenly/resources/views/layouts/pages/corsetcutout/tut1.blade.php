@@ -633,7 +633,7 @@
 							put it more precisely, it is totally different. <strong>This type
 								of bobbinet fabric is used for bodysuits worn by figure skaters,
 								ballet dancers, and rhythmic gymnasts. </strong>It is used for
-							transparent inserts – sleeves, back pieces or individual elements
+							transparent inserts - sleeves, back pieces or individual elements
 							on the bodysuit. This fabric stretches in one direction and is
 							basically non-stretch in the opposite. <strong>We are going to
 								use a double layer of bobbinet fabric to ensure better
@@ -717,8 +717,8 @@
 
 			<div role="tabpanel" class="tab-pane" id="pattern">
 				<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-				<p>To print sewing patterns open the files, press “print" and choose
-					“PRINT IN ACTUAL SIZE".</p>
+				<p>To print sewing patterns open the files, press "print" and choose
+					"PRINT IN ACTUAL SIZE".</p>
 				<p>Then connect the part the way it shown in “combination" file.</p>
 				<a
 					href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf"

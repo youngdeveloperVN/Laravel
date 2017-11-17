@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -301,7 +301,7 @@
 <p><strong>I have taken 1.8m of fabric and folded it along the lengthwise grain so as to cut it crosswise.</strong> The fabric stretches lengthwise and not crosswise. And it's what we want. <strong>I start by laying out the pieces of the back.</strong> I put down the skirt pattern and check how its straight edge lies. Then I place the central back piece at the hip line. I use a ruler to check if I have aligned the pieces correctly. <strong>And then I check the resulting length of the skirt.</strong> I take a measuring tape and measure it from the waistline notch on the back piece to the bottom of the skirt following the central seam at the back. I get roughly 114.5cm. According to my client's height, the dress should be 112cm long, considering that she will wear high-heels with it. It's all good then since I need a little extra fabric for the hem. I believe it is fine to cut it that way. If you happen to lack some fabric, make the lining 2-3cm shorter than the dress. In my case it's perfect and, hopefully, I can cut the lining at its full length. It is better to just trim it later.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%2010_files/image002.jpg" class="img-responsive center-block"></p>
-<p><strong>I draw the bottom of the skirt with chalk – not all of it, just a small part of the hem that equals the width of the central back piece – and I draw the central seam.</strong> </p>
+<p><strong>I draw the bottom of the skirt with chalk - not all of it, just a small part of the hem that equals the width of the central back piece - and I draw the central seam.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%2010_files/image004.jpg" class="img-responsive center-block"></p>
 <p>You can secure the central back piece with pins. </p>
@@ -339,7 +339,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

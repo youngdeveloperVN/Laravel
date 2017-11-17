@@ -293,7 +293,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 5. Working on the Strap Pattern.">
 <meta itemprop="headline" content="Tutorial 5. Working on the Strap Pattern.">
-<meta itemprop="description" content="Tutorial 5. Working on the Strap Pattern. We need to work on the pattern of the upper part of the dress – the straps that resemble a short-sleeve bolero.&nbsp; This half-bolero will be incorporated into the dress.">
+<meta itemprop="description" content="Tutorial 5. Working on the Strap Pattern. We need to work on the pattern of the upper part of the dress - the straps that resemble a short-sleeve bolero.&nbsp; This half-bolero will be incorporated into the dress.">
 <meta itemprop="articleSection" content="Open-Back Dress with a Bodysuit Base">
 <meta itemprop="keywords" content="open-back dress with a bodysuit base, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -307,7 +307,7 @@
 <div itemprop="articleBody">
 <h3>Tutorial 5. Working on the Strap Pattern.</h3>
 <p></p>
-<p><strong>We need to work on the pattern of the upper part of the dress – the straps that resemble a short-sleeve bolero.</strong>&nbsp; This half-bolero will be incorporated into the dress. </p>
+<p><strong>We need to work on the pattern of the upper part of the dress - the straps that resemble a short-sleeve bolero.</strong>&nbsp; This half-bolero will be incorporated into the dress. </p>
 <p><strong>I glue together the pattern sheets and get two pieces of our half-bolero: the front and the back.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%205_files/image002.jpg" class="img-responsive center-block"></p>
@@ -386,7 +386,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

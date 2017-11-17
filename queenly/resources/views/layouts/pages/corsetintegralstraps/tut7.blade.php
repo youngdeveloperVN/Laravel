@@ -284,7 +284,7 @@
 <p>I will demonstrate it on a sheet of paper for better clarity. Imagine that instead of paper you are looking at our organza that’s been fused in two layers and folded in half. Now I draw our patterns on this paper as if it were organza. </p>
 <p>Imagine that there is a selvage from one side of the sheet. Since our corset has cuts both in the middle of the front and in the middle of the back, we don’t need to account for any fold lines. </p>
 <p>You should keep the following things before your eyes: your notebook with the calculation table, the pattern pieces and a triangle ruler that is frequently used for marking points of reference. </p>
-<p><strong>I outline the first pattern – the central front piece of the corset. </strong>Making all notches is a must. <strong>The central piece remains unchanged.</strong> </p>
+<p><strong>I outline the first pattern - the central front piece of the corset. </strong>Making all notches is a must. <strong>The central piece remains unchanged.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%207_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>Let’s go on. </strong>It is desirable to make the waistline go along the crosswise grain perpendicular to the selvage or along the lengthwise grain if you’re cutting in the crosswise direction. You can make relevant markings on paper if you wish. </p>
@@ -307,11 +307,11 @@
 <p><strong>If you look at the picture closely, you might notice that there is about 1mm space between the new princess seam and the mark at the waistline level. </strong>I shall leave this up to you. If you want to have a really tight fit (i.e. if you measured the waist circumference with your measuring tape pulled on very tightly), you will probably have to adjust this line. <strong>You will need to draw a new line for the princess seam to account for the full value for tightening the waistline (see the dashed line below).</strong> But if you believe there will be enough tightening without this millimeter, you can just leave the line as is. You should make your own decision depending on the situation.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%207_files/image010.jpg" class="img-responsive center-block"></p>
-<p><strong>Let’s take the next piece – the side front piece. </strong>I outline it. </p>
+<p><strong>Let’s take the next piece - the side front piece. </strong>I outline it. </p>
 <p><strong>First of all we need to apply alterations to the princess seam between this piece and the intermediate front piece. </strong>This is done the same way like before: we remove 0.5cm at the waistline and 0.75cm at the level of the stomach. I mark point B at about the same spot as on the previous pattern (point A). I will rotate the piece about this point. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%207_files/image012.jpg" class="img-responsive center-block"></p>
-<p>I hold the pattern firmly at point B and rotate it so as to reach the mark at the bottom. Then I draw a new princess seam line using the pattern as a stencil. I mark a new waistline notch too. <strong>Please pay special attention to the bottom line – it has changed by literally 1mm. </strong>I re-draw the bottom. </p>
+<p>I hold the pattern firmly at point B and rotate it so as to reach the mark at the bottom. Then I draw a new princess seam line using the pattern as a stencil. I mark a new waistline notch too. <strong>Please pay special attention to the bottom line - it has changed by literally 1mm. </strong>I re-draw the bottom. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%207_files/image014.jpg" class="img-responsive center-block"></p>
 <p><strong>And here we go again: </strong>I have noticed that there is 1mm space between the princess seam and the mark at the waistline level. You can hand-draw a dashed line that will strictly correspond to the alteration if you need a very tight fit at the waist. </p>
@@ -359,7 +359,7 @@
 <p><strong>Then I draw a new princess seam line, make a new waistline notch and check the bottom line. </strong>Please have a look at the picture: the bottom line basically coincides with the original one so we can leave it untouched. <strong>If you want a tighter fit at the waistline, you can hand-draw a smooth rounded line at this section of the princess seam.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%207_files/image037.jpg" class="img-responsive center-block"></p>
-<p><strong>And now I take the last piece – the central back piece. </strong>This piece should be arranged in such a way that the middle of the back is parallel to the selvage, parallel to the fold line or perpendicular to the crosswise grain. </p>
+<p><strong>And now I take the last piece - the central back piece. </strong>This piece should be arranged in such a way that the middle of the back is parallel to the selvage, parallel to the fold line or perpendicular to the crosswise grain. </p>
 <p><strong>I outline the piece and start working on the princess seam. </strong>I mark a point at the under-bust level (point H) and then mark 0.5cm at the waistline level and 0.75cm down the bottom.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%207_files/image039.jpg" class="img-responsive center-block"></p>
@@ -387,7 +387,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

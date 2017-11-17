@@ -255,9 +255,9 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%204_files/image025.jpg" alt=""></p>
 <p><strong>According to the calculations, I need to remove 3.5cm from the width of the back (point A).</strong></p>
 <p><strong>My client's nape to waist measurement coincides with that of the initial pattern.</strong></p>
-<p><strong>My client's shoulder to waist (back) measurement is larger </strong>than on the pattern – 44cm. I add a seam allowance of 1.2cm and draw an arc with a radius of 45.2cm.</p>
+<p><strong>My client's shoulder to waist (back) measurement is larger </strong>than on the pattern - 44cm. I add a seam allowance of 1.2cm and draw an arc with a radius of 45.2cm.</p>
 <p><strong>The back shoulder width measurement stays the same and so does the position of point B. </strong></p>
-<p><strong>My client’s back shoulder slope measurement is larger </strong>than on the pattern – 43cm. I add a seam allowance of 1.2cm and draw an arc with a radius of 44.2cm.</p>
+<p><strong>My client’s back shoulder slope measurement is larger </strong>than on the pattern - 43cm. I add a seam allowance of 1.2cm and draw an arc with a radius of 44.2cm.</p>
 <p><strong>In order to preserve the back shoulder width measurement, I draw a vertical line through point B to the intersection with the arc marked based on the back shoulder slope measurement (point C).</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%204_files/image027.jpg" alt=""></p>
 <p><strong>The actual shoulder measurement is 10cm but I add a 1.2cm seam allowance from either end, which makes a total of 12.5cm. </strong></p>
@@ -269,7 +269,7 @@
 <p><strong>I re-draw the back neck and the armscye.</strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%204_files/image033.jpg" alt=""></strong></p>
-<p><strong>To prolong the armscye line, </strong>I pin back together the adjusted back pieces, lay them over the back piece with a shoulder seam, align their waistlines, and trace the contour. The part of the back below the waistline is not relevant at the moment. Make sure to mark the level of the princess seam – it is an important part of the shaping process.</p>
+<p><strong>To prolong the armscye line, </strong>I pin back together the adjusted back pieces, lay them over the back piece with a shoulder seam, align their waistlines, and trace the contour. The part of the back below the waistline is not relevant at the moment. Make sure to mark the level of the princess seam - it is an important part of the shaping process.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%204_files/image035.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%204_files/image037.jpg" alt=""></p>
 <p><strong>And remember the seam allowance!</strong> Both the top back piece and the bottom back piece have a seam allowance of 1.2cm. I mark a seam allowance of 2.4cm from the traced top edge of the back (line 1) and draw line 2 using the pattern.</p>
@@ -300,7 +300,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

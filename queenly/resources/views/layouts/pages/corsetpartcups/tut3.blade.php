@@ -248,7 +248,7 @@
 <p>First of all, I am going to adjust the pattern slightly because <strong>I have found a minor fault</strong>. You are provided with the version that’s already been fixed. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image004.jpg" class="img-responsive center-block"></p>
-<p><strong>Please do not rush to change the pattern before putting it on the dress-form. </strong>And that is not an easy thing! I confess it took me an hour to put this mock-up on mine. You need to stuff any hollow space with either foam shoulder pads or padding polyester. Then you need to stretch and spread the mock-up properly making sure each seam is in the right place. At first this mock-up looked absolutely wrong to me – it seemed all skewed and distorted although there was no reason for it to be that way! How is it possible? It never takes me long to put a mock-up onto the dress-form! But I have re-modelled the cups. That’s why it was more time-consuming than usual. </p>
+<p><strong>Please do not rush to change the pattern before putting it on the dress-form. </strong>And that is not an easy thing! I confess it took me an hour to put this mock-up on mine. You need to stuff any hollow space with either foam shoulder pads or padding polyester. Then you need to stretch and spread the mock-up properly making sure each seam is in the right place. At first this mock-up looked absolutely wrong to me - it seemed all skewed and distorted although there was no reason for it to be that way! How is it possible? It never takes me long to put a mock-up onto the dress-form! But I have re-modelled the cups. That’s why it was more time-consuming than usual. </p>
 <p>I am sharing it with you because I don’t want you to feel desperate if things don’t go right from the very beginning! Just be patient, take your time and put the mock-up on the dress-form very carefully. </p>
 <p><strong>I have made waistline notches as transferred from the pattern. So the waistline is already marked.</strong>&nbsp; Right now the distance from the waistline to the bottom edge is 14cm. </p>
 <p><strong>After examining my mock-up I’ve realized that I want to re-model its bottom line and make it more graceful. </strong>I want to make it better suited for a young woman. <strong>So I have drawn a new bottom line the way I like it:</strong> it’s semi-round at the front, nearly straight on the sides and then semi-round at the back again. </p>
@@ -259,48 +259,48 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image008.jpg" class="img-responsive center-block"></p>
 <p><strong>Let’s start taking measurements off the mock-up. </strong>I suggest that you should write them down on the corresponding pattern pieces. For example, cup measurements should be marked on relevant cup pieces, etc. </p>
-<p><strong>Bust middle measurement </strong>– 19cm. </p>
+<p><strong>Bust middle measurement </strong>- 19cm. </p>
 <p><strong>Clip measurement: </strong></p>
-<p><strong>- Clip upwards</strong> – 7cm;</p>
+<p><strong>- Clip upwards</strong> - 7cm;</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image009.jpg" class="img-responsive center-block"></p>
-<p><strong>- Clip towards the neckline indent</strong> – 7.5cm;</p>
+<p><strong>- Clip towards the neckline indent</strong> - 7.5cm;</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image010.jpg" class="img-responsive center-block"></p>
-<p><strong>- Clip towards the scye</strong> – 10cm. </p>
+<p><strong>- Clip towards the scye</strong> - 10cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image012.jpg" class="img-responsive center-block"></p>
-<p><strong>Bust front measurement</strong> – 47cm. </p>
+<p><strong>Bust front measurement</strong> - 47cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image014.jpg" class="img-responsive center-block"></p>
-<p><strong>Under-bust front measurement </strong>– 38cm. </p>
+<p><strong>Under-bust front measurement </strong>- 38cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image016.jpg" class="img-responsive center-block"></p>
 <p><strong>Bust circumference. </strong></p>
-<p>I recommend that you do it the following way: measure the distance between the middle of the back and the side seam <strong>at the bust-line level </strong>– 18.5cm. </p>
+<p>I recommend that you do it the following way: measure the distance between the middle of the back and the side seam <strong>at the bust-line level </strong>- 18.5cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image018.jpg" class="img-responsive center-block"></p>
 <p>Then multiply it by two and add the value of the bust front measurement:</p>
 <p>18.5 х 2 + 47 = <strong>84cm</strong></p>
-<p><strong>Under-bust circumference: </strong>measure the distance between the middle of the back and the side seam <strong>at the under-bust level </strong>– 16cm. </p>
+<p><strong>Under-bust circumference: </strong>measure the distance between the middle of the back and the side seam <strong>at the under-bust level </strong>- 16cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image019.jpg" class="img-responsive center-block"></p>
 <p>Multiply it two and add the value of the under-bust front measurement:</p>
 <p>16 х 2 + 38 = <strong>70cm</strong></p>
-<p><strong>Waist circumference:</strong>&nbsp; measure the distance between the middle of the back and the middle of the front <strong>at the waistline level </strong>– 33cm. I multiply the value by two and get <strong>66cm.</strong></p>
+<p><strong>Waist circumference:</strong>&nbsp; measure the distance between the middle of the back and the middle of the front <strong>at the waistline level </strong>- 33cm. I multiply the value by two and get <strong>66cm.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image021.jpg" class="img-responsive center-block"></p>
 <p><strong>Stomach circumference:</strong>&nbsp; </p>
-<p><strong>- 14cm below the waistline (along the bottom edge):</strong> I measure the distance between the middle of the back and the middle of the front <strong>along the bottom edge </strong>– 45cm. I multiply it by two and get <strong>90cm.</strong></p>
+<p><strong>- 14cm below the waistline (along the bottom edge):</strong> I measure the distance between the middle of the back and the middle of the front <strong>along the bottom edge </strong>- 45cm. I multiply it by two and get <strong>90cm.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image023.jpg" class="img-responsive center-block"></p>
-<p><strong>- 9cm below the waistline:</strong> I measure the distance between the middle of the back and the middle of the front <strong>at the level of 9cm below the waistline </strong>– 42cm. I multiply it by two and get <strong>84cm.</strong></p>
+<p><strong>- 9cm below the waistline:</strong> I measure the distance between the middle of the back and the middle of the front <strong>at the level of 9cm below the waistline </strong>- 42cm. I multiply it by two and get <strong>84cm.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image025.jpg" class="img-responsive center-block"></p>
-<p><strong>Back length measurement</strong> – 18cm. </p>
+<p><strong>Back length measurement</strong> - 18cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image027.jpg" class="img-responsive center-block"></p>
-<p><strong>Side length measurement </strong>– 19cm. </p>
+<p><strong>Side length measurement </strong>- 19cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%203_files/image029.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -316,7 +316,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

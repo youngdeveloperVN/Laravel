@@ -376,7 +376,7 @@
 <p><strong>The mesh is pinned down.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2017.files/image022.jpg" class="img-responsive center-block"></p>
-<p><strong>Before removing the pins and cutting the mesh I take my Gutermann glue and start gluing the mesh to the neoprene along its edges.</strong> You can only use this trick if you plan to have dense decorations along the edge of the nude fabric because sadly the glue does tend to leave dark stains. If there are no closely spaced decorations, then you can glue the mesh down together with your lace motifs. Be very careful when working with glue – avoid unwanted drops.</p>
+<p><strong>Before removing the pins and cutting the mesh I take my Gutermann glue and start gluing the mesh to the neoprene along its edges.</strong> You can only use this trick if you plan to have dense decorations along the edge of the nude fabric because sadly the glue does tend to leave dark stains. If there are no closely spaced decorations, then you can glue the mesh down together with your lace motifs. Be very careful when working with glue - avoid unwanted drops.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2017.files/image024.jpg" class="img-responsive center-block"></p>
 <p>

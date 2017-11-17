@@ -216,7 +216,7 @@
 <p><strong>Here’s what I got: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2018_files/image061.jpg" class="img-responsive center-block"></p>
-<p><strong>It’s time for some very scrupulous work – we need to attach the central piece with the cups to the corset body by machine-stitching and cover it with its face. </strong>Make sure not to rush when sewing. Help the machine pass through thicker areas by spinning the flywheel manually. </p>
+<p><strong>It’s time for some very scrupulous work - we need to attach the central piece with the cups to the corset body by machine-stitching and cover it with its face. </strong>Make sure not to rush when sewing. Help the machine pass through thicker areas by spinning the flywheel manually. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2018_files/image063.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -253,7 +253,7 @@
 <p><strong>The bones that pass from the side piece onto the cup should be secured. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2018_files/image089.jpg" class="img-responsive center-block"></p>
-<p><strong>Making another parallel stitch along the inside of the cup is highly recommended. </strong>You don’t need to stitch along the whole piece – the cups will suffice. The important thing is to catch the seam allowances and the bones on vertical princess seams. </p>
+<p><strong>Making another parallel stitch along the inside of the cup is highly recommended. </strong>You don’t need to stitch along the whole piece - the cups will suffice. The important thing is to catch the seam allowances and the bones on vertical princess seams. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2018_files/image091.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -299,7 +299,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

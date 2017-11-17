@@ -379,7 +379,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/open%20back%20eng_files/image056.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/open%20back%20eng_files/image058.jpg" class="img-responsive center-block"></p>
-<p>There is an important peculiarity that concerns modeling the back of such dresses. You have to cut down the top part of the dart in order to make the back neckline lower. If you’ve ever worked with such models, you must have often noticed some gaping at the top edge during fitting tests – and you really wanted to get rid of it.<br>
+<p>There is an important peculiarity that concerns modeling the back of such dresses. You have to cut down the top part of the dart in order to make the back neckline lower. If you’ve ever worked with such models, you must have often noticed some gaping at the top edge during fitting tests - and you really wanted to get rid of it.<br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/open%20back%20eng_files/image060.jpg" class="img-responsive center-block"></p>
 <p>. I wouldn’t recommend touching the side seams or the center of the back to remove those extra centimeters: as strange as it may sound, it would affect the way the garment fits in the chest at the front.<br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/open%20back%20eng_files/image062.jpg" class="img-responsive center-block"></p>
@@ -449,7 +449,7 @@
 <p><strong>Body type 2</strong>. &nbsp;Almost any dress style will look good on this type of a body unless your client has some noticeable skin imperfections on her back. A figure like this is perfect for any kind of a dress at all, especially if there’s a gracious natural curve between the waist and the hips. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/open%20back%20eng_files/image112.jpg" class="img-responsive center-block"></p>
-<p><strong>Body type 3.</strong> It features prominent breasts and prominent buttocks – in other words, it is curvaceous. Women of this body type should choose dresses with back necklines that don’t go below the waistline level. You can use a corset, a bodice or a bodysuit as a base. If the back neckline of the dress does reach below the waistline, it is highly recommended that you use lace or mesh fabric to cover up the curviest area or choose a loose skirt (as shown in the picture). </p>
+<p><strong>Body type 3.</strong> It features prominent breasts and prominent buttocks - in other words, it is curvaceous. Women of this body type should choose dresses with back necklines that don’t go below the waistline level. You can use a corset, a bodice or a bodysuit as a base. If the back neckline of the dress does reach below the waistline, it is highly recommended that you use lace or mesh fabric to cover up the curviest area or choose a loose skirt (as shown in the picture). </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/open%20back%20eng_files/image114.jpg" class="img-responsive center-block"></p>
 <p>
@@ -470,7 +470,7 @@
 <p><strong>Body type 7.</strong> What we have are prominent shoulder blades and a prominent belly. In this case I would recommend a corset-based dress with a back neckline that ends at least 7cm above the waistline in order to flatten the belly and re-shape the figure. Bodice-reinforced or bodysuit-based dresses are not advisable. Avoid emphasizing prominent shoulder blades by using decorative elements. It’s best to make a one-shoulder strap. It is also a good idea to use halter-neck straps and add decorative elements in the upper part of the back, near the neck and shoulders. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/open%20back%20eng_files/image128.jpg" class="img-responsive center-block"></p>
-<p><strong>Body type 8.</strong> Shoulder blades and buttocks stand out to about the same degree and the belly is somewhat increased. A smart choice is a corset-based dress with a moderately open back. There are no limitations concerning the style of straps or usage of mesh fabric – it depends solely on the design you choose. Lace or mesh fabric do not perform any technical functions in this case. </p>
+<p><strong>Body type 8.</strong> Shoulder blades and buttocks stand out to about the same degree and the belly is somewhat increased. A smart choice is a corset-based dress with a moderately open back. There are no limitations concerning the style of straps or usage of mesh fabric - it depends solely on the design you choose. Lace or mesh fabric do not perform any technical functions in this case. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/open%20back%20eng_files/image130.jpg" class="img-responsive center-block"></p>
 <p><strong>And finally, body type 9. </strong>It features prominent buttocks and a prominent belly, i.e. it is rather curvy. This body type is best complemented by a corset-based dress with a back neckline that ends at least 7cm above the waistline. Feel free to cover the back with lace or mesh fabric fully or partially. The shape of the straps can also vary: halter-neck, crossed straps, multiple slim straps, decorative string beads, etc. </p>
@@ -513,7 +513,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

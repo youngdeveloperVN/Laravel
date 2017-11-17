@@ -300,7 +300,7 @@
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2013_files/image024.jpg" alt=""></strong></p>
 <p><strong>And now I start cutting the beautiful embroidered fabric.</strong></p>
 <p>My piece is 1.5m long and the width of the embroidered part is about 90cm.</p>
-<p>I fold the piece in half lengthwise, even it out to make sure the embroidery is folded in half too, and cut the fold line open. Now I got two 1.5m long straps – one for the back and one for the front – and the width of their embroidered parts is 45cm.</p>
+<p>I fold the piece in half lengthwise, even it out to make sure the embroidery is folded in half too, and cut the fold line open. Now I got two 1.5m long straps - one for the back and one for the front - and the width of their embroidered parts is 45cm.</p>
 <p>There is also some black chiffon for the hem and I even it out across the width as well.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2013_files/image026.jpg" alt=""></p>
 <p>I want to put a layer of chiffon over the embroidered fabric to prevent the skirt from being too see-through. For this purpose I have prepared two straps of chiffon (45cm wide and 1.5m long) that will be used for the front and the back correspondingly.</p>
@@ -326,7 +326,7 @@
 <p><strong>And I join together the side seams of the chiffon:</strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2013_files/image042.jpg" alt=""></strong></p>
-<p>In other words I join 2 chiffon straps – each 45cm wide and 150cm long – into one whole circle.</p>
+<p>In other words I join 2 chiffon straps - each 45cm wide and 150cm long - into one whole circle.</p>
 <p><strong>Then I do basically the same thing with the embroidered chiffon:</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2013_files/image044.jpg" alt=""></p>
 <p>I join two 150cm long straps into one whole circular piece, i.e. make two side seams.</p>
@@ -349,7 +349,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

@@ -335,7 +335,7 @@
 <p><strong>I trim the end of the bias tape down to about 1cm.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2016_files/image006.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2016_files/image008.jpg" alt=""></p>
-<p><strong>And now I will do the familiar trick – glue the bias tape in place.</strong></p>
+<p><strong>And now I will do the familiar trick - glue the bias tape in place.</strong></p>
 <p><strong>First I smear the bias tapes on the central panel and the first half of the corset with rubber-based adhesive in the seam allowance area and below it.</strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2016_files/image010.jpg" alt=""></strong></p>
@@ -384,7 +384,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/pattern-black%20leather%20corset%20%2B%20belt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the black leather corset + elastic belt</a><br>						

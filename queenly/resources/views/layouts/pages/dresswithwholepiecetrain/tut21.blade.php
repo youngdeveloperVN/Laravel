@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -366,13 +366,13 @@
 <p><strong>I secure the corner of the neckline with pins.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2021_files/image010.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>Then I secure the top corner of the other cup. </strong>Princess seams in the bust area of the face and the lining don’t have to coincide perfectly. Moreover, I would recommend shifting them against one another – in this case their seam allowances will spread out and you’ll avoid excessive thickening that would otherwise form bumps when the garment is turned out. It’s best to shift the princess seam of the face a couple millimeters towards the open edge. </p>
+<p><strong>Then I secure the top corner of the other cup. </strong>Princess seams in the bust area of the face and the lining don’t have to coincide perfectly. Moreover, I would recommend shifting them against one another - in this case their seam allowances will spread out and you’ll avoid excessive thickening that would otherwise form bumps when the garment is turned out. It’s best to shift the princess seam of the face a couple millimeters towards the open edge. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2021_files/image012.jpg" class="img-responsive center-block"></p>
 <p><strong>I secure it with pins at the princess seams. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2021_files/image014.jpg" class="img-responsive center-block"></p>
-<p><strong>Now it’s time to distribute the fullness on the cups. </strong>You can turn out the lining for your convenience and distribute the face fabric on inverted cups. I pin the face to the lining in small sections along the top of each cup – first I pin at the reference points and then divide each section in half. I recommend using a generous amount of pins here. </p>
+<p><strong>Now it’s time to distribute the fullness on the cups. </strong>You can turn out the lining for your convenience and distribute the face fabric on inverted cups. I pin the face to the lining in small sections along the top of each cup - first I pin at the reference points and then divide each section in half. I recommend using a generous amount of pins here. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2021_files/image016.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -463,7 +463,7 @@
 <p><strong>Then I remove the pins and thoroughly check the seam quality. </strong>The feed dogs of the sewing machine often tend to ‘rub down’ the thread as the presser-foot passes over a pin. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2021_files/image074.jpg" class="img-responsive center-block"></p>
-<p><strong>If this has happened to you, i.e. the thread got rubbed down and is about to tear, you must restore the stitch! </strong>Simply remove all pins and make another joining stitch right over the first one – you can do that for additional safety even if the first stitch was fine! </p>
+<p><strong>If this has happened to you, i.e. the thread got rubbed down and is about to tear, you must restore the stitch! </strong>Simply remove all pins and make another joining stitch right over the first one - you can do that for additional safety even if the first stitch was fine! </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2021_files/image076.jpg" class="img-responsive center-block"></p>
 <p><strong>I pin the face to the lining in the armscye area. </strong>Make sure to spread the fabric carefully. </p>
@@ -554,7 +554,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

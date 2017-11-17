@@ -318,7 +318,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%2010_files/image022.jpg" class="img-responsive center-block"></p>
 <p><strong>I tape the end of the bone with some masking tape. </strong>I usually prepare a couple pieces of masking tape in advance, stick them to the sewing machine table and use them whenever needed. </p>
-<p><strong>I place the bone at the upper edge – not at the very corner but stepping 2-3mm from the perpendicular stay-stitch and 1mm from the stay-stitch that will guide our bone. </strong>I ease in underneath the bone at the décolleté area. This is done by pulling the bone to yourself while slightly pushing the fabric underneath it away from you. I trim the bone at a 2-3mm distance from the intersection of stay-stitches and make a bar-tack. </p>
+<p><strong>I place the bone at the upper edge - not at the very corner but stepping 2-3mm from the perpendicular stay-stitch and 1mm from the stay-stitch that will guide our bone. </strong>I ease in underneath the bone at the décolleté area. This is done by pulling the bone to yourself while slightly pushing the fabric underneath it away from you. I trim the bone at a 2-3mm distance from the intersection of stay-stitches and make a bar-tack. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%2010_files/image024.jpg" class="img-responsive center-block"></p>
 <p><strong>I gather another Rigilene bone for the underarm area. </strong>I give it a rounded shape following the above described method and trim the fishing lines. </p>
@@ -353,7 +353,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

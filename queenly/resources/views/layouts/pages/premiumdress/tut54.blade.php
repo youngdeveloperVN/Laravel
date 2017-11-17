@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -319,7 +319,7 @@
 <p><strong>The dress is now fully finished on the inside. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2053_files/image008.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>In conclusion, I would like to add a few words on the decor of the dress.</strong> The front of the original dress is additionally decorated with lace appliqué. I believe there is no need in doing the same with our dress: it looks fabulous the way it is. Besides, it is complemented with a metallic golden belt with a large flower buckle – a true eye-catcher. And don't forget about the two large matching hair clips! This decor is more than enough to know that you are looking at a luxurious and very expensive dress!</p>
+<p><strong>In conclusion, I would like to add a few words on the decor of the dress.</strong> The front of the original dress is additionally decorated with lace appliqué. I believe there is no need in doing the same with our dress: it looks fabulous the way it is. Besides, it is complemented with a metallic golden belt with a large flower buckle - a true eye-catcher. And don't forget about the two large matching hair clips! This decor is more than enough to know that you are looking at a luxurious and very expensive dress!</p>
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2053_files/image010.jpg" class="img-responsive center-block"></p>
@@ -336,7 +336,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

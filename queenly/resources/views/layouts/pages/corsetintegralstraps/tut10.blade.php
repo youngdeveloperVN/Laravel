@@ -295,7 +295,7 @@
 <p>The bust middle measurement of 19cm was marked approximately. You could look at the mock-up now and check the distance between the princess seam and the point that we chose for the bust middle measurement. In my case this distance is 2.5-3cm. I mark seam allowances from both sides of the bust-line (line 1) and then mark 2.5cm on the bust-line from the seam allowance of the princess seam (point A). <strong>Point A is the middle of the bust, i.e. a vertical curve should pass through it. </strong>There will be a bone going along this vertical curve. I draw this line arbitrarily (line 2). </p>
 <p><strong>Perimeter bones will be located at the bottom and along the edge of the fusible material. They will frame our round cup. </strong></p>
 <p><strong>Now I mark 2cm inwards from the vertical curve and draw a line going upwards diagonally (line 3). </strong>This is the location of a bone that will strengthen the central cup piece. </p>
-<p><strong>Now let me mark two horizontal bones – the upper and the lower.</strong> I draw a line 3.5cm below the bust-line (line 4) and another line 4.5cm above it (line 5). </p>
+<p><strong>Now let me mark two horizontal bones - the upper and the lower.</strong> I draw a line 3.5cm below the bust-line (line 4) and another line 4.5cm above it (line 5). </p>
 <p><strong>These lines normally serve solely as guidelines when marked on cups with integral straps. </strong>We might make some alterations during the sewing process. </p>
 <p><strong>And then I mark the location of bones on the second central cup piece in the same manner. </strong></p>
 <p>
@@ -326,7 +326,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

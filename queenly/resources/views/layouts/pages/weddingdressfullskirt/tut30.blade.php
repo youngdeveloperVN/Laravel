@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -247,7 +247,7 @@
 <p><strong>The preliminary pressing is over. </strong>It is best not to touch the dress for a couple of hours. Let it dry properly.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2029_files/image016.jpg" alt=""></p>
 <p><strong>And now it is time to work on the mesh top (overlay for the bodice). </strong></p>
-<p><strong>There is a very important thing you must take into account before we start. </strong>The mesh top is supposed to be put over the dress. And this means I need to cut it based on the measurements of the sewn dress and not my client's measurements. Dome-shaped cups, bones, eased-in areas – all this has affected the initial measurements taken off my client and made the dimensions of the dress a little different.</p>
+<p><strong>There is a very important thing you must take into account before we start. </strong>The mesh top is supposed to be put over the dress. And this means I need to cut it based on the measurements of the sewn dress and not my client's measurements. Dome-shaped cups, bones, eased-in areas - all this has affected the initial measurements taken off my client and made the dimensions of the dress a little different.</p>
 <p><strong>This is why I need to take certain measurements off the garment before cutting the mesh top.&nbsp; </strong></p>
 <p><strong>I will take half measurements to make it easier. </strong></p>
 <p><strong>Here is what I need to know: </strong></p>
@@ -290,7 +290,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

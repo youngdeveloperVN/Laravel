@@ -2,8 +2,8 @@
         <header class="">
             <div class="container">
                 <!-- Site Logo -->
-                <a href="https://localhost/" class="site-logo">
-				<img src="./How to sew wedding dresses, corset, evening gowns. Sewing patterns Corset Academy_files/logo.png" alt="Corset Academy">
+                <a href="/" class="site-logo">
+				<img src="{{ asset('images/logo.png') }}" alt="Corset Academy">
 			</a>
                 <!-- Site Logo -->
 

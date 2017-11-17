@@ -362,7 +362,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>In each file the pattern is divided to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%201.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Skirt Pattern 1</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern 2</a><br>						

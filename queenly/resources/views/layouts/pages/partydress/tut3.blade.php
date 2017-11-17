@@ -273,12 +273,12 @@
 <p>I lay all pattern pieces in a row on the table and then measure the total length and width of the surface they occupy. It is necessary to account for any further pattern alterations. </p>
 <p></p>
 <p><strong>All necessary materials and their quantity required for our sewing process: </strong></p>
-<p>Red stretch satin – 1m; </p>
-<p>Black satin – 70 cm; </p>
-<p>Embroidered chiffon – 1.5m; </p>
-<p>Black chiffon – 1.5m; </p>
-<p>Tulle – 6m; </p>
-<p>Satin elastic ribbon – 3m.</p>
+<p>Red stretch satin - 1m; </p>
+<p>Black satin - 70 cm; </p>
+<p>Embroidered chiffon - 1.5m; </p>
+<p>Black chiffon - 1.5m; </p>
+<p>Tulle - 6m; </p>
+<p>Satin elastic ribbon - 3m.</p>
 <p></p>
 <p>Red stretch satin (1m long and 70cm wide) will be used both for the facing and the lining.</p>
 <p>Black satin (70 cm) will be used for the lining of the main skirt piece. </p>
@@ -298,17 +298,17 @@
 <p><strong>I fold this fused lining piece in half and outline the standard pattern as is: </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%203_files/image008.jpg" class="img-responsive center-block"></p>
-<p>Black marks the initial lines and blue – those that are adjusted. </p>
+<p>Black marks the initial lines and blue - those that are adjusted. </p>
 <p>I need to lower the curve line of piece 1 by 3cm so I mark it down and draw a new line repeating the shape of the corresponding curve of the standard pattern. </p>
 <p>And then I go on to piece 2. I trace its full outline first. I mark 3cm down along the curve line, too. Then I mark 1cm down along the right side line and draw a new top line trying to preserve the configuration of the standard pattern. </p>
 <p>And now let’s proceed to piece 3. First I trace all of it, along the contour. Then I mark 1cm inwards from the right side. I match the waistline notch and mark its new location. Then I adjust the bottom line referring to the standard pattern. Next I draw a new side seam line (its length equals the initial length) using the standard pattern as a stencil. And finally, I mark 1cm down along the new side seam line and 1cm along the opposite side line. I join these marks and get a new top line. </p>
 <p>Now I trace piece 4. According to my calculations I need to add 0.5cm at the bust level and another 0.5cm at the under-bust level. I use the pattern as a stencil when drawing all new lines. So I match the waistline notch, mark its location and draw a new line going up to the point of widening.&nbsp; And again, I draw an absolutely new top line that corresponds to my pattern alterations, just like I did for piece 3. This way I’ve achieved a 0.5cm widening along the side seam and made a new top line. Only after doing this I can lower the side seam and therewith the whole back piece by 1cm and adjust the top line. I add 0.75cm to the right curve line at the under-bust level. </p>
-<p>Now I draw the initial configuration of the central back piece – piece 5. I shift the top line down by 1cm.&nbsp; Then I add 0.75cm to the curve line at the under-bust level. I draw a straight line going from the top to the point of widening. After matching the waistline notches of the stencil and the drafted pattern I connect the notch mark of the stencil with the widening point on the curve line. </p>
+<p>Now I draw the initial configuration of the central back piece - piece 5. I shift the top line down by 1cm.&nbsp; Then I add 0.75cm to the curve line at the under-bust level. I draw a straight line going from the top to the point of widening. After matching the waistline notches of the stencil and the drafted pattern I connect the notch mark of the stencil with the widening point on the curve line. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%203_files/image010.jpg" class="img-responsive center-block"></p>
 <p><strong>These are all necessary alterations of the standard pattern. </strong></p>
 <p>I usually cross out all superfluous lines to avoid confusion. </p>
-<p>Then I pin the pieces together – with just a couple of pins – to prevent them from getting shifted and secure the fold line. </p>
+<p>Then I pin the pieces together - with just a couple of pins - to prevent them from getting shifted and secure the fold line. </p>
 <p><strong>Why do I do it this way instead of pinning them together thoroughly and cutting them out? </strong></p>
 <p>The thing is that we are using two kinds of fusible materials that have different widths, which means the layout of pieces on the hard iron-on fabric is not going to be the same as on the thin batiste. However I want to be able to cut the facing and lining pieces simultaneously. </p>
 <p>And that’s why I just cut off lining pieces 4 and 5 now. </p>
@@ -355,7 +355,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

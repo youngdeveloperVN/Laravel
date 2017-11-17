@@ -346,7 +346,7 @@
 <p><strong>Now we should sew a bone onto the inner seam allowance the way we usually do it. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2012_files/image034.jpg" class="img-responsive center-block"></strong></p>
-<p>Try not to let the bone go beyond the joining seam – you should be able to turn the lace piece over it later. You should also watch where you’re sewing the bone and make it go right along the seam so that its edge is aligned with it. Trim the bone at the end. </p>
+<p>Try not to let the bone go beyond the joining seam - you should be able to turn the lace piece over it later. You should also watch where you’re sewing the bone and make it go right along the seam so that its edge is aligned with it. Trim the bone at the end. </p>
 <p><strong>And then you should secure the bone with a parallel stitch along its other side </strong>pulling the pieces so as to smooth out any wrinkles underneath the bone. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2012_files/image036.jpg" class="img-responsive center-block"></p>
@@ -376,7 +376,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2012_files/image050.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2012_files/image052.jpg" class="img-responsive center-block"></p>
-<p>I believe the remark on choosing a starting point that I made before we began sewing is now fully clear to you. Now you can see that any seam allowances – whether you like it or not – are directed towards the back if you start sewing from the central front piece. </p>
+<p>I believe the remark on choosing a starting point that I made before we began sewing is now fully clear to you. Now you can see that any seam allowances - whether you like it or not - are directed towards the back if you start sewing from the central front piece. </p>
 <p><strong>That’s exactly what you should keep in mind to make the right decision about the sewing sequence. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2012_files/image054.jpg" class="img-responsive center-block"></p>
@@ -413,7 +413,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

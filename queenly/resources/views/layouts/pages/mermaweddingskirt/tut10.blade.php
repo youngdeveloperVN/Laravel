@@ -225,12 +225,12 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Tutorial%209.files/image004.jpg" alt=""></p>
 <p>They are 104cm along the front princess seam, 112cm long along the centre, and 110cm long along the side seam. I will use the shortest side in the calculations (104cm).</p>
 <p><strong>The difference from the central length is 8cm: </strong></p>
-<p><strong>112cm – 104cm = 8cm</strong></p>
+<p><strong>112cm - 104cm = 8cm</strong></p>
 <p><strong>This central length, however, includes the depth of the arc </strong>which was determined based on the central front gore. It was 5cm and it must stay so on all other gores of the skirt.</p>
 <p><strong>Therefore, the side front gore is 3cm too deep in the middle. </strong></p>
-<p><strong>8cm – 5cm = 3cm</strong></p>
+<p><strong>8cm - 5cm = 3cm</strong></p>
 <p><strong>I find the excess along the side seam the same way: </strong></p>
-<p><strong>110cm – 104cm = 6cm</strong></p>
+<p><strong>110cm - 104cm = 6cm</strong></p>
 <p>The row stops at the side seam so I don’t need to account for the depth of the arc here.</p>
 <p><strong>Thus, the layout must be designed in such a way that</strong>, after you form a couple of bottom rows, the subsequent rows of scales get aligned with the rows on the central gore at the front of the skirt.</p>
 <p>At the same time, I need to account for the fact that the front and the back will be joined by the side seams, which means I cannot change the chosen intervals between the scales positioned next to the side seams!</p>
@@ -252,12 +252,12 @@
 <p><strong>Let me calculate all excess lengths which need to be compensated for. </strong></p>
 <p>The shorter side is the side seam: I will make no changes to it. Scales going along it will be positioned at 2cm intervals just like on the side front gore.</p>
 <p><strong>There is an excess of 11cm along the centre vertical line of the gore: </strong></p>
-<p><strong>121cm – 110cm = 11cm</strong></p>
+<p><strong>121cm - 110cm = 11cm</strong></p>
 <p>This length, however, includes the depth of the arc which was determined based on the central gore. It was 5cm and it should stay so on all other gores of the skirt.</p>
 <p><strong>Therefore, the excess along the centre of the side back gore is only 6cm. </strong></p>
-<p><strong>11cm – 5cm = 6cm</strong></p>
+<p><strong>11cm - 5cm = 6cm</strong></p>
 <p><strong>Now I need to even out the back princess seam with regard to the side seam:</strong></p>
-<p><strong>115cm – 110cm = 5cm</strong></p>
+<p><strong>115cm - 110cm = 5cm</strong></p>
 <p>The first row of 8cm scales goes parallel to the hem, 2cm above it.</p>
 <p>I mark 2cm up the princess seam line and up the central line and draw the second half-row.</p>
 <p>By doing so, I have compensated for an excess of 2cm in the length of the princess seam line as compared to the side seam line. There is an excess of three more centimeters left now. I have also compensated for an excess of 2cm in the length of the central line, and now there is only four more left.</p>
@@ -277,10 +277,10 @@
 <p><strong>The central back gore has two absolutely identical princess seam sides, each with a length of 115cm, and is 135cm long along the centre. </strong></p>
 <p>There is, therefore, no need in evening out the princess seam lines. I only need to adjust the depth of the bottom arc and bring it to 5cm.</p>
 <p><strong>There is an excess of 20cm along the centre back line: </strong></p>
-<p><strong>135cm – 115cm = 20cm</strong></p>
+<p><strong>135cm - 115cm = 20cm</strong></p>
 <p>This additional length, however, includes the depth of the arc-shaped sewing line. It is 5cm and it must be the same on all gores of the skirt.</p>
 <p><strong>This means the actual excess in the length of the centre back line makes only 15cm. </strong></p>
-<p><strong>20cm – 5cm = 15cm</strong></p>
+<p><strong>20cm - 5cm = 15cm</strong></p>
 <p><strong>Just like before, I draw the first full row 2cm from the bottom edge of the gore.</strong></p>
 <p>I move 2cm up the centre back line and draw the second half-row shaped like a half-arc.</p>
 <p>By doing so, I have compensated for 2cm along the centre line of the train. There is still an excess of 13cm left.</p>
@@ -304,7 +304,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>In each file the pattern is divided to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%201.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Skirt Pattern 1</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/petite%20wedding%20skirt/Skirt%20pattern%202.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern 2</a><br>						

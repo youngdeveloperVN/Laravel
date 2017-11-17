@@ -125,7 +125,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 13. Finishing the Slit at the Back.">
 <meta itemprop="headline" content="Tutorial 13. Finishing the Slit at the Back.">
-<meta itemprop="description" content="Tutorial 13. Finishing the Slit at the Back.&nbsp; Working on the Front of the Dress. We need to finish the slit – that open area in the central seam at the back. What does it mean? It means, we need to neatly frame it with the lining.">
+<meta itemprop="description" content="Tutorial 13. Finishing the Slit at the Back.&nbsp; Working on the Front of the Dress. We need to finish the slit - that open area in the central seam at the back. What does it mean? It means, we need to neatly frame it with the lining.">
 <meta itemprop="articleSection" content="Plus-Size Dress with Hidden Lacing">
 <meta itemprop="keywords" content="plus-size dress with hidden lacing, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -140,7 +140,7 @@
 <h2>Tutorial 13. Finishing the Slit at the Back.&nbsp; </h2>
 <h2>Working on the Front of the Dress. </h2>
 <p></p>
-<p><strong>We need to finish the slit – that open area in the central seam at the back.</strong> What does it mean? It means, we need to neatly frame it with the lining. </p>
+<p><strong>We need to finish the slit - that open area in the central seam at the back.</strong> What does it mean? It means, we need to neatly frame it with the lining. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2013_files/image002.jpg" class="img-responsive center-block"></p>
 <p>Keep it in mind that it will be quite difficult to sew down the side seams if we finish the slit now because there is too little space between it and the side seam. On the other side if we first sew down the side seams, it will be hard to finish the slit because the dress will be fully assembled, heavy and awkward to work with. It's a lot easier now when you can still carefully align the edges of the slit, etc. Always weight such things up. In this particular case I prefer finishing the slit before sewing down the side seams. </p>
@@ -244,7 +244,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

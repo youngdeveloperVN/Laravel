@@ -312,7 +312,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%202_files/image001.png" class="img-responsive center-block" alt="Description: E:\Corset Academy\FINISHED\English\AK 1\mp4\Corset 1\Transcript\tut (book)_files\image748.png"></p>
 <p>So, the sum of unknown variables <strong>X + Y</strong> that I need to find should equal the difference between client’s measurement <strong>(c)</strong> and pattern measurement <strong>(d) </strong>divided in half. If there are any alterations along the bust middle <strong>(e)</strong> then this value should also be accounted for: <strong>d + 2e.</strong></p>
 <p></p>
-<p>The difference between the unknown variables <strong>X - Y</strong> should equal the difference between the gain at the front <strong>(a)</strong> and the back <strong>(b)</strong> taken from the previous table line, i.e. the value <strong>a – b.</strong></p>
+<p>The difference between the unknown variables <strong>X - Y</strong> should equal the difference between the gain at the front <strong>(a)</strong> and the back <strong>(b)</strong> taken from the previous table line, i.e. the value <strong>a - b.</strong></p>
 <p>It is much easier when applied than when explained in word.</p>
 <p><strong>So, here is my particular case.</strong></p>
 <p><strong>The final table of re-calculation for the standard pattern (Table 1):</strong></p>
@@ -412,8 +412,8 @@
 <p>I have removed 0.2 inches <strong>along the bust-line</strong> at the front and 1 inch <strong>along the bust-line</strong> at the back.</p>
 <p><strong>Now I need to even out the side seam for the under-bust line. </strong>There is quite a significant dispersion of values here. I need to remove 0.2 inches at the front and 1.4 inches at the back.</p>
 <p>Therefore the difference between the values along the bust-line and the under-bust line is as follows:</p>
-<p> - at the front: 0.2" – 0.2" = 0";</p>
-<p> - at the back: 1"– 1.4" = -0.4".</p>
+<p> - at the front: 0.2" - 0.2" = 0";</p>
+<p> - at the back: 1"- 1.4" = -0.4".</p>
 <p>This means that side seams of the front and back at the area between the bust-line and the under-bust line are going to have unlike inclinations, i.e. diverse configurations. It will then be very hard to match these pieces and join them together. Inclinations of these side seams need to be evened out.</p>
 <p>In other words, I need to calculate suitable values of “x" and “y" instead of the values of -0.4" and -1.4" along the under-bust line (line 5) to make the side seams of the front and back have the same inclination or an identical configuration.</p>
 <p><strong>I even out side seams using my formula:</strong></p>
@@ -479,13 +479,13 @@
 </tbody></table>
 </div>
 <p><strong>Along bust-line:</strong></p>
-<p> - front – minus 0.2" <strong>(a);</strong></p>
-<p> - back – minus 1" <strong>(b);</strong></p>
-<p> - bust middle – minus 0.4" <strong>(e).</strong></p>
+<p> - front - minus 0.2" <strong>(a);</strong></p>
+<p> - back - minus 1" <strong>(b);</strong></p>
+<p> - bust middle - minus 0.4" <strong>(e).</strong></p>
 <p>All these values have been calculated previously.</p>
 <p><strong>Along under-bust line:</strong></p>
 <p> - variables <strong>X</strong> and <strong>Y</strong> are gain values along the side seams of the front and back;</p>
-<p>- bust middle – minus 0.5" <strong>(e);</strong></p>
+<p>- bust middle - minus 0.5" <strong>(e);</strong></p>
 <p> - under-bust circumference after Kate’s measurements and after the pattern correspondingly: 29.1" <strong>(c)</strong> and 33.1" <strong>(d).</strong></p>
 <p><strong>As a next step I substitute existing values from Table 2 into the formula:</strong></p>
 <p>
@@ -905,11 +905,11 @@
 <p><strong>It is necessary to check everything! Do not start cutting without checking first!</strong></p>
 <p>I check every line of the table containing new values.</p>
 <p><strong>The point of such checking is the following: the value of a standard pattern measurement + all calculated gains (their values are multiplied by 2) = client’s measurements.</strong></p>
-<p><strong>Along bust-line: 36.6 – 0.8 – 0.4 - 2 = 33.4.</strong></p>
-<p><strong>Along under-bust line: 33.1 – 0.8 – 0.8 - 2.4 = 29.1.</strong></p>
-<p><strong>Along waistline: 30.3 – 0.8 – 0 - 1.6 = 27.9.</strong></p>
-<p><strong>Along stomach: 37.4 – 0.8 + 0.4 – 1.2 = 35.8.</strong></p>
-<p><strong>Along hips: 39.4 – 0.8 + 0.4 – 1.2 = 37.8.</strong></p>
+<p><strong>Along bust-line: 36.6 - 0.8 - 0.4 - 2 = 33.4.</strong></p>
+<p><strong>Along under-bust line: 33.1 - 0.8 - 0.8 - 2.4 = 29.1.</strong></p>
+<p><strong>Along waistline: 30.3 - 0.8 - 0 - 1.6 = 27.9.</strong></p>
+<p><strong>Along stomach: 37.4 - 0.8 + 0.4 - 1.2 = 35.8.</strong></p>
+<p><strong>Along hips: 39.4 - 0.8 + 0.4 - 1.2 = 37.8.</strong></p>
 <p>I am used to working with full circumferences. If you find it more comfortable working with semi-circumferences, then you should just write down semi-circumference values into the table and then you don’t need to multiply by 2 when checking gain values. It doesn’t affect the point of this method.</p>
 <p>Having checked everything I am now confident that all calculations are made correctly!</p>
 <p>Now I am going to schematically draw the location of the new side seam on the front and back.</p>
@@ -933,8 +933,8 @@
 <p>You can notice even from this schematic drawing that the side seams are symmetrical and have the same configuration.</p>
 <p>Let me take the area of the side seam between the under-bust line and the waistline as an example.</p>
 <p>The difference of gain values between these lines is:</p>
-<p> - at the front: 0.4" – 0" = 0.4";</p>
-<p> - at the back: 1.2" – 0.8" = 0.4".</p>
+<p> - at the front: 0.4" - 0" = 0.4";</p>
+<p> - at the back: 1.2" - 0.8" = 0.4".</p>
 <p>Therefore the side seams of the front and back in the area between the under-bust line and waistline are going to have the same inclination, i.e. configuration. It is going to be very easy to match and join these pieces together. <strong>I have evened out inclinations of the side seams.</strong></p>
 <p>There is the same result after checking other areas of the pattern: the side seams of the front and back have the same inclination.</p>
 <p>Looking ahead, I would like to demonstrate you how correct my calculations and my formula really are.</p>
@@ -961,7 +961,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

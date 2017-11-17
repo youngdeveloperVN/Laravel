@@ -136,7 +136,7 @@
 <h2>Tutorial 11. Finishing the Top Edge of the Corset. </h2>
 <p></p>
 <p><strong>The top edge of the corset should be finished with a narrow Rigilene bone. </strong>I’m going to gather it in advance because the edge has an arched shape. The radius is rather large so you shouldn’t gather too tightly. It’s enough to make it slightly arched. </p>
-<p><strong>I start stitching the bone on. </strong>I leave a small tip covered in masking tape – it’ll pass onto the inside of the cup. </p>
+<p><strong>I start stitching the bone on. </strong>I leave a small tip covered in masking tape - it’ll pass onto the inside of the cup. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2011_files/image002.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -192,7 +192,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

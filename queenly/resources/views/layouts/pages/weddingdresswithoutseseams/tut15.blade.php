@@ -288,7 +288,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2014_files/image026.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2014_files/image028.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2014_files/image030.jpg" alt=""></p>
-<p><strong>I lay vertical bones in correspondence with the markings. </strong>The two central bones which are supposed to protect the dress from wrinkles in the waistline will be wide, and the bones placed along the princess seams (responsible for holding the shape of the dress) – narrow.</p>
+<p><strong>I lay vertical bones in correspondence with the markings. </strong>The two central bones which are supposed to protect the dress from wrinkles in the waistline will be wide, and the bones placed along the princess seams (responsible for holding the shape of the dress) - narrow.</p>
 <p><strong>I sew a wide Rigilene bone along the side seam line. </strong>Remember to cover its ends with pieces of masking tape. The previously marked line runs along the middle of the bone. I trim the vertical bone at an angle as I reach the bone sewn on at the top and push its end underneath it. When I trim the vertical bone, I make sure its end does not push into the row of stitches in the upper bone to avoid deformation.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2014_files/image032.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2014_files/image034.jpg" alt=""></p>
@@ -368,7 +368,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Bell Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/model.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The Model</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/patterns-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

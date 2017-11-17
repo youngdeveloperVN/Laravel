@@ -327,7 +327,7 @@
 <p><strong>The back of the dress would look gorgeous with a kind of an egg-shaped neckline and corners for attaching the straps at the top.</strong> Oh, how pretty such dresses are! I usually try my best to talk the client into choosing this design. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%208_files/image012.jpg" class="img-responsive center-block"></p>
-<p>But this time – for the sake of speeding up the process and making things a little simpler –<strong> I won't add those corners at the top</strong> even though I'm not too happy about it. I believe you will be able to cope with any kind of a neckline and any corners on your own after you see how I finish the back of this dress.</p>
+<p>But this time - for the sake of speeding up the process and making things a little simpler -<strong> I won't add those corners at the top</strong> even though I'm not too happy about it. I believe you will be able to cope with any kind of a neckline and any corners on your own after you see how I finish the back of this dress.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%208_files/image014.jpg" class="img-responsive center-block"></p>
 <p><strong>I pin the cup in its actual place. Remember to account for the seam allowance of the cradle.</strong> The cup will be sewn in with the same incline that you can see in the picture below. </p>
@@ -353,13 +353,13 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%208_files/image028.jpg" class="img-responsive center-block"></p>
 <p><strong>Let’s adjust the backs of the dress and the bodysuit after the mock-up.</strong> </p>
-<p><strong>I lay one over the other</strong> carefully matching their edges and notches and pin them together. Please keep in mind that the back of the bodysuit is about 1cm narrower than the back of the dress. <strong>Do not pull the bodysuit tight</strong> – let it lie naturally or else its top edge will start curling outwards.</p>
+<p><strong>I lay one over the other</strong> carefully matching their edges and notches and pin them together. Please keep in mind that the back of the bodysuit is about 1cm narrower than the back of the dress. <strong>Do not pull the bodysuit tight</strong> - let it lie naturally or else its top edge will start curling outwards.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%208_files/image030.jpg" class="img-responsive center-block"></p>
 <p><strong>I put the back of the mock-up on top of it.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%208_files/image032.jpg" class="img-responsive center-block"></p>
-<p><strong>And I cut the back neckline.</strong> I make notches in the area of the dart. Of course we won't actually make a dart there – we will simply ease in the fabric when finishing the top edge. </p>
+<p><strong>And I cut the back neckline.</strong> I make notches in the area of the dart. Of course we won't actually make a dart there - we will simply ease in the fabric when finishing the top edge. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%208_files/image034.jpg" class="img-responsive center-block"></p>
 <p><strong>Take a look at the shape of the back!</strong> If we had shaped the neckline on paper and not on a mock-up, we would have never thought of making it convex. We would have definitely made that area straight. That would reveal too much and the dress wouldn't fit tight enough at the back. That's why it's always best to use the mock-up method for shaping necklines! </p>
@@ -375,7 +375,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

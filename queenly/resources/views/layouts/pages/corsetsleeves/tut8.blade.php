@@ -297,7 +297,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%208_files/image002.jpg" class="img-responsive center-block"></strong></p>
 <p>I connect the bust notches <strong>(line 1). </strong>&nbsp;</p>
 <p>And I draw a vertical line in the middle <strong>(line 2). </strong></p>
-<p><strong>Now I need to decide how far below the waistline the bones should reach.</strong> We can make the central bone (2) somewhat longer than all others. You know how the bottom edge of a classic corset is longer in the middle and shorter at the sides. But since we are not aiming at a strong body-control effect, I would suggest the following: the central bone should stop 10-11cm below the waistline and all other vertical bones – 9cm below the waistline. </p>
+<p><strong>Now I need to decide how far below the waistline the bones should reach.</strong> We can make the central bone (2) somewhat longer than all others. You know how the bottom edge of a classic corset is longer in the middle and shorter at the sides. But since we are not aiming at a strong body-control effect, I would suggest the following: the central bone should stop 10-11cm below the waistline and all other vertical bones - 9cm below the waistline. </p>
 <p>I step 4cm left and right of the central line (2) and mark <strong>bones 3 and 4. </strong></p>
 <p>I draw another pair of lines that start at the waistline, 2cm left and right of the central line <strong>(5 and 6)</strong>. These are the areas that require particular attention to restrict the stomach. It's a common trouble zone of most women. It is soft and easy to shape but it does stand out quite a bit. Taking more fabric in the princess seams rarely helps you restrict the stomach (which is exactly what we need to do). Later we will add small darts here and use a couple of clever tricks to create a good tummy control effect and enhance the side view of the silhouette. </p>
 <p><strong>Let me mark the bones on the cup. </strong>&nbsp;</p>
@@ -349,7 +349,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

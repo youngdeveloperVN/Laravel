@@ -259,7 +259,7 @@
 <p>It is not a good idea to use two layers of fabric for a full-circle train for example. Besides, it should be made from lightweight fabric, such as veiling, organza, or chiffon.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%2023_files/image022.jpg" alt=""></p>
 <p><strong>You can also cut a double-circle train from mesh fabric or chiffon − it will look even more luxurious!</strong></p>
-<p><strong>Never cut a half-circle train from bobbinet</strong> – you will end up with a curtailed and absolutely unattractive train!</p>
+<p><strong>Never cut a half-circle train from bobbinet</strong> - you will end up with a curtailed and absolutely unattractive train!</p>
 <p><strong>There is a rule:</strong> the thinner the fabric, the more volume the train needs, and vice versa.</p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -272,7 +272,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

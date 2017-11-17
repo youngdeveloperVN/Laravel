@@ -309,7 +309,7 @@
 <p>Sometimes it’s easier to topstitch a seam from the lining side. </p>
 <p>Never forget to trim seam allowances but do leave at least 5-7mm. </p>
 <p>Carefully spread the fabric and the seam underneath the bone. </p>
-<p>I highly recommend that you should pin together the face and the lining before joining them with a stitch – it makes your work a lot neater and helps avoid distortions and skewing. </p>
+<p>I highly recommend that you should pin together the face and the lining before joining them with a stitch - it makes your work a lot neater and helps avoid distortions and skewing. </p>
 <p>Secure open horizontal edges with loose, easily removable stitches. </p>
 <p><strong>That’s how we’ve joined our pieces: </strong></p>
 <p>
@@ -344,7 +344,7 @@
 <p><strong>I place the edge of the bone straight at the fold line and make a strengthening stitch. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2012_files/image076.jpg" class="img-responsive center-block"></p>
-<p><strong>You can make another stitch along the edge of the parallel bone – it’s important to secure the wider part of the lacing bar. </strong></p>
+<p><strong>You can make another stitch along the edge of the parallel bone - it’s important to secure the wider part of the lacing bar. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2012_files/image078.jpg" class="img-responsive center-block"></p>
 <p><strong>I make a stitch at a distance of a seam allowance (1.2cm) from the edge so as to create a tunnel.</strong> We’ll insert a plastic bone there. </p>
@@ -357,7 +357,7 @@
 <p><strong>Now we need to lay a wide Rigilene bone at the edge of this bar. </strong>I mark the required length and <strong>encase the bone in fabric</strong>. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2012_files/image084.jpg" class="img-responsive center-block"></p>
-<p><strong>I sew it on with two stitch lines overlaying the edge of the bar. </strong>With my finger I feel for the edge of the second parallel bone and try to lay this fabric-encased bone edge-to-edge to it. Remember to stitch at about 1mm distance from the edge of the bone – or else the tunnel might be too narrow. You will need to insert a plastic or a spiral bone in there later. </p>
+<p><strong>I sew it on with two stitch lines overlaying the edge of the bar. </strong>With my finger I feel for the edge of the second parallel bone and try to lay this fabric-encased bone edge-to-edge to it. Remember to stitch at about 1mm distance from the edge of the bone - or else the tunnel might be too narrow. You will need to insert a plastic or a spiral bone in there later. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2012_files/image086.jpg" class="img-responsive center-block"></p>
 <p><strong><br>
@@ -381,7 +381,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

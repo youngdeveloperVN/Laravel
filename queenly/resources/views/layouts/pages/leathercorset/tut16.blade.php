@@ -313,7 +313,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 15. Joining the Central Piece with the Lining.">
 <meta itemprop="headline" content="Tutorial 15. Joining the Central Piece with the Lining.">
-<meta itemprop="description" content="I take one of the central front panels – the one decorated with machine embroidery – and start preparing it for getting joined with the corset.">
+<meta itemprop="description" content="I take one of the central front panels - the one decorated with machine embroidery - and start preparing it for getting joined with the corset.">
 <meta itemprop="articleSection" content="Leather Corset">
 <meta itemprop="keywords" content="leather corset, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -327,7 +327,7 @@
 <div itemprop="articleBody">
 <h1>Applying Final Touches to the Corset.</h1>
 <h1>Tutorial 15. Joining the Central Piece with the Lining.&nbsp; Sewing On Bias Tape.</h1>
-<p><strong>I take one of the central front panels – the one decorated with machine embroidery – and start preparing it for getting joined with the corset. </strong></p>
+<p><strong>I take one of the central front panels - the one decorated with machine embroidery - and start preparing it for getting joined with the corset. </strong></p>
 <p>I need to join the leather face with the lining, sew boning tunnels, add laces, and finish the edges.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Tutorial%2015_files/image002.jpg" alt=""></p>
 <p>I cannot sew tunnels over the face of the piece because they will get on the motif and disturb the harmony. <strong>Instead, I will install bones in the lining. </strong></p>
@@ -397,7 +397,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/pattern-black%20leather%20corset%20%2B%20belt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the black leather corset + elastic belt</a><br>						

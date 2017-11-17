@@ -241,7 +241,7 @@
 <div itemprop="articleBody">
 <h2>Tutorial 9. Fusing the Cups. Marking the Location of Bones. Cutting the Lacing Bars.</h2>
 <p></p>
-<p><strong>I fuse all lining cup pieces with hard iron-on fabric. </strong>I’m not using the hardest iron-on fabric because there is a non-typical princess seam on the cups. It is horizontal. Next I write matching numbers to mark the spots for joining the cups with the body pieces. Make sure to trim any iron-on fabric that goes beyond the outline of the pattern – these patterns are very precise. </p>
+<p><strong>I fuse all lining cup pieces with hard iron-on fabric. </strong>I’m not using the hardest iron-on fabric because there is a non-typical princess seam on the cups. It is horizontal. Next I write matching numbers to mark the spots for joining the cups with the body pieces. Make sure to trim any iron-on fabric that goes beyond the outline of the pattern - these patterns are very precise. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%209_files/image002.jpg" class="img-responsive center-block"></p>
 <p>
@@ -252,12 +252,12 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%209_files/image007.jpg" class="img-responsive center-block"></p>
-<p><strong>And now I need to fold each strap so as to have one side 3.5cm wide and the other – 4cm wide, and press them with the iron like that. </strong></p>
+<p><strong>And now I need to fold each strap so as to have one side 3.5cm wide and the other - 4cm wide, and press them with the iron like that. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%209_files/image009.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>Let’s not postpone preparing another two straps at the full fabric length, each 3cm wide.</strong> These straps will be used for finishing the bones. I believe I am going to need a wider strap for giving a pencil-edge finish to the top and bottom edges of the corset since the fabrics are thick, so I’ll add another 0.5cm. Remember to iron the straps. </p>
 <p><strong>And now we need to mark the location of bones. </strong></p>
-<p>Our cup model is somewhat unconventional – its vertical princess seam stops at a one-piece bar that serves as a welt for the top edge. This means we can lay a bone along the vertical princess seam in the bottom part of the cup. This bone will pass through the notch on the bar vertically, from top to bottom <strong>(line 2).</strong> </p>
+<p>Our cup model is somewhat unconventional - its vertical princess seam stops at a one-piece bar that serves as a welt for the top edge. This means we can lay a bone along the vertical princess seam in the bottom part of the cup. This bone will pass through the notch on the bar vertically, from top to bottom <strong>(line 2).</strong> </p>
 <p>I have adjusted my cup patterns after a certain size. There will be a bone starting at the bust-line level in the middle of the bar and merging with the joining seam <strong>(line 1).</strong> </p>
 <p>Next I step 2cm inwards down the bottom <strong>(points A and B) </strong>and mark the location of two bones going up at an angle <strong>(lines 3 and 4) </strong>and passing onto the bar piece. I can’t tell their location precisely yet. I will simply look at the natural way the bone settles when I start sewing, and leave it that way. </p>
 <p>There’s usually a bone going across the bottom part of the cup. Our case is no exception. I divide the distance between the notch and the seam allowance on the bottom cup pieces in about half <strong>(points C and D)</strong> and draw an arch <strong>(line 5).</strong> This bone will strengthen the cup. You don’t have to make the line so arched <strong>(the red line), </strong>it depends on your preferences. It should support the cup that’s all. We shall see what’s more convenient during the sewing process. </p>
@@ -266,7 +266,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%209_files/image010.jpg" class="img-responsive center-block"></p>
 <p><strong>Next I repeat the same procedures with the second cup. </strong></p>
-<p><strong>That is all – we have marked all bones </strong>although the markings are relevant and I will adjust their actual location during the sewing process since I don’t sew such cups very often – they’re only turning into a trend. </p>
+<p><strong>That is all - we have marked all bones </strong>although the markings are relevant and I will adjust their actual location during the sewing process since I don’t sew such cups very often - they’re only turning into a trend. </p>
 <p><strong>I pin corresponding cup pieces together to avoid confusion when sewing. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%209_files/image012.jpg" class="img-responsive center-block"></strong></p>
@@ -281,7 +281,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

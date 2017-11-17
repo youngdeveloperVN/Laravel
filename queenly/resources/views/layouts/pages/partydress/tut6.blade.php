@@ -248,7 +248,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 6. Quilting the Cups with Perimeter Bones.">
 <meta itemprop="headline" content="Tutorial 6. Quilting the Cups with Perimeter Bones.">
-<meta itemprop="description" content="Tutorial 6. Quilting the Cups with Perimeter Bones. I continue sewing on our bones. The centre went somewhat bubbly after I eased in some additional fullness. I need to remove this bubble with the help of a dart. I make this dart intuitively – it’s just a matter of experience.">
+<meta itemprop="description" content="Tutorial 6. Quilting the Cups with Perimeter Bones. I continue sewing on our bones. The centre went somewhat bubbly after I eased in some additional fullness. I need to remove this bubble with the help of a dart. I make this dart intuitively - it’s just a matter of experience.">
 <meta itemprop="articleSection" content="Party Dress">
 <meta itemprop="keywords" content="party dress, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -267,7 +267,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%206_files/image002.jpg" class="img-responsive center-block"></p>
 <p></p>
-<p><strong>I need to remove this bubble with the help of a dart. </strong>I make this dart intuitively – it’s just a matter of experience. It is almost impossible to calculate it because all depends on the amount of fullness underneath the bone. I spread it all out properly and stitch over the extra fabric. </p>
+<p><strong>I need to remove this bubble with the help of a dart. </strong>I make this dart intuitively - it’s just a matter of experience. It is almost impossible to calculate it because all depends on the amount of fullness underneath the bone. I spread it all out properly and stitch over the extra fabric. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%206_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>So now I’ve got a horizontal dart under the bust. </strong></p>
@@ -311,7 +311,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

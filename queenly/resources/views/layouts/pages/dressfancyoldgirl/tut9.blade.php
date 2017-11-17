@@ -261,7 +261,7 @@
 <p><strong>The two pieces marked by number 1 are two quarter-circles </strong>which will be located at the front. <strong>And the pieces marked with 2 and 3 are two full half-circles </strong>located closer to the back. One of the vertical seams will be the central back seam. The front vertical edges of the quarter-circles will be cut along the crosswise grain and form a slit at the front of the skirt. All other vertical seams will be sewn along the lengthwise grain, i.e. run parallel to the selvage. <strong>It is very important to take such things into account when joining half-circles and quarter-circles. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%209_files/image014.jpg" alt=""></p>
 <p>(fold line; selvage; crosswise grain (уток); lengthwise grain (долевая))</p>
-<p><strong>And now – on to the cutting!</strong></p>
+<p><strong>And now - on to the cutting!</strong></p>
 <p><strong>I start from piece 3, a full half-circle. </strong></p>
 <p>I tear a piece of fabric with a length of 184cm <strong>and fold it in half (the fold line is on the left). </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%209_files/image016.jpg" alt=""></p>

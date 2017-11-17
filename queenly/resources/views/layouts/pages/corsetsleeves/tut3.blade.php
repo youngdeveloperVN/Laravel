@@ -329,22 +329,22 @@
 <p><strong>Let's start from the front half of the dress.</strong> First, I will pre-calculate the configuration of the side seam and write the values under “Back Sides 1" (column 3). </p>
 <p><strong>Now let's determine the configuration of the side seam.</strong> We use the first two measurements as guides.</p>
 <p><strong>Bust front measurement:</strong> 56cm on the client and 50cm on the pattern. </p>
-<p><strong>56cm – 50cm = 6cm</strong></p>
+<p><strong>56cm - 50cm = 6cm</strong></p>
 <p>I divide it in half because there are two sides. Now it's obvious that <strong>I need to add 3cm from each side of the pattern</strong>. </p>
 <p><strong>Under-bust front measurement:</strong> 47cm on the client and 41cm on the pattern. </p>
-<p><strong>47cm – 41cm = 6cm</strong></p>
+<p><strong>47cm - 41cm = 6cm</strong></p>
 <p>I divide it in half because there are two sides. And <strong>I need to add 3cm from each side of the pattern</strong>. </p>
 <p><strong>I got the same values for the bust line and the under-bust line. Therefore, I can logically assume that the entire side seam of the dress should be shifted outwards by 3cm.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image008.jpg" class="img-responsive center-block"></p>
 <p><strong>Now let's calculate the difference between certain measurements that refer to the front of the dress but don't affect the side seam.</strong> I will record those values into columns 3 and 5.</p>
 <p><strong>Neck base to bust middle:</strong> 28cm on the client and 27cm on the pattern. </p>
-<p><strong>28cm – 27cm = 1cm</strong></p>
+<p><strong>28cm - 27cm = 1cm</strong></p>
 <p>I need to add another centimeter to the neck base to bust middle line on the central front piece. I will do that when I start transferring the pattern onto the fabric. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image010.jpg" class="img-responsive center-block"></p>
 <p><strong>Shoulder tip to bust middle:</strong> 25cm on the client and 26cm on the pattern. </p>
-<p><strong>25cm – 26m= -1cm</strong></p>
+<p><strong>25cm - 26m= -1cm</strong></p>
 <p>It is the other way round here: I need to remove one centimeter from the shoulder tip to bust middle measurement on the central front piece. It shows that the client has noticeably sloping shoulders. As you can see, the slope does look rather steep. It is acceptable on a corset-based dress though. The shoulder seam will settle naturally on the body.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image012.jpg" class="img-responsive center-block"></p>
@@ -357,21 +357,21 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image014.jpg" class="img-responsive center-block"></p>
 <p></p>
 <p><strong>Back neck base to waist:</strong> 42cm on the client and 39cm on the pattern. </p>
-<p><strong>42cm – 39cm = 3cm</strong></p>
+<p><strong>42cm - 39cm = 3cm</strong></p>
 <p>Three centimeters is quite a big difference. Once again, it shows that my client has a noticeable degree of shoulder slope and the line of the slope will be rather steep. It fully corresponds with the peculiarities of my client's figure though. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image016.jpg" class="img-responsive center-block"></p>
 <p><strong>Shoulder width at the back:</strong> 43cm on the client and 38cm on the pattern. </p>
-<p><strong>43cm – 38cm= 5cm</strong></p>
+<p><strong>43cm - 38cm= 5cm</strong></p>
 <p>There is a 5cm difference between my client's shoulder width at the back and the same measurement on the pattern. I divide the value in two. As the result, I need to add 2.5cm from each side of the pattern. It means that my mum has a slightly curved back. Her shoulders are somewhat pushed forward, which makes her shoulder width at the back rather large and her shoulder slope rather pronounced. I will add 2.5cm on the central back piece. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image018.jpg" class="img-responsive center-block"></p>
 <p><strong>Shoulder width at the front:</strong> 39cm on the client and 39cm on the pattern. The measurements coincide.</p>
 <p><strong>Shoulder length:</strong> 13cm on the client and 9cm on the pattern. </p>
-<p><strong>13cm – 9cm = 4cm</strong></p>
+<p><strong>13cm - 9cm = 4cm</strong></p>
 <p>I took this measurement in its actual size. I felt like placing the shoulder seam rather low for better freedom of movement and more convenience in working with the armscye. I will add 4cm to the shoulder length when transferring the pattern onto the fabric.</p>
 <p><strong>Back width:</strong> 39cm on the client and 38cm on the pattern. </p>
-<p><strong>39cm – 38cm = 1cm</strong></p>
+<p><strong>39cm - 38cm = 1cm</strong></p>
 <p>I divide it in two. As the result, I need to add 0.5cm from each side of the armscye to achieve the required width of the back.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%203_files/image020.jpg" class="img-responsive center-block"></p>
@@ -382,17 +382,17 @@
 <p><strong>Bust circumference:</strong> 99cm on the client and 94cm on the pattern.</p>
 <p>But I have already added 3cm from each side of the back half of the dress (a total of 6cm). </p>
 <p><strong>94cm + 6cm= 100cm</strong></p>
-<p><strong>99cm – 100cm = -1cm</strong></p>
+<p><strong>99cm - 100cm = -1cm</strong></p>
 <p>I divide it in half. As a result, <strong>I need to remove 0.5cm along the bust line from each side of the back of the dress.</strong> I write -0.5cm in the table.</p>
 <p><strong>Under-bust circumference:</strong> 87cm on the client and 81cm on the pattern.</p>
 <p>I have, however, already added 3cm from each side of the back (a total of 6cm). </p>
 <p><strong>81cm + 6cm = 87cm</strong></p>
-<p><strong>87cm – 87cm = 0cm</strong></p>
+<p><strong>87cm - 87cm = 0cm</strong></p>
 <p>There are no alterations along the under-bust line so I put a zero in the table. </p>
 <p><strong>Waist circumference: </strong>87cm on the client and 75cm on the pattern.</p>
 <p>But I have already added 3cm from each side of the back (a total of 6cm). </p>
 <p><strong>75cm + 6cm= 81cm</strong></p>
-<p><strong>87cm – 81cm = 6cm</strong></p>
+<p><strong>87cm - 81cm = 6cm</strong></p>
 <p>I divide it in half. As the result, <strong>I need to add 3cm from each side of the back.</strong> I write it in the table.</p>
 <p><strong>I won't perform as complicated calculations as I did for the corset base of the dress</strong> because it is only a simple lace overlay. It's enough to just put the side seam in place. <strong>That's why I will leave the side seam of the front as is</strong> and apply some alterations to the side seam of the back using the princess seams. </p>
 <p>I leave it at -0.5cm along the bust line and at 0 along the under-bust line for the adjusted side seam of the back (column 6). <strong>What concerns the waistline</strong>, I do the same thing I did when calculating the base of the dress: add 0.5cm and distribute the rest between the front and back princess seams. </p>
@@ -414,7 +414,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

@@ -169,7 +169,7 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%207_files/image024.jpg" class="img-responsive center-block"></p>
-<p><strong>I topstitch the dart as if it were a seam allowance. </strong>Don’t forget about symmetry – if there is a dart on one piece, then you should make the same kind of a dart on the opposite piece. </p>
+<p><strong>I topstitch the dart as if it were a seam allowance. </strong>Don’t forget about symmetry - if there is a dart on one piece, then you should make the same kind of a dart on the opposite piece. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%207_files/image026.jpg" class="img-responsive center-block"></p>
 <p>
@@ -188,7 +188,7 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%207_files/image036.jpg" class="img-responsive center-block"></p>
-<p><strong>And I unpin the next set of paired pieces – the intermediate front pieces – and assemble their layers the same way. </strong></p>
+<p><strong>And I unpin the next set of paired pieces - the intermediate front pieces - and assemble their layers the same way. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%207_files/image038.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -207,7 +207,7 @@
 <p><strong>Now the pieces are ready for getting joined and I sew their princess seams one by one. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%207_files/image050.jpg" class="img-responsive center-block"></p>
-<p><strong>I topstitch the seam allowances and direct them towards the centre. </strong>Be careful when evening out the edges – even though the pieces are stretchable and transparent, you should match them perfectly.</p>
+<p><strong>I topstitch the seam allowances and direct them towards the centre. </strong>Be careful when evening out the edges - even though the pieces are stretchable and transparent, you should match them perfectly.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%207_files/image052.jpg" class="img-responsive center-block"></p>
 <p><strong>I repeat the same steps on the other half of the corset. </strong>I join the princess seam between the central and intermediate parts of the front and topstitch the seam allowance directing it towards the centre. </p>
@@ -251,7 +251,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

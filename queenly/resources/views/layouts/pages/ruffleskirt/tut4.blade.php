@@ -226,11 +226,11 @@
 <p><strong>The cover must be 5cm shorter than the petticoat. </strong>In other words, all length measurements used for cutting the hard mesh fabric cover must be 5cm shorter than the corresponding measurements used for the petticoat itself.</p>
 <p><strong>Therefore, I will use the following measurements for cutting the cover (seam allowance included).</strong></p>
 <p><strong>- Front Cover Length: </strong></p>
-<p><strong>61.2cm – 5cm + 1.2cm ≈ 57.5cm</strong></p>
+<p><strong>61.2cm - 5cm + 1.2cm ≈ 57.5cm</strong></p>
 <p><strong>- Side Cover Length:</strong></p>
-<p><strong>69.2cm – 5cm + 1.2cm ≈ 65.5cm</strong></p>
+<p><strong>69.2cm - 5cm + 1.2cm ≈ 65.5cm</strong></p>
 <p><strong>- Cover Train Length:</strong></p>
-<p><strong>77.2cm – 5cm + 1.2cm ≈ 73.5cm</strong></p>
+<p><strong>77.2cm - 5cm + 1.2cm ≈ 73.5cm</strong></p>
 <p><strong>There will be a hard mesh ruffle going along the hem of the cover 5cm from the edge. </strong></p>
 <p><strong>The ruffle needs to be positioned 10cm lower than the bottom hoop of the petticoat. </strong>In this case, it will spread the face fabric very well and improve the shape of the skirt.</p>
 <p><strong>The bottom edge of the ruffle must stay 3-5cm above floor level. </strong></p>

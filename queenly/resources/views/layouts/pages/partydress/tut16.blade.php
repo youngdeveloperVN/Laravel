@@ -302,7 +302,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2016_files/image016.jpg" class="img-responsive center-block"></p>
 <p></p>
 <p>I stitch at a 1mm distance from the sewn-on elastic ribbon stretching the belt while sewing. </p>
-<p>I would recommend you overlocking all cut edges beforehand – both on the skirt and on the belt – since you won’t be able to do it later because the belt should stay stretchable. </p>
+<p>I would recommend you overlocking all cut edges beforehand - both on the skirt and on the belt - since you won’t be able to do it later because the belt should stay stretchable. </p>
 <p></p>
 <p><strong>This is what the belt looks like when attached:</strong></p>
 <p>
@@ -318,7 +318,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

@@ -257,7 +257,7 @@
 <p><strong>As for me, I will use the top part of the pattern of a corset dress with shoulder seams:</strong> the part that stops at the bust line or at the waistline depending on the dress model.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%201_files/image022.jpg" alt=""></p>
 <p><strong>Please remember </strong>that you are only supposed to use the pattern with shoulder seams for cutting the lace top part of the dress! The main part of the dress is cut after the pattern of the dress with shoulder straps!</p>
-<p>If you try to align these patterns along the notches marked on the major reference lines, you will see <strong>how different they are from one another </strong>despite the fact they were based on the same measurements taken off the same client. Each pattern was designed for a particular type of a dress to ensure a perfect fit – particularly in the chest.</p>
+<p>If you try to align these patterns along the notches marked on the major reference lines, you will see <strong>how different they are from one another </strong>despite the fact they were based on the same measurements taken off the same client. Each pattern was designed for a particular type of a dress to ensure a perfect fit - particularly in the chest.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/transcripts/Tutorial%201_files/image024.jpg" alt=""></p>
 <p><strong>So I will only use the top part of the pattern with shoulder seams for cutting the small lace insets on the shoulders of our dress.</strong></p>
 <p><strong>If you feel like covering the front of the dress with lace up to the very top, </strong>you will also need to cut the lace part after the pattern with shoulder seams.</p>
@@ -284,7 +284,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20shoulder%20dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Basis for Shoulder Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/base%20with%20straps.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Basis for Dress with Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%208/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

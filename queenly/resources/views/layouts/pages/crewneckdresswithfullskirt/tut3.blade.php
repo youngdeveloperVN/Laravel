@@ -253,7 +253,7 @@
 <ul>
 <li>The primary&nbsp;technique for sewing&nbsp;corset-based sleeveless crew-neck dress with individually cut collar and full skirt.</li>
 <li>In the&nbsp;tutorial “Altering the pattern" (tutorial 5) &nbsp;I explain how to adjust the patterns and to cut the dress. This knowledge erases the limitations and makes this course universal for sewing unlimited variety of styles of wedding and evening dresses with&nbsp;crew-neck, with or without collar.</li>
-<li>In this course explained how to work with f fabrics with different texture: taffeta – “capricious" and hard to work with fabric, tulle nets of different hardness.</li>
+<li>In this course explained how to work with f fabrics with different texture: taffeta - “capricious" and hard to work with fabric, tulle nets of different hardness.</li>
 <li>The technique of connecting of the corset to the fluffy skirt.</li>
 <li>Making fasteners on the back: zipper on the skirt and lacing on the corset.</li>
 <li>Special attention is paid to choice of the length of the corset in this kind of garments. Precaution from the mistakes made by beginners.</li>
@@ -338,8 +338,8 @@
 <p><strong>I have put my mock-up on the dress-form.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%203_files/image002.jpg" class="img-responsive center-block"></p>
-<p><strong>NB:</strong> you are not supposed to focus on the balance of the garment or the location of the side seams at this stage. Don't be disturbed if they have shifted towards the front or the back – it doesn't matter at the moment because this mock-up wasn’t sewn after the dimensions of your dress-form. What you should do is carefully stuff any hollows between the mock-up and the surface of the dress-form. I use regular foam shoulder pads for this purpose. Feel free to use padding polyester, wadding, leftover bits of fabric or even loop towels if you need to increase the size of the dress-form considerably. The main task is to distribute and spread it out very evenly! </p>
-<p><strong>Next you should mark the lines of reference right on the mock-up</strong>: i.e. bust line, under-bust line, waistline, stomach and hip line. If you find it hard or if you want to change the location of notches, simply tie cords around the mock-up the way you put your measuring tape around the client and re-draw the lines following these cords. Mark the notches – later you can easily transfer them onto your own pattern. </p>
+<p><strong>NB:</strong> you are not supposed to focus on the balance of the garment or the location of the side seams at this stage. Don't be disturbed if they have shifted towards the front or the back - it doesn't matter at the moment because this mock-up wasn’t sewn after the dimensions of your dress-form. What you should do is carefully stuff any hollows between the mock-up and the surface of the dress-form. I use regular foam shoulder pads for this purpose. Feel free to use padding polyester, wadding, leftover bits of fabric or even loop towels if you need to increase the size of the dress-form considerably. The main task is to distribute and spread it out very evenly! </p>
+<p><strong>Next you should mark the lines of reference right on the mock-up</strong>: i.e. bust line, under-bust line, waistline, stomach and hip line. If you find it hard or if you want to change the location of notches, simply tie cords around the mock-up the way you put your measuring tape around the client and re-draw the lines following these cords. Mark the notches - later you can easily transfer them onto your own pattern. </p>
 <p><strong>You can study many fine points and take important measurements with a mock-up at hand.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/Tutorial%203_files/image004.jpg" class="img-responsive center-block"></p>
@@ -383,7 +383,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%202/dress2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress sewing pattern</a><br>						
 					</div>
 

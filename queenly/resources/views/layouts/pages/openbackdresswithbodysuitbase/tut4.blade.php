@@ -372,11 +372,11 @@
 <p><strong>I check my hook-and-eye tape.</strong> It's quite possible to cut 5cm from it without hitting a hook or an eye.&nbsp; But first I will finish the area of closure itself.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%204_files/image038.jpg" class="img-responsive center-block"></p>
-<p><strong>There is an additional measurement required for bodysuits – crotch length.</strong> It is taken with the measuring tape between the legs from the middle of the waistline at the front to the middle of the waistline at the back. Please be sure to compare your pattern against your client's measurements or else the panties might come out too long or too short. And remember to account for the width of the hook-and-eye tape when closed.</p>
+<p><strong>There is an additional measurement required for bodysuits - crotch length.</strong> It is taken with the measuring tape between the legs from the middle of the waistline at the front to the middle of the waistline at the back. Please be sure to compare your pattern against your client's measurements or else the panties might come out too long or too short. And remember to account for the width of the hook-and-eye tape when closed.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%204_files/image040.jpg" class="img-responsive center-block"></p>
 <p><strong>I cut out the dress and the bodysuit pieces.</strong></p>
-<p><strong>Then I put the front of the bodysuit onto the front of the dress.</strong> The cradles of the face (dress) and the lining (bodysuit) match perfectly. The bodysuit is narrower than the dress in the waistline but their sizes are fully identical again at the stomach level. There is a reason for it: we will ease in the area of the bodysuit around the legs onto an elastic band yet at the same time we don’t want to make it too tight in the stomach – otherwise it is likely to form a noticeable 'bubble'. The size of the bodysuit coincides with that of the dress from the stomach level and down.</p>
+<p><strong>Then I put the front of the bodysuit onto the front of the dress.</strong> The cradles of the face (dress) and the lining (bodysuit) match perfectly. The bodysuit is narrower than the dress in the waistline but their sizes are fully identical again at the stomach level. There is a reason for it: we will ease in the area of the bodysuit around the legs onto an elastic band yet at the same time we don’t want to make it too tight in the stomach - otherwise it is likely to form a noticeable 'bubble'. The size of the bodysuit coincides with that of the dress from the stomach level and down.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%204_files/image042.jpg" class="img-responsive center-block"></p>
 <p><strong>I put the back of the bodysuit onto the back of the dress.</strong> </p>
@@ -396,7 +396,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

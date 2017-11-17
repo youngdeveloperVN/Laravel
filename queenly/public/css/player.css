@@ -190,3 +190,7 @@ ul.courses-menu>li>ul>li a i {
     box-sizing: border-box;
     outline: 0;
 }
+
+header nav {
+    float: right;
+}

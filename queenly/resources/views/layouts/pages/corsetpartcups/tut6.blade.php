@@ -245,7 +245,7 @@
 <p><strong>Luckily for me, my fabric is double-faced and both sides are identical. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%206_files/image002.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>Now I need to lay these two layers together very carefully and evenly. </strong>There are a number of methods used for cutting chequered fabric but the key point is always the same – you need to match the squares very accurately. </p>
+<p><strong>Now I need to lay these two layers together very carefully and evenly. </strong>There are a number of methods used for cutting chequered fabric but the key point is always the same - you need to match the squares very accurately. </p>
 <p><strong>In my case I can tell that the fabric is quite loosely woven and tends to shift from square to square. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%206_files/image003.jpg" class="img-responsive center-block"></p>
@@ -286,7 +286,7 @@
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%206_files/image027.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>Let’s cut out the side piece of the back. </strong>Don’t forget about all alterations we’ve had. </p>
-<p><strong>And then I need to cut out the next piece – the side front piece. </strong>I check if the side seam that joins the front and back pieces is well-matched. It looks good. </p>
+<p><strong>And then I need to cut out the next piece - the side front piece. </strong>I check if the side seam that joins the front and back pieces is well-matched. It looks good. </p>
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%206_files/image029.jpg" class="img-responsive center-block"></p>
@@ -308,7 +308,7 @@
 <p><strong>As you must have guessed, I am going to use these pieces for cutting out their ‘twins’ by placing each piece over the fabric and matching the squares as well as I can. </strong>I secure the pieces with pins and cut them out. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%206_files/image039.jpg" class="img-responsive center-block"></p>
-<p><strong>What I have as a result are the following patterns: </strong>the back and the side of the corset front made of chequered fabric, and their cotton lining base to prevent the chequered fabric from stretching; two front pieces made of the main fabric – the intermediate one and the central piece with a fold line. </p>
+<p><strong>What I have as a result are the following patterns: </strong>the back and the side of the corset front made of chequered fabric, and their cotton lining base to prevent the chequered fabric from stretching; two front pieces made of the main fabric - the intermediate one and the central piece with a fold line. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%206_files/image041.jpg" class="img-responsive center-block"></p>
 
@@ -322,7 +322,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

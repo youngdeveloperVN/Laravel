@@ -267,7 +267,7 @@
 <p>The width of the skirt can be calculated based on the golden ratio formula: simply multiply the total width of shoulders and armlets by 1.62. I will explain it in greater detail when we start drafting the pattern.</p>
 <p><strong>Let me show you the final result, the finished dress: </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/6%20yo/Tutorial%201_files/image031.jpg" alt=""></p>
-<p><strong>As you can see, I got all proportions right:</strong> the widths of the armlets, the shoulders, and the skirt, the length of the skirt, the length of the bodice, the position of the decorative ruffle – all elements are in a golden ratio to each other.</p>
+<p><strong>As you can see, I got all proportions right:</strong> the widths of the armlets, the shoulders, and the skirt, the length of the skirt, the length of the bodice, the position of the decorative ruffle - all elements are in a golden ratio to each other.</p>
 <p>I also added some flower accents to the ruffle to make it stand out more.</p>
 <p><strong>Despite the low waist and the long flared skirt, the girl looks great in this dress! The proportions are perfect! </strong></p>
 

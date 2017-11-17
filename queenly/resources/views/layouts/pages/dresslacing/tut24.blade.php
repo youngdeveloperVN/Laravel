@@ -180,7 +180,7 @@
 <p><strong>Here is how you get a pattern with a 100cm bust circumference.&nbsp; </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Supplementary%20Patterns_files/image018.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>You can do the same thing to build a pattern with, say, a 116cm bust circumference.</strong> In this case you need to mark 6mm outwards from each point of intersection between the transversal lines and the cutting lines of the pattern with the bust circumference of 112cm. You can prolong the transversal lines as much as you need in either direction. Just make sure to preserve the original incline! You mark the intersection points, connect them with a line and get a pattern of a much larger size – the size you need.&nbsp; </p>
+<p><strong>You can do the same thing to build a pattern with, say, a 116cm bust circumference.</strong> In this case you need to mark 6mm outwards from each point of intersection between the transversal lines and the cutting lines of the pattern with the bust circumference of 112cm. You can prolong the transversal lines as much as you need in either direction. Just make sure to preserve the original incline! You mark the intersection points, connect them with a line and get a pattern of a much larger size - the size you need.&nbsp; </p>
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Supplementary%20Patterns_files/image020.jpg" class="img-responsive center-block"></p>
@@ -191,7 +191,7 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Supplementary%20Patterns_files/image022.jpg" class="img-responsive center-block"></p>
-<p><strong>In short there is a sufficient amount of possible variations to create matching accessories for your client's wardrobe staple – the pencil dress. </strong></p>
+<p><strong>In short there is a sufficient amount of possible variations to create matching accessories for your client's wardrobe staple - the pencil dress. </strong></p>
 <p><strong>Please note that the patterns are given without seam allowances.</strong> I have left a note on the first sheet to make sure you remember about it. You will need to add seam allowances to the ready pattern.&nbsp; My seam allowances are always 1.2cm but you can use any width that's convenient to you.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Supplementary%20Patterns_files/image024.jpg" class="img-responsive center-block"></p>
@@ -208,7 +208,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

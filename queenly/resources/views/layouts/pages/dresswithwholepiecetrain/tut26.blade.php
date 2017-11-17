@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -360,8 +360,8 @@
 <p><strong>And I sew the other side seam. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2026_files/image006.jpg" class="img-responsive center-block"></p>
-<p><strong>The side seams settle better inside the garment after getting pressed open. </strong>This technique for joining the side seams allows you to make adjustments to your wedding or evening dress at any time. The stress associated with preparations for a festive occasion often makes women either lose or put on some weight. And it’s really hard to make adjustments to a garment with clean-finish side seams, particularly if it’s draped or embellished with rhinestones or appliqué. With open side seams you can alter it at any moment – even literally an hour before going out. </p>
-<p><strong>You can make another stitch right over the side seam if you think it’s not robust enough and might not handle the tension. </strong>Never make another joining seam near the first one – it has to go right over it or else you won’t be able to press the side seam flat and the area will be very thick. </p>
+<p><strong>The side seams settle better inside the garment after getting pressed open. </strong>This technique for joining the side seams allows you to make adjustments to your wedding or evening dress at any time. The stress associated with preparations for a festive occasion often makes women either lose or put on some weight. And it’s really hard to make adjustments to a garment with clean-finish side seams, particularly if it’s draped or embellished with rhinestones or appliqué. With open side seams you can alter it at any moment - even literally an hour before going out. </p>
+<p><strong>You can make another stitch right over the side seam if you think it’s not robust enough and might not handle the tension. </strong>Never make another joining seam near the first one - it has to go right over it or else you won’t be able to press the side seam flat and the area will be very thick. </p>
 <p><strong>We have sewn the side seams that join all dress layers down to the hip level. </strong></p>
 <p><strong>Now we need to sew up the side seams of the individual layers. </strong></p>
 <p><strong>The side seam of the lace overlay: </strong></p>
@@ -401,7 +401,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

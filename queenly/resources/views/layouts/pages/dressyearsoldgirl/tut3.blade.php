@@ -280,7 +280,7 @@
 <p><strong>Next, I need to cut ruffles from the same organza fabric.</strong></p>
 <p>Let us do all necessary calculations first. The skirt is about 40cm wide down the bottom. I want to add five ruffles at the front and five at the back, i.e. a total of ten ruffles.</p>
 <p>In this case, <strong>each ruffle is supposed to have the following width: 40cm / 5 = 8cm.</strong></p>
-<p><strong>The length of the ruffle equals the length of the skirt – 30 cm. </strong></p>
+<p><strong>The length of the ruffle equals the length of the skirt - 30 cm. </strong></p>
 <p><strong>The ruffles will be cut as swirls with an inner radius of 5cm</strong> calculated based on the formula (2πR = 30cm).</p>
 <p>Let us find the <strong>outer radius</strong> of the swirl: <strong>5cm + 8cm = 13cm.</strong></p>
 <p><strong>Based on these calculations, I find the fabric in half lengthwise. The resulting piece has a width of 28cm (I have added a couple of centimeters just in case) and a length of 150cm.&nbsp; </strong></p>

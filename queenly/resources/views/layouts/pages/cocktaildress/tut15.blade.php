@@ -155,7 +155,7 @@
 <p><strong>Where to use:</strong></p>
 <ul>
 <li>The technique in this course is perfect for making not only cocktail and evening dresses, but wedding dresses as well;</li>
-<li>If you are a beginner in corset making&nbsp;– this is the perfect course to begin with!&nbsp;Understanding this technique will open the world of professional dressmaking before you!</li>
+<li>If you are a beginner in corset making&nbsp;- this is the perfect course to begin with!&nbsp;Understanding this technique will open the world of professional dressmaking before you!</li>
 </ul>
 <p><strong>Author:</strong> Tatiana Kozorovitsky</p>
 <p><strong>Total length:</strong>&nbsp;3h 46m</p>
@@ -263,7 +263,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Dress sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the file, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
+<p>To print the sewing patterns open the file, press "print" and choose "PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/patterns-coctail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the cocktail dress</a><br>						
 					</div>
 

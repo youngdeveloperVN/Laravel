@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -291,7 +291,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 28. Analyzing the Ruffles Layout.&nbsp; Rules of Sewing On Ruffles.">
 <meta itemprop="headline" content="Tutorial 28. Analyzing the Ruffles Layout.&nbsp; Rules of Sewing On Ruffles.">
-<meta itemprop="description" content="I store prepared straps by putting them on hangers (grouped by the color). Do not gather all straps in one go – they will get wrinkled.">
+<meta itemprop="description" content="I store prepared straps by putting them on hangers (grouped by the color). Do not gather all straps in one go - they will get wrinkled.">
 <meta itemprop="articleSection" content="Premium Dress">
 <meta itemprop="keywords" content="premium dress, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -305,7 +305,7 @@
 <div itemprop="articleBody">
 <h1>Tutorial 28. Analyzing the Ruffles Layout.&nbsp; Rules of Sewing On Ruffles. </h1>
 <p></p>
-<p><strong>As I mentioned before, I store prepared straps by putting them on hangers</strong> (grouped by the color). <strong>Do you want another good idea? </strong>Do not gather all straps in one go – they will get wrinkled. I take a small set of straps, about ten at a time, gather them, and sew them onto the base of the skirt.&nbsp; </p>
+<p><strong>As I mentioned before, I store prepared straps by putting them on hangers</strong> (grouped by the color). <strong>Do you want another good idea? </strong>Do not gather all straps in one go - they will get wrinkled. I take a small set of straps, about ten at a time, gather them, and sew them onto the base of the skirt.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2028_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>You should only keep your gathered straps or ruffles on a hanger. </strong>They will get wrinkled if you simply put them down. When in work, I put them in bundles of 7-10, sorted out by color, and pin them to the edge of the cutting table or ironing board. I take one bundle, sew the straps onto the base, take the next bundle, and so on.&nbsp; </p>
@@ -314,7 +314,7 @@
 <p><strong>And now let's take a tour around the pattern and the ruffles layout!&nbsp; </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2028_files/image006.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>It is a basic half-circle skirt pattern.</strong> It is tried and true and made from scratch by me personally. The lines on the pattern enclosed with the book are smoother and prettier than on the picture. There is a layout on the pattern composed from separate fragments. These fragments form a decorative pattern on the skirt. For the sake of convenience, they are drawn in different colors. Each new color marks a fragment on which you will work individually. Each fragment is formed by a single uninterrupted line.&nbsp; For example, the blue fragment is actually an uninterrupted blue line. Number 1 marked on each line indicates the point where you start sewing on the ruffle and number 2 – the point where you stop. To cut a long story short, the entire layout is composed of various fragments formed by separate uninterrupted lines of different colors. It would be a lot harder to work with the layout if all fragments were drawn in the same color. </p>
+<p><strong>It is a basic half-circle skirt pattern.</strong> It is tried and true and made from scratch by me personally. The lines on the pattern enclosed with the book are smoother and prettier than on the picture. There is a layout on the pattern composed from separate fragments. These fragments form a decorative pattern on the skirt. For the sake of convenience, they are drawn in different colors. Each new color marks a fragment on which you will work individually. Each fragment is formed by a single uninterrupted line.&nbsp; For example, the blue fragment is actually an uninterrupted blue line. Number 1 marked on each line indicates the point where you start sewing on the ruffle and number 2 - the point where you stop. To cut a long story short, the entire layout is composed of various fragments formed by separate uninterrupted lines of different colors. It would be a lot harder to work with the layout if all fragments were drawn in the same color. </p>
 <p><strong>You have the layout before your eyes now.</strong> I designed it for this particular evening dress in bronze tones. An incredibly beautiful dress! But I would like to wander from the subject for a moment and develop the idea behind this layout. I want you to realize that you can sew far more than just this particular dress after mastering the know-how explained in this course! This dress is not the ultimate goal! You can take the layout and the related sewing technique much further. It is great if you sew this particular luxurious dress. Your client will be very grateful and a garment like this will boost up your rating and pay off very well. This dress is fabulous and yet it is only one of the many possible ways of applying the sewing techniques explained in this book.&nbsp; </p>
 <p><strong>Switch on your imagination and picture the same dress in white. </strong>You will simply follow the same steps only with white fabric. What an amazing wedding dress it will be! Just think about it.&nbsp; </p>
 <p><strong>And how gorgeous would it look in black!&nbsp; </strong></p>
@@ -337,7 +337,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

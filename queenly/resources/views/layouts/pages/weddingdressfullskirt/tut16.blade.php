@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -269,12 +269,12 @@
 <p><strong>I measure the distance from the waistline to the under-bust line on the side front piece. </strong></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image030.jpg" alt=""></p>
 <p><strong>It is 10cm on the client and 11.2cm on the pattern. </strong></p>
-<p><strong>11.2cm – 10cm = 1.2cm </strong></p>
+<p><strong>11.2cm - 10cm = 1.2cm </strong></p>
 <p>There is extra 1.2cm on the standard pattern.</p>
 <p><strong>As follows from the calculations, I need to shorten the side seam by 3cm.&nbsp; </strong></p>
 <p><strong>I remove 1.2cm by reducing the width of the area between the waistline and the under-bust line. </strong>Now the width of this area is 10cm, which corresponds with the client's measurement. I re-draw the waistline. Later, I will cut away the excess in this area and align the bottom part of the piece with the new waistline.</p>
 <p><strong>I still need to shorten the side seam by another 1.8cm. </strong></p>
-<p><strong>3cm – 1.2cm = 1.8cm</strong></p>
+<p><strong>3cm - 1.2cm = 1.8cm</strong></p>
 <p><strong>This is basically the largest possible value by which the side seam line can be shortened at the top (at the armscye).&nbsp; </strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image032.jpg" alt=""></strong></p>
@@ -293,7 +293,7 @@
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image044.jpg" alt=""></p>
 <p><strong>I re-draw the princess seam line shifting it 0.3cm inwards at the waistline and 0.5cm inwards at the stomach line 12cm below the waist.</strong></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image046.jpg" alt=""></p>
-<p><strong>In order to achieve a smooth transition from the central front piece to the side front piece, </strong>I trim the top of the side piece, fold back the seam allowance, align it with the central piece, and draw a graceful line – the way I want it to be after joining the two pieces along the princess seam. I forgot to tell you that this dress will have concealed side seams. It has a low back and I want the sides to look perfectly smooth.</p>
+<p><strong>In order to achieve a smooth transition from the central front piece to the side front piece, </strong>I trim the top of the side piece, fold back the seam allowance, align it with the central piece, and draw a graceful line - the way I want it to be after joining the two pieces along the princess seam. I forgot to tell you that this dress will have concealed side seams. It has a low back and I want the sides to look perfectly smooth.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image048.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image050.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image052.jpg" alt=""></p>
@@ -341,7 +341,7 @@
 <p><strong>I leave it as is at the bust-line level and shift it 1.2cm inwards between the under-bust line and the stomach line.</strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image088.jpg" alt=""></strong></p>
-<p><strong>I re-draw the back princess seam line. </strong>Do not be disturbed by the noticeable curve in the under-bust area – it is not a problem and, besides, I will trim the top of the back.</p>
+<p><strong>I re-draw the back princess seam line. </strong>Do not be disturbed by the noticeable curve in the under-bust area - it is not a problem and, besides, I will trim the top of the back.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image090.jpg" alt=""></p>
 <p><strong>I mark 2cm up from the stomach line to the beginning of the flare and cut along the bottom line and the new princess seam line. </strong></p>
 <p><strong>Then, I cut along the waistline of the side back piece and shift the bottom part 1.2cm upwards.</strong></p>
@@ -364,7 +364,7 @@
 <img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image110.jpg" alt=""></strong></p>
 <p><strong>I re-draw the back princess seam line on the central back piece, i.e. re-draw the top and the bottom using the side back piece as a template. </strong>(Remember to align the waist notches).</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image112.jpg" alt=""></p>
-<p><strong>I re-draw the top line of the central back piece and cut it out. </strong>The seam allowance of the central back seam remains unchanged – 2cm.</p>
+<p><strong>I re-draw the top line of the central back piece and cut it out. </strong>The seam allowance of the central back seam remains unchanged - 2cm.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image114.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2015_files/image116.jpg" alt=""></p>
 <p><strong>Here is the new pattern customized after my client's measurements.&nbsp; </strong></p>
@@ -385,7 +385,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

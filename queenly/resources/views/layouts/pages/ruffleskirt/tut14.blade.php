@@ -217,7 +217,7 @@
 <div itemprop="articleBody">
 <h1>Tutorial 13. Explaining the Ruffles Layout for the Front of the Skirt.</h1>
 <p><strong>It is time to start decorating the skirt. </strong></p>
-<p><strong>I will start from the front half – the half-circle face piece. It will be decorated with ruffles and, mind you, those ruffles will have no seams on them. </strong></p>
+<p><strong>I will start from the front half - the half-circle face piece. It will be decorated with ruffles and, mind you, those ruffles will have no seams on them. </strong></p>
 <p><strong>A regular ruffle</strong> is a rectangular piece of fabric gathered along one of its longer sides. The gathered edge is then sewn to the garment and you can always see the seam allowance. No matter how neatly you do this, it will always be noticeable on a see-through skirt.</p>
 <p><strong>My ruffle will also be made of a rectangular piece of fabric. Only this time, the rectangle will be folded in half and gathered along the middle (i.e. the fold line). </strong>I will then spread it open and sew it on the garment by following the gathering stitches. After I sew the ruffle on, its top half will fall down upon its bottom half. <strong>It will be a double ruffle with no seam allowance. </strong>Such ruffles are easy to make and I use them quite widely.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%2013.files/image002.jpg" alt=""></p>
@@ -245,10 +245,10 @@
 <p><strong>I continue drawing the rest of the guidelines in the same fashion. </strong></p>
 <p><strong>So there will be eight long ruffles going through the centre front line: ruffles (1), (3), (5), (7), (9), and (11).</strong> All these ruffles will be placed at 5cm intervals, meaning that the last one will go cross the centre front line at 40cm from the bottom edge of the skirt.</p>
 <p><strong>There will be 39cm left between the top ruffle and the top edge along the centre front line. </strong></p>
-<p><strong>79cm – 40cm = 39cm</strong></p>
+<p><strong>79cm - 40cm = 39cm</strong></p>
 <p><strong>There will be sixteen ruffles, numbered (1) to (16), going from the princess seam lines.</strong> Eight of them will be long (odd numbers) and another eight will be short (even numbers). All ruffles will be placed at 5cm intervals, which means the last ruffle will start 80cm from the bottom edge of the skirt.</p>
 <p><strong>There will be 40cm left between the top ruffle and the top edge along the centre front line.</strong></p>
-<p><strong>120cm – 80cm = 40cm</strong></p>
+<p><strong>120cm - 80cm = 40cm</strong></p>
 <p><strong>This way I have basically evened out the distance between the top ruffle and the top edge along the centre front line and the princess seam line (the difference is as little as 1cm) so all other ruffles can run parallel to each other. </strong>Two of the ruffles will be positioned at an interval of 4cm along the centre front line.</p>
 <p><strong>I will put short ruffles at the bottom of the skirt</strong> because it will be less noticeable. There are also certain advantages to using these short ruffles: they will create a unique pattern on the skirt making it even more beautiful.</p>
 <p><strong>All ruffles will start and stop 2cm from the stay-stitching made along the princess seam lines. </strong></p>

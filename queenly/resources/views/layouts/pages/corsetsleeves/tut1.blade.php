@@ -300,7 +300,7 @@
 <p><strong>At the back, the top edge of the base will pass at the level of shoulder blades.</strong> There will be a zipper and a seam in the center. There will be a teardrop-shaped opening at the top of the lace overlay at the back. The entire dress will be covered by lace. </p>
 <p>In order to allow for better freedom of movement in walking, I will make a small triangular gore at the back to slightly expand the skirt. </p>
 <p><strong>Let me tell you about the materials I have chosen for the dress.</strong></p>
-<p><strong>The main fabric</strong>, which will be used both for the base and for the lining, is deep blue Lycra fabric. It stretches widthwise (along the shoot) and does not stretch lengthwise. Taking it all into account, <strong>I will cut the garment in the traditional way – along the shoot, or perpendicular to the lengthwise thread</strong>. This will prevent it from stretching out in the waist and in the hips. </p>
+<p><strong>The main fabric</strong>, which will be used both for the base and for the lining, is deep blue Lycra fabric. It stretches widthwise (along the shoot) and does not stretch lengthwise. Taking it all into account, <strong>I will cut the garment in the traditional way - along the shoot, or perpendicular to the lengthwise thread</strong>. This will prevent it from stretching out in the waist and in the hips. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%201_files/image004.jpg" class="img-responsive center-block"></p>
 <p>The fabric has a sheen side and a matte side. Both of them have lovely texture. If you decide to use no lace overlay on the skirt, then it will make sense to use the matte side as the face. </p>
@@ -340,7 +340,7 @@
 <p>- Side length. </p>
 <p><strong>These are the measurements required for constructing or altering the pattern of the base of the dress.</strong> </p>
 <p><strong>I draw a table with eight columns.</strong>&nbsp; </p>
-<p><strong>The first column contains my mum's measurements and the second column – the dimensions of the standard pattern.</strong> Don't forget that right now we are taking measurements off the pattern of the corset base of the dress. You are supposed to sew a mock-up, put it on the dress-form, and take all measurements off it.</p>
+<p><strong>The first column contains my mum's measurements and the second column - the dimensions of the standard pattern.</strong> Don't forget that right now we are taking measurements off the pattern of the corset base of the dress. You are supposed to sew a mock-up, put it on the dress-form, and take all measurements off it.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%201_files/image020.jpg" class="img-responsive center-block"></p>
 <p><strong>Let us take a look at the four measurements that are primary for working with patterns.</strong></p>
@@ -366,7 +366,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

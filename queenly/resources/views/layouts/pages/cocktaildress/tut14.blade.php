@@ -155,7 +155,7 @@
 <p><strong>Where to use:</strong></p>
 <ul>
 <li>The technique in this course is perfect for making not only cocktail and evening dresses, but wedding dresses as well;</li>
-<li>If you are a beginner in corset making&nbsp;– this is the perfect course to begin with!&nbsp;Understanding this technique will open the world of professional dressmaking before you!</li>
+<li>If you are a beginner in corset making&nbsp;- this is the perfect course to begin with!&nbsp;Understanding this technique will open the world of professional dressmaking before you!</li>
 </ul>
 <p><strong>Author:</strong> Tatiana Kozorovitsky</p>
 <p><strong>Total length:</strong>&nbsp;3h 46m</p>
@@ -233,7 +233,7 @@
 <p><strong>I have drawn and adjusted the neckline according to my liking. You can see the result below.</strong> I have turned out the dress and put it on the dress-form inside out.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%2014_files/image010.jpg" alt=""></p>
 <p><strong>Now I can pin down and style the decorative black bar at the top.</strong> I will pin it down from the lining side, sew it on along the top edge and the armscyes, and turn the garment out.</p>
-<p><strong>But first I need to decide on the width of the bar.</strong> I hadn't cut it in advance because it was impossible to predict everything. This task can only be solved now, on the dress-form. The decorative bar is not supposed to go far beyond the apex of the bust – otherwise it will not settle down neatly but will stick out.&nbsp; <strong>I believe it should be 6.5cm wide.</strong> Since it is double-layer, I need a strap with the width of 13cm.</p>
+<p><strong>But first I need to decide on the width of the bar.</strong> I hadn't cut it in advance because it was impossible to predict everything. This task can only be solved now, on the dress-form. The decorative bar is not supposed to go far beyond the apex of the bust - otherwise it will not settle down neatly but will stick out.&nbsp; <strong>I believe it should be 6.5cm wide.</strong> Since it is double-layer, I need a strap with the width of 13cm.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%2014_files/image012.jpg" alt=""></p>
 <p><strong>I cut the strap in the direction in which the fabric stretches because it will settle better upon the bust in this case.</strong> I put it down on the garment and check how it looks. I can tell it will look better if I make it asymmetric: narrow it down in the corner and leave it wide at the opposite side. I pin it in place.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/transcript/Tutorial%2014_files/image014.jpg" alt=""></p>
@@ -267,7 +267,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Dress sewing patterns in PDF format.</p>
-<p>To print the sewing patterns open the file, press “print" and choose “PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
+<p>To print the sewing patterns open the file, press "print" and choose "PRINT IN ACTUAL SIZE". Then connect the part the way it is shown in the course.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/cocktail_dress/patterns-coctail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the cocktail dress</a><br>						
 					</div>
 

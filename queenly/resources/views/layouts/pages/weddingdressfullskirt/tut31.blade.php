@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -227,7 +227,7 @@
 <p><strong>The pattern needs to be adjusted after the size of the already sewn dress. </strong>But, first of all, I need to measure the initial pattern itself. The best way to do it, as I said many times before, is to sew a mock-up and take all measurements off it. I know it for certain that not everyone likes sewing mock-ups. Many people try to measure the paper pattern, which results in lots of mistakes.</p>
 <p><strong>Please, let me explain how I take measurements off the initial pattern. You will be able to avoid the worst mistakes if you read into my explanations attentively.</strong></p>
 <p><strong>A small foreword:</strong> the initial pattern was created based on several types of garments. I try to design interchangeable and combinable pattern pieces based on a children's construction kit principle.&nbsp; I want to be able to take back pieces from one pattern, for example, and front pieces from another pattern and combine them without any problems.</p>
-<p><strong>This was exactly how I made the initial pattern of the mesh top: the front pieces were taken from a strap dress pattern and the back pieces – from a shoulder seam dress pattern.</strong></p>
+<p><strong>This was exactly how I made the initial pattern of the mesh top: the front pieces were taken from a strap dress pattern and the back pieces - from a shoulder seam dress pattern.</strong></p>
 <p><strong>First of all, I compared the configurations of the side seam line of the side front piece of the strap dress and the side seam line of the side back piece of the corset-based dress with shoulder seams to avoid alignment errors.</strong></p>
 <p><strong>And I noticed a small difference when I was doing that: </strong>the curve of the side front piece did not match the side seam line of the back piece. I put the side back piece on top of the side front piece, <strong>re-drew the back side seam line </strong>accordingly, and marked a new seam allowance line.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2030_files/image004.jpg" alt=""></p>
@@ -274,7 +274,7 @@
 <p><strong>Let us start calculating.</strong></p>
 <p><strong>Always look at Bust Apex to Bust Apex before proceeding to the main calculations. </strong></p>
 <p><strong>Bust Apex to Bust Apex:</strong> my client’s measurement is 18cm and it is 20cm on the pattern.</p>
-<p><strong>18cm – 20cm = -2cm</strong></p>
+<p><strong>18cm - 20cm = -2cm</strong></p>
 <p><strong>This means that the central front piece of the dress pattern needs to be made 2cm smaller. </strong>Simply shift the pattern 1cm against the fold line of your fabric.</p>
 <p><strong>I write it down in column 3.</strong></p>
 <p>But if you shift the pattern against the fold line, you will automatically make it smaller along the full length. To keep this in mind, I write -1cm in all lines of the Bust Apex to Bust Apex column that refer to circumferences.</p>
@@ -287,36 +287,36 @@
 <p><strong>Bust Width Front:</strong> my client’s measurement is 48cm and it is 50.5cm on the pattern.</p>
 <p>Therefore, I need to shift the side seam line inwards at the under-bust line level to make the pattern smaller and arrive at my client's measurement.</p>
 <p>But I have already adjusted it down by a total of 2cm by removing 1cm from either end of the bust line.</p>
-<p><strong>50.5cm – 2cm = 48.5cm</strong></p>
-<p><strong>48cm – 48.5cm = -0.5cm</strong></p>
+<p><strong>50.5cm - 2cm = 48.5cm</strong></p>
+<p><strong>48cm - 48.5cm = -0.5cm</strong></p>
 <p>There is an excess of 0.5cm on the pattern which I will distribute between the two side seam lines of the front half of the dress. In other words, <strong>either front side seam line needs to be shifted 0.25cm inwards at the bust line level. </strong>I write -0.25cm in the table.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2030_files/image016.jpg" alt=""></p>
 <p><strong>Under-Bust Width Front:</strong> my client’s measurement is 36cm and it is 41.5cm on the pattern.</p>
 <p>I need to shift the side seam line inwards at the under-bust line level to make the pattern smaller.</p>
 <p>But I have already removed 1cm from either end of the under-bust line, i.e. adjusted it down by a total of 2cm.</p>
-<p><strong>41.5cm – 2cm = 39.5cm</strong></p>
-<p><strong>36cm – 39.5cm = -3.5cm</strong></p>
+<p><strong>41.5cm - 2cm = 39.5cm</strong></p>
+<p><strong>36cm - 39.5cm = -3.5cm</strong></p>
 <p>There is an excess of 3.5cm on the pattern which I need to divide between the two front side seam lines. In other words, <strong>either front side seam line needs to be shifted 1.75cm inwards at the under-bust level. </strong>I write -1.75cm in the table.</p>
 <p><strong>Waist Width Front:</strong> it is 37cm on the client and 40.5cm on the pattern.</p>
 <p>In order to arrive at my client's measurement, I need to shift the side seam line inwards at the waistline level to make the pattern smaller.</p>
 <p>I have already removed 1cm from either end of the waistline, i.e. adjusted it down by a total of 2cm.</p>
-<p><strong>40.5cm – 2cm = 38.5cm</strong></p>
-<p><strong>37cm – 38.5cm = -1.5cm</strong></p>
+<p><strong>40.5cm - 2cm = 38.5cm</strong></p>
+<p><strong>37cm - 38.5cm = -1.5cm</strong></p>
 <p>There is an excess of 1.5cm on the pattern which I need to divide between the two front side seam lines. <strong>Either front side seam line needs to be shifted 75mm inwards at the waistline. </strong>I write -0.75cm in the table.</p>
 <p><strong>Stomach Width Front:</strong> my client’s measurement is 44cm and it is 47cm on the pattern.</p>
 <p>I need to shift the side seam line of the pattern inwards at the stomach level to make the pattern smaller.</p>
 <p>Again, I have already removed 1cm from each end of the stomach line, i.e. adjusted it down by a total of 2cm.</p>
-<p><strong>47cm – 2cm = 45cm</strong></p>
-<p><strong>44cm – 45cm = -1cm</strong></p>
+<p><strong>47cm - 2cm = 45cm</strong></p>
+<p><strong>44cm - 45cm = -1cm</strong></p>
 <p>There is an excess of 1cm which needs to be distributed between the two front side seam lines. In other words, <strong>I need to remove 5mm from either end of the stomach line on the front half of the garment.</strong> I write -0.5cm in the table.</p>
 <p>If I knew Shoulder to Shoulder Across Front and Mid-Armhole Width Front of the pattern, I would account for the narrowing of the central front piece, re-calculate the pattern, and put the resulting values in the table.</p>
 <p>But I don't know these measurements at the moment.</p>
 <p><strong>Let’s look at the clip measurements. </strong></p>
 <p><strong>Clip towards neckline: </strong>it is 6cm on the client and 11cm on the pattern.</p>
-<p><strong>6cm – 11cm= -5cm</strong></p>
+<p><strong>6cm - 11cm= -5cm</strong></p>
 <p>I need to shorten the clip by 5cm.</p>
 <p><strong>Clip towards armscye: </strong>it is 11cm on the client and 13cm on the pattern.</p>
-<p><strong>11cm – 23cm = -2cm</strong></p>
+<p><strong>11cm - 23cm = -2cm</strong></p>
 <p>Again, I need to shorten the clip by 2cm.</p>
 <p>I write these values in column 4.</p>
 <p><strong>Things are now clear with the side seam line of the front.&nbsp; </strong></p>
@@ -326,50 +326,50 @@
 <p><strong><br>
 <img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2030_files/image018.jpg" alt=""></strong></p>
 <p><strong>Let us start from Waist Width Back: </strong>my client’s measurement is 32cm and it is 36cm on the pattern.</p>
-<p><strong>32cm – 36cm = -4cm</strong></p>
+<p><strong>32cm - 36cm = -4cm</strong></p>
 <p>There is an excess of 4cm on the pattern, and I need to remove it using the two side seam lines of the back. In other words, <strong>I need to remove 2cm from either end of the waistline at the back of the garment. </strong>I write -2cm in the table.</p>
 <p><strong>Let us look at Stomach Width Back: </strong>it is 40cm on the client and 44cmon the pattern.</p>
-<p><strong>40cm – 44cm = -4cm</strong></p>
+<p><strong>40cm - 44cm = -4cm</strong></p>
 <p>There is an excess of 4cm on the pattern, which I need to remove using the two side seam lines of the back, i.e. <strong>remove 2cm from either end of the stomach line. </strong>I write -2cm in the table.</p>
 <p>The low back neckline makes it quite hard to determine how much the side seam line of the back needs to be shifted at the top. But the calculations show that I need to remove 2cm in the waist, as well as in the stomach.</p>
 <p><strong>I have decided to remove the same 2cm at the bust line level and the under-bust line level.</strong> I write -2cm in the table (column 4, lines 1 and 2) keeping in mind that they refer to the back circumferences.</p>
 <p><strong>Let us take a closer look at Shoulder to Shoulder Across Front and Shoulder to Shoulder Across Back.</strong></p>
 <p><strong>Shoulder to Shoulder Across Back:</strong> it is 37cm on the client and 38cm on the pattern.</p>
-<p><strong>37cm – 38cm = -1cm</strong></p>
+<p><strong>37cm - 38cm = -1cm</strong></p>
 <p>There is an excess of 1cm on the pattern, which I need to remove using the side seam lines of the back. In other words, <strong>I need to make the back 5mm smaller in the shoulders. </strong>I write -0.5cm in the table.</p>
 <p><strong>Mid-Armhole Width Back:</strong> my client’s measurement is 31cm and it is 37.5cm on the pattern.</p>
-<p><strong>31cm – 37.5cm = -6.5cm</strong></p>
+<p><strong>31cm - 37.5cm = -6.5cm</strong></p>
 <p>There is, therefore, an excess of 6.5cm on the pattern and it needs to be distributed between the two side seam lines of the back. <strong>I need to radically change the width of the back by removing 3.2cm from either side. </strong>I write -3.2cm in the table.</p>
 <p><strong>Let us move to the length measurements. </strong></p>
-<p><strong>Centre Length Back:</strong> the measurements coincide – 37cm on the client and 37cm on the pattern.</p>
+<p><strong>Centre Length Back:</strong> the measurements coincide - 37cm on the client and 37cm on the pattern.</p>
 <p>No changes needed here.</p>
 <p><strong>Shoulder Tip to Centre Waist Back: </strong>it is 40cm on the client and 41cm on the pattern.</p>
-<p><strong>40cm – 41cm = -1cm</strong></p>
+<p><strong>40cm - 41cm = -1cm</strong></p>
 <p><strong>It follows that I need to remove a total of 1cm.</strong> I write -0.5cm in the table.</p>
 <p>Judging from my experience, it is best to mark all garment lengths, widths, and heights in their actual size when you are customizing a standard pattern.</p>
 <p><strong>And now, last but not least, let us look at Side Length:</strong> my client’s measurement is 18cm and it is 20cm on the pattern.</p>
-<p><strong>18cm – 20cm = -2cm</strong></p>
+<p><strong>18cm - 20cm = -2cm</strong></p>
 <p><strong>The pattern is 2cm longer than needed along the side.</strong> When I was re-calculating the initial pattern of the bodice, I mentioned that the biggest possible value you could remove at the top of the side seam line without shifting the waistline was 2cm. I write -2cm in columns 4 and 5.</p>
 <p><strong>These were all required calculations. </strong></p>
 <p><strong>And now I want to show you several possible methods of drafting the back of the mesh top.</strong> You can either use patterns (which is what I have already done) or use the draping method (pinning fabric directly on the dress-form). You can even add a shoulder strap if you want.</p>
 <p><strong>I simply want to remind you how to do such things. </strong></p>
-<p><strong>I will now draw the initial pattern of the back which was used for the base of the dress.</strong> I prolong the princess seam lines upwards keeping them perpendicular to the waistline. I often use an additional measurement – distance between shoulder straps. It is normally measured as bra strap to bra strap across back. A half of this measurement is usually between 8 and 9.5cm. <strong>I make it 19cm in most of my standard patterns </strong>(actual distance between seam allowances).</p>
+<p><strong>I will now draw the initial pattern of the back which was used for the base of the dress.</strong> I prolong the princess seam lines upwards keeping them perpendicular to the waistline. I often use an additional measurement - distance between shoulder straps. It is normally measured as bra strap to bra strap across back. A half of this measurement is usually between 8 and 9.5cm. <strong>I make it 19cm in most of my standard patterns </strong>(actual distance between seam allowances).</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2030_files/image020.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2030_files/image022.jpg" alt=""></p>
 <p>Distance between princess seams (aka Mid-Armhole Width Back) usually makes 19cm on my standard non-customized patterns when the garment is zipped up. It is a purely relative value.</p>
 <p>In additional, I usually measure the distance between the two corners at the top of the back to which shoulder straps are supposed to attach. <strong>My client's measurement is 26cm. </strong></p>
 <p><strong>These two measurements allow me to calculate the correct position of the corners at the back of the dress to which the shoulder strap will be sewn. </strong></p>
-<p><strong>(26cm – 19cm) / 2 = 3.5cm.</strong></p>
+<p><strong>(26cm - 19cm) / 2 = 3.5cm.</strong></p>
 <p><strong>Let me find the position of the top corner of the back. </strong></p>
 <p>I mark the calculated value (3.5cm) from the princess seam toward the side seam and draw a vertical line perpendicular to the waistline. All I need to do to find the precise position of the top corner is mark Top Corner Height from the waistline up along this vertical line. It is 24cm on my client.</p>
 <p><strong>I will sew a thin shoulder strap to this corner. </strong></p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2030_files/image024.jpg" alt=""></p>
 <p>If you want to make wide shoulder straps, you will need to know Mid-Armhole Width Back. It is measured as distance between supposed armscyes across back. It is 31cm in my client's case.</p>
 <p><strong>I draw the armscye line. </strong></p>
-<p><strong>(31cm – 19cm) / 2 = 6cm.</strong></p>
+<p><strong>(31cm - 19cm) / 2 = 6cm.</strong></p>
 <p>I mark the calculated value (6cm) from the princess seam toward the side seam and draw a vertical line perpendicular to the waistline.</p>
 <p>You can usually draw this armscye line arbitrarily; it does not have to be too precise. Experienced professionals often have a natural feel of how to draw it.</p>
-<p>I prolong the princess seam line and the armscye line – and here is a wide shoulder strap. The armscye line usually goes up to the shoulder and is basically vertical. You can double-check its position using Shoulder Tip to Side Waist and Shoulder Slope if necessary.</p>
+<p>I prolong the princess seam line and the armscye line - and here is a wide shoulder strap. The armscye line usually goes up to the shoulder and is basically vertical. You can double-check its position using Shoulder Tip to Side Waist and Shoulder Slope if necessary.</p>
 <p><img class="img-responsive center-block" src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2030_files/image026.jpg" alt=""></p>
 <p><strong>Now you know two ways of adding shoulder straps to the back of the garment: thin straps starting from raised corners at the top of the back or wide straps integrated in the armscyes.&nbsp; </strong></p>
 <p><strong>You can put the side back piece next to the central back piece and draw a smooth transition line.&nbsp; </strong></p>
@@ -396,7 +396,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -334,7 +334,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%207_files/image022.jpg" class="img-responsive center-block"></p>
 <p><strong>What alterations have we applied to the front part of the corset? </strong></p>
-<p>We have made a slanted cut across the chest and lifted up the corner, to which the shoulder strap will be attached.&nbsp; We have re-drawn the armscye in accordance with the clip measurement. It is crucial to achieve perfect correspondence with the measurement there. The corner of the corset is more or less relative so we could afford some variations. We have transferred the bust-line notch and marked the dart. When the dart takes in the fabric, the length of the side seam will remain the same – identical to that of the side seam of the back. And, of course, we have prolonged the pieces down by 3.5cm. </p>
+<p>We have made a slanted cut across the chest and lifted up the corner, to which the shoulder strap will be attached.&nbsp; We have re-drawn the armscye in accordance with the clip measurement. It is crucial to achieve perfect correspondence with the measurement there. The corner of the corset is more or less relative so we could afford some variations. We have transferred the bust-line notch and marked the dart. When the dart takes in the fabric, the length of the side seam will remain the same - identical to that of the side seam of the back. And, of course, we have prolonged the pieces down by 3.5cm. </p>
 <p><strong>Let's move to the back of the garment.</strong> </p>
 <p><strong>I trace the side piece of the back.</strong> </p>
 <p><strong>I add 3.5cm down the bottom and bring the vertical lines down at a straight angle. </strong></p>
@@ -342,7 +342,7 @@
 <p><strong>It's the same incline and the same configuration as for the side seam of the front.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%207_files/image024.jpg" class="img-responsive center-block"></p>
-<p><strong>I re-draw the side seam and the top edge of the back with the help of the initial pattern – exactly the same way I did for the side seam of the front.</strong></p>
+<p><strong>I re-draw the side seam and the top edge of the back with the help of the initial pattern - exactly the same way I did for the side seam of the front.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%207_files/image026.jpg" class="img-responsive center-block"></p>
 <p><strong>I alter the princess seam of the piece. </strong>&nbsp;</p>
@@ -380,7 +380,7 @@
 <p>There are no alterations along the bust line. The princess seam needs to be shifted inwards 7.5mm under the bust, 3mm in the waist, 1mm in the stomach, and another 2.5mm in the hips. I re-draw it using the initial pattern as a template. <strong>The resulting pattern can be used for cutting.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%207_files/image046.jpg" class="img-responsive center-block"></p>
-<p><strong>What concerns the side piece of the front,</strong> its top part will differ from this piece but the configuration of the side should be absolutely identical to that of the newly adjusted piece: the length, the dart – everything should be the same. I will then apply all alterations to the patterns and cut them out. </p>
+<p><strong>What concerns the side piece of the front,</strong> its top part will differ from this piece but the configuration of the side should be absolutely identical to that of the newly adjusted piece: the length, the dart - everything should be the same. I will then apply all alterations to the patterns and cut them out. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%207_files/image048.jpg" class="img-responsive center-block"></p>
 
@@ -393,7 +393,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

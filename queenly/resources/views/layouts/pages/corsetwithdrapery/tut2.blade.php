@@ -355,7 +355,7 @@
 <p><strong>&nbsp;&nbsp;- Along the bu st-line:</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%202_files/image052.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>You should measure it along all major lines. </strong>You could measure the side length, the length of the back – in short anything you need. </p>
+<p><strong>You should measure it along all major lines. </strong>You could measure the side length, the length of the back - in short anything you need. </p>
 <p><strong>I have just shown you what a mock-up is like. </strong>I hope I have managed to answer a very frequently asked set of questions: how to measure, what to measure, and “why do my measurements differ from yours"? You just need to sew your own mock-up! <strong>And you will get your own pattern that you know like the back of your hand!</strong></p>
 <p><strong>And now we need to alter the bottom line. </strong>This corset is way too long. And the model itself should be slightly different. I want to shorten the length so as to make a pretty down-pointing triangle. Let us draw a beautiful bottom line with a smooth passage onto the back. I shall lower the bottom line at the back because it looks better that way. </p>
 <p><strong>So, I have drawn a pretty bottom line. </strong>This line will be used as a reference for cutting and shaping the bottom edge.&nbsp; I have previously taken all measurements off the mock-up and off the client for this sake. </p>
@@ -407,7 +407,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

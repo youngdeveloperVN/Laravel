@@ -590,7 +590,7 @@
 								decreasing in size.</strong>
 						</p>
 						<p>
-							<strong>I make a row of glue drops – from the biggest to the
+							<strong>I make a row of glue drops - from the biggest to the
 								smallest.</strong>&nbsp; Make sure to account for the size of
 							each pearl bead and leave enough space between the glue drops.
 						</p>
@@ -633,7 +633,7 @@
 								distance:</strong> a relatively big distance if we are talking
 							about a wedding dress (think a wedding hall). If it's an evening
 							dress, which implies face-to-face conversations etc, then the
-							control distance should be smaller – literally just a couple of
+							control distance should be smaller - literally just a couple of
 							meters.
 						</p>
 						<p>

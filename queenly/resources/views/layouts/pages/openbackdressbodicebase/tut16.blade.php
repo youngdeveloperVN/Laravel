@@ -532,7 +532,7 @@
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%2016_files/image139.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>You can basically trim the seam allowance down to the regular width of 1.2cm at this point.</strong> But I prefer to turn the garment out and double check everything before doing that. </p>
-<p><strong>Why are we using as much as 2cm for the seam allowance of the side seams?</strong> This allows you to apply adjustments to the garment during fitting. Suppose you took a measurement incorrectly or made a mistake in calculations and now you need to shift the side seams outwards – the seam allowance will allow you to do this. It's a lot worse when there's not enough fabric. Once you are confident, you can safely trim those seam allowances. And we wouldn't have been able to sew down the side seams like that if we had already sewn in the cups. We would have had to leave bigger areas open.</p>
+<p><strong>Why are we using as much as 2cm for the seam allowance of the side seams?</strong> This allows you to apply adjustments to the garment during fitting. Suppose you took a measurement incorrectly or made a mistake in calculations and now you need to shift the side seams outwards - the seam allowance will allow you to do this. It's a lot worse when there's not enough fabric. Once you are confident, you can safely trim those seam allowances. And we wouldn't have been able to sew down the side seams like that if we had already sewn in the cups. We would have had to leave bigger areas open.</p>
 <p><strong>I join the pieces with the lining along the other side seam.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%2016_files/image141.jpg" class="img-responsive center-block"></strong></p>
@@ -555,7 +555,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

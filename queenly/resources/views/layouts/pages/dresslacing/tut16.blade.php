@@ -164,7 +164,7 @@
 <p>I lay the bone down <strong>about 0.5cm below the corner</strong> and 1mm below the stay-stitch that goes along the neckline. I start sewing it on. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2016_files/image016.jpg" class="img-responsive center-block"></p>
-<p><strong>I slightly ease in the fabric in the area between the princess seam and the middle of the neckline.</strong> Avoid easing it in too much when working on large-size garments for women with full breasts. Otherwise the cups will be too tight and dig into the body. It's the opposite task when you're sewing for a client with small breasts – you need to make the cups round artificially to make the bust appear fuller. A full-figured woman has no need in this illusion and her body really won't look aesthetically pleasing when squeezed too tight in the décolleté zone.</p>
+<p><strong>I slightly ease in the fabric in the area between the princess seam and the middle of the neckline.</strong> Avoid easing it in too much when working on large-size garments for women with full breasts. Otherwise the cups will be too tight and dig into the body. It's the opposite task when you're sewing for a client with small breasts - you need to make the cups round artificially to make the bust appear fuller. A full-figured woman has no need in this illusion and her body really won't look aesthetically pleasing when squeezed too tight in the décolleté zone.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2016_files/image018.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -290,7 +290,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

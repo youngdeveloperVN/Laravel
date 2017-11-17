@@ -378,10 +378,10 @@
 <p></p>
 <p>Working with high-stretch fabric is often associated with a particular challenge: a regular foam dress-form is no longer good enough in this case. Your client's body is noticeably different from the shape and the size of your regular dress-form, which will inevitably result in inaccuracies in the fit of a garment sewn with high-stretch fabrics. </p>
 <p>After trying out, combining and comparing various ways of working with resilient materials I developed my own method that I’m glad to share with you. <strong>The key idea is to make a custom dress-form with your client's body dimensions.</strong> </p>
-<p><strong>For a start you need to take all measurements off your client.</strong> They are all regular corset tailoring measurements plus the measurements you take for sewing garments with shoulder seams. The more measurements you take, the more precise your dress-form will be. Another important measurement to include is crotch length – the distance from the front waistline to the back waistline measured between the legs. You need this measurement for the built-in panties.&nbsp; </p>
+<p><strong>For a start you need to take all measurements off your client.</strong> They are all regular corset tailoring measurements plus the measurements you take for sewing garments with shoulder seams. The more measurements you take, the more precise your dress-form will be. Another important measurement to include is crotch length - the distance from the front waistline to the back waistline measured between the legs. You need this measurement for the built-in panties.&nbsp; </p>
 <p><strong>Materials Required for Making a Dress-Form: </strong></p>
 <p><strong>You need a large piece of paper to draw a template for what will later become your dress-form. </strong>You can use any kind of it from square paper to regular A3 paper. </p>
-<p><strong>Cardboard.</strong> You can use regular cardboard boxes. As for me I will use two flattened boxes – one put over the other to make four layers of corrugated cardboard. </p>
+<p><strong>Cardboard.</strong> You can use regular cardboard boxes. As for me I will use two flattened boxes - one put over the other to make four layers of corrugated cardboard. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%201.files/image002.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-015.jpg"></p>
 <p><strong>White craft glue:</strong> </p>

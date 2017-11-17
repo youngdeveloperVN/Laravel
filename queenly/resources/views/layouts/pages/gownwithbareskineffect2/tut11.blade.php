@@ -411,9 +411,9 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%205_files/image056.jpg" class="img-responsive center-block"></p>
 <p></p>
 <p><strong>What concerns further steps, there are two available options.</strong> </p>
-<p><strong>For one thing</strong>, you could choose not to cut the garment at this point but add appliqué lace motifs first – thereby securing the mesh as it is – and then take it off the dress-form, sew it together and apply the final decorative touches. </p>
+<p><strong>For one thing</strong>, you could choose not to cut the garment at this point but add appliqué lace motifs first - thereby securing the mesh as it is - and then take it off the dress-form, sew it together and apply the final decorative touches. </p>
 <p><strong>Or you could go another way</strong>: trim the mesh, sew the pieces together, and then put it back on the dress-form and glue on the appliqué elements in their final form (including those at the sides). To tell you the truth the second option always makes me feel worried because it's really hard to bring resilient materials back into their initial state if they haven't been secured before. </p>
-<p>That's why I will go with the first option, and that is to say – start by gluing on appliqué elements.</p>
+<p>That's why I will go with the first option, and that is to say - start by gluing on appliqué elements.</p>
 <p><strong>But first let's secure the cups in place.</strong> I secure the mesh on the cups using Gutermann textile glue. </p>
 <p>Please remember that this glue is acetone-based, which means there must be no polish on your nails or else it will stain the fabric. Moreover, you should only work with such glue in a well-ventilated room. </p>
 <p><strong>I smear the mesh right on the cups gluing it to the foam base.</strong></p>

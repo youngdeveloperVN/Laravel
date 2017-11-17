@@ -351,12 +351,12 @@
 <p>The lace from the front of the dress passes onto the back and frames the 'low-cut neckline.' The skirt features a gathered area secured by a zipper. A triangular train starts right below the bottom end of the zipper. The flounce of the skirt passes from the front onto the back. </p>
 <p>The construction of our dress might seem complicated at first but you will see that it doesn't require any strenuous efforts provided you keep to the technique and working order explained. It is all simple and logical. You will know it's nothing to wrestle with once you have familiarized yourself with all steps.</p>
 <p><strong>Now let me name the materials and tools we are going to use. </strong></p>
-<p><strong>The base of our dress – its bodysuit part – will be made of 'illusion' mesh. </strong></p>
+<p><strong>The base of our dress - its bodysuit part - will be made of 'illusion' mesh. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Introduction_files/image004.jpg" class="img-responsive center-block"> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Introduction_files/image006.jpg" class="img-responsive center-block"> </p>
-<p><strong>I have chosen dense stretch satin for the top part of the skirt </strong>so we don't have to use a lining. It's a single-layer skirt but since the fabric is opaque you don’t have to worry about your client's lingerie showing through. This fabric is also perfect for draping. Moreover, there are no side seams on the skirt – it is made as a single piece of fabric that sort of hugs the body. </p>
+<p><strong>I have chosen dense stretch satin for the top part of the skirt </strong>so we don't have to use a lining. It's a single-layer skirt but since the fabric is opaque you don’t have to worry about your client's lingerie showing through. This fabric is also perfect for draping. Moreover, there are no side seams on the skirt - it is made as a single piece of fabric that sort of hugs the body. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Introduction_files/image008.jpg" class="img-responsive center-block"> </p>
 <p><strong>The dress features two zip fasteners:</strong> one on the skirt and another on the bodysuit piece. The zipper on the bodysuit will be nude. It is equally acceptable to use a regular zipper or a blind one. You will see it for yourself in the next tutorials.</p>
@@ -374,14 +374,14 @@
 <p><strong>Semi-circular metal underwires should agree with the size of the cups.</strong> Remember that each underwire must be 1.5-2cm shorter than the bottom arch of the cup so you can insert it and secure it without trouble. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Introduction_files/image018.jpg" class="img-responsive center-block"> </p>
-<p><strong>In order to secure the underwires inside the cups we will need bone casing – i.e. special bias tape with a tunnel.</strong> This bias tape is sewn along the bottom of each cup as per usual and then you insert a semi-circular underwire into the tunnel.</p>
+<p><strong>In order to secure the underwires inside the cups we will need bone casing - i.e. special bias tape with a tunnel.</strong> This bias tape is sewn along the bottom of each cup as per usual and then you insert a semi-circular underwire into the tunnel.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Introduction_files/image020.jpg" class="img-responsive center-block"> </p>
 <p><strong>And of course we will use the flat dress-form template that we made after client's measurements in the first part of this course.</strong> I will upgrade it a little: imitate upper arms so we can work on the sleeves. Besides I will add ‘thighs’ at the bottom of the dress-form so we can use it for working on the skirt, too.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Introduction_files/image022.jpg" class="img-responsive center-block"> </p>
 <p>Basically, you could use a standard 3D dress-form for working on the skirt (it would even be easier) but that only works if your client's hip circumference does not exceed that of the dress-form. It's quite a disaster when you suddenly realize the skirt has turned out too small for the client!</p>
-<p><strong>I have described the model of our future dress.</strong> You must have already guessed that it’s sewn without a pattern but based on a flat template customized after your client's measurements. You don't need any ready-made patterns for sewing such dresses! There is also no need in any particular styling process! And although the order of assembly and the work stages are somewhat unconventional, you will get the grasp of it towards the end of the course – and then you'll be amazed at how simple and yet trendy and glamorous this dress model really is.</p>
+<p><strong>I have described the model of our future dress.</strong> You must have already guessed that it’s sewn without a pattern but based on a flat template customized after your client's measurements. You don't need any ready-made patterns for sewing such dresses! There is also no need in any particular styling process! And although the order of assembly and the work stages are somewhat unconventional, you will get the grasp of it towards the end of the course - and then you'll be amazed at how simple and yet trendy and glamorous this dress model really is.</p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->

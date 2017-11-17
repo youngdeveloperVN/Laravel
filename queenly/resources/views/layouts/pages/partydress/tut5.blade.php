@@ -303,7 +303,7 @@
 <p><strong>I sew on that rounded narrow Rigilene bone along the under-bust line (lines 10 and 13 after the markings).</strong> </p>
 <p></p>
 <p><strong>Please note the way I am going to do it for this very corset model!</strong> </p>
-<p>I begin by doing it the usual way – starting from the stay-stitch at the top. I ease in in the rounding area to create some fullness for the cups.</p>
+<p>I begin by doing it the usual way - starting from the stay-stitch at the top. I ease in in the rounding area to create some fullness for the cups.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%205_files/image015.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -334,7 +334,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

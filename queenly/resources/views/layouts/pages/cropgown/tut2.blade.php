@@ -170,7 +170,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design – Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
+						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design - Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -271,7 +271,7 @@
 <p><strong>The initial pattern is made in such a way that a 2cm change in the bust circumference corresponds with a 3mm shift of the pattern outline up or down those transverse lines. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%201.files/image010.jpg" alt=""></p>
 <p><strong>Suppose your client has a bust circumference of 92cm. </strong>In this case, the difference from the pattern is as follows:</p>
-<p><strong>92cm – 88cm = 4cm</strong></p>
+<p><strong>92cm - 88cm = 4cm</strong></p>
 <p>I know that I need to expand the pattern by 3mm along each transverse line to add 2cm to the bust circumference. But it needs to be made 4cm bigger in this particular case. <strong>For this reason, what I do is mark 6mm up from the red intersection point along each transverse line. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%201.files/image012.jpg" alt=""></p>
 <p><strong>I connect these new points preserving the original shape of the pattern and thereby adjust the front piece to the required measurement. </strong>The dart stays in the same place in most cases.</p>
@@ -279,13 +279,13 @@
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%201.files/image014.jpg" alt=""></strong></p>
 <p><strong>Here is an adjusted base for the front piece. </strong>To be honest, I would not recommend changing the initial pattern like that if the difference in the bust circumferences is less than 4cm. In that case you can always adjust the initial pattern the traditional way after comparing pattern measurements and client’s measurements.</p>
 <p><strong>Let us look at another example when the client’s bust circumference is noticeably larger than on the pattern. Suppose it is 102cm. </strong>In this case, the difference between the measurements is:</p>
-<p><strong>102cm – 88cm = 14cm</strong></p>
+<p><strong>102cm - 88cm = 14cm</strong></p>
 <p>Knowing that every 2cm added to the bust circumference corresponds with 3mm marked up along each transverse line, <strong>I mark 21mm up from the red intersection point along each transverse line, connect the new points, and get an adjusted front piece. </strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%201.files/image016.jpg" alt=""></strong></p>
 <p><strong>The same is done if you need to make the pattern smaller, only in this case you mark the required number of millimeters down the transverse lines, i.e. inwards the pattern. </strong></p>
 <p><strong>Suppose my client has a bust circumference of 84cm.</strong> In this case, the difference between the measurements is as follows:</p>
-<p><strong>84cm – 88cm = -4cm</strong></p>
+<p><strong>84cm - 88cm = -4cm</strong></p>
 <p>I know that every 2cm removed from the bust circumference corresponds with 3mm marked down each transverse line. But in this case the bust circumference needs to be made 4cm smaller. <strong>What I do is mark 6mm down from the red intersection points along each transverse line, connect the new points, and get an adjusted front piece. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%201.files/image018.jpg" alt=""></p>
 <p><strong>Then you take all measurements off the adjusted pattern, compare them with your client’s measurements, and apply further adjustments if necessary. </strong></p>
@@ -318,7 +318,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

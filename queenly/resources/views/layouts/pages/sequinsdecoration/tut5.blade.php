@@ -146,7 +146,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/decoration/6/Tutorial%205_files/image009.jpg" class="img-responsive center-block"></p>
 <p></p>
 <p><strong>I highly recommend</strong> that you take a piece of fabric, embroider it with various stitches, hang it on the dress-form, and study it at different lighting conditions. You will be able to see what type of sequin decor reflects the light the best and whether it sparkles the way you want it to on the garment. This small experiment will help you decide how to decorate this or that particular dress! Otherwise you might realize you were wrong after embroidering the dress and then you will have start anew. </p>
-<p><strong>Always make a test sample!</strong> Even if you don't doubt the quality of your sequins, I recommend you should still take a piece of fabric from your garment, sew some sequins on it, wash it, and see what happens. If all is well, then you can use these sequins and this decoration technique. And if something goes wrong, then purchase other sequins – perhaps, matte, without any additional effects – and try them out the same way. </p>
+<p><strong>Always make a test sample!</strong> Even if you don't doubt the quality of your sequins, I recommend you should still take a piece of fabric from your garment, sew some sequins on it, wash it, and see what happens. If all is well, then you can use these sequins and this decoration technique. And if something goes wrong, then purchase other sequins - perhaps, matte, without any additional effects - and try them out the same way. </p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->

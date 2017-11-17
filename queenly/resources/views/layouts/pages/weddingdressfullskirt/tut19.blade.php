@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -378,7 +378,7 @@
 <img src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2018_files/image106.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>Bones 1, 2, 4, and 5 pass across the entire front part of the cups.</strong></p>
 <p><strong>I step 2cm from the front princess seams and mark bones 11 and 12 at an angle. </strong></p>
-<p><strong>Vertical bones 13 and 14 are placed 3cm from the central vertical line on the piece.</strong> They must be symmetric – otherwise they are likely to deform the shape of the neckline. </p>
+<p><strong>Vertical bones 13 and 14 are placed 3cm from the central vertical line on the piece.</strong> They must be symmetric - otherwise they are likely to deform the shape of the neckline. </p>
 <p><strong>Sometimes, easing in the cups to give them a round shape may result in a small fold along the under-bust line. </strong>I usually solve this problem by sewing a 5mm-1cm dart. This dart will get overlaid by the face fabric. You can even sew darts on the face if you plan to decorate these areas are with appliqué or other embellishments. </p>
 <p>
 <img src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2018_files/image108.jpg" class="img-responsive center-block"></p>
@@ -406,7 +406,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -319,10 +319,10 @@
 <p><strong>You can see the skirt pattern in the picture below.</strong> It is very large: what you see in the picture is the actual skirt pattern folded in half.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2022-1_files/image012.jpg" alt="plux1-2-006 v:shapes="></p>
 <p><strong>Speaking about the design, it is a typical half-circle skirt with a train at the back.</strong> The radius of the half-circle is 24cm, which corresponds with a waist circumference of about 65-66cm. The skirt is 165cm at the back and 120cm at the front. The front half of the skirt has a fold line and the back half has a seam in the middle.</p>
-<p><strong>Seam allowances are not included in the pattern</strong> – remember to account for them in the cutting process. The pattern and related guidelines are included in the book.</p>
+<p><strong>Seam allowances are not included in the pattern</strong> - remember to account for them in the cutting process. The pattern and related guidelines are included in the book.</p>
 <p><strong>You can see a red line parallel to the bottom edge of the pattern. </strong>It bears a direct relation to the cutting process. As I said, the base of the skirt will be made of two layers: soft and hard mesh fabric. The bottom part of the skirt with a width of 30cm (the part of the pattern from the bottom to the red line) will be made of two layers of hard mesh fabric. Everything above the red line will be cut from the soft mesh fabric.</p>
 <p><strong>The hard mesh fabric is used to</strong> make the hem of the skirt wavy while preserving its rounded shape. Additional soft Rigilene boning will make the hem stiffer and help it hold the shape.</p>
-<p><strong>The rest of the lines marked on the pattern</strong> are your guidelines for sewing on the ruffles – the most valuable part of the pattern. We will talk about them a little later.</p>
+<p><strong>The rest of the lines marked on the pattern</strong> are your guidelines for sewing on the ruffles - the most valuable part of the pattern. We will talk about them a little later.</p>
 <p><strong>I start cutting the skirt.</strong> The pattern is large so I work right on the floor.</p>
 <p><strong>I cut the hard mesh fabric first. </strong>The fabric is folded in half. I carefully press the fold line, align it with the fold line of the pattern, and secure them with pins. I will cut the mesh with a 1.2cm seam allowance along the hem, above the red line, and along the edges of the central back seam. The fabric has a width of 185cm and a length of 4m.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2022-1_files/image014.jpg" alt="plux1-2-007 v:shapes="></p>
@@ -348,7 +348,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

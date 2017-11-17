@@ -234,7 +234,7 @@
 <p>I have found several dress models on the Internet and now I will try to "put" them on Vicky.</p>
 <p><strong>Take this dress, for example: </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%201_files/image008.jpg" alt=""></p>
-<p>It is a great choice for primary school-aged girls. The waistline is basically placed in its natural position on the original dress. It needs to be made a little higher with the help of decorative elements, which is exactly what we see – those flowers and waistband.</p>
+<p>It is a great choice for primary school-aged girls. The waistline is basically placed in its natural position on the original dress. It needs to be made a little higher with the help of decorative elements, which is exactly what we see - those flowers and waistband.</p>
 <p><strong>One should never forget about proportions though! </strong></p>
 <p><strong>First of all, let us examine it from the golden ratio point of view.</strong> It works perfectly with the length of the skirt, the position of the waistline, and the shoulder line position.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%201_files/image010.jpg" alt=""></p>
@@ -244,7 +244,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%201_files/image014.jpg" alt=""></p>
 <p><strong>Here is another dress, a long one: </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%201_files/image016.jpg" alt=""></p>
-<p><strong>Let us examine it carefully. </strong>We know that the girl is six heads tall, i.e. her head-to-height ratio is 1:6. If the dress has a long skirt and a short bodice, then the bodice should take up one sixth of the dress and the long slightly flared skirt – the remaining five sixths. <strong>I mark a dress length which suits Vicky's proportions.</strong> You will know that I am right when you look at the pictures below.</p>
+<p><strong>Let us examine it carefully. </strong>We know that the girl is six heads tall, i.e. her head-to-height ratio is 1:6. If the dress has a long skirt and a short bodice, then the bodice should take up one sixth of the dress and the long slightly flared skirt - the remaining five sixths. <strong>I mark a dress length which suits Vicky's proportions.</strong> You will know that I am right when you look at the pictures below.</p>
 <p><strong>Here is a well-proportioned dress for Vicky:</strong> one sixth for the bodice and five sixths for the free flowing skirt.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%201_files/image018.jpg" alt=""></p>
 <p>The waist is purposely placed a little higher than natural to balance out the proportions.</p>

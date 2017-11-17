@@ -379,7 +379,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%207_files/image021.jpg" class="img-responsive center-block"></p>
 <p><strong>It's time to cut the pieces from the lace and from mesh fabric.</strong> </p>
-<p>My <strong>lace</strong> is rather delicate and stretches quite well. On the one hand this kind of lace will cling to the body very well – on the other hand it is rather difficult to deal with. </p>
+<p>My <strong>lace</strong> is rather delicate and stretches quite well. On the one hand this kind of lace will cling to the body very well - on the other hand it is rather difficult to deal with. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%207_files/image023.jpg" class="img-responsive center-block"></p>
 <p><strong>A great way out is to duplicate the lace pieces with additional mesh fabric.</strong> I have chosen mesh fabric that differs from traditional skirt bobbinet and from bridal veiling. It is special mesh fabric used in see-through corsets and in bodysuits. It is very transparent and stretches really well crosswise but a lot less well lengthwise. In other words it is very resilient. </p>
@@ -416,7 +416,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

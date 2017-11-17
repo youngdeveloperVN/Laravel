@@ -375,7 +375,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2027_files/image056.jpg" class="img-responsive center-block"></p>
 <p><strong>But it is more challenging than that! </strong>You could sew the straps together tightly so that the client would put the corset on by pulling the straps over her head. This usually has a negative influence upon the fit of the corset. First of all, the straps should always be somewhat tense and the corset will definitely “jump up" if your client doesn’t hold it firmly at the waistline when she wears it! The fit and the balance of the garment get distorted. And then women usually put such garments on with make-up and a fancy hair-do already on. Now imagine that your client with lipstick, eye-shadows and blush on her face and with beautifully done hair has to somehow squeeze through a rather small opening! This is sure quite a bad idea! </p>
 <p><strong>So the following question is always important: how to leave the straps open for now and then manage to secure them on our finished corset? </strong></p>
-<p><strong>We have come up with a great idea for Kate, my daughter-in-law and my client, and you can most likely use this idea, too! Here!</strong> Instead of shortening the original length of the straps I have folded the seam allowance by about 1.5cm and stitched a ribbon folded in half to it. This is the same kind of a ribbon I use for lacing the corset. The length of this ribbon is optional – mine is 25cm when folded or 50cm at full length. </p>
+<p><strong>We have come up with a great idea for Kate, my daughter-in-law and my client, and you can most likely use this idea, too! Here!</strong> Instead of shortening the original length of the straps I have folded the seam allowance by about 1.5cm and stitched a ribbon folded in half to it. This is the same kind of a ribbon I use for lacing the corset. The length of this ribbon is optional - mine is 25cm when folded or 50cm at full length. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2027_files/image058.jpg" class="img-responsive center-block"></p>
 <p><strong>Then I have sewn a loop out of a pencil-edge fabric strap onto the corset with one end at the side seam and the other at the princess seam of the back. </strong></p>
@@ -411,7 +411,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

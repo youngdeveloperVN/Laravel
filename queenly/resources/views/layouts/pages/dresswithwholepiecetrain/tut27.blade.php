@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -357,7 +357,7 @@
 <p><strong>The transition of the side seam from the waist to the hip should settle over the pear-shaped mould particularly smoothly. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2027_files/image004.jpg" class="img-responsive center-block"></p>
-<p><strong>You can press the straight areas of the side seam on your regular pressboard or table. </strong>A sleeve board also comes in handy: the garment hangs freely at the sides, which prevents the press-iron from touching the areas you don’t want to press. Don’t use very strong steam – it might deform the adjoining areas. </p>
+<p><strong>You can press the straight areas of the side seam on your regular pressboard or table. </strong>A sleeve board also comes in handy: the garment hangs freely at the sides, which prevents the press-iron from touching the areas you don’t want to press. Don’t use very strong steam - it might deform the adjoining areas. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2027_files/image006.jpg" class="img-responsive center-block"></p>
 <p><strong>I press the area that formed at the transition of the open side seam to the closed seam on the lining. </strong></p>
@@ -372,7 +372,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2027_files/image014.jpg" class="img-responsive center-block"></p>
 <p>Anyone who plans to make a living from sewing wedding or evening dresses will appreciate the benefits of this technique of open side seams. You could polish it up for working on single orders or custom VIP-orders. </p>
-<p><strong>Let’s press the side seams of the lining. </strong>You can press the seam allowance flat towards the front – it’ll make the transition from the open side seam to the closed one look neater. Of course you could notch the seam allowances on the lining, fold them inwards and stitch it up but any additional stitches at the top might pull on the lining and result in a crease or a ‘bubble’ on the side of the dress. </p>
+<p><strong>Let’s press the side seams of the lining. </strong>You can press the seam allowance flat towards the front - it’ll make the transition from the open side seam to the closed one look neater. Of course you could notch the seam allowances on the lining, fold them inwards and stitch it up but any additional stitches at the top might pull on the lining and result in a crease or a ‘bubble’ on the side of the dress. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2027_files/image016.jpg" class="img-responsive center-block"></p>
 <p>
@@ -390,7 +390,7 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2027_files/image026.jpg" class="img-responsive center-block"></p>
-<p><strong>Next we should press the side seams of the lace skirt. </strong>Their seam allowances can be directed to either side – they will be hardly noticeable in any case. If your lace is rather stiff, you can even out the seam allowances and trim them a little to make them thinner. </p>
+<p><strong>Next we should press the side seams of the lace skirt. </strong>Their seam allowances can be directed to either side - they will be hardly noticeable in any case. If your lace is rather stiff, you can even out the seam allowances and trim them a little to make them thinner. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2027_files/image028.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -419,7 +419,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

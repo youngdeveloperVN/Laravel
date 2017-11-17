@@ -376,7 +376,7 @@
 <p><strong>I start upgrading our dress-form template.</strong> </p>
 <p><strong>First of all we need to add sleeves to imitate off-shoulder straps on the dress. </strong>You need to measure your client's arm fullness in order to draw the sleeves. </p>
 <p>This measurement is taken from the front corner of the armscye to its back corner over the arm that either hangs freely or is slightly moved out to the side. You can measure it with the arm hanging freely if your sleeves will be made of highly resilient fabric (they can stretch during movement). But if you plan to have some rather stiff appliqué elements on the sleeves that are likely to obstruct arm movements, then you should measure the arm fullness with the arm slightly moved out to the side. </p>
-<p><strong>My client's arm fullness measurement is 21cm.</strong> I place a piece of cardboard to the edge of the dress-form and mark a half of it – 10.5cm. </p>
+<p><strong>My client's arm fullness measurement is 21cm.</strong> I place a piece of cardboard to the edge of the dress-form and mark a half of it - 10.5cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Key%20Measurements_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>I draw a sleeve.</strong> </p>

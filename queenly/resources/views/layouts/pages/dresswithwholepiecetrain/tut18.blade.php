@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -353,9 +353,9 @@
 <p><strong>We have pinned lace overlays to the face pieces and now we need to join them by machine-stitching. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2018_files/image002.jpg" class="img-responsive center-block"></p>
-<p><strong>These pieces should only be joined along their vertical open edges! </strong>If you really have to stitch along the horizontal lines for whatever reason, remember – only short bar tacks are acceptable. </p>
+<p><strong>These pieces should only be joined along their vertical open edges! </strong>If you really have to stitch along the horizontal lines for whatever reason, remember - only short bar tacks are acceptable. </p>
 <p>I am going to attach the lace to the pieces of the front down to the hip line following their side seam and princess seam lines. On the back pieces I’ll follow the princess seams down to the beginning of the flare and sew along the central open edges down to the level 3-4cm below the zipper. </p>
-<p><strong>I stitch at a presser-foot distance from the edge without making any bar tacks. </strong>I recommend that you use the biggest stitch spacing possible – this way you’ll be able to correct the stitch line if necessary. </p>
+<p><strong>I stitch at a presser-foot distance from the edge without making any bar tacks. </strong>I recommend that you use the biggest stitch spacing possible - this way you’ll be able to correct the stitch line if necessary. </p>
 <p><strong>The side front piece: </strong></p>
 <p><strong>I join it with the lace down to the hip level following the princess seam line. </strong>When you sew up the princess seam between this piece and the central front piece, you’ll join the main pieces and their lace overlays down to the hip line and then join each layer separately below it. </p>
 <p>
@@ -545,7 +545,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

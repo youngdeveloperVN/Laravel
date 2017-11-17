@@ -227,7 +227,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2020_files/image062.jpg" class="img-responsive center-block"></p>
 <p><strong>I need to carefully press it all now.</strong></p>
-<p><strong>I take the largest cup pressing mould – it is the best one for pressing the top of the cups.</strong> </p>
+<p><strong>I take the largest cup pressing mould - it is the best one for pressing the top of the cups.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2020_files/image064.jpg" class="img-responsive center-block"></p>
 <p>You can pin the layers together at the sides to pull the face fabric on properly. </p>
@@ -255,7 +255,7 @@
 <p><strong>I have tried to re-distribute the right under-bust dart that I forgot to sew down using the entire side seam.</strong> And it has worked out. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2020_files/image082.jpg" class="img-responsive center-block"></p>
-<p><strong>Now I do the same from the left side.</strong> Of course this can only work with rather soft and loosely-woven fabric that's easy to press. Such is the crêpe I'm using – pliable, soft and easily shaped under steam pressure. This wouldn't work with dry-clean fabric like taffeta for example! </p>
+<p><strong>Now I do the same from the left side.</strong> Of course this can only work with rather soft and loosely-woven fabric that's easy to press. Such is the crêpe I'm using - pliable, soft and easily shaped under steam pressure. This wouldn't work with dry-clean fabric like taffeta for example! </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2020_files/image084.jpg" class="img-responsive center-block"></p>
 <p>
@@ -290,7 +290,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

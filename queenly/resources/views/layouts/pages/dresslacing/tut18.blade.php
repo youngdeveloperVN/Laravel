@@ -185,7 +185,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2018_files/image030.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2018_files/image032.jpg" class="img-responsive center-block"></p>
-<p><strong>I have secured the polyester. Now I can remove all pins that held it inside the cups.</strong> There's an easy way to make sure you have removed all pins – simply turn the dress around and check if you can see any punctures from the other side. <strong>Next, trim the polyester as close as possible to the stitch.</strong> You can also trim any tucks or folds or unnecessary thickenings if relevant. </p>
+<p><strong>I have secured the polyester. Now I can remove all pins that held it inside the cups.</strong> There's an easy way to make sure you have removed all pins - simply turn the dress around and check if you can see any punctures from the other side. <strong>Next, trim the polyester as close as possible to the stitch.</strong> You can also trim any tucks or folds or unnecessary thickenings if relevant. </p>
 <p><strong>Please look at the corner of the neckline.</strong> Later, after you sew the face onto the lining, you can fuse an additional piece of iron-on batiste in this corner to protect it from falling in or sticking out. I pin a piece of batiste down lest I forget. Later I will fuse it on.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2018_files/image034.jpg" class="img-responsive center-block"></p>
@@ -201,7 +201,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

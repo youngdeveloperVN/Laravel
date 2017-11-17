@@ -266,7 +266,7 @@
 <p><strong>But I haven't finished the shoulder straps yet. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2020_files/image004.jpg" alt=""></p>
 <p><strong>There are many possible ways you can add shoulder straps to a dress depending on the overall style and personal preferences.</strong></p>
-<p>You can take the pattern included in the book, cut the remaining part of the strap that did not fit into the main lay, and sew it to the face and the lining of the dress – <strong>it is the first option. The second possible option</strong> is to sew lace shoulder straps with scalloped edges. The strap should have a width of 2.5cm and include a 1.2cm seam allowance from either side. You can choose beautiful lace with motifs matching those on the lace overlay of your dress.</p>
+<p>You can take the pattern included in the book, cut the remaining part of the strap that did not fit into the main lay, and sew it to the face and the lining of the dress - <strong>it is the first option. The second possible option</strong> is to sew lace shoulder straps with scalloped edges. The strap should have a width of 2.5cm and include a 1.2cm seam allowance from either side. You can choose beautiful lace with motifs matching those on the lace overlay of your dress.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%2020_files/image006.jpg" alt=""></p>
 <p><strong>Finally, the third option</strong> is to sew chiffon halter-neck straps that will be tied in a bow at the back <strong>(which is exactly what I am going to do)</strong>. As you remember, the dress will be complemented with removable chiffon sleeves − and this makes chiffon straps the most harmonious choice. Now I just need to prepare them and sew them in place and then join the face of the dress with the lining.</p>
 <p><strong>Considering the required width of the halter-neck strap (2.5cm), I need two straps of chiffon with a width of 18cm which includes seam allowances for finishing the edges.</strong> You can tear off the two straps or cut them with a soldering iron. It does not matter what method you choose as long as their edges are protected from fraying.</p>
@@ -323,7 +323,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Bell Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/model.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The Model</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/patterns-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

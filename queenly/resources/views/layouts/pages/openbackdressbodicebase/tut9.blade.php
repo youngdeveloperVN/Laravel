@@ -349,7 +349,7 @@
 <p><strong>I have cut out lace pieces that fully correspond with the parts of the back of the dress.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%209_files/image008.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>I put the first lace piece over the corresponding back piece and pin them together carefully aligning the notches.</strong> I would strongly advise not to use the sewing machine for joining these pieces – it will inevitably draw up such delicate fabrics.</p>
+<p><strong>I put the first lace piece over the corresponding back piece and pin them together carefully aligning the notches.</strong> I would strongly advise not to use the sewing machine for joining these pieces - it will inevitably draw up such delicate fabrics.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%209_files/image010.jpg" class="img-responsive center-block"></p>
 <p>
@@ -366,7 +366,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

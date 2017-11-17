@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -363,7 +363,7 @@
 <p><strong>Our skirt will be cut following the semi-circle skirt principle. </strong>If you use the method for cutting full-circle skirts, it will be very full at the top and down the bottom and won’t lie as beautifully as we want. Our particular model looks elegant exactly because the skirt is not so full at the top and yet very graceful at the back. </p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2031_files/image004.jpg" class="img-responsive center-block"></strong></p>
-<p>You probably know that the folds of a semi-circle skirt will be distributed evenly between its front and back if you join its open edges and locate the seam on the side. But if you locate it in the middle from the back of the skirt, most folds will pass onto the back and the front will look more modest and smooth. That’s exactly what we want. We want the skirt to have more folds on the train and as few as possible around the waistline – the front should look balanced. </p>
+<p>You probably know that the folds of a semi-circle skirt will be distributed evenly between its front and back if you join its open edges and locate the seam on the side. But if you locate it in the middle from the back of the skirt, most folds will pass onto the back and the front will look more modest and smooth. That’s exactly what we want. We want the skirt to have more folds on the train and as few as possible around the waistline - the front should look balanced. </p>
 <p><strong>We’re going to calculate the pattern of our semi-circle skirt upon the assumption that the central seam at the back is 2m long and the front of the skirt is 120cm long. </strong></p>
 <p><strong>Let’s calculate the radius of the waistline (R).</strong> </p>
 <p>
@@ -424,7 +424,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

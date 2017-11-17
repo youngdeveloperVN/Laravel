@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -222,7 +222,7 @@
 </span> <!-- Scope END: ImageObject -->
 <div itemprop="articleBody">
 <h1>Tutorial 8. Positioning Bottom Ruffles on the Petticoat.</h1>
-<p>The gathered ruffle is 380cm long – just what I needed.</p>
+<p>The gathered ruffle is 380cm long - just what I needed.</p>
 <p><strong>First I will put that additional ruffle along the bottom edge of the petticoat </strong>and then I will put the main ruffle along the sewing line marked for hoop 1.</p>
 <p><strong>I mark a line for the additional ruffle. </strong>I step 3cm down the side seam from the second hoop. And I step 7cm down (and not 5cm as was planned initially) from the second hoop in the area between the train line and the central back seam.</p>
 <p><strong>As the result, part of the ruffle runs parallel to the hoop and then it gradually goes up. </strong></p>
@@ -314,7 +314,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

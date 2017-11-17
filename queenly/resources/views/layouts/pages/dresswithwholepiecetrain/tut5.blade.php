@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -336,7 +336,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 5. Cutting the Mock-Up.">
 <meta itemprop="headline" content="Tutorial 5. Cutting the Mock-Up.">
-<meta itemprop="description" content="Tutorial 5. Cutting the Mock-Up. So I have taken my mock-up fabric and arranged the adjusted patterns on top of it. I place the hip line at the selvage. I always cut fabric crosswise – it’s easier and it helps reduce fabric consumption.">
+<meta itemprop="description" content="Tutorial 5. Cutting the Mock-Up. So I have taken my mock-up fabric and arranged the adjusted patterns on top of it. I place the hip line at the selvage. I always cut fabric crosswise - it’s easier and it helps reduce fabric consumption.">
 <meta itemprop="articleSection" content="Dress with Whole-Piece Train">
 <meta itemprop="keywords" content="dress with whole-piece train, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -350,7 +350,7 @@
 <div itemprop="articleBody">
 <h3>Tutorial 5. Cutting the Mock-Up. </h3>
 <p></p>
-<p><strong>So I have taken my mock-up fabric and arranged the adjusted patterns on top of it. </strong>I place the hip line at the selvage. I always cut fabric crosswise – it’s easier and it helps reduce fabric consumption. </p>
+<p><strong>So I have taken my mock-up fabric and arranged the adjusted patterns on top of it. </strong>I place the hip line at the selvage. I always cut fabric crosswise - it’s easier and it helps reduce fabric consumption. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%205_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>I have traced the patterns, transferred all notches and marked the major lines </strong>so I can still see them after finishing the mock-up and putting it on the dress-form. I secure the layers with a few pins to prevent the fabric from sliding. </p>
@@ -366,7 +366,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%205_files/image010.jpg" class="img-responsive center-block"></p>
 <p><strong>How come the lacing area should by no means stop at the waistline? </strong></p>
-<p>The thing is the spine of a healthy human has a particularly distinct natural curve at this very spot. So if your lacing area stops at the waistline, there’ll be an opening between the lacing and the zipper when the dress is laced and zipped up. It doesn’t look pretty at all! I have seen it lots of times on low-quality corsets made in China. That’s why the lacing should always stop at least 4cm below the waistline – the best choice is 6-7cm because in this case the back of the dress will be snug against the skin and the woman will feel comfortable. </p>
+<p>The thing is the spine of a healthy human has a particularly distinct natural curve at this very spot. So if your lacing area stops at the waistline, there’ll be an opening between the lacing and the zipper when the dress is laced and zipped up. It doesn’t look pretty at all! I have seen it lots of times on low-quality corsets made in China. That’s why the lacing should always stop at least 4cm below the waistline - the best choice is 6-7cm because in this case the back of the dress will be snug against the skin and the woman will feel comfortable. </p>
 <p>The lacing area can also stop 12cm below the waistline if you wish to increase the tightening effect and restrict the stomach. It will also help re-shape the upper part of the hips in a nice way. However I wouldn’t recommend prolonging the lacing area to the hip line. </p>
 <p>I prefer tracing paper patterns rather than pinning them to fabric. I cut patterns following the outlines. </p>
 <p><strong>I haven’t marked the under-bust line across all patterns since its location on the back changes after you join them.</strong> </p>
@@ -396,7 +396,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

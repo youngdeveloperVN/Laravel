@@ -221,12 +221,12 @@
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%2010.files/image002.jpg" alt=""></strong></p>
 <p><strong>I need the following measurements:</strong></p>
 <p><strong>- Waist to Floor (109cm). </strong>This measurement is used to adjust the height of the dress-form correctly and ensure perfect accuracy of all other necessary measurements.</p>
-<p><strong>- Mini-Skirt Bottom Circumference – 100cm.</strong> In other words, it is the length of the top edge of the face part of the skirt.</p>
-<p><strong>- Front Skirt Length – 83cm.</strong></p>
-<p><strong>- Side Skirt Length – 87cm.</strong></p>
-<p><strong>- Back Skirt (Train) Length – 92cm.</strong></p>
-<p><strong>- Back Princess Seam to Back Princess Seam (Top Part) – 25cm.</strong></p>
-<p><strong>- Back Princess Seam to Back Princess Seam (Skirt) – 110cm. This measurement was taken 70cm below the top edge of the skirt. </strong></p>
+<p><strong>- Mini-Skirt Bottom Circumference - 100cm.</strong> In other words, it is the length of the top edge of the face part of the skirt.</p>
+<p><strong>- Front Skirt Length - 83cm.</strong></p>
+<p><strong>- Side Skirt Length - 87cm.</strong></p>
+<p><strong>- Back Skirt (Train) Length - 92cm.</strong></p>
+<p><strong>- Back Princess Seam to Back Princess Seam (Top Part) - 25cm.</strong></p>
+<p><strong>- Back Princess Seam to Back Princess Seam (Skirt) - 110cm. This measurement was taken 70cm below the top edge of the skirt. </strong></p>
 <p>I have marked the middle of the front, the middle of the back, as well as front and back princess seams on the schematic drawing of the top part of the dress. I have also prolonged the back princess seam line down to the bottom of the skirt.</p>
 <p><strong>And now let me tell you how I am going to cut this skirt.</strong></p>
 <p><strong>The face of the skirt will be made of two individually cut parts or halves: </strong>the first half (1) is the front of the skirt limited by the back princess seams, and the second half (2) is the back of the skirt limited by the same back princess seams.</p>
@@ -237,7 +237,7 @@
 <p><strong>And the second part (2) will be cut as a trapeze. </strong>It can be made of two parts joined by a central seam: in this case, you will spare up to about 1m of fabric. The central seam will be disguised by the décor put on the skirt. You can also cut a whole trapeze piece. Regardless of the way you do it, the central vertical axis will run parallel to the lengthwise grain.</p>
 <p><strong>Let me do the calculations for cutting the half-circle piece (1). </strong></p>
 <p><strong>I need to know the circumference of the top part of the skirt (i.e. waist circumference). I will name it C (1). </strong>In this particular case, it is the length of the arc going across the front of the skirt from one back princess seam to the other. You will find this value by subtracting Back Princess Seam to Back Princess Seam (Top Part) from Mini-Skirt Bottom Circumference:</p>
-<p><strong>C (1) = 100cm – 25cm = 75cm</strong></p>
+<p><strong>C (1) = 100cm - 25cm = 75cm</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%2010.files/image004.jpg" alt=""></p>
 <p><strong>There is a fixed formula for working with half-circle skirts: </strong></p>
 <p><strong>πR = Waist Circumference</strong></p>
@@ -246,11 +246,11 @@
 <p><strong>R = 25cm</strong></p>
 <p><strong>It is easy to draw a half-circle skirt knowing the radius and the lengths. </strong></p>
 <p><strong>And it is exactly the length measurements of the face part of the skirt that I would like to talk about now. </strong>After examining the draft one more time, I can tell for sure that its train will be very short. There is only 9cm difference between the front length of the skirt and the length of the train.</p>
-<p><strong>92cm – 83cm = 9cm</strong></p>
+<p><strong>92cm - 83cm = 9cm</strong></p>
 <p><strong>I have decided to extend the train by adjusting the length of the skirt. </strong>The finished petticoat will stay unchanged. If I notice that it does not hold the shape of the skirt well enough, I will add another ruffle at the bottom.</p>
 <p><strong>The skirt is 83cm long at the front.</strong> This length was measured down to the floor level. And it is a very important measurement because it defines the length of the dress. The rest of the dress, starting basically from the side seams, will drag along the floor. The front length of the skirt may be limited to the level of the bottom ruffle. I have measured the distance from the bottom edge of the ruffle to the floor along the front on the dress-form and got 4cm. This means I can shorten the front length by 4cm and thereby increase the difference between the front skirt length and the train length.</p>
 <p><strong>The adjusted Front Skirt Length will be 79cm. </strong></p>
-<p><strong>83cm – 4cm = 79cm</strong></p>
+<p><strong>83cm - 4cm = 79cm</strong></p>
 <p><strong>I will add 20cm to the initial Front Skirt Length and make it 107cm. </strong></p>
 <p><strong>87cm + 20cm = 107cm</strong></p>
 <p><strong>I will add 38cm to the initial Back Skirt (Train) Length and make it 140cm. </strong></p>

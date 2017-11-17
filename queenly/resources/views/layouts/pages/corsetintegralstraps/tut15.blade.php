@@ -303,7 +303,7 @@
 <p><strong>Make sure no tucks or overlaps appear on the face side of the piece. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2015_files/image012.jpg" class="img-responsive center-block"></p>
-<p><strong>Don’t worry if the lines we drew for the cups don’t match properly – this is no big deal!</strong> The most important thing is that the middle of the bust is well-matched. </p>
+<p><strong>Don’t worry if the lines we drew for the cups don’t match properly - this is no big deal!</strong> The most important thing is that the middle of the bust is well-matched. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2015_files/image014.jpg" class="img-responsive center-block"></p>
 <p><strong>Looking at the inside of the cup I hold by my opinion in that I won’t place a bone over the princess seam. </strong>The thing is that this princess seam is located aside from the middle of the bust and, since it’s purely decorative, there is no point in highlighting it or making it stiffer. I prefer placing bones along the lines I drew as well as other inner bones. And I will simply press this spot over my cup pressing mould, round it and flatten it a little to achieve a beautiful shape. </p>
@@ -313,7 +313,7 @@
 <p><strong>And then I go on to the next side. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2015_files/image018.jpg" class="img-responsive center-block"></p>
-<p>Be careful with sharp turns – try to stitch a line that’s as accurate as possible. And then stitch along the other side of the strap moving on to the neckline. <strong>The stay-stitch is a kind of a guideline that shows where to sew on the bones. </strong></p>
+<p>Be careful with sharp turns - try to stitch a line that’s as accurate as possible. And then stitch along the other side of the strap moving on to the neckline. <strong>The stay-stitch is a kind of a guideline that shows where to sew on the bones. </strong></p>
 <p><strong>I gather a narrow Rigilene bone to prepare it for getting sewn-on across the perimeter. </strong>I tape its end with a piece of masking tape. </p>
 <p><strong>I start at the corner as usual. </strong>I step a couple millimeters from the vertical stay-stitch and place the bone 1mm below the horizontal stay-stitch. <strong>I keep sewing it on without gathering until I reach the princess seam. </strong></p>
 <p>
@@ -327,7 +327,7 @@
 <p><strong>And I gather the next bone, tape its end with some masking tape and push it underneath the previous bone. </strong>I make a bar-tack at the start and ease in the fabric underneath the bone in the underarm area to make sure it will be snug against the skin. I trim the bone 0.5cm from the edge of the iron-on fabric and tape its end with masking tape. I make another bar-tack at the end. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2015_files/image026.jpg" class="img-responsive center-block"></p>
-<p><strong>I push the next bone under the previous one like before and I sew it on along the edge of the iron-on fabric. </strong>You should either not gather it at all in the area where the cup transforms into the strap or gather it literally very, very slightly – otherwise the bone will stretch the fabric. </p>
+<p><strong>I push the next bone under the previous one like before and I sew it on along the edge of the iron-on fabric. </strong>You should either not gather it at all in the area where the cup transforms into the strap or gather it literally very, very slightly - otherwise the bone will stretch the fabric. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2015_files/image028.jpg" class="img-responsive center-block"></p>
 <p><strong>I do gather the bone a little as I reach the stay-stitch going along the vertical cut. </strong>The iron-on fabric makes it not so easy but you should still try your best to gather the bone properly. At the end you should trim the bone, tape its end with a piece of masking tape and push it underneath the bone that was sewn-on first. Make a bar-tack at the end. </p>
@@ -403,7 +403,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

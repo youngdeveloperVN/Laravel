@@ -338,7 +338,7 @@
 <p><strong>So, I have inserted all stiff bones from the lining side (apart from those at the edges). </strong></p>
 <p><strong>The surface remains smooth from the face side so I can easily drape it. </strong></p>
 <p><strong>Using draperies is always easy when you work with see-through corsets </strong>because they are single-layered and thin but at the same time very strong. </p>
-<p>It can be quite a shame <strong>when bones inserted from the face side</strong> protrude through a beautiful drapery of a corset. Some people are afraid of working with bones sewn over princess seams and prefer making an opaque corset instead of a see-through one – but a corset like this looks too thick when draped. </p>
+<p>It can be quite a shame <strong>when bones inserted from the face side</strong> protrude through a beautiful drapery of a corset. Some people are afraid of working with bones sewn over princess seams and prefer making an opaque corset instead of a see-through one - but a corset like this looks too thick when draped. </p>
 <p><strong>If you want to, you can insert stiff bones inside the intermediate tunnels </strong>but I don’t think it is crucial. I can tell that the corset is already stiff enough and there’s no need of overloading it with additional bones. </p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -351,7 +351,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

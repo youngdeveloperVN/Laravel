@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -351,7 +351,7 @@
 <h3>Tutorial 9. Cutting the Lace. Duplicating the Patterns. </h3>
 <p></p>
 <p><strong>Let’s continue cutting the pieces of our dress. </strong></p>
-<p><strong>I have arranged the lace on the table in the lengthwise direction and placed all dress patterns on top of it. </strong>The width of the lace allows me to place only three patterns simultaneously. I’m going to take another piece of lace for cutting the side back pattern. Try to spare your lace fabric when laying out the pieces. I have put an ironing cover over the table – its soft surface prevents the lace from sliding so well that I don’t need to use any pins. </p>
+<p><strong>I have arranged the lace on the table in the lengthwise direction and placed all dress patterns on top of it. </strong>The width of the lace allows me to place only three patterns simultaneously. I’m going to take another piece of lace for cutting the side back pattern. Try to spare your lace fabric when laying out the pieces. I have put an ironing cover over the table - its soft surface prevents the lace from sliding so well that I don’t need to use any pins. </p>
 <p><strong>I cut each piece along the perimeter. </strong>Don’t forget to transfer all notches onto the lace! They will serve as reference points and help assemble the garment accurately because lace fabric stretches well. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%209_files/image002.jpg" class="img-responsive center-block"></p>
@@ -402,7 +402,7 @@
 <p><strong>Unpin the part that includes batiste pieces. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%209_files/image028.jpg" class="img-responsive center-block"></p>
-<p><strong>Keep in mind that we also have stiff iron-on pieces for the cups beside the batiste pieces. I bend back the main fabric. </strong>I always use the hip line notch as a guideline – the batiste should stop right there. </p>
+<p><strong>Keep in mind that we also have stiff iron-on pieces for the cups beside the batiste pieces. I bend back the main fabric. </strong>I always use the hip line notch as a guideline - the batiste should stop right there. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%209_files/image030.jpg" class="img-responsive center-block"></p>
 <p><strong>I put one layer of batiste fusible side up. </strong></p>
@@ -411,7 +411,7 @@
 <p><strong>I put two face layers over the batiste. </strong>I try to match their edges and notches as accurately as possible. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%209_files/image034.jpg" class="img-responsive center-block"></p>
-<p><strong>Then I take two batiste pieces </strong>and pin them to the main fabric. Please note: the first batiste piece is placed fusible side down and the second one – fusible side up. </p>
+<p><strong>Then I take two batiste pieces </strong>and pin them to the main fabric. Please note: the first batiste piece is placed fusible side down and the second one - fusible side up. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%209_files/image036.jpg" class="img-responsive center-block"></p>
 <p><strong>Then I place two lining layers over it. </strong></p>
@@ -506,7 +506,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

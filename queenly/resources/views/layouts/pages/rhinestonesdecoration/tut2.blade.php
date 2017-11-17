@@ -138,7 +138,7 @@
 <p>And <strong>I carefully sew the rhinestone in place </strong>without piercing the corset through: only catching the top layer of fabric.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/decoration/3/Tutorial%202_files/image008.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/decoration/3/Tutorial%202_files/image010.jpg" alt=""></p>
-<p>The thread won't look white – it will blend with the shade of the rhinestone. <strong>I make about four stitches to secure it.</strong></p>
+<p>The thread won't look white - it will blend with the shade of the rhinestone. <strong>I make about four stitches to secure it.</strong></p>
 <p><strong>And I sew it on from the other end as well.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/decoration/3/Tutorial%202_files/image012.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/decoration/3/Tutorial%202_files/image014.jpg" alt=""></p>

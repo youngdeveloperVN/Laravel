@@ -381,7 +381,7 @@
 <p><strong>The length of the front half of the upper piece should be 35cm along the central vertical line.</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%2010_files/image030.jpg" class="img-responsive center-block"></p>
-<p><strong>I have basically marked all we need – in other words I have drawn a pattern of the upper part. </strong></p>
+<p><strong>I have basically marked all we need - in other words I have drawn a pattern of the upper part. </strong></p>
 <p><strong>I take the fabric off the dress-form and fold it in half.</strong> We will need to make the dart converge at a single point.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%2010_files/image032.jpg" class="img-responsive center-block"></p>

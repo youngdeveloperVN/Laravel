@@ -364,7 +364,7 @@
 <p><strong>I close the sewn-on zipper. </strong>It looks very pretty: instead of zipper teeth you can see a strap of nude colour overlaid by a decorative white ribbon. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%204_files/image020.jpg" class="img-responsive center-block"></p>
-<p><strong>I will sew button pearls onto the ribbon</strong> – they are perfect for this particular dress.</p>
+<p><strong>I will sew button pearls onto the ribbon</strong> - they are perfect for this particular dress.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%204_files/image022.jpg" class="img-responsive center-block"></p>
 <p><strong>I switch back to the regular presser foot and sew down the central seam below the zipper. </strong></p>

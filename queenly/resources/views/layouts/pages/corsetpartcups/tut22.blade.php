@@ -255,7 +255,7 @@
 <p><strong>I have sewn a modesty flap of a relevant size </strong>(a little shorter than the length of the back to keep it concealed) and attached it at the edge of the lacing bar with hand stitches. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2022_files/image008.jpg" class="img-responsive center-block"></p>
-<p><strong>That’s what it looks like from the underside – a whole red lining. </strong></p>
+<p><strong>That’s what it looks like from the underside - a whole red lining. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2022_files/image010.jpg" class="img-responsive center-block"></strong></p>
 <p>I have secured the bow in the middle of the corset front by hand. You probably used to have no idea that<strong> a corset like this could be sewn in the see-through corset technique</strong>. It is soft, flexible and at the same time resilient enough. A corset garment like this is very comfy and wearable. </p>
@@ -288,7 +288,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

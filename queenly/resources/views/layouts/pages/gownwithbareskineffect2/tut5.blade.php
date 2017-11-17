@@ -324,7 +324,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Making the Dress-Form. Part 1.">
 <meta itemprop="headline" content="Making the Dress-Form. Part 1.">
-<meta itemprop="description" content="Making the Dress-Form. Part 1. I’ve prepared the same kind of a template for the back piece, with all measurements in account. I mark the approximate shoulder length on the back piece – 9cm. I join the reference points with the intersection of the central vertical line and the waistline.">
+<meta itemprop="description" content="Making the Dress-Form. Part 1. I’ve prepared the same kind of a template for the back piece, with all measurements in account. I mark the approximate shoulder length on the back piece - 9cm. I join the reference points with the intersection of the central vertical line and the waistline.">
 <meta itemprop="articleSection" content="Gown with Bare-Skin Effect II">
 <meta itemprop="keywords" content="gown with bare-skin effect ii, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -341,7 +341,7 @@
 <p><strong>I’ve prepared the same kind of a template for the back piece, with all measurements in account.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%204.files/image002.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-078.jpg"></p>
-<p><strong>I mark the approximate shoulder length on the back piece – 9cm.</strong> </p>
+<p><strong>I mark the approximate shoulder length on the back piece - 9cm.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%204.files/image004.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-079.jpg"></p>
 <p><strong>I join the reference points with the intersection of the central vertical line and the waistline. </strong></p>

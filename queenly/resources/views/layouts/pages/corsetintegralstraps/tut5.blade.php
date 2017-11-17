@@ -305,7 +305,7 @@
 <p><strong>The distance from the side seam to the cup along the bust line is normally around 5-6cm. </strong>This distance is quite obvious on the mock-up and you can tell how it would change if you added, let’s say, 3cm to the side seam. If you find that it goes well beyond 5-6cm, then you will know the side cup piece should be made bigger so as to move it closer to the side seam and even out the distance. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%205_files/image012.jpg" class="img-responsive center-block"></p>
-<p><strong>The distance from the waistline to the under-bust line remains unchanged. </strong>I would like to point up that issue because I receive a lot of related questions. The distance from the waistline to the under-bust line is often measured somewhat incorrectly on women with full breasts. Heavy breasts tend to sag and make the distance seem like 10cm when it is 12.5cm on our mock-up. But you should never forget that <strong>the function of a corset is to lift the bust and form its beautiful shape. </strong>Don’t rush to alter the distance between the waistline and the under-bust line on the pattern! The original distance is anatomically correct and it should stay unchanged as long as there are no radical changes in the side length due to the person’s height! Remember, you can lift any low-placed bust up to the standard and make it look appealing – this is the purpose of wearing a corset. <strong>These are important remarks on the specifics of our pattern when used for a full-bodied woman.</strong> </p>
+<p><strong>The distance from the waistline to the under-bust line remains unchanged. </strong>I would like to point up that issue because I receive a lot of related questions. The distance from the waistline to the under-bust line is often measured somewhat incorrectly on women with full breasts. Heavy breasts tend to sag and make the distance seem like 10cm when it is 12.5cm on our mock-up. But you should never forget that <strong>the function of a corset is to lift the bust and form its beautiful shape. </strong>Don’t rush to alter the distance between the waistline and the under-bust line on the pattern! The original distance is anatomically correct and it should stay unchanged as long as there are no radical changes in the side length due to the person’s height! Remember, you can lift any low-placed bust up to the standard and make it look appealing - this is the purpose of wearing a corset. <strong>These are important remarks on the specifics of our pattern when used for a full-bodied woman.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%205_files/image014.jpg" class="img-responsive center-block"></p>
 <p><strong>Finally, I’d like to note that there are certain limitations for corsets with separate cups. </strong>When your client’s bust circumference exceeds 100cm, you must think whether offering her a corset with separate cups is reasonable at all. Perhaps it would be better to replace it with a one-piece corset and then add some decorative lines that would imitate sewn-in cups. But be careful! A full bust highlighted with modelling lines doesn’t always look attractive! <strong>And making separate cups for such a full bust is always a bad idea! </strong>Sewn-in cups look very good on a small bust because they lift it visually and physically and make it appear larger. So please do be careful when choosing the design! And don’t forget that full breasts are rather heavy and presuppose certain limitations when you adjust the pattern. </p>
@@ -313,11 +313,11 @@
 <p><strong>The first measurements to account for are bust front and under-bust front. </strong></p>
 <p><strong>Bust front: </strong></p>
 <p>It is 49cm on the pattern and my client’s measurement is 47cm.</p>
-<p>49cm – 47cm = 2cm</p>
+<p>49cm - 47cm = 2cm</p>
 <p>This means we have 2cm extra. They should be removed from the pattern. I divide the value in half (for two corset halves) and get minus 1cm. I write it down in the table (column 4, line 1). </p>
 <p><strong>Under-bust front: </strong></p>
 <p>It is 38cm on the pattern and the client’s measurement is 39cm. </p>
-<p>38cm – 39cm = -1cm</p>
+<p>38cm - 39cm = -1cm</p>
 <p>The client’s measurement is slightly bigger than that on the pattern, so I need to add 0.5cm from each side (column 4, line 2).</p>
 <p>This doesn’t look good though. The alteration values for these measurements are way too unlike. You should always make allowance for inaccuracies. These measurement s are always relative; they simply show you the way of dividing full bust-line and under-bust line circumferences line into front and back sections. It is no big deal to have a divergence of 0.5cm or even 1cm when you take measurements. </p>
 <p><strong>Let’s choose something neutral and suitable. </strong>I suggest we shouldn’t change anything in the <strong>bust circumference measurement </strong>but leave it as is. I write a zero in column 4, line 3. We can add 0.5cm starting from the under-bust line and across the whole length. I write the value of 0.5cm into lines 4, 5 and 6 of column 4. </p>
@@ -346,7 +346,7 @@
 <p>69cm - 64cm = 5cm</p>
 <p>What we got is a difference of 5cm. If we divide it in half, we can see that 2.5cm should be removed from each side at the waistline level. I write -2.5cm in the table (column 5, line 5). </p>
 <p><strong>Stomach circumference 12cm below the waistline: </strong></p>
-<p>There is a great difference between this measurement on the pattern – 90cm, and the client’s measurement – 84cm.&nbsp; </p>
+<p>There is a great difference between this measurement on the pattern - 90cm, and the client’s measurement - 84cm.&nbsp; </p>
 <p>Besides, we have added 1cm to the full circumference: </p>
 <p>90cm + 1cm = 91cm</p>
 <p>91cm - 84cm = 7cm</p>
@@ -383,7 +383,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

@@ -141,7 +141,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew the most popular wedding dress design – classic dress with a full skirt and lace straps.</p>
+						<p>In this course we will learn how to sew the most popular wedding dress design - classic dress with a full skirt and lace straps.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -255,7 +255,7 @@
 <p><strong>I shift the lay. </strong>The drawing pin stays where it was on the fabric but moves to a different part of the table. <strong>I leave the same length of 150cm marked on the cord.</strong> It corresponds with the side length of the skirt with the radius in account. </p>
 <p>
 <img src="http://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/Tutorial%2033_files/image018.jpg" class="img-responsive center-block"></p>
-<p>I am supposed to arrive at the full length of the train in about the middle of the half circle, i.e. with the cord lying at 45 degrees to the fold line. In other words, starting from that point I am supposed to arrive at the back length of the skirt – 145cm. <strong>The cord (or the radius) will then have the following length:</strong></p>
+<p>I am supposed to arrive at the full length of the train in about the middle of the half circle, i.e. with the cord lying at 45 degrees to the fold line. In other words, starting from that point I am supposed to arrive at the back length of the skirt - 145cm. <strong>The cord (or the radius) will then have the following length:</strong></p>
 <p><strong>28.5cm + 1.5cm + 145cm = 175cm </strong></p>
 <p><strong>I turn the cord and mark points along the perimeter of the ellipse. I prolong the cord by another 3-4cm after passing every 10-15cm of the arc. It is supposed to be 175cm long at the starting point of the train. I mark the point where the train is supposed to arrive on the fold line of the fabric. </strong></p>
 <p>
@@ -315,7 +315,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose <strong>“print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose <strong>"print in actual size"</strong>. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/dress1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The basis dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%209/sewing-pattern/with%20a%20strap.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The dress with straps</a><br>						
 					</div>

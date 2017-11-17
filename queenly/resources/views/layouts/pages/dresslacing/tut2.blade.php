@@ -172,10 +172,10 @@
 <p><strong>The first thing you need to do is determine the location of the side seam.</strong> </p>
 <p>The location of the side seam is determined by two measurements: bust front and under-bust front. And here comes the first challenge you’re likely to face. Look here:</p>
 <p><strong>The bust front measurement</strong> is 56cm on the client and 49cm on the pattern. </p>
-<p><strong>56cm – 49cm = -7cm</strong></p>
+<p><strong>56cm - 49cm = -7cm</strong></p>
 <p>I divide it in half because there are two side seams. It's obvious then that <strong>I need to expand the pattern by 3.5cm from each side</strong>. </p>
 <p><strong>Under-bust front measurement:</strong> 41cm on the client and 40cm on the pattern. </p>
-<p><strong>41cm – 40cm = -1cm</strong></p>
+<p><strong>41cm - 40cm = -1cm</strong></p>
 <p>I divide it in half to account for two side seams. It turns out<strong> I need to expand the pattern by only 0.5cm from each side</strong>. </p>
 <p></p>
 <p>
@@ -183,17 +183,17 @@
 <p><strong>I hear you asking 'What are we supposed to do in this case?'</strong> Just shift the sides outwards by 3.5cm along the bust-line and by 0.5cm along the under-bust line. Don't worry, there is nothing wrong with it!</p>
 <p><strong>Let’s look at the clip measurement. </strong></p>
 <p><strong>- Towards the armscye: </strong>14cm on the client and 12cm on the pattern. </p>
-<p><strong>14cm – 12cm = 2cm</strong></p>
+<p><strong>14cm - 12cm = 2cm</strong></p>
 <p>I need to add another 2cm to the pattern.&nbsp; </p>
 <p><strong>- Towards the corner: </strong>14cm on the client and 12.5cm on the pattern. </p>
-<p><strong>14cm – 12.5cm = 1.5cm</strong></p>
+<p><strong>14cm - 12.5cm = 1.5cm</strong></p>
 <p>I need to add another 1.5cm to the pattern. </p>
 <p><strong>- Towards the neckline: </strong>10cm on the client and 7cm on the pattern.</p>
-<p><strong>10cm – 7cm = -3cm</strong></p>
+<p><strong>10cm - 7cm = -3cm</strong></p>
 <p>I need to add 3cm to the clip towards the neckline.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%202_files/image006.jpg" class="img-responsive center-block"></p>
-<p>Now let's look at the alterations of the clip and of the first two measurements. <strong>The resulting dispersion of values might make you puzzled.</strong> But you should always imagine the alteration process in your head. It is obvious that I need to make the pattern bigger. Judging from the alterations of the bust front and under-bust front measurements the pattern needs to be expanded – in other words, its sides need to be shifted outwards as compared to the standard pattern. However the clip measurement also needs to be made bigger if you expand the standard pattern widthwise. Our calculations show that the clip is supposed to be made 2cm longer. The clip-towards-armscye tends to grow 2-2.5cm bigger whenever you expand a standard pattern by 3cm from each side. In other words, if we shift each side of the piece 3cm outwards, the clip will shift proportionately. Everything will basically fall into place then. </p>
+<p>Now let's look at the alterations of the clip and of the first two measurements. <strong>The resulting dispersion of values might make you puzzled.</strong> But you should always imagine the alteration process in your head. It is obvious that I need to make the pattern bigger. Judging from the alterations of the bust front and under-bust front measurements the pattern needs to be expanded - in other words, its sides need to be shifted outwards as compared to the standard pattern. However the clip measurement also needs to be made bigger if you expand the standard pattern widthwise. Our calculations show that the clip is supposed to be made 2cm longer. The clip-towards-armscye tends to grow 2-2.5cm bigger whenever you expand a standard pattern by 3cm from each side. In other words, if we shift each side of the piece 3cm outwards, the clip will shift proportionately. Everything will basically fall into place then. </p>
 <p><strong>Considering all this I have accepted the alteration value of 3cm for shifting the <em>entire</em> side seam of the standard pattern. </strong>We will double-check this value in further calculations. &nbsp;</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%202_files/image008.jpg" class="img-responsive center-block"></p>
@@ -208,29 +208,29 @@
 <p><strong>Let’s begin calculating.</strong> You’ll see what happens after I take all measurements and calculations from the table into account. </p>
 <p><strong>The bust front and the under-bust front measurements are not involved in these calculations.</strong> I write dashes in the table.</p>
 <p><strong>Bust circumference: </strong>102cm on the client and 93cm on the pattern.</p>
-<p>However I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>However I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>93cm + 6cm= 99cm</strong></p>
-<p><strong>102cm – 99cm = 3cm</strong></p>
+<p><strong>102cm - 99cm = 3cm</strong></p>
 <p>I divide the value in half. As you can see, <strong>I need to expand the pattern by 1.5cm from each side along the bust line. </strong>I write 1.5cm into the table.</p>
 <p><strong>The under-bust circumference </strong>is 82cm on the client and 80cm on the pattern.</p>
-<p>But I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>But I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>80cm + 6cm= 86cm</strong></p>
-<p><strong>82cm – 86cm = -4cm</strong></p>
+<p><strong>82cm - 86cm = -4cm</strong></p>
 <p>I divide it in half. As a result, <strong>I need to narrow the back down by 2cm from each side along the under-bust line.</strong> I write -2cm in the table. </p>
 <p><strong>Waist circumference: </strong>75cm on the client and 75cm on the pattern. The measurements coincide. </p>
-<p>However I have already expanded the pattern by 3cm from each side – again, a total of 6cm. </p>
+<p>However I have already expanded the pattern by 3cm from each side - again, a total of 6cm. </p>
 <p><strong>75cm + 6cm= 81cm</strong></p>
-<p><strong>75cm – 81cm = -6cm</strong></p>
+<p><strong>75cm - 81cm = -6cm</strong></p>
 <p>I divide it in half. As a result, <strong>I need to narrow the back down by 3cm from each side along the waistline.</strong> I write -3cm in the table.</p>
 <p><strong>Stomach circumference:</strong> 103cm on the client and 95cm on the pattern.</p>
-<p>However I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>However I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>95cm + 6cm= 101cm</strong></p>
-<p><strong>103cm – 101cm = 2cm</strong></p>
+<p><strong>103cm - 101cm = 2cm</strong></p>
 <p>I divide it in half. As a result, <strong>I need to expand the back by 1cm from each side along the stomach line.</strong> I write 1cm in the table.</p>
 <p><strong>Hip circumference: </strong>110cm on the client and 102cm on the pattern.</p>
-<p>But I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>But I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>102cm + 6cm= 108cm</strong></p>
-<p><strong>110cm – 108cm = 2cm</strong></p>
+<p><strong>110cm - 108cm = 2cm</strong></p>
 <p>I divide it in half. <strong>I need to expand the back by 1cm from each side along the hip line.</strong> I write 1cm in the table.</p>
 <p><strong>Bust middle and clip measurements are not involved in these calculations.</strong> </p>
 <p>
@@ -243,12 +243,12 @@
 <p>Both the back width and the corner to corner measurement are 19cm on the pattern. Let me tell you what this means. It's the width of the central back piece along the top edge without seam allowances. If you measure that distance and multiply it by two, you will get 19cm. </p>
 <p><strong>Let's calculate it.</strong></p>
 <p><strong>Back width:</strong> 38cm on the client and 19cm on the pattern.</p>
-<p><strong>38cm – 19cm = 19cm</strong></p>
-<p>I divide it in half because the piece has two sides. I get <strong>9.5cm – it's the value I’ll need to mark from the princess seam toward the side edge on the side back piece. </strong>&nbsp;As the result I will find the point from which I took the back width measurement. It's that problem area that needs to be covered up. I write 9.5cm in the table.</p>
+<p><strong>38cm - 19cm = 19cm</strong></p>
+<p>I divide it in half because the piece has two sides. I get <strong>9.5cm - it's the value I’ll need to mark from the princess seam toward the side edge on the side back piece. </strong>&nbsp;As the result I will find the point from which I took the back width measurement. It's that problem area that needs to be covered up. I write 9.5cm in the table.</p>
 <p><strong>Corner to corner: </strong>26cm on the client and 19cm on the pattern.</p>
-<p>It's the same story here. We know that the width of the centre of the back is 19cm on the pattern. In other words the distance between the princess seams (without seam allowances) will be 19cm after we join the central pieces of the back. We also know the distance between the corners – 26cm. The task is to calculate the value by which I need to shift the princess seam to achieve the desired configuration of the corner. </p>
-<p><strong>26cm – 19cm = 7cm</strong></p>
-<p>I divide it in half and get <strong>3.5cm – it's the value I’ll need to mark from the princess seam toward the side edge of the side back piece.&nbsp; </strong>It defines the location of the vertical line on which the top point of the corner is supposed to lie. I write 3.5cm in the table.</p>
+<p>It's the same story here. We know that the width of the centre of the back is 19cm on the pattern. In other words the distance between the princess seams (without seam allowances) will be 19cm after we join the central pieces of the back. We also know the distance between the corners - 26cm. The task is to calculate the value by which I need to shift the princess seam to achieve the desired configuration of the corner. </p>
+<p><strong>26cm - 19cm = 7cm</strong></p>
+<p>I divide it in half and get <strong>3.5cm - it's the value I’ll need to mark from the princess seam toward the side edge of the side back piece.&nbsp; </strong>It defines the location of the vertical line on which the top point of the corner is supposed to lie. I write 3.5cm in the table.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%202_files/image012.jpg" class="img-responsive center-block"></p>
 <p><strong>When I was measuring the height of the corner on my client, I thought it would be good to place it 26cm above the waistline.</strong> I write that value in the table. When I start drawing the corner on the pattern, I will step 3.5cm inwards from the princess seam and 26cm up from the waistline to find its top point. </p>
@@ -275,27 +275,27 @@
 <p>I have added 4cm to the measurement of 80cm on the pattern to adjust the side seam contour at the front and 1cm to adjust the contour at the back.</p>
 <p><strong>80cm + 4cm + 1cm= 85cm.</strong></p>
 <p>My client's measurement is 82cm. </p>
-<p><strong>82cm– 85cm= -3cm.</strong></p>
+<p><strong>82cm- 85cm= -3cm.</strong></p>
 <p>There are three extra centimeters. I can distribute this 3cm between the four raw edges of the princess seams at the back. In other words<strong> I need to shift each edge of each princess seam 0.75cm inwards.</strong> I write -0.75cm in the table. </p>
 <p><strong>Along the waistline: </strong></p>
 <p>I have added 4cm to the measurement of 75cm on the pattern to adjust the side seam contour at the front and 1cm to adjust the contour at the back.</p>
 <p><strong>75cm + 4cm + 1cm= 80cm.</strong></p>
 <p>My client's measurement is 75cm.</p>
-<p><strong>75cm – 80cm= -5cm.</strong></p>
+<p><strong>75cm - 80cm= -5cm.</strong></p>
 <p>There are five extra centimeters. </p>
 <p>We can use the front princess seams starting from the waistline, which means this 5cm can be distributed between the four raw edges of the back princess seams and the four raw edges of the front princess seams. I divide the value by eight.&nbsp; Now I know that <strong>I need to shift each side of each front and back princess seam 0.6cm inwards.</strong> I write -0.6cm in the table. </p>
 <p><strong>Along the stomach line: </strong></p>
 <p>I have added 6cm to the measurement of 95cm on the pattern to adjust the side seam contour at the front and 3cm to adjust it at the back.</p>
 <p><strong>95cm + 6cm + 3cm= 104cm.</strong></p>
 <p>My client's measurement is 103cm.</p>
-<p><strong>103cm – 104cm = -1cm</strong></p>
+<p><strong>103cm - 104cm = -1cm</strong></p>
 <p>There is one extra centimeter. </p>
 <p>This 1cm can be distributed between the four raw edges of the back princess seams and the four raw edges of the front princess seams, i.e. it can be divided by eight.&nbsp; Thus <strong>I need to shift each side of each front and back princess seam 0.1cm inwards.</strong> I write -0.1cm in the table. </p>
 <p><strong>Along the hip line: </strong></p>
 <p>I have added 6cm to the measurement of 102cm on the pattern to adjust the side seam contour at the front and 3cm to adjust the contour at the back.</p>
 <p><strong>102cm + 6cm + 3cm= 111cm.</strong></p>
 <p>My client's measurement is 110cm.</p>
-<p><strong>110cm – 111cm= -1cm.</strong></p>
+<p><strong>110cm - 111cm= -1cm.</strong></p>
 <p>There is one extra centimeter, just like at the level of the stomach.&nbsp; </p>
 <p>This 1cm can be distributed between the four raw edges of the back princess seams and the four raw edges of the front princess seams, i.e. it can be divided by eight. Thus<strong> I need to shift each side of each front and back princess seam 0.1cm inwards.</strong> I write -0.1cm in the table. </p>
 <p>
@@ -313,7 +313,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

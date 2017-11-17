@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -315,17 +315,17 @@
 <p>- Back width, </p>
 <p>- Between the shoulder straps at the back, </p>
 <p>- Height of the corner for attaching shoulder straps,&nbsp; </p>
-<p>The last three measurements – back width, between the shoulder straps and corner height – are only taken in case you want to add corners for attaching shoulder straps at the back.&nbsp; </p>
+<p>The last three measurements - back width, between the shoulder straps and corner height - are only taken in case you want to add corners for attaching shoulder straps at the back.&nbsp; </p>
 <p>- Armscye circumference. This measurement is required in order to pre-cut a shoulder strap, secure it on the dress and adjust its proper length during a fitting. </p>
 <p><strong>Let’s begin calculating.</strong></p>
 <p>I will give you detailed explanations. There is a lot to discuss because we are dealing with a non-standard figure with full breasts, a thin waist, and moderate hips. This woman has a beautiful silhouette but, as you will see, it requires a lot greater values to adjust the pattern along the bust line than along the hip line. Her waist circumference coincides with that on the pattern. Such body proportions are quite common and people often ask me how to calculate and build a pattern for a similar figure. </p>
 <p><strong>You always start calculating from the first top lines of the table looking to the bust front and under-bust front measurements.</strong> This allows you to determine the location of the side seam. </p>
 <p><strong>But there's something unexpected waiting right ahead.</strong> </p>
 <p><strong>Bust front measurement:</strong> 56cm on the client and 49cm on the pattern. </p>
-<p><strong>56cm – 49cm = -7cm</strong></p>
+<p><strong>56cm - 49cm = -7cm</strong></p>
 <p>I divide it in half because there are two side seams. Now it's obvious that <strong>I need to expand the pattern by 3.5cm from each side</strong>. </p>
 <p><strong>Under-bust front measurement:</strong> 41cm on the client and 40cm on the pattern. </p>
-<p><strong>41cm – 40cm = -1cm</strong></p>
+<p><strong>41cm - 40cm = -1cm</strong></p>
 <p>I divide it in half to account for two side seams. It turns out<strong> I need to expand the pattern by only 0.5cm from each side</strong>. </p>
 <p>My students usually get puzzled here. <strong>What to do? What adjustment value to choose to expand the pattern now? Where to take guidance from?</strong> </p>
 <p><strong>The second thing you need to pay attention to is the clip measurement.</strong> </p>
@@ -336,9 +336,9 @@
 <p><strong>My client's clip measurement: </strong>&nbsp;14cm to the underarm; 14cm from the bust line to the neckline, and the height of the corner is 14cm as well.&nbsp; </p>
 <p><strong>What value should I take?</strong> </p>
 <p>If you use the strapless pattern as a guide, then you need to add the following value to the clip measurement:&nbsp; </p>
-<p><strong>14cm – 11.5cm = 2.5cm</strong></p>
+<p><strong>14cm - 11.5cm = 2.5cm</strong></p>
 <p>If you use the corner pattern as a guide, then you need to add the following value to the clip measurement: </p>
-<p><strong>14cm – 12.5cm = 1.5cm</strong></p>
+<p><strong>14cm - 12.5cm = 1.5cm</strong></p>
 <p>The clip measurements are pointing at the adjustment values of 2.5cm and 1.5cm while the bust front and under-bust front measurements are pointing at 3.5cm and 0.5cm. </p>
 <p>At the first glance you have no idea how to calculate pattern adjustments in this case. All values are absolutely different! But don't be distressed, it is not a big deal! </p>
 <p><strong>You should be able to imagine in what way you are going to alter the pattern after looking at the clip and the side seam configuration.</strong> </p>
@@ -359,30 +359,30 @@
 <p><strong>Let’s begin calculating.</strong> You’ll see what happens after I take into account all measurements and calculations from the table. </p>
 <p><strong>The bust front and the under-bust front measurements are not involved in these calculations.</strong> I write dashes in the table (column 6).</p>
 <p><strong>Bust circumference: </strong>It is 102cm on the client and 93cm on the pattern.</p>
-<p>However I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>However I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>93cm+ 6cm= 99cm</strong></p>
-<p><strong>102cm – 99cm = 3cm</strong></p>
+<p><strong>102cm - 99cm = 3cm</strong></p>
 <p>I divide it in half. As a result, <strong>I need to expand the back by 1.5cm from each side.</strong> I write 1.5cm in the table.</p>
 <p><strong>Under-bust circumference, </strong>It is 82cm on the client and 80cm on the pattern.</p>
-<p>However I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>However I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>80cm+ 6cm= 86cm</strong></p>
-<p><strong>82cm– 86cm = -4cm</strong></p>
+<p><strong>82cm- 86cm = -4cm</strong></p>
 <p>I divide it in half. As a result, <strong>I need to narrow the back down by 2cm from each side.</strong> I write -2cm in the table.</p>
 <p></p>
 <p><strong>Waist circumference: </strong>It is 75cm on the client and 75cm on the pattern.</p>
-<p>However I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>However I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>75cm+ 6cm= 81cm</strong></p>
-<p><strong>75cm – 81cm = -6cm</strong></p>
+<p><strong>75cm - 81cm = -6cm</strong></p>
 <p>I divide it in half. As a result, <strong>I need to narrow the back down by 3cm from each side.</strong> I write -3cm in the table.</p>
 <p><strong>Stomach circumference: </strong>It is 103cm on the client and 95cm on the pattern.</p>
-<p>However I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>However I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>95cm+ 6cm= 101cm</strong></p>
-<p><strong>103cm – 101cm = 2cm</strong></p>
+<p><strong>103cm - 101cm = 2cm</strong></p>
 <p>I divide it in half. As a result, <strong>I need to expand the back by 1cm from each side.</strong> I write 1cm in the table.</p>
 <p><strong>Hip circumference: </strong>it’s 110cm on the client and 103cm on the pattern.</p>
-<p>However I have already expanded the pattern by 3cm from each side – a total of 6cm. </p>
+<p>However I have already expanded the pattern by 3cm from each side - a total of 6cm. </p>
 <p><strong>103cm+ 6cm= 109cm</strong></p>
-<p><strong>110cm – 109cm = 1cm.</strong></p>
+<p><strong>110cm - 109cm = 1cm.</strong></p>
 <p>I divide it in half. As a result, <strong>I need to expand the back by 0.5cm from each side along the stomach line.</strong> I write 0.5cm in the table.</p>
 <p><strong>Bust middle and clip measurements are not involved in these calculations.</strong> I write dashes in the table (column 6).</p>
 <p><strong>Now that we have reached this stage of calculations, let me explain in more detail what 'back width' and 'between shoulder straps back' actually means.</strong> I will demonstrate it on the pattern so you can see how to construct those shoulder strap corners at the back of the corset. It's a very frequently asked question. Although I have already explained it many times on various DVD's, it seems like some of you have somehow missed out on this know-how. </p>
@@ -395,7 +395,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%203_files/image006.jpg" class="img-responsive center-block"></p>
 <p>If there is 9.5cm from the centre of the back to the princess seam on the first central piece, then it will be the same on the other symmetric central piece. Therefore, it will make a total of 19cm without the seam allowances when the client puts the dress on and zips it up. </p>
 <p><strong>There is 19cm between the princess seams at the back.</strong> </p>
-<p><strong>I have also taken the back width measurement off my client – 38cm</strong>. But this 38cm is the entire width of the back that includes both central and both side pieces. </p>
+<p><strong>I have also taken the back width measurement off my client - 38cm</strong>. But this 38cm is the entire width of the back that includes both central and both side pieces. </p>
 <p><strong>Let us determine the distance from the princess seam of the side piece to the end point of the back width measurement (or the client's arm).</strong> </p>
 <p><strong>(38cm- 19cm) ÷ 2 = 9.5cm</strong></p>
 <p><strong>We need to mark this 9.5cm from the princess seam of the side piece.</strong> That is the exact spot from which we measure the width of the back: the area that we want to cover up.&nbsp; In other words, this is where the back will have a rise. I record the value into the table.</p>
@@ -415,7 +415,7 @@
 <p><strong>Our table looks like this at the moment:</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%203_files/image012.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>Let us look at our "pretty" side seam of the back.</strong> It's a total mess – there's a wide scatter of adjustment values. <strong>What do we do about it? We simply need to analyze all these values. </strong></p>
+<p><strong>Let us look at our "pretty" side seam of the back.</strong> It's a total mess - there's a wide scatter of adjustment values. <strong>What do we do about it? We simply need to analyze all these values. </strong></p>
 <p><strong>There are two measurements with the greatest difference between their adjustment values: under-bust circumference and waistline circumference.</strong> These are the areas that were closest to the pattern and&nbsp; </p>
 <p><strong>Well, let us adjust the configuration of the side seam of the back then.</strong> There is actually nothing wrong if we take the liberty of deviating from the line drawn on the pattern. The client has a non-standard figure with ample breasts. We need to find a way out. </p>
 <p><strong>The side seam of the front and the side seam of the back have an identical configuration on the pattern.</strong> We have expanded the front by 3cm along the entire side seam. </p>
@@ -444,7 +444,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

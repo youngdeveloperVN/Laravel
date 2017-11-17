@@ -170,7 +170,7 @@
 								
 								
 							
-						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design – Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
+						<p>In this course we will learn how to sew&nbsp;a trendy wedding gown design - Crop Top or Two Pieces gown, and the new advanced (yet super-easy) decoration technique.</p>
 <p>And we will learn how to make a perfect fitting dress to a client from a long distance, relying solely on the measurements.</p>
 <p><strong>Features:</strong></p>
 <ul>
@@ -344,7 +344,7 @@
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/transcripts/Tutorial%203.files/image080.jpg" alt=""></strong></p>
 <p><strong>Total armscye length (Armscye Circumference) of the adjusted pattern is as follows: </strong></p>
 <p><strong>23cm + 20cm = 43cm</strong></p>
-<p><strong>43cm – 42cm = 1cm</strong></p>
+<p><strong>43cm - 42cm = 1cm</strong></p>
 <p><strong>As you can see, it is 1cm longer than needed. But this is only the result of shortening the side seam line so I don’t need to adjust anything. </strong></p>
 <p><strong>Now I can work on the sleeve pattern. </strong></p>
 <p><strong>I start by marking how far down the armscye the sleeve is supposed to go. I mark a notch along the front armscye line and then along the back armscye line and measure the part of the armscye to which the sleeve will be sewn.</strong></p>
@@ -374,7 +374,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-base2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Top base</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/top-lace2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Top lace</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/back-skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Back skirt</a><br><a href="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20dresses/wedding%2010/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

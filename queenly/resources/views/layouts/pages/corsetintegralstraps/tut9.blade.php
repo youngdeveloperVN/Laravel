@@ -284,7 +284,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%209_files/image002.jpg" class="img-responsive center-block"></p>
 <p>I take the patterns and prepare iron-on batiste and the main fabric for making both the cups and the lining. <strong>I want the face side to be matte. </strong>I just like it more although it might appear darker than the shiny side. Let the shiny side of the fabric serve as the outer side of the lining. </p>
-<p><strong>Now I need to iron the face fabric and fuse iron-on batiste over its shiny side. </strong>Let me remind you how it is done: at first I secure the batiste by stamping it with the press-iron and then I fuse it on completely by letting the iron glide over the fabric. And even then I don’t press the iron down too much but try to use steaming instead. Then you can turn the piece over and check if it’s been fused properly. In my case everything is perfect but I will still iron the face side once more – just in case. </p>
+<p><strong>Now I need to iron the face fabric and fuse iron-on batiste over its shiny side. </strong>Let me remind you how it is done: at first I secure the batiste by stamping it with the press-iron and then I fuse it on completely by letting the iron glide over the fabric. And even then I don’t press the iron down too much but try to use steaming instead. Then you can turn the piece over and check if it’s been fused properly. In my case everything is perfect but I will still iron the face side once more - just in case. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%209_files/image004.jpg" class="img-responsive center-block"></p>
 <p><strong>And now I repeat the same procedure with the lining fabric. </strong>I put it with its matte side up, iron it and fuse it with iron-on batiste. </p>
@@ -332,7 +332,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

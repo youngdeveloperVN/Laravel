@@ -317,7 +317,7 @@
 <p><strong>I need to add 3cm to the clip measurement on the central piece.</strong> Let's double-check the measurement on the standard pattern to make sure it really is 7cm. I mark a 1.2cm seam allowance from each side of the line and measure the length in-between. The result is 7cm just like it was supposed to be. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%204_files/image014.jpg" class="img-responsive center-block"></p>
-<p><strong>And my client's measurement is 10cm.</strong> I mark 11.2cm (a seam allowance included) and find the new top point of the clip measurement – point A.</p>
+<p><strong>And my client's measurement is 10cm.</strong> I mark 11.2cm (a seam allowance included) and find the new top point of the clip measurement - point A.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%204_files/image016.jpg" class="img-responsive center-block"></p>
 <p><strong>I place the pattern at point A and look for a pretty way to shape the neckline.</strong> Something is telling me I will need to raise that top line by a centimeter to make the neckline look good. I leave it unchanged for now though. </p>
@@ -326,7 +326,7 @@
 <p><strong>I need to add literally 1mm in the waistline and remove 1mm in the hips on the princess seam of the front.</strong> I do add it in the waistline but I leave it as is in the hips. I prefer to double-check it during a fitting. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%204_files/image020.jpg" class="img-responsive center-block"></p>
-<p><strong>I take the next piece – the side front piece</strong>, and I trace its contours.</p>
+<p><strong>I take the next piece - the side front piece</strong>, and I trace its contours.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%204_files/image022.jpg" class="img-responsive center-block"></p>
 <p><strong>Then I work on the clip.</strong> I prolong it by one centimeter towards the armscye.</p>
@@ -464,7 +464,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

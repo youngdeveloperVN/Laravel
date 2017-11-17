@@ -141,11 +141,11 @@
 <p></p>
 <p><strong>Let us start cutting our pencil dress.</strong> As I have already mentioned, I have chosen rather thin fabric. Because of its properties the border between its batiste-duplicated and non-duplicated areas is going to be visible from the face. </p>
 <p><strong>I have touched upon two ways of solving this problem. </strong></p>
-<p>You can add another layer for the face of the dress – in other words, make it a double-layer face where the bottom layer is main fabric duplicated with batiste and the top layer is non-duplicated main fabric. </p>
+<p>You can add another layer for the face of the dress - in other words, make it a double-layer face where the bottom layer is main fabric duplicated with batiste and the top layer is non-duplicated main fabric. </p>
 <p>Or you can simply duplicate the entire sheet of fabric with iron-on batiste. </p>
 <p><strong>I have gone the second way and prepared a piece of fabric that is 150cm wide and duplicated at the length of 93cm (the width of my iron-on batiste).</strong> The dress we are going to sew is not very long, it stops below the knee, so there are many reasons why it's easier to use fully duplicated face fabric. The dress will be more wrinkle-proof, it will be easier to handle and it will simply look better. Besides, it is also more cost-effective than adding a second layer. </p>
 <p>I will use the same fabric for the lining which I’ll duplicate with iron-on batiste down to the hip level. </p>
-<p><strong>I have made a fabric 'sandwich.'</strong> First iron-on batiste, then batiste-duplicated main fabric, then plain crêpe – all this makes the lining.&nbsp; </p>
+<p><strong>I have made a fabric 'sandwich.'</strong> First iron-on batiste, then batiste-duplicated main fabric, then plain crêpe - all this makes the lining.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%204_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>I have placed the iron-on batiste at the top to copy the contours of all pieces down to the hip line.</strong> I pin the pieces together, trim the excess of batiste along the hip line, and continue cutting. </p>
@@ -305,7 +305,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

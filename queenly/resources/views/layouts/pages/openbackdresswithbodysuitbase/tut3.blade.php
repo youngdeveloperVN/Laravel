@@ -320,7 +320,7 @@
 <p><strong>Now we can start preparing the patterns.</strong></p>
 <p><strong>Make sure to select 'actual size' in your printing preferences before you print the patterns out. </strong></p>
 <p><strong>Once you have printed the patterns out, align them and glue them together. </strong>You will find a separate file titled 'How to Align Your Pattern Sheets.'&nbsp; Besides, there is a thumbnail on each pattern sheet with the relevant part of the pattern marked grey. All sheets are numbered. I tried to make the assemblage process as simple as possible. </p>
-<p><strong>Attention!</strong> Printers tend to leave unprinted borders on the sheets. Do not trim them – just glue the sheets together as is. The grid on the sheets is meant to merge vertically and should align perfectly! Simply take a glue-stick and join the pieces.</p>
+<p><strong>Attention!</strong> Printers tend to leave unprinted borders on the sheets. Do not trim them - just glue the sheets together as is. The grid on the sheets is meant to merge vertically and should align perfectly! Simply take a glue-stick and join the pieces.</p>
 <p><strong>The lines inside the patterns mark their seam allowances.</strong> Most of them are one inch (or 1.2cm), except for the seam allowance of the central seam at the back where you insert the zipper (2cm). Should there be any variation in the seam allowances, you will see it on the pattern.</p>
 <p><strong>I glue together the pattern of the back piece without trimming the edges. </strong></p>
 <p>
@@ -351,7 +351,7 @@
 <p><strong>Please note</strong> that cup underwires have different ends: the rounder end is supposed to face the centre of the garment while the opposite end should face the underarm area. You must always account for it in pattern construction.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%203_files/image020.jpg" class="img-responsive center-block"></p>
-<p>The underwire will give the cup its final shape. It will happen after you sew tubular bone casing onto the cup and insert the underwire into the tunnel. <strong>That’s why the underwire – and not the cup – is of primary importance to our pattern.</strong></p>
+<p>The underwire will give the cup its final shape. It will happen after you sew tubular bone casing onto the cup and insert the underwire into the tunnel. <strong>That’s why the underwire - and not the cup - is of primary importance to our pattern.</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/transcript/Tutorial%203_files/image022.jpg" class="img-responsive center-block"></strong></p>
 <p>The length of my underwire perfectly matches the bottom edge of the cup. <strong>I place the bone with one end at the determined point making sure it corresponds with the bottom border of the cup marked underneath the bust. I outline the underwire. </strong></p>
@@ -393,7 +393,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“. The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
+						<p>Sewing patterns are in PDF format. For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>". The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/body/body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/dress%20for%20body/dress%20for%20body.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress for body (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%203/patterns/down%20sleeves/down%20sleeves.pdf&#10;" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Sleeves (for home printer)</a><br>						

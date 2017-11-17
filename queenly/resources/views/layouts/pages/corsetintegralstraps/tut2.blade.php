@@ -266,7 +266,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 2. Cutting a Corset Mock-up.">
 <meta itemprop="headline" content="Tutorial 2. Cutting a Corset Mock-up.">
-<meta itemprop="description" content="Tutorial 2. Cutting a Corset Mock-up. We need some simple cotton fabric for cutting out our mock-up. It can be either thin or dense – it doesn’t really matter. What’s important is it should be non-elastic and hold its shape well enough. I have laid out the patterns in advance.">
+<meta itemprop="description" content="Tutorial 2. Cutting a Corset Mock-up. We need some simple cotton fabric for cutting out our mock-up. It can be either thin or dense - it doesn’t really matter. What’s important is it should be non-elastic and hold its shape well enough. I have laid out the patterns in advance.">
 <meta itemprop="articleSection" content="Corset with Integral Straps">
 <meta itemprop="keywords" content="corset with integral straps, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -280,7 +280,7 @@
 <div itemprop="articleBody">
 <h2>Tutorial 2. Cutting a Corset Mock-up.</h2>
 <p></p>
-<p>We need some simple cotton fabric for cutting out our mock-up. It can be either thin or dense – it doesn’t really matter. What’s important is it should be non-elastic and hold its shape well enough. <strong>I have laid out the patterns in advance. I have a piece of fabric left from the previous mock-up that I will now use for one of the back pieces.</strong> </p>
+<p>We need some simple cotton fabric for cutting out our mock-up. It can be either thin or dense - it doesn’t really matter. What’s important is it should be non-elastic and hold its shape well enough. <strong>I have laid out the patterns in advance. I have a piece of fabric left from the previous mock-up that I will now use for one of the back pieces.</strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%202_files/image002.jpg" class="img-responsive center-block"></p>
 <p>
@@ -311,7 +311,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

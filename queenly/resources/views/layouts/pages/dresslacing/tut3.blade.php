@@ -217,7 +217,7 @@
 <p><strong>You can keep it ‘as is’ in the stomach and in the hips. </strong>&nbsp;I bring the princess seam down following the contour of the pattern.&nbsp; </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%203_files/image050.jpg" class="img-responsive center-block"></p>
-<p><strong>The height of the back should be 17cm plus a seam allowance of 1.2cm – 18.2cm total.</strong> Perfect. </p>
+<p><strong>The height of the back should be 17cm plus a seam allowance of 1.2cm - 18.2cm total.</strong> Perfect. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%203_files/image052.jpg" class="img-responsive center-block"></p>
 <p><strong>I start constructing the corner. </strong>&nbsp;</p>
@@ -229,7 +229,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%203_files/image056.jpg" class="img-responsive center-block"></p>
 <p><strong>I draw a graceful line. </strong>&nbsp;We want to cover up the problem area at the base of the arm from the side seam to point A. I think the corner is placed too low now so I move it higher up. I leave a horizontal seam allowance of 2.4cm at the top of the corner.&nbsp; </p>
 <p>The best way to design the back of our dress is to cut its pieces tall following the red dashed line, sew them together, and then cut out a beautiful back neckline. It's the surest way to achieve a graceful shape! </p>
-<p>But we can also do it right now. Let’s stick to the basic rules of geometry – rules of dealing with secants. Give the same incline to lines 1 and 2 to make sure they will merge well in the sewing process. The rest is a question of taste. </p>
+<p>But we can also do it right now. Let’s stick to the basic rules of geometry - rules of dealing with secants. Give the same incline to lines 1 and 2 to make sure they will merge well in the sewing process. The rest is a question of taste. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%203_files/image058.jpg" class="img-responsive center-block"></p>
 <p><strong>The pattern of the back is ready!</strong></p>
@@ -268,7 +268,7 @@
 <p><strong>First measure the distance from the fold line of the fabric to the middle of the back. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%203_files/image078.jpg" class="img-responsive center-block"></p>
-<p>I got about 69cm. I’ll make it 75cm to be on the safe side – 1.5m if you unfold it. </p>
+<p>I got about 69cm. I’ll make it 75cm to be on the safe side - 1.5m if you unfold it. </p>
 <p>Fabric consumption depends on the way you're going to cut. </p>
 <p><strong>If you are going to cut cross-grain, you will need 1.5m of fabric.</strong> </p>
 <p><strong>If you are going to cut lengthwise</strong>, then 1.45-1.5m will be enough for the width and the length will depend on the length of the skirt. The skirt of my dress goes 70cm below the waistline and I always add some extra fabric just in case.&nbsp; </p>
@@ -286,7 +286,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

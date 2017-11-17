@@ -310,7 +310,7 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%209_files/image012.jpg" class="img-responsive center-block"></p>
-<p><strong>I sew down the bust princess seams from top to bottom with a 1.2cm seam allowance.</strong> You carefully put down the bottom piece in accordance with the required width of the seam allowance marked on the needle plate and put the top piece onto it. This method allows you to sew princess seams quickly and neatly regardless of the configuration – with no pins and no basting. </p>
+<p><strong>I sew down the bust princess seams from top to bottom with a 1.2cm seam allowance.</strong> You carefully put down the bottom piece in accordance with the required width of the seam allowance marked on the needle plate and put the top piece onto it. This method allows you to sew princess seams quickly and neatly regardless of the configuration - with no pins and no basting. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%209_files/image014.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -411,7 +411,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

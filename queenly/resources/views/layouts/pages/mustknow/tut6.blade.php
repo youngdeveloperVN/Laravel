@@ -56,10 +56,10 @@
 						
 							
 						<p>In this course there are&nbsp;things and actions you must know&nbsp;in order to make great corsets, such as:</p>
-<p>– How to create and adjust corset patterns</p>
-<p>– What equipment you need to use</p>
-<p>– How to take measurements the right way</p>
-<p>– How to print Corset Academy’s sewing patterns</p>
+<p>- How to create and adjust corset patterns</p>
+<p>- What equipment you need to use</p>
+<p>- How to take measurements the right way</p>
+<p>- How to print Corset Academy’s sewing patterns</p>
 <p>and much more…</p>
 						
 						</div>	
@@ -146,7 +146,7 @@
 <p>This will return you to the printing menu. You should check all settings carefully one more time and then press the Print button. </p>
 <p><strong>Now your printer should start printing.</strong></p>
 <p></p>
-<p>Please take a ruler and measure the size of the squares after printing out the first sheet. Each blue square should be 1 x 1cm and each red one – 0.5 x 0.5cm. &nbsp;Just measure 10 squares in a row, you should get 10cm. If the result is different, you must have made a mistake in the properties. You need to achieve perfect matching!</p>
+<p>Please take a ruler and measure the size of the squares after printing out the first sheet. Each blue square should be 1 x 1cm and each red one - 0.5 x 0.5cm. &nbsp;Just measure 10 squares in a row, you should get 10cm. If the result is different, you must have made a mistake in the properties. You need to achieve perfect matching!</p>
 <p>You should repeat the same procedure for printing out the second, third and further patterns. The corset consists of 5 pieces: 3 front pieces and 2 back ones. Only the first and the second pattern sheets need to be merged together. <strong>There is a special merging line for this purpose:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/must_know/transcript/Printing%20Out%20Patterns_files/image012.jpg" class="img-responsive center-block"></p>
@@ -166,7 +166,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern alteration table</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/Corset_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Free Corset Sewing Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/shrug_bolero_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Bolero (Shrug) Sewing Pattern</a><br>						

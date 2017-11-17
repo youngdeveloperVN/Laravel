@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -313,7 +313,7 @@
 <p><strong>I draw a color alternation line in a random place (line 1). Just make sure not to draw it at the very top of the fragment.</strong> Now let us see how I will sew on the ruffles. I will start at point 1 and take a ruffle of the other color as I reach the marked line. I will continue sewing on the new ruffle until I arrive at the same marked line again, and swap the color again. As you understand, the ruffle is very unlikely to end right at the marked line: it will either end before it or after it. This means I won't change the color of the ruffle exactly at the level marked by the line but do it depending on the situation. I prefer to start from a darker ruffle but it is not a rule.&nbsp; </p>
 <p>Please note that the central fragment is the most confusing part of the layout compared to the rest. It consists of three individual fragments: a blue one (mentioned above), a red one, and a black one. As you remember, every new color is a separate uninterrupted line. </p>
 <p><strong>Let me explain the algorithm of alternating the colors on the red part of the central fragment. </strong>&nbsp;</p>
-<p><strong>First of all, </strong>I would like you to note that the red fragment is situated inside the black fragment and the line keeps turning instead of forming circles. It is important to alternate dark and light ruffles on the long sections – otherwise there will be a spot of a single color formed on the finished garment. That's why the color needs to change at the turn of the red line.&nbsp; </p>
+<p><strong>First of all, </strong>I would like you to note that the red fragment is situated inside the black fragment and the line keeps turning instead of forming circles. It is important to alternate dark and light ruffles on the long sections - otherwise there will be a spot of a single color formed on the finished garment. That's why the color needs to change at the turn of the red line.&nbsp; </p>
 <p><strong>I mark color alternation lines on the red fragment (2 and 3). </strong>Just like on the blue fragment, the ruffle will stop either before or after those lines. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2029_files/image004.jpg" class="img-responsive center-block"></p>
@@ -333,7 +333,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

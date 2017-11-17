@@ -156,7 +156,7 @@
 <p><strong>I make another strengthening stitch stepping a couple fishing lines inwards from the edge of the bone. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%208_files/image012.jpg" class="img-responsive center-block"></p>
-<p><strong>Then I sew on another parallel Rigilene bone – a narrow one since I don’t want the lacing bar to be too wide. </strong>I didn’t prepare it in advance: I’m just sewing it on referring to the length of the first bone. I try to make the gap between the bones as small as possible. </p>
+<p><strong>Then I sew on another parallel Rigilene bone - a narrow one since I don’t want the lacing bar to be too wide. </strong>I didn’t prepare it in advance: I’m just sewing it on referring to the length of the first bone. I try to make the gap between the bones as small as possible. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%208_files/image014.jpg" class="img-responsive center-block"></p>
 <p>
@@ -183,7 +183,7 @@
 <p><strong>Now we need to finish the edge of the back using this strap. Its narrower side should be on the face of the back, i.e. where the bones are, and the wider side should stay on the underside. </strong>Be careful not to confuse the face with the underside. The face of the corset is the side with seam allowances on. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%208_files/image032.jpg" class="img-responsive center-block"></p>
-<p><strong>I place the outer bone right at the fold line of the fabric strap and make a stitch. </strong>You don’t have to stitch precisely at the edge of the bone – the important thing is keeping the bone right at the fold line. </p>
+<p><strong>I place the outer bone right at the fold line of the fabric strap and make a stitch. </strong>You don’t have to stitch precisely at the edge of the bone - the important thing is keeping the bone right at the fold line. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%208_files/image034.jpg" class="img-responsive center-block"></p>
 <p><strong>Next I make another stitch to hold the bar and the back piece together. </strong>You can stitch right through the bone or at its edge. </p>
@@ -211,7 +211,7 @@
 <p><strong>Then I remove all extra fabric and compare the lengths of both halves. </strong>They should be absolutely identical. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%208_files/image052.jpg" class="img-responsive center-block"></p>
-<p><strong>Now I need to sew fabric-encased Rigilene bones onto the princess seams at the back. But first let’s determine their length. </strong>I refer to the mock-up again in order to determine the length of bones that will be encased in fabric. I measure the length of the lacing bar (there’ll be a bone next to it) and the length of the dart, and multiply it all by two. This value isn’t supposed to exceed 150cm or else our fabric sheet won’t be wide enough. Next I’m going to cut a bone of the required length, encase it in fabric and cut it up in two – one for the dart and one for placing at the bar. </p>
+<p><strong>Now I need to sew fabric-encased Rigilene bones onto the princess seams at the back. But first let’s determine their length. </strong>I refer to the mock-up again in order to determine the length of bones that will be encased in fabric. I measure the length of the lacing bar (there’ll be a bone next to it) and the length of the dart, and multiply it all by two. This value isn’t supposed to exceed 150cm or else our fabric sheet won’t be wide enough. Next I’m going to cut a bone of the required length, encase it in fabric and cut it up in two - one for the dart and one for placing at the bar. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%208_files/image054.jpg" class="img-responsive center-block"></p>
 <p>
@@ -227,7 +227,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

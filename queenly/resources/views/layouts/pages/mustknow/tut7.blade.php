@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -360,7 +360,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Pattern%20Constructor_files/image001.jpg" class="img-responsive center-block"> </p>
 <p>There is only one difference from the regular corset pattern: it is prolonged to the hips. </p>
-<p>You can always distinguish three horizontal lines on any pattern – the bust line, the waist line and the hip line. Vertical lines are the fold line at the front and the central open edge at the back. </p>
+<p>You can always distinguish three horizontal lines on any pattern - the bust line, the waist line and the hip line. Vertical lines are the fold line at the front and the central open edge at the back. </p>
 <p>99% of corset-based dresses are princess dresses with two princess seams in the chest area at the front and two princess seams at the back. </p>
 <p>A dress like this can have any kind of a top and any neckline. It can be strapless (like shown in the picture); it can feature a boatneck or integral straps: singlet-type straps, halter-neck, off-shoulder straps. It can be a dress with sleeves that cover the shoulders. Or it can be a very open dress with a fancy décolleté and a low cut back. It can be anything you like. </p>
 <p>I have chosen a basic pattern as an example. But it doesn’t mean it you have to work with standard patterns. I will show you how to adjust patterns after individual measurements in the next tutorials. </p>
@@ -375,7 +375,7 @@
 <p><strong>Let’s return to the pattern. </strong>What do you do in order to turn it into a straight cut dress? You should prolong its vertical lines into a straight skirt of desired length. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Pattern%20Constructor_files/image004.jpg" class="img-responsive center-block"> </p>
-<p>In other words, there’s another horizontal line on the pattern – the skirt length. Your dress can be long, medium or really short. It makes no difference. I simply prolong the lines perpendicular to the hip line right on fabric whenever I want to add a straight skirt. <strong>I apply minor alterations later if necessary. </strong></p>
+<p>In other words, there’s another horizontal line on the pattern - the skirt length. Your dress can be long, medium or really short. It makes no difference. I simply prolong the lines perpendicular to the hip line right on fabric whenever I want to add a straight skirt. <strong>I apply minor alterations later if necessary. </strong></p>
 <p><strong>For example I can narrow the skirt using the side seam or princess seams at back...</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Pattern%20Constructor_files/image005.jpg" class="img-responsive center-block"> </p>
@@ -426,7 +426,7 @@
 <p>Just like in the previous case I have a separate pattern of a godet skirt. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Pattern%20Constructor_files/image026.jpg" class="img-responsive center-block"> </p>
-<p><strong>It turns into a dress pattern the same way as before. </strong>I simply prolong the vertical lines of the front piece to the required skirt length and then I carefully match the hip lines of the top and the skirt and trace the edges over fabric. I don’t care if the waist lines are mismatched. I am only interested in the bottom part of the skirt – from the hip and down. I can apply additional alterations later if needed: add a train, a gore, etc. </p>
+<p><strong>It turns into a dress pattern the same way as before. </strong>I simply prolong the vertical lines of the front piece to the required skirt length and then I carefully match the hip lines of the top and the skirt and trace the edges over fabric. I don’t care if the waist lines are mismatched. I am only interested in the bottom part of the skirt - from the hip and down. I can apply additional alterations later if needed: add a train, a gore, etc. </p>
 <p><strong>And now I’d like to talk about making a pattern of a fishtail dress or a godet dress. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Pattern%20Constructor_files/image027.jpg" class="img-responsive center-block"> </p>
@@ -452,7 +452,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

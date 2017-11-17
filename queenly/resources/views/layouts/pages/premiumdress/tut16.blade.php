@@ -196,7 +196,7 @@
 								
 							
 						<p>&nbsp;</p>
-<p><strong>“Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer – <strong>Krikor Jabotian</strong>.</p>
+<p><strong>"Premium Dress"</strong> is a detailed guide to the sewing techniques employed in the making of a fantastic dress inspired by a famous Lebanese fashion designer - <strong>Krikor Jabotian</strong>.</p>
 <p><strong>Peculiar features of this corset dress:</strong></p>
 <ul>
 <li>The pattern was purposely designed to keep the front and the back of the skirt whole instead of splitting them up by vertical princess seams.</li>
@@ -344,12 +344,12 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2015_files/image064.jpg" alt=""></p>
 <p><strong>I have finished working on the front half of the dress and now I can work on the back.</strong></p>
 <p><strong>First I will install the zipper and then sew the side seams. </strong>I believe it is easier and more logical than sewing the side seams before installing the zipper. On the one hand, my method makes sewing the side seams a little more difficult but, on the other hand, it will be much easier to install the zipper.</p>
-<p><strong>I will use a 40cm blind zipper of a matching color.</strong> You need to shorten your zipper tape if it is too long. Don't make it shorter than 40cm though, because the longer the zipper is – the easier it is to put on the dress.</p>
+<p><strong>I will use a 40cm blind zipper of a matching color.</strong> You need to shorten your zipper tape if it is too long. Don't make it shorter than 40cm though, because the longer the zipper is - the easier it is to put on the dress.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2015_files/image066.jpg" alt=""></p>
 <p><strong>You need to carefully even out the bottom edge of the backing pieces before joining them with the sequin pieces. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2015_files/image068.jpg" alt=""></p>
 <p><strong>Recently, I have been widely using the method of finishing raw fabric edges suggested by my student and colleague Julia Trofimova: instead of serging them she heat-seals them with a soldering iron. </strong>Here is a small lesson from Julia where she explains how to cut an even fabric edge using a soldering iron:</p>
-<p>“I would like to show you how to finish a seam allowance on thin fabric using a soldering iron. <strong>I have sewn together two layers of organza for demonstration.&nbsp; </strong></p>
+<p>"I would like to show you how to finish a seam allowance on thin fabric using a soldering iron. <strong>I have sewn together two layers of organza for demonstration.&nbsp; </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2015_files/image070.jpg" alt=""></p>
 <p><strong>This is what the seam allowance looks like from the face: </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Premium-Dress/transcripts/Tutorial%2015_files/image072.jpg" alt=""></p>
@@ -387,7 +387,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/skirt-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/Premium-Dress/Patterns/snail.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

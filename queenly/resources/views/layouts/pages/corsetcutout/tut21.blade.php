@@ -149,7 +149,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2021_files/image008.jpg" class="img-responsive center-block"></p>
 <p>I insert a plastic bone into the outmost tunnel and skip the next tunnel because I’ll insert grommets there later. It’s going to be stiff enough. </p>
-<p><strong>Each plastic bone should be about 2.5cm shorter than its tunnel. </strong>I round off its end a little and then cut another bone of the same length. I prefer inserting bones symmetrically from both sides of the corset – it’s faster and more accurate. I push the bones inside the tunnels with the help of a regular screwdriver. I recommend that you push them in with their manufactured end first. </p>
+<p><strong>Each plastic bone should be about 2.5cm shorter than its tunnel. </strong>I round off its end a little and then cut another bone of the same length. I prefer inserting bones symmetrically from both sides of the corset - it’s faster and more accurate. I push the bones inside the tunnels with the help of a regular screwdriver. I recommend that you push them in with their manufactured end first. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/transcripts/Tutorial%2021_files/image010.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -186,7 +186,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “PRINT IN ACTUAL SIZE".</p>
+<p>To print sewing patterns open the files, press "print" and choose "PRINT IN ACTUAL SIZE".</p>
 <p>Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with a fancy cut-out</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_4/combination_corset4.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						

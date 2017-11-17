@@ -343,15 +343,15 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%209_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>The front: </strong>&nbsp;</p>
 <p>The upper part of the skirt has a slim fit. The rest is a flowing semi-circle with a lace overlay. The length of the entire skirt is 115cm. Let us make the upper part 35cm long in the middle and 45cm at the sides. <strong>In this case the length of the lower part will be: </strong></p>
-<p><strong>115cm – 35cm = 80cm</strong></p>
+<p><strong>115cm - 35cm = 80cm</strong></p>
 <p><strong>The back:</strong> </p>
 <p>The upper part of the skirt is cut as a single piece with no side seams. According to our concept the top edge of the skirt is concave at the back: there’s about 7cm between the waistline and its middle. A 20cm long zipper is sewn in the skirt and the train starts about 3cm below the zipper. The train is sewn into the lower part of the skirt with vertical seams. Both the train and the skirt feature a lace overlay. The upper part of the skirt is gathered at the zipper level. Its front half is 35cm long in the middle and 45cm long at the sides; the back half should be about 55cm long in the middle so we can visually achieve the same incline from both sides. </p>
 <p><strong>Let's calculate the length of the part of the train that merges with the upper part of the skirt through the central seam.</strong> </p>
-<p><strong>55cm– 7cm – 20cm&nbsp; – 3cm&nbsp; = 25cm</strong></p>
+<p><strong>55cm- 7cm - 20cm&nbsp; - 3cm&nbsp; = 25cm</strong></p>
 <p><strong>Now let's decide upon the length of the train.</strong> I suggest there should be 65cm of it lying on the floor. In that case <strong>the length of the entire skirt with the train included is: </strong>&nbsp;</p>
 <p><strong>115cm+ 65cm= 180cm</strong></p>
 <p><strong>Then the length of the train from the starting point to the bottom is:</strong></p>
-<p><strong>180cm– 7cm – 20cm&nbsp; – 3cm&nbsp; = 150cm</strong></p>
+<p><strong>180cm- 7cm - 20cm&nbsp; - 3cm&nbsp; = 150cm</strong></p>
 <p><strong>Let us work with development drawings. </strong></p>
 <p><strong>The lower part of the skirt is a semi-circle.</strong> </p>
 <p>
@@ -362,7 +362,7 @@
 <p><strong>80cm+ 33cm= 113cm</strong></p>
 <p>This way we can safely start cutting the skirt with a piece of fabric that's at least 120cm wide. </p>
 <p><strong>Next let's calculate the length of the seams for sewing in the train (i.e. the length of the longer sides of the skirt).</strong></p>
-<p>The entire length of each seam is 150cm – however 25cm of the train falls upon the upper part of the skirt. <strong>Therefore the length of the central seam of the semi-circle piece is:</strong></p>
+<p>The entire length of each seam is 150cm - however 25cm of the train falls upon the upper part of the skirt. <strong>Therefore the length of the central seam of the semi-circle piece is:</strong></p>
 <p><strong>150cm+ 25cm= 125cm</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%209_files/image006.jpg" class="img-responsive center-block"></p>

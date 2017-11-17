@@ -329,7 +329,7 @@
 <p><strong>This chapter explains the technique for sewing another type of leather corset: a transformer corset with removable central panels. </strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Foreword_files/image002.jpg" alt=""> </strong></p>
-<p><strong>The idea of making a corset like this did not come as a random thought:</strong> most corsets are based on the same construction and if you choose a base of a neutral colour – black, for example – you can transform the corset beyond recognition by using removable panels in the centre of the front. These panels can be made of fabric as well as leather.</p>
+<p><strong>The idea of making a corset like this did not come as a random thought:</strong> most corsets are based on the same construction and if you choose a base of a neutral colour - black, for example - you can transform the corset beyond recognition by using removable panels in the centre of the front. These panels can be made of fabric as well as leather.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Foreword_files/image004.jpg" alt=""></p>
 <p><strong>First of all, let me say a few words about the panels themselves and the decoration options demonstrated in this chapter.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/transcripts/Foreword_files/image006.jpg" alt=""></p>
@@ -357,7 +357,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/gothic%20corset/pattern-black%20leather%20corset%20%2B%20belt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing pattern of the black leather corset + elastic belt</a><br>						

@@ -264,7 +264,7 @@
 <p></p>
 <p>Before I can start working with the hanging loops, I need to prepare a cord they will actually be made of. </p>
 <p>I take a strap of fabric that is 3cm wide and 1.5m long and stitch it up in half lengthwise leaving a rather long thread at the end of the sewing. Then I make another stitch at a 1mm distance from the first one and going towards the allowance. This is done in order to prevent the thread from breaking if the cord happens to get too strained. Next I take a sack needle with a thick eye, insert the thread that I left at the end of the sewing into it, tie a knot and insert the needle into the hollow cord (blunt end first). And then I turn the strap out by pulling it down on the thread. </p>
-<p><strong>There it is – our cord is ready! I’ll cut it in two halves. </strong></p>
+<p><strong>There it is - our cord is ready! I’ll cut it in two halves. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2012_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>Now I need to mark the location of loops on the central back piece. </strong></p>
@@ -287,7 +287,7 @@
 <p><strong>I arrange the loop cord between these pins:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2012_files/image009.jpg" class="img-responsive center-block"></p>
-<p>I distribute the cord in a “serpent"-like way making uncut hanging loops. This is very important – the loops should be really durable because the cord that will go through them later has to support the whole dress. </p>
+<p>I distribute the cord in a “serpent"-like way making uncut hanging loops. This is very important - the loops should be really durable because the cord that will go through them later has to support the whole dress. </p>
 <p><strong>Next I remove the vertical pins and secure the loops in place according to the markings:</strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2012_files/image011.jpg" class="img-responsive center-block"></strong></p>
@@ -329,7 +329,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

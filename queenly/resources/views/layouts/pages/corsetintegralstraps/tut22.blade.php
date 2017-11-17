@@ -310,7 +310,7 @@
 <p><strong>And I correct my mistake. </strong>I rip up a couple of stitches and re-sew them. It is surely a little troublesome. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2022_files/image017.jpg" class="img-responsive center-block"></p>
-<p><strong>But now I am fully satisfied – everything matches perfectly! </strong></p>
+<p><strong>But now I am fully satisfied - everything matches perfectly! </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2022_files/image019.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>I tuck the ends of the bones inside the cups and secure them with one stitch.</strong> It is necessary to make bar-tacks at the start and end of the stitch. I tuck the other end of each bone inside the cup as well and secure it too. These bones fix the cups in place and prevent the top part of the corset from “breaking" at the junction with the cups. They shouldn’t show through the face though. You might have to do without this bone if you feel that it’s going to be awkward. One always has to choose between the functionality and the beauty of the face side of a garment. </p>
@@ -344,7 +344,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

@@ -309,7 +309,7 @@
 <p><strong>The first half of the corset body is ready: </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2013_files/image042.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>I assemble the second half in the same manner</strong> directing the seam allowances towards the centre of the front. Make sure the bones are stitched on symmetrically – keep comparing the distance between them. </p>
+<p><strong>I assemble the second half in the same manner</strong> directing the seam allowances towards the centre of the front. Make sure the bones are stitched on symmetrically - keep comparing the distance between them. </p>
 <p><strong>We have finished preparing our corset body for now. </strong>It’s time to assemble the cups. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2013_files/image044.jpg" class="img-responsive center-block"></p>
@@ -324,7 +324,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

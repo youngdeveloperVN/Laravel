@@ -324,7 +324,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_1/transcripts/Tutorial%201_files/image020.jpg" class="img-responsive center-block"></p>
 <p><strong>Why do I recommend sewing a pilot sample when you get your first pattern? </strong>Suppose you have carefully measured my pattern after transferring it onto a piece of cardboard. But when you go into sewing, you notice that every individual has their own personal habits related to cutting and sewing (or in other cases such habits are yet to develop).  And taking your very own peculiarities into account your garment might turn out to have a totally different size than mine. Actual sizes can differ by 1-2cm. </p>
-<p><strong>There are a number of possible reasons. </strong>The result can for example depend on the type of seam allowance you’re used to working with. Maybe you prefer using a 1cm seam allowance. It doesn’t really make a difference for vertical seams – you can easily sew them with a 1cm allowance. Or suppose that you trace patterns in such a way that there is one extra millimeter left from each side. And now count how many cuts there are in total! You will end up with a size deviation of at least 1cm from each side. </p>
+<p><strong>There are a number of possible reasons. </strong>The result can for example depend on the type of seam allowance you’re used to working with. Maybe you prefer using a 1cm seam allowance. It doesn’t really make a difference for vertical seams - you can easily sew them with a 1cm allowance. Or suppose that you trace patterns in such a way that there is one extra millimeter left from each side. And now count how many cuts there are in total! You will end up with a size deviation of at least 1cm from each side. </p>
 <p><strong>That’s exactly what I mean by an individual manner of cutting or sewing! </strong>In any case, if you aspire to sew corsets professionally, I believe you will need to sew at least a hundred corsets before you really get the hang of it and learn to recognize the right pattern without a moment’s hesitation. It takes time to remember all these fine points that come into play in sewing! And that is why I find sewing a single pilot sample very sensible. </p>
 <p>If you don’t know your patterns by heart, I suggest you <strong>mark the top and bottom of each piece </strong>because they look similar. And if you haven’t memorized their configuration yet, <strong>mark the top of each pattern with an up-arrow.</strong></p>
 <p></p>
@@ -342,7 +342,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset in a Simplified Technique with Drapery</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

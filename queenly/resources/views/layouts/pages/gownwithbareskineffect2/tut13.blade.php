@@ -354,7 +354,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%207_files/image010.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%207_files/image012.jpg" class="img-responsive center-block"></p>
-<p><strong>We need to cut out the panties at the bottom.</strong> I cut them out from just one side – I will cut them out from the other side symmetrically after taking the garment off the dress-form. I leave 1cm allowance for the seam at the bottom of the panties.</p>
+<p><strong>We need to cut out the panties at the bottom.</strong> I cut them out from just one side - I will cut them out from the other side symmetrically after taking the garment off the dress-form. I leave 1cm allowance for the seam at the bottom of the panties.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%207_files/image014.jpg" class="img-responsive center-block"></p>
 <p>

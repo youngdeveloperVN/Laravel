@@ -273,22 +273,22 @@
 <p><strong>The central cup piece:</strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%204_files/image006.jpg" class="img-responsive center-block"></p>
-<p>– I draw the bust line by connecting the notches along the bust (line 1);</p>
-<p>– I draw a parallel line 3.5cm below it (line 2);</p>
-<p>– I mark 2.5cm above the bust line from both sides of it and connect these marks with the midpoints of the upper curve lines (lines 3 and 4); </p>
-<p>– I mark 2cm from both sides of the bottom line of the iron-on fabric and draw lines going upwards and slightly inclined (lines 5 and 6);</p>
-<p>– I draw a vertical line right in the middle (line 7); </p>
-<p>– I mark 2cm to the right and left from this line and connect these marks with the midpoints of the bottom curves of the iron-on fabric (lines 8 and 9). </p>
+<p>- I draw the bust line by connecting the notches along the bust (line 1);</p>
+<p>- I draw a parallel line 3.5cm below it (line 2);</p>
+<p>- I mark 2.5cm above the bust line from both sides of it and connect these marks with the midpoints of the upper curve lines (lines 3 and 4); </p>
+<p>- I mark 2cm from both sides of the bottom line of the iron-on fabric and draw lines going upwards and slightly inclined (lines 5 and 6);</p>
+<p>- I draw a vertical line right in the middle (line 7); </p>
+<p>- I mark 2cm to the right and left from this line and connect these marks with the midpoints of the bottom curves of the iron-on fabric (lines 8 and 9). </p>
 <p></p>
 <p><strong>The right intermediate cup piece:</strong></p>
-<p>–The marking lines for bones that pass over separate cup pieces have the same numbering. I connect the bust notches (line 1); </p>
+<p>-The marking lines for bones that pass over separate cup pieces have the same numbering. I connect the bust notches (line 1); </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%204_files/image008.jpg" class="img-responsive center-block"></p>
-<p>– I mark 2.5cm above it and connect this point with the midpoint of the upper curve line (line 4);</p>
-<p>– I draw an arch stepping 3cm from the edge of the iron-on fabric (line 10). This is the right border of the cup;</p>
-<p>–&nbsp; I step 3.5cm down from the bust line, mark it on the curve line and connect the marked point with the midpoint of the arch going from the bust line to the bottom (line 2);</p>
-<p>– I mark 2cm from the bottom end of the same arch and 4cm from the top curve of the iron-on piece and draw line 11; </p>
-<p>– I draw a vertical line in the middle of the piece below the cup (line 12).</p>
+<p>- I mark 2.5cm above it and connect this point with the midpoint of the upper curve line (line 4);</p>
+<p>- I draw an arch stepping 3cm from the edge of the iron-on fabric (line 10). This is the right border of the cup;</p>
+<p>-&nbsp; I step 3.5cm down from the bust line, mark it on the curve line and connect the marked point with the midpoint of the arch going from the bust line to the bottom (line 2);</p>
+<p>- I mark 2cm from the bottom end of the same arch and 4cm from the top curve of the iron-on piece and draw line 11; </p>
+<p>- I draw a vertical line in the middle of the piece below the cup (line 12).</p>
 <p></p>
 <p><strong>The left intermediate cup piece has the same kind of bone markings:</strong></p>
 <p><strong><br>
@@ -312,7 +312,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

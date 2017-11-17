@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -364,7 +364,7 @@
 <p><strong>Let me remind you why you need a mock-up to sum it all up. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%206_files/image008.jpg" class="img-responsive center-block"></p>
-<p>The mock-up helps you check the shape of the chest, the cups and the neckline and determine how low the neckline can go. When you join the parts of the mock-up, you get to know the pattern and develop a better understanding of the way its notches match. It’s a priceless experience! It doesn’t take long to sew a simple cotton mock-up – you basically make a few vertical stitches – but a couple of minutes invested into it will make a great difference later. You will be able to double-check all dimensions and see whether you’ve calculated it correctly and hit your client’s measurements or not. By the way, when you take measurements off the mock-up, remember that the seam allowances of the central seam at the back are 2cm each so each circumference is actually 4cm smaller when the garment is sewn. You can check the clip measurement and determine whether the corners are in place and whether the side length is correct. </p>
+<p>The mock-up helps you check the shape of the chest, the cups and the neckline and determine how low the neckline can go. When you join the parts of the mock-up, you get to know the pattern and develop a better understanding of the way its notches match. It’s a priceless experience! It doesn’t take long to sew a simple cotton mock-up - you basically make a few vertical stitches - but a couple of minutes invested into it will make a great difference later. You will be able to double-check all dimensions and see whether you’ve calculated it correctly and hit your client’s measurements or not. By the way, when you take measurements off the mock-up, remember that the seam allowances of the central seam at the back are 2cm each so each circumference is actually 4cm smaller when the garment is sewn. You can check the clip measurement and determine whether the corners are in place and whether the side length is correct. </p>
 <p>But most importantly the mock-up provides you with an opportunity to see how the soon-to-be dress will look on your client. And I suggest you should keep the mock-up on the dress-form until the garment is finished. You can refer to it at any time and shoulder pads do provide a great way to imitate a human body since they are soft enough and can be easily tightened. </p>
 <p>I’m sure you will discover lots of other benefits of working with a mock-up!</p>
 
@@ -377,7 +377,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

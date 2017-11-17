@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -365,13 +365,13 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2010_files/image006.jpg" class="img-responsive center-block"></p>
 <p><strong>Next you should decide how low the neckline should be on the finished garment. </strong>A low neckline usually stops 4cm above the waistline of the garment <strong>(point A).</strong></p>
-<p><strong>I mark 1.2cm left and right of the existing neckline corner (points B and C)</strong> – it’s our seam allowances. </p>
+<p><strong>I mark 1.2cm left and right of the existing neckline corner (points B and C)</strong> - it’s our seam allowances. </p>
 <p><strong>I connect point A with points B and C (lines 3 and 4). </strong>First we’ll lay bones along the seam allowance of the cups and then along the neckline. </p>
 <p><strong>I step 2cm inwards from both edges along the under-bust line and connect these points with the midpoints of the semi-arches (lines 5 and 6).</strong> These bones will reinforce the cups in the middle. </p>
 <p><strong>I draw another line (7) 3.5cm below the bust line for additional support at the bottom of the cups. </strong></p>
 <p><strong>And I draw a line 3cm above the bust line (line 8) to reinforce the top of the cups. </strong></p>
 <p><strong>We have marked all bones on the cups. </strong></p>
-<p><strong>Now it’s time to mark the location of vertical bones on the entire piece. </strong>I believe I don’t need any bones below the stomach level because my client is rather graceful and there’s no need in restricting that part of her figure. But if your client is full-bodied, you can extend bones along the princess seams to the stomach line and extend the central bones a little further – but don’t ever go below the hip line! These bones are not supposed to reach further than 14-15cm below the waistline! </p>
+<p><strong>Now it’s time to mark the location of vertical bones on the entire piece. </strong>I believe I don’t need any bones below the stomach level because my client is rather graceful and there’s no need in restricting that part of her figure. But if your client is full-bodied, you can extend bones along the princess seams to the stomach line and extend the central bones a little further - but don’t ever go below the hip line! These bones are not supposed to reach further than 14-15cm below the waistline! </p>
 <p><strong>Solely for demonstration purposes I am going to make two central bones (3 and 4) stop 2cm below the stomach line or 14cm below the waistline. </strong></p>
 <p><strong>The in-between vertical bones (9 and 10) </strong>that divide in half the area between the central line and the princess seam (with seam allowances accounted for) <strong>will reach 1cm below the stomach level or 13cm below the waistline. </strong></p>
 <p><strong>The bones sewn along the front princess seams will reach down to the stomach line. </strong></p>
@@ -381,7 +381,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2010_files/image008.jpg" class="img-responsive center-block"></p>
 <p><strong>The bone that follows the bust line on the central front piece (1) passes onto the side pieces, too. </strong></p>
-<p><strong>And now we need to determine the borders at the sides of the cups </strong>that will mark the ends of all horizontal bones. I mark 2cm inwards from both side seams along the bust line. There is usually 5-6cm between the side seam and the cup. I mark 5cm – the border of the cup will pass through this point. </p>
+<p><strong>And now we need to determine the borders at the sides of the cups </strong>that will mark the ends of all horizontal bones. I mark 2cm inwards from both side seams along the bust line. There is usually 5-6cm between the side seam and the cup. I mark 5cm - the border of the cup will pass through this point. </p>
 <p><strong>The bottom of the cup is restricted by a bone (2) </strong>that follows the under-bust line. It passes from the central front piece onto the side pieces and goes up forming arches from both sides and passing through the reference points of the border we have just determined. </p>
 <p>I draw these arches the following way: I place my fist in the bust middle point, mark the distance to the reference point on the bust line (the one that marks the border), and draw an arch as if I were using a compass. </p>
 <p>
@@ -409,7 +409,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

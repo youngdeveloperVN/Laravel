@@ -354,7 +354,7 @@
 <p>However semi-finished foam cups are too flat and we can't leave them that way. <strong>We need to insert steel underwires into the cups before putting them in place </strong>so they acquire their dome-shape just like in a bra. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%206.files/image004.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-129.jpg"></p>
-<p><strong>You will need bone casing for that purpose – i.e. special bias tape with a tunnel for inserting the underwires. </strong></p>
+<p><strong>You will need bone casing for that purpose - i.e. special bias tape with a tunnel for inserting the underwires. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%206.files/image006.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-130.jpg"></p>
 <p></p>
@@ -387,7 +387,7 @@
 <p><strong>I push it in leaving some space for bar tacks. </strong>These bar tacks are very tight zigzag stitches. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%206.files/image025.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-140.jpg"></p>
-<p><strong>The cup is ready – you could sew it into the dress like that.</strong> It has volume, it is hard and resilient and it holds its shape very well. </p>
+<p><strong>The cup is ready - you could sew it into the dress like that.</strong> It has volume, it is hard and resilient and it holds its shape very well. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%206.files/image027.jpg" class="img-responsive center-block" alt="Описание: C:\Users\Admin\Desktop\kn4 4.0\kn4.4image\kn4.41-141.jpg"></p>
 <p><strong>I sew another bias tape to the other cup and insert the underwire. </strong></p>

@@ -276,31 +276,31 @@
 <p><strong>- Bust middle.</strong>&nbsp; It is the distance between the supposed princess seams.</p>
 <p><strong>- Side length,</strong></p>
 <p><strong>- Blade height back.</strong> This additional measurement indicates maximum possible length of the back of the dress: so you can cover up as much as possible and at the same time avoid that annoying problem when the skin bulges over the top edge of the dress in the shoulder blade area.</p>
-<p><strong>Column 1 contains all measurements I took off my client</strong>, <strong>and column 2 – all measurements taken off the mock-up. </strong></p>
+<p><strong>Column 1 contains all measurements I took off my client</strong>, <strong>and column 2 - all measurements taken off the mock-up. </strong></p>
 <p><strong>Let us start calculating.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
 <p><strong>Bust middle:</strong> my client’s measurement is 18cm and it is 20cm on the pattern.</p>
-<p><strong>18cm – 20cm = -2cm</strong></p>
+<p><strong>18cm - 20cm = -2cm</strong></p>
 <p>It means I need to remove 1cm from either side of the central front piece. I will simply shift the central front piece 1cm inwards from the fabric fold line to make it smaller. <strong>I write -1cm in line 9 of column 3</strong>. <strong>I also write -1cm in all lines of column 3</strong> that refer to circumferences and are affected by this alteration.<strong>&nbsp; </strong></p>
 <p><strong>Side length:</strong> my client’s measurement is 18cm and it is 20cm on the pattern.</p>
-<p><strong>18cm – 19cm = -1cm</strong></p>
+<p><strong>18cm - 19cm = -1cm</strong></p>
 <p>Therefore, I need to shorten the side line by 1cm at the top. <strong>I write -1cm in line 10 of column 4.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%202_files/image004.jpg" alt=""></p>
 <p><strong>Blade height back:</strong> my client’s measurement is 20cm and it is 18cm on the pattern.</p>
-<p><strong>20cm – 18cm = 2cm</strong></p>
+<p><strong>20cm - 18cm = 2cm</strong></p>
 <p>It means my client's shoulder blade line is located 2cm higher than the top edge of the back of the dress on the pattern. In other words, I cannot raise the back of the dress by more than 2cm. But I am not planning to raise the back of this particular dress anyway: it will be straight-cut and even somewhat low. <strong>This measurement has shown me everything I need to know but it is not involved in any calculations.</strong></p>
 <p><strong>I start by determining the configuration of the side seam line on the custom pattern taking into account all adjustments related to the center&nbsp; &nbsp;of the chest. </strong></p>
 <p><strong>The configuration of the side seam line on the front half of the dress is determined by two measurements: bust front and under-bust front.</strong></p>
 <p><strong>Bust front measurement:</strong> it is 46cm on the client and 50cm on the pattern.</p>
 <p>But I have already adjusted it down by 1cm from either side at the bust line level, i.e. a total of 2cm.</p>
-<p><strong>50cm – 2cm = 48cm</strong></p>
+<p><strong>50cm - 2cm = 48cm</strong></p>
 <p>Therefore,</p>
-<p><strong>46cm – 48cm = -2cm</strong></p>
+<p><strong>46cm - 48cm = -2cm</strong></p>
 <p>I divide it in half (for the left and the right side of the front). As the result, I need to narrow the front down by 1cm from either side at the bust-line level to position the side seam correctly on my client's body. <strong>I write -1cm in line 1 of column 4.</strong></p>
 <p><strong>Under-bust front measurement:</strong> it is 40cm on the client and 41cm on the pattern.</p>
 <p>But I have narrowed the central front piece by 1cm from each side at the under-bust level.</p>
-<p><strong>41cm – 2cm = 39cm</strong></p>
+<p><strong>41cm - 2cm = 39cm</strong></p>
 <p>Therefore,</p>
-<p><strong>40cm – 39cm = 1cm</strong></p>
+<p><strong>40cm - 39cm = 1cm</strong></p>
 <p>I divide it in half (for the left and the right side of the front). As the result, I need to narrow the front down by 0.5cm from either side at the under-bust level to put the side seam in place. <strong>I write -0.5cm in line 2 of column 4.</strong></p>
 <p><strong>Now I know the two major adjustment values which I need to analyze.</strong> Based on this analysis, I will choose a fixed value by which I will narrow or expand the standard pattern of the front.</p>
 <p><strong>If you carefully study the measurements along the entire side seam line of the front half of the dress,</strong> you will notice that the pattern measurements are a lot bigger than the client's measurements. It is therefore logical to assume that I need to make the standard pattern smaller along all circumferences. The resulting alteration values of -1cm and +0.5cm tell me that it makes sense to <strong>shift the entire side seam line of the front 1cm inwards.</strong></p>
@@ -308,12 +308,12 @@
 <p><strong>Now the clip measurement.</strong></p>
 <p><strong>Clip toward the neckline: </strong>it is 6cm on the client and 8.5cm on the pattern.</p>
 <p>This part of the clip (the distance from the apex of the breast to the middle of the neckline) refers to the central front piece which I am supposed to narrow down by 1cm from either side.</p>
-<p><strong>8.5cm – 1cm = 7.5cm</strong></p>
+<p><strong>8.5cm - 1cm = 7.5cm</strong></p>
 <p>Therefore,</p>
-<p><strong>6cm – 7.5cm = -1.5cm</strong></p>
+<p><strong>6cm - 7.5cm = -1.5cm</strong></p>
 <p>As you can see, I need to shorten the clip-toward-neckline by 1.5cm<strong>. I write -1.5cm in line 8 of column 4.</strong> When working on the pattern, I prefer to mark the clip at its full length with a seam allowance included rather than mark the adjusted value.</p>
 <p><strong>Clip toward the armscye: </strong>it is 10cm on the client and 10.5cm on the pattern.</p>
-<p><strong>10cm – 10.5cm = -0.5cm</strong></p>
+<p><strong>10cm - 10.5cm = -0.5cm</strong></p>
 <p>I need to shorten the clip-toward-armscye by 0.5cm.<strong> I write -0.5cm in line 8 of column 4.</strong></p>
 <p><strong>Side length and blade height back measurements are not involved in these calculations.</strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%202_files/image006.jpg" alt=""></p>
@@ -324,23 +324,23 @@
 <p>But I have already narrowed the center of the front by 1cm from either side (2cm total) and shifted the side seam line of the front 1cm inwards (2cm total). If I sum it up, it turns out that <strong>I have reduced the standard pattern by 4cm at the bust line level. </strong></p>
 <p><strong>Moreover, I have already removed the same value of 4cm along the entire length of the back.</strong></p>
 <p><strong>95cm - 4cm = 91cm</strong></p>
-<p><strong>86cm – 91cm = -5cm</strong></p>
+<p><strong>86cm - 91cm = -5cm</strong></p>
 <p>As you can see, there are five extra centimeters on the pattern. I need to divide them between the two sides of the back (left and right). As the result, <strong>I need to adjust down the pattern of the back by 2.5cm at the bust line level. I write -2.5cm in the table.</strong></p>
 <p><strong>The next measurement is the under-bust circumference:</strong> 78cm on the client and 82cm on the pattern.</p>
 <p><strong>82cm - 4cm = 78cm</strong></p>
-<p><strong>78cm – 78cm = 0cm</strong></p>
+<p><strong>78cm - 78cm = 0cm</strong></p>
 <p>I have arrived at my client's measurement. It means <strong>I shouldn’t shift the side seam line of the back half of the dress at the under-bust level </strong>or else I won't meet my client's measurement. <strong>I write a zero in the table.</strong></p>
 <p><strong>Waist circumference:</strong> my client’s measurement is 68cm and it is 82cm on the pattern.</p>
 <p><strong>82cm - 4cm = 78cm</strong></p>
-<p><strong>68cm – 78cm = -10cm</strong></p>
+<p><strong>68cm - 78cm = -10cm</strong></p>
 <p>There is an excess of ten centimeters on the pattern and I need to distribute it between the left and the right side of the back. In other words, <strong>I need to shift either side of the back 5cm inwards at the waistline level</strong> to arrive at my client's measurement. <strong>I write -5cm in the table.</strong></p>
 <p><strong>Let's move to the stomach circumference. </strong>My client’s measurement is 90cm and it is 103cm on the pattern.</p>
 <p><strong>103cm - 4cm = 99cm</strong></p>
-<p><strong>90cm – 99cm = -9cm</strong></p>
+<p><strong>90cm - 99cm = -9cm</strong></p>
 <p>I divide the value in half. As the result, <strong>I need to shift either side of the back 4.5cm inwards </strong>at the level of the stomach line (12cm below the waistline). <strong>I write -4.5cm in the table.</strong></p>
 <p><strong>I reach the hip line (19 cm below the waistline) , i.e. the hip circumference. </strong>It is 99cm on the client and 109cm on the pattern.</p>
 <p><strong>109cm - 4cm = 105cm</strong></p>
-<p><strong>99cm – 105cm = -6cm</strong></p>
+<p><strong>99cm - 105cm = -6cm</strong></p>
 <p>I divide the value in half. As the result, <strong>I need to shift either side of the back 3cm inwards </strong>at the level of the hip line. <strong>I write -3cm in the table.</strong></p>
 <p><strong>Clip, bust middle, and blade height back are not involved in the calculations.</strong> The side length measurement is adjusted the same way as on the front half of the dress.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/transcript/Tutorial%202_files/image008.jpg" alt=""></p>
@@ -362,15 +362,15 @@
 <p><strong>I start from the bust circumference. </strong>It is 86cm on the client and 95cm on the pattern.</p>
 <p><strong>&nbsp;(-2cm) + (-2cm) + (-5cm) = -9cm</strong></p>
 <p>I subtract this value from the pattern measurement:</p>
-<p><strong>95cm – 9cm = 86cm</strong></p>
+<p><strong>95cm - 9cm = 86cm</strong></p>
 <p>I have arrived at my client's measurement.</p>
 <p><strong>It means I don't need to alter the back princess seam at the bust line level</strong>. <strong>I write a zero in line 3 of column 8.</strong></p>
 <p><strong>Under-bust circumference: </strong>it is 78cm on the client and 82cm on the pattern.</p>
 <p>But I have adjusted down the center of the front by 1cm from either side (2cm total) and shifted the side seam lines of the back 1.5cm inwards, which makes another 3cm. I sum up the values to find the total adjustment value:</p>
 <p><strong>(-2cm) + (-3cm) = -5cm</strong></p>
 <p>I subtract this value from the pattern measurement:</p>
-<p><strong>82cm – 5cm = 77cm</strong></p>
-<p><strong>78cm – 77cm = 1cm</strong></p>
+<p><strong>82cm - 5cm = 77cm</strong></p>
+<p><strong>78cm - 77cm = 1cm</strong></p>
 <p><strong>Therefore I need to expand the pattern by 1cm at the under-bust level.</strong> I will use the princess seams of the back for this purpose. There are two princess seams (or darts) at the back of the dress and each one is made of two raw edges of fabric sewn together. In other words, there are four raw edges on the two pieces of the back, and I will divide this 1cm between them.</p>
 <p><strong>1cm / 4 = 0.25cm ≈ 0.3cm</strong></p>
 <p><strong>I need to shift the princess seams of the back 0.3cm outwards at the under-bust level. I write 0.3cm in line 4 of column 8.</strong></p>
@@ -378,8 +378,8 @@
 <p>But I have adjusted down the center of the front by 1cm from either side (2cm total) and shifted the side seam lines of the front 1cm inwards (2cm total) and the side seam lines of the back 2.5cm inwards (which makes another 5cm). I sum up the values to find the total adjustment value:</p>
 <p><strong>(-2cm) + (-2cm) + (-5cm) = -9cm</strong></p>
 <p>I subtract this value from the pattern measurement:</p>
-<p><strong>82cm – 9cm = 73cm</strong></p>
-<p><strong>68cm– 73cm= -5cm</strong></p>
+<p><strong>82cm - 9cm = 73cm</strong></p>
+<p><strong>68cm- 73cm= -5cm</strong></p>
 <p><strong>Therefore I need to narrow the waist of the pattern by 5cm.</strong> I will use the front and the back princess seams for this purpose. There are two princess seams (or darts) at the front of the dress as well and each one is made of two edges sewn together. It means there are four raw edges on the two pieces of the front and four raw edges on the two pieces of the back, which makes a total of eight raw edges. I will divide this value of -5cm between them all.</p>
 <p><strong>-5cm / 8 = -0.625cm ≈ -0.6cm</strong></p>
 <p><strong>I need to shift the front and the back princess seams 0.6cm inwards at the waistline level. I write -0.6cm in line 5 of columns 8 and 9.</strong></p>
@@ -387,15 +387,15 @@
 <p>But I have adjusted down the center of the dress by 1cm from either side (a total of 2cm) and shifted either side of the front 1cm inwards (a total of 2cm) and either side of the back 2.5cm inwards (which makes another 5cm). I sum up the values to find the total adjustment value:</p>
 <p><strong>(-2cm) + (-2cm) + (-5cm) = -9cm</strong></p>
 <p>I subtract this value from the pattern measurement:</p>
-<p><strong>103cm – 9cm = 94cm</strong></p>
-<p><strong>90cm – 94cm = -4cm</strong></p>
+<p><strong>103cm - 9cm = 94cm</strong></p>
+<p><strong>90cm - 94cm = -4cm</strong></p>
 <p><strong>Therefore, I need to reduce the pattern by 4cm in the stomach.</strong> I will do it with the help of the front and back princess seams by dividing the value of -4cm between their eight raw edges.</p>
 <p><strong>-4cm / 8 = -0.5cm</strong></p>
 <p><strong>I need to shift the front and the back princess seams 0.5cm inwards at the stomach level. I write -0.5cm in line 6 of columns 8 and 9.</strong></p>
 <p><strong>Hip circumference: </strong>it is 99cm on the client and 109cm on the pattern.</p>
 <p>The total value of pattern alteration is -9cm. I subtract it from the pattern measurement:</p>
-<p><strong>109cm – 9cm = 100cm</strong></p>
-<p><strong>99cm– 100cm= -1cm</strong></p>
+<p><strong>109cm - 9cm = 100cm</strong></p>
+<p><strong>99cm- 100cm= -1cm</strong></p>
 <p><strong>As the result, I need to adjust the pattern down by 1cm in the hips.</strong> I will distribute the value between the front and the back princess seams.</p>
 <p><strong>-1cm / 8 = -0.125cm ≈ -0.1cm</strong></p>
 <p><strong>I need to shift the front and the back princess seams 0.1cm inwards at the hips level. I write -0.1cm in line 7 of columns 8 and 9.</strong></p>
@@ -412,7 +412,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printer.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Bell Skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/model.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The Model</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%207/sewing-patterns/patterns-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

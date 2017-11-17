@@ -347,8 +347,8 @@
 <p><strong>The base of the dress features a low back neckline</strong> framed by lace insets. There are sewn-in cups at the front. The top of the dress is halter-neck both at the front and at the back. </p>
 <p><strong>I will explain all know-how during the sewing process:</strong> there are certain fine points that concern sewing in the cups, altering the pattern, joining the lace pieces with the base of the dress, etc. </p>
 <p><strong>This model is really trendy and sought-after today.</strong> </p>
-<p><strong>I'd like you to notice</strong> that this time I suggest making proper individually cut and sewn corset cups – the kind you make for see-through corsets. However you could also use ready-made foam cups if you wanted to. It’s a bodice-based dress with a boned front but you could use padding polyester at the top.</p>
-<p><strong>There are a number of materials suitable for such dresses</strong> – your choice is unlimited. The main fabric can be quite thick or rather thin and two-way stretch. </p>
+<p><strong>I'd like you to notice</strong> that this time I suggest making proper individually cut and sewn corset cups - the kind you make for see-through corsets. However you could also use ready-made foam cups if you wanted to. It’s a bodice-based dress with a boned front but you could use padding polyester at the top.</p>
+<p><strong>There are a number of materials suitable for such dresses</strong> - your choice is unlimited. The main fabric can be quite thick or rather thin and two-way stretch. </p>
 <p>&nbsp;Let's get started! </p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -361,7 +361,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -378,7 +378,7 @@
 <p><strong>Once the clean-finish seam is done I trim the seam allowance at the top of the back</strong> to about 0.5cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2022_files/image019.jpg" class="img-responsive center-block"></p>
-<p><strong>And again, I notch out the seam allowances of the princess seams to avoid unwanted thickenings – just like I did on the front part of the dress. </strong></p>
+<p><strong>And again, I notch out the seam allowances of the princess seams to avoid unwanted thickenings - just like I did on the front part of the dress. </strong></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2022_files/image021.jpg" class="img-responsive center-block"></strong></p>
 <p></p>
@@ -437,7 +437,7 @@
 <p></p>
 <p><strong>I’ll show you a good method to solve this issue, eliminate the hollows and help the face acquire the precise shape of the lining. </strong></p>
 <p><strong>I use fusible web to join the face with the lining in the problem area. </strong>The trick seems obvious yet it doesn’t occur to everyone. </p>
-<p><strong>Please note that you can do this only after pressing the entire piece – after making sure it’s all good and you are ready to finish working on the dress! </strong></p>
+<p><strong>Please note that you can do this only after pressing the entire piece - after making sure it’s all good and you are ready to finish working on the dress! </strong></p>
 <p><strong>I take a strap of fusible web of the required width </strong>and place it fusible side down over the lining so that a part of it is on the cup and a part of it below it. We want to duplicate this very spot and achieve the right shape of the face. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2022_files/image057.jpg" class="img-responsive center-block"></p>
@@ -527,7 +527,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

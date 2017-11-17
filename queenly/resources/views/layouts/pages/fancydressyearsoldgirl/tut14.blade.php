@@ -243,7 +243,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/6%20yo/Tutorial%2014_files/image020.jpg" alt=""></p>
 <p><strong>I have prepared a pile of 14cm wide strips of fabric: </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/6%20yo/Tutorial%2014_files/image022.jpg" alt=""></p>
-<p><strong>And now I need to prepare the lace trimming </strong>for sewing it on together with the ruffle. I cut it in half lengthwise, very precisely. The half with a scalloped edge will be sewn onto the front and the half with a plain edge – onto the back of the skirt. The difference will hardly be noticeable on a full sweep skirt decorated with a ruffle, especially one made for a little girl.</p>
+<p><strong>And now I need to prepare the lace trimming </strong>for sewing it on together with the ruffle. I cut it in half lengthwise, very precisely. The half with a scalloped edge will be sewn onto the front and the half with a plain edge - onto the back of the skirt. The difference will hardly be noticeable on a full sweep skirt decorated with a ruffle, especially one made for a little girl.</p>
 <p><strong>I sew the lace trimming on along the hem: </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/6%20yo/Tutorial%2014_files/image024.jpg" alt=""></p>
 <p>And then <strong>I sew the ruffle strips together in one long strip.</strong> I sew without interrupting the thread, fold the top strip conveniently, and sew the next one to it. The resulting single strip is about 9m long.</p>

@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -303,7 +303,7 @@
 <p>Those who already have an idea of what my courses are like might say: “Well, what's new about sewing a corset garment for a full-breasted woman? You just alter the pattern and continue working as usual."</p>
 <p>You are right to some degree. Not entirely though. <strong>There are certain peculiarities that arise when you're working with sizes 14 and up.</strong> They concern sewing bones onto the cups, as well as the entire pattern construction process. What am I trying to say? Let us take, for example, the dress we are about to sew. You have seen pictures of the finished garment and you could see the way it sits on the model. Your first thought was probably, “It's clear. Either she sewed in the cups or she made a separately cut corset and then attached a full flared skirt to it." And that's where you are wrong. </p>
 <p><strong>Sizes 14 and up bring about some challenges.</strong> The lining of the dress has to be whole.&nbsp; And you must by no means sew as many bones onto the cups of a size-14 dress for the sake of making them rounder. I am not trying to say you must never adjust the shape of the cups with the help of bones. There may be exceptions to the rule or your client may have her own preferences. Always think over what the client wants and what you need to achieve before choosing a particular sewing technique. </p>
-<p>I know it from my own experience that some women with full breasts avoid the push-up effect because it makes the bust appear even larger.&nbsp; And there is absolutely no need in that in their case – it looks really vulgar. You don't need to enhance the shape of large breasts artificially by forming dome cups. <strong>A well-shaped pattern is enough!</strong> Full breasts will naturally fill the space inside the cups. No special tricks are required to give the bust a beautiful shape. Small breasts lack the volume necessary for the classic corset shape, so you have to trick Mother Nature and make up for it. Full-breasted women, on the contrary, want to visually make the bust smaller. </p>
+<p>I know it from my own experience that some women with full breasts avoid the push-up effect because it makes the bust appear even larger.&nbsp; And there is absolutely no need in that in their case - it looks really vulgar. You don't need to enhance the shape of large breasts artificially by forming dome cups. <strong>A well-shaped pattern is enough!</strong> Full breasts will naturally fill the space inside the cups. No special tricks are required to give the bust a beautiful shape. Small breasts lack the volume necessary for the classic corset shape, so you have to trick Mother Nature and make up for it. Full-breasted women, on the contrary, want to visually make the bust smaller. </p>
 <p><strong>Let us speak about the technique. </strong>&nbsp;</p>
 <p><strong>Sewing bones onto the cups: </strong>&nbsp;always remember that cups lined with bones involve a semi-arched bone right beneath the breasts, similar to bra underwire (see below). It is sewn on before all other bones.</p>
 <p>
@@ -361,7 +361,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

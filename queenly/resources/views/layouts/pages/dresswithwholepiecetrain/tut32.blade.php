@@ -269,7 +269,7 @@
 							
 						<p><strong>Features:</strong></p>
 <ul>
-<li>This is the&nbsp;&nbsp;primary technique for sewing the “Princess" dresses.</li>
+<li>This is the&nbsp;&nbsp;primary technique for sewing the "Princess" dresses.</li>
 <li>The tutorials “Altering the Standard Pattern" and “The Pattern Constructor" explain how to prepare the pattern and to cut the dress with any style for any size!&nbsp;This knowledge removes the limits and makes this course universal for creating unlimited styles of wedding and evening gowns.</li>
 </ul>
 <ul>
@@ -277,7 +277,7 @@
 </ul>
 <p><strong>Skills you gain:</strong></p>
 <ul>
-<li>How to cut and sew a corset-based dress “Princess" style with removable skirt with the train.</li>
+<li>How to cut and sew a corset-based dress "Princess" style with removable skirt with the train.</li>
 <li>How to make the lacing that turns into hidden zipper for the skirt.</li>
 <li>How to quilt a rounded corset bustier cup.</li>
 <li>How to make a deep decollete (low neckline).</li>
@@ -362,7 +362,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2032_files/image006.jpg" class="img-responsive center-block"></p>
 <p>You could join the open edges of the skirt with an overseam straight after leaving about 30cm unstitched to insert the zipper later. In this case the zipper area will be covered up by the lace. But if you intend to decorate the skirt, I highly recommend that you sew up the central seam at the back after doing so. </p>
 <p>The skirt can be decorated with lace appliqué, motifs taken from a lace border or elements from the main fabric. You can attach the appliqué with the help of Gutermann glue or fusible web. Skirt decoration requires individuality and you can let your creative spirits run free. </p>
-<p><strong>Skirt decoration.</strong> I mark the location of all lace motifs at the front of the skirt, along the hemline, and on the train with the help of fusible web. Then I iron them on. If necessary, you can secure certain spots with fabric glue – or with hand stitches if there’s enough time. </p>
+<p><strong>Skirt decoration.</strong> I mark the location of all lace motifs at the front of the skirt, along the hemline, and on the train with the help of fusible web. Then I iron them on. If necessary, you can secure certain spots with fabric glue - or with hand stitches if there’s enough time. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2032_files/image008.jpg" class="img-responsive center-block"></p>
 <p>
@@ -389,14 +389,14 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2032_files/image024.jpg" class="img-responsive center-block"></p>
 <p><strong>I’d like to share another helpful trick used in garment decoration. </strong></p>
-<p><strong>Suppose your garment has detachable parts </strong>– it could be, for example, a belt or a skirt attached with transparent snaps. When you take the detachable part off, those transparent sockets might become too noticeable and spoil the overall look of the garment! That’s why I make decorative caps. </p>
+<p><strong>Suppose your garment has detachable parts </strong>- it could be, for example, a belt or a skirt attached with transparent snaps. When you take the detachable part off, those transparent sockets might become too noticeable and spoil the overall look of the garment! That’s why I make decorative caps. </p>
 <p><strong>There is this type of finishing borders that feature flowers </strong>with or without rhinestones. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/Tutorial%2032_files/image026.jpg" class="img-responsive center-block"></p>
 <p><strong>I cut out the flower and sew the cap of the snap onto the back of it. </strong>Then I snap it onto the socket. </p>
-<p>When bridesmaids help the bride take her belt / skirt / train off the dress, they can quickly disguise all visible sockets with these flower caps. It looks perfect – no one can tell that the flowers are snap-on. </p>
+<p>When bridesmaids help the bride take her belt / skirt / train off the dress, they can quickly disguise all visible sockets with these flower caps. It looks perfect - no one can tell that the flowers are snap-on. </p>
 <p>Of course you can feel free to use any other suitable motifs and not just flowers. </p>
-<p>I have simply shared a smart way to decorate the snaps with something pretty. It can be bows, flowers, whole ornaments – anything you like. </p>
+<p>I have simply shared a smart way to decorate the snaps with something pretty. It can be bows, flowers, whole ornaments - anything you like. </p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->
@@ -407,7 +407,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "print in actual size". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. On the last pages there are the whole patterns, for printing at copy-shop.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> The dress</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/bell%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 The bell skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/flared%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Flared skirt</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%20dress%201/patterns/mermaid%20skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

@@ -234,7 +234,7 @@
 <p><strong>Then, I stitch up the dart on the non-duplicated piece. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%205_files/image008.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%205_files/image010.jpg" alt=""></p>
-<p><strong>And I add hanging loops </strong>by folding 20cm long ribbons in half and sewing them to the garment in the underarm areas. I secure the loops with two rows of stitches with an interval of about 2cm in-between. The first one is made on the seam allowance and the second one – on the inside of the cup. This will help the dress hang more evenly.</p>
+<p><strong>And I add hanging loops </strong>by folding 20cm long ribbons in half and sewing them to the garment in the underarm areas. I secure the loops with two rows of stitches with an interval of about 2cm in-between. The first one is made on the seam allowance and the second one - on the inside of the cup. This will help the dress hang more evenly.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%205_files/image012.jpg" alt=""></p>
 <p><strong>I put together the lining and the face </strong>and secure them with pins. <strong>I sew a joining seam along the row of stay-stitches.&nbsp; </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%205_files/image014.jpg" alt=""></p>

@@ -242,7 +242,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%204_files/image016.jpg" alt=""></p>
 <p><strong>I fold the lining piece in half and mark the center. Now I am going to mark the positions of bones. </strong></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/9%20yo/Tutorial%204_files/image018.jpg" alt=""></p>
-<p><strong>Please note that there are no strict rules here – you are supposed to do it all by eye and rely on your experience.</strong> I divide the top and the bottom in about equal sections and draw two vertical bones. The bones at the sides will be placed at an angle.</p>
+<p><strong>Please note that there are no strict rules here - you are supposed to do it all by eye and rely on your experience.</strong> I divide the top and the bottom in about equal sections and draw two vertical bones. The bones at the sides will be placed at an angle.</p>
 <p><strong>Let me share a small tip with you.</strong> Whenever you think of sewing a bone somewhere, always ask yourself why you want to place it there. What function will it perform? What will it support?</p>
 <p>For example, right now I am asking myself whether I am going to sew a bone in the middle of the piece.&nbsp; And the answer is no, I am not! Sometimes, such central bones behave quite unexpectedly: they might, for example, start pushing the fabric upwards and deform the neckline.</p>
 <p><strong>I take the back piece.</strong></p>

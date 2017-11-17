@@ -285,7 +285,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2021_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>I turn down the face side of the cup and start inserting it in place. </strong></p>
 <p><strong>Please note the sequence of actions: </strong>you might do it the same way I do it. </p>
-<p><strong>First you need to match the edges </strong>and turn the face back up to check if they coincide well enough. These are the most challenging spot since they are rather thick. Our key task is to find a good way of arranging the ends of the bones that we left from both sides of the rounded cut on the corset body to reduce the protrusion that appears when you turn the cup back up. <strong>I place the bones of the rounded cut over the seam allowance on the face of the cup – this way it’s easier to turn it back up and cover the joint place. </strong>I secure the bones with pins. Make sure the seam allowance of the rounded cut always remains 1.2cm. </p>
+<p><strong>First you need to match the edges </strong>and turn the face back up to check if they coincide well enough. These are the most challenging spot since they are rather thick. Our key task is to find a good way of arranging the ends of the bones that we left from both sides of the rounded cut on the corset body to reduce the protrusion that appears when you turn the cup back up. <strong>I place the bones of the rounded cut over the seam allowance on the face of the cup - this way it’s easier to turn it back up and cover the joint place. </strong>I secure the bones with pins. Make sure the seam allowance of the rounded cut always remains 1.2cm. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_2/Tutorial%2021_files/image004.jpg" class="img-responsive center-block"></p>
 <p>
@@ -318,7 +318,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with Integral Halter-Neck Straps</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset2.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

@@ -210,7 +210,7 @@
 <p><img src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/The%20Law%20of%20Proportions%20in%20Children_files/image059.jpg" alt="det1-246" width="567" height="376"></p>
 <p><strong>Moreover, I did a small experiment with my own cat.</strong> I noticed that he always slept in the same spot on the sofa. After I measured the sofa, it turned out <strong>my cat slept right in a golden ratio point.</strong></p>
 <p><img src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/The%20Law%20of%20Proportions%20in%20Children_files/image060.jpg" alt="" width="576" height="383"></p>
-<p>Of course, the cat did not choose that spot based on his knowledge of maths and irrational numbers – he did it purely instinctively! The golden ratio law is another proof that man is part of creation.</p>
+<p>Of course, the cat did not choose that spot based on his knowledge of maths and irrational numbers - he did it purely instinctively! The golden ratio law is another proof that man is part of creation.</p>
 <p><strong>I turns out that a human body is a wonderful example of golden ratio-based proportions: </strong></p>
 <p><img src="https://corsetacademy.s3.amazonaws.com/Fancy%20Dresses%20for%20girls/Introduction/The%20Law%20of%20Proportions%20in%20Children_files/image062.jpg" alt="det1-248" width="234" height="369"></p>
 <p>A grown-up man is normally eight heads tall: his torso is three heads long and the part below the waist is five heads long. <strong>And that is a golden ratio. </strong></p>
@@ -248,7 +248,7 @@
 <p>Balloon sleeves must also be proportionate to the width of the skirt.</p>
 <p>All decorative elements (pockets, flowers, bows, etc) must also be positioned based on the law of proportions.</p>
 <p><strong>Therefore, it is very important to account for the child's height and build when working on each separate part of the garment. </strong></p>
-<p><strong>I will demonstrate the process of sewing a dress for a six year old girl.</strong> All parts of the dress will be designed with respect to the girl's individual body proportions. The length of the bodice, the length of the skirt, the width of the skirt and the waistband – all these things are important. <strong>The bodice and the skirt will be drafted based on the law of proportions.</strong> I will explain how to do all this at home in the next tutorials. You will see that it is quite easy.</p>
+<p><strong>I will demonstrate the process of sewing a dress for a six year old girl.</strong> All parts of the dress will be designed with respect to the girl's individual body proportions. The length of the bodice, the length of the skirt, the width of the skirt and the waistband - all these things are important. <strong>The bodice and the skirt will be drafted based on the law of proportions.</strong> I will explain how to do all this at home in the next tutorials. You will see that it is quite easy.</p>
 
 </div> <!-- Itemprop END: articleBody -->
 </div> <!-- Scope END: Article -->

@@ -334,7 +334,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 19. Working on the front. Finishing the Top Edge of the Skirt.">
 <meta itemprop="headline" content="Tutorial 19. Working on the front. Finishing the Top Edge of the Skirt.">
-<meta itemprop="description" content="Tutorial 19. Overlaying the Front with Lace. Finishing the Top Edge of the Skirt. I have pinned down and trimmed the lace. I have found symmetric lace elements to make the right half of the garment fully identical to the left half – only mirrored.">
+<meta itemprop="description" content="Tutorial 19. Overlaying the Front with Lace. Finishing the Top Edge of the Skirt. I have pinned down and trimmed the lace. I have found symmetric lace elements to make the right half of the garment fully identical to the left half - only mirrored.">
 <meta itemprop="articleSection" content="Gown with Bare-Skin Effect">
 <meta itemprop="keywords" content="gown with bare-skin effect, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -348,7 +348,7 @@
 <div itemprop="articleBody">
 <h3>Tutorial 19. Overlaying the Front with Lace. Finishing the Top Edge of the Skirt. </h3>
 <p></p>
-<p><strong>I have pinned down and trimmed the lace.</strong> I have found symmetric lace elements to make the right half of the garment fully identical to the left half – only mirrored.</p>
+<p><strong>I have pinned down and trimmed the lace.</strong> I have found symmetric lace elements to make the right half of the garment fully identical to the left half - only mirrored.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%2019.files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>The most essential know-how that concerns arranging the lace:</strong> when trimming the sides, the armscyes or the shoulders, think of the way you are going to match them with the appliqué at the back. Do not break whole flowers or leaves in half but try to create a beautiful contour. It's really hard to match split motifs. </p>

@@ -295,11 +295,11 @@
 <p>I mark where this “bubble" begins and ends by adding pins from both sides along the curve lines. Next I’m going to re-shape the curves on the front piece. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2010_files/image014.jpg" class="img-responsive center-block"></p>
-<p>Unfortunately, this just has to be done! You always need to adjust the face front pieces after making an additional dart and easing in in the middle. That is exactly the reason why I have never talked about this technique in my previous DVDs and books – many of you just weren’t ready for such adjustment work yet. But today most of my customers have already completed the first stages of my teaching courses and acquired all relevant skills and I can explain you how to adjust the face of a corset like this without trouble. </p>
+<p>Unfortunately, this just has to be done! You always need to adjust the face front pieces after making an additional dart and easing in in the middle. That is exactly the reason why I have never talked about this technique in my previous DVDs and books - many of you just weren’t ready for such adjustment work yet. But today most of my customers have already completed the first stages of my teaching courses and acquired all relevant skills and I can explain you how to adjust the face of a corset like this without trouble. </p>
 <p>I turn out the garment and mark the location of the pins with a regular or a disappearing ink pen. In other words, I mark the location of new curve lines. Then I remove the pins, press the seam lines a little and draw these new curve lines trying to make them symmetrical on both sides. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/party_dress/transcript/Tutorial%2010_files/image016.jpg" class="img-responsive center-block"></p>
-<p><strong>And now please try to answer my question:</strong> could you calculate a pattern like this? Let me stress it out again: we create such corsets using our own hands and our equipment – almost like sculptors! </p>
+<p><strong>And now please try to answer my question:</strong> could you calculate a pattern like this? Let me stress it out again: we create such corsets using our own hands and our equipment - almost like sculptors! </p>
 <p></p>
 <p><strong>Now I make a stitch following the newly drawn line:</strong> </p>
 <p>
@@ -318,7 +318,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Party_dress.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Party Dress</a><br>						
 					</div>
 

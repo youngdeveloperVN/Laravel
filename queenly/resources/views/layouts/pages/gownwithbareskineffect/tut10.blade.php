@@ -369,7 +369,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%209.files/image012.jpg" class="img-responsive center-block"></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%209.files/image014.jpg" class="img-responsive center-block"></p>
-<p><strong>I pin their edges together and cut the patterns out. What I get is two pieces with a fold line and four unfolded pieces – they are the face and the lining of the skirt front.</strong></p>
+<p><strong>I pin their edges together and cut the patterns out. What I get is two pieces with a fold line and four unfolded pieces - they are the face and the lining of the skirt front.</strong></p>
 <p><strong>Next I take two more sheets of fabric, each 125cm long and 150cm wide. </strong></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%205/transcript/Tutorial%209.files/image016.jpg" class="img-responsive center-block"></p>

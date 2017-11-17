@@ -227,7 +227,7 @@
 <meta itemprop="inLanguage" content="en_US">
 <meta itemprop="name" content="Tutorial 19. Inserting Stiff Bones into the Corset Body.">
 <meta itemprop="headline" content="Tutorial 19. Inserting Stiff Bones into the Corset Body.">
-<meta itemprop="description" content="Tutorial&nbsp; 19. Inserting Stiff Bones into the Corset Body. And now it’s time to insert plastic bones into the corset. You can use steel or spiral bones – it makes no big difference! Please do as you like and find appropriate.">
+<meta itemprop="description" content="Tutorial&nbsp; 19. Inserting Stiff Bones into the Corset Body. And now it’s time to insert plastic bones into the corset. You can use steel or spiral bones - it makes no big difference! Please do as you like and find appropriate.">
 <meta itemprop="articleSection" content="Corset with 3-Part Cups">
 <meta itemprop="keywords" content="corset with 3-part cups, video">
 <!-- Scope BEGIN: ImageObject -->
@@ -241,12 +241,12 @@
 <div itemprop="articleBody">
 <h2>Tutorial&nbsp; 19. Inserting Stiff Bones into the Corset Body. </h2>
 <h2> </h2>
-<p><strong>And now it’s time to insert plastic bones into the corset. </strong>You can use steel or spiral bones – it makes no big difference! Please do as you like and find appropriate. I have no experience of working with steel bones (they are rarely used in Israel for some reason). </p>
+<p><strong>And now it’s time to insert plastic bones into the corset. </strong>You can use steel or spiral bones - it makes no big difference! Please do as you like and find appropriate. I have no experience of working with steel bones (they are rarely used in Israel for some reason). </p>
 <p><strong>So we need to insert 12 plastic bones into the 12 tunnels </strong>we have made of wide fabric-encased Rigilene bones. Some of them are located in-between the layers of fabric right now and some are on the surface (for example in the centre of the corset or on the lacing bars). </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2019_files/image002.jpg" class="img-responsive center-block"></p>
-<p><strong>The length of each bone should equal the length of the corresponding tunnel minus 1.5-2cm – so you can finish the bottom edge later. </strong>I am going to push each bone into the tunnel with its manufactured end first, then trim it and round off the other end a little. I will use two additional tools: clippers for trimming the bones and rounding their ends, and a screwdriver for pushing them into the tunnels. </p>
-<p><strong>I measure and cut four identical bones – two for each lacing bar. </strong>I insert them into the tunnels. Since the fabric is non-elastic, it is pretty difficult to push them in. That’s why I do it with the help of a screwdriver. </p>
+<p><strong>The length of each bone should equal the length of the corresponding tunnel minus 1.5-2cm - so you can finish the bottom edge later. </strong>I am going to push each bone into the tunnel with its manufactured end first, then trim it and round off the other end a little. I will use two additional tools: clippers for trimming the bones and rounding their ends, and a screwdriver for pushing them into the tunnels. </p>
+<p><strong>I measure and cut four identical bones - two for each lacing bar. </strong>I insert them into the tunnels. Since the fabric is non-elastic, it is pretty difficult to push them in. That’s why I do it with the help of a screwdriver. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2019_files/image004.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -280,7 +280,7 @@
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2019_files/image024.jpg" class="img-responsive center-block"></strong></p>
 <p><strong>Plastic or steel bones are used to strengthen the corset and make it stiffer, not to shape it. </strong>They help the corset survive the tightening process. Steel bones can probably endure greater tightening but can a woman? That’s the question! It is purely individual and everyone choose whatever they desire. </p>
-<p><strong>So the bones have been inserted and the corset is now stiffer and more resilient. </strong>I find it very beautiful – the corset is acquiring its actual shape: </p>
+<p><strong>So the bones have been inserted and the corset is now stiffer and more resilient. </strong>I find it very beautiful - the corset is acquiring its actual shape: </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2019_files/image026.jpg" class="img-responsive center-block"></p>
 <p>
@@ -296,7 +296,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -326,7 +326,7 @@
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%2024_files/image018.jpg" class="img-responsive center-block"></p>
 <p><strong>Let me explain you why we have cut the base of the dress in this particular fashion.</strong> </p>
 <p><strong>Although the base of the dress will be hidden behind the semi-circle skirts, the client will still feel more confident in it.</strong> She will feel the dress cling to her body making her silhouette more slender, and the flowing skirts will fall down beautifully. I have made the skirt flare starting from the hip to make the wearer's silhouette more graceful. It improves the fit of the dress! </p>
-<p><strong>A slim-fit base like this inside any kind of a dress makes the wearer feel confident that her dress won't "slip off."</strong> The dress is very well secured around the waist and the hips. It's a truly all-around beneficial cutting method! The slim fit will not obstruct the wearer's movements because it is hidden inside and even if it does wrinkle – the skirts at the top will disguise it. And the woman will feel a lot more graceful. This fact has been proven by years of test and trial. </p>
+<p><strong>A slim-fit base like this inside any kind of a dress makes the wearer feel confident that her dress won't "slip off."</strong> The dress is very well secured around the waist and the hips. It's a truly all-around beneficial cutting method! The slim fit will not obstruct the wearer's movements because it is hidden inside and even if it does wrinkle - the skirts at the top will disguise it. And the woman will feel a lot more graceful. This fact has been proven by years of test and trial. </p>
 <p><strong>You could even carry out an experiment.</strong> Just let your client try the dress on without the slim-fit lining base, i.e. only the skirts. She will be instinctively trying to narrow it down herself while standing before the mirror. But when she feels the base of the dress cling to her body, she will feel confident and won't try to change anything. </p>
 <p><strong>Now we need to cut two semi-circle skirts: one will be sewn with our main fabric and the other with knitted fabric with a large floral print. </strong></p>
 <p><strong>I hope you can still remember how to calculate fabric consumption for a semi-circle skirt.</strong> </p>
@@ -384,7 +384,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

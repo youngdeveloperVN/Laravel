@@ -56,10 +56,10 @@
 						
 							
 						<p>In this course there are&nbsp;things and actions you must know&nbsp;in order to make great corsets, such as:</p>
-<p>– How to create and adjust corset patterns</p>
-<p>– What equipment you need to use</p>
-<p>– How to take measurements the right way</p>
-<p>– How to print Corset Academy’s sewing patterns</p>
+<p>- How to create and adjust corset patterns</p>
+<p>- What equipment you need to use</p>
+<p>- How to take measurements the right way</p>
+<p>- How to print Corset Academy’s sewing patterns</p>
 <p>and much more…</p>
 						
 						</div>	
@@ -215,7 +215,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern alteration table</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/Corset_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Free Corset Sewing Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/shrug_bolero_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Bolero (Shrug) Sewing Pattern</a><br>						

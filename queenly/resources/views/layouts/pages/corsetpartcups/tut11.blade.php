@@ -259,11 +259,11 @@
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2011_files/image006.jpg" class="img-responsive center-block"></p>
-<p>I spread the joined pieces making sure there are no tucks or bubbles. You can also iron them. Of course there are minor irregularities since each piece was cut out individually. <strong>So now I need to shape certain pieces using the lining as a reference. </strong>This procedure is a must, do not neglect it – accuracy is particularly important for the see-through corset technique. The pieces should be identical! </p>
+<p>I spread the joined pieces making sure there are no tucks or bubbles. You can also iron them. Of course there are minor irregularities since each piece was cut out individually. <strong>So now I need to shape certain pieces using the lining as a reference. </strong>This procedure is a must, do not neglect it - accuracy is particularly important for the see-through corset technique. The pieces should be identical! </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2011_files/image008.jpg" class="img-responsive center-block"></p>
 <p></p>
-<p><strong>I take the next set of pieces – the side pieces of the back that will be attached to the first set of prepared pieces. </strong>Carefully match the lining with the decorative face. Make sure not to confuse right and left. <strong>We are sewing the side seam. </strong>Lay the pieces correctly so that the lining matches the face perfectly. </p>
+<p><strong>I take the next set of pieces - the side pieces of the back that will be attached to the first set of prepared pieces. </strong>Carefully match the lining with the decorative face. Make sure not to confuse right and left. <strong>We are sewing the side seam. </strong>Lay the pieces correctly so that the lining matches the face perfectly. </p>
 <p></p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset_3/Tutorial%2011_files/image010.jpg" class="img-responsive center-block"></p>
@@ -342,7 +342,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There are&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Corset with 3-part Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Transparent_corsets/combination_corset3.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Pattern combination</a><br>						
 					</div>

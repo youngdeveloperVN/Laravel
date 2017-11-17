@@ -162,7 +162,7 @@
 <p></p>
 <p><strong><br>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2015_files/image016.jpg" class="img-responsive center-block"></strong></p>
-<p><strong>It is a lot easier to press seams on a raised platform rather than on the flat tabletop.</strong> You can press individual areas while the rest of the piece is hanging over the edges of the sleeve-ironing board without getting in the way. This is incredibly handy when working on large garments. Particularly, on the transition from the stomach to the hips and from the waist to the stomach – the areas of noticeable change in circumferences that are rather hard to press on a flat surface. </p>
+<p><strong>It is a lot easier to press seams on a raised platform rather than on the flat tabletop.</strong> You can press individual areas while the rest of the piece is hanging over the edges of the sleeve-ironing board without getting in the way. This is incredibly handy when working on large garments. Particularly, on the transition from the stomach to the hips and from the waist to the stomach - the areas of noticeable change in circumferences that are rather hard to press on a flat surface. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/transcript/Tutorial%2015_files/image018.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -185,7 +185,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/table.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Pattern Calculation Table</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size%202/Patterns/bolero.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

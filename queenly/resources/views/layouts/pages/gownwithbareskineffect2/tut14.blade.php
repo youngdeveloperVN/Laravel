@@ -339,7 +339,7 @@
 <h3>Tutorial 8. Sewing Down the Side Seams of the Dress.</h3>
 <p></p>
 <p><strong>Now we need to sew down the side seams of the bodysuit.</strong> The bodysuit is made of fine highly resilient mesh fabric so it's best to use the invisible seam stitch for the side seams (it is available on a regular household sewing machine). You could also sew the side seams with the help of an overlocker but it makes them thicker. </p>
-<p><strong>I sew mine with the regular elastic machine stitch – the invisible stitch.</strong> Just make sure the seam is slim and elastic, there are no other requirements.</p>
+<p><strong>I sew mine with the regular elastic machine stitch - the invisible stitch.</strong> Just make sure the seam is slim and elastic, there are no other requirements.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding6/Tutorial%208_files/image002.jpg" class="img-responsive center-block"></p>
 <p>

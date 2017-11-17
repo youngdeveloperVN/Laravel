@@ -302,7 +302,7 @@
 <p><strong>I step about 10cm up from the bottom edge and make hand-stitches on the backside of the face</strong> trying to catch only the seam allowances. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%2025_files/image006.jpg" class="img-responsive center-block"></p>
-<p><strong>I make a loop and then "crochet" a hanging chain of stitches</strong> – the same way you would normally do it, only this time with your finger instead of the crochet. The same technique is used for sewing button loops. </p>
+<p><strong>I make a loop and then "crochet" a hanging chain of stitches</strong> - the same way you would normally do it, only this time with your finger instead of the crochet. The same technique is used for sewing button loops. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/transcript/Tutorial%2025_files/image008.jpg" class="img-responsive center-block"></p>
 <p></p>
@@ -349,7 +349,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/dress-base.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress base</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/corset%20dress%20with%20sleeves/patterns/lace-top.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 

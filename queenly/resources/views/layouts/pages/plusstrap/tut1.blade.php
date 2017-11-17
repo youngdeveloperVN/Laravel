@@ -224,7 +224,7 @@
 <ul>
 <li>Calculation and alteration of the plus-size patterns:&nbsp;US 12, EU-44 and larger (bust circumference 100+ cm ).</li>
 <li>Forming&nbsp;slim, proportionate silhouette with the inner corset and the cutting of the lining.</li>
-<li>Construction of the pattern for the&nbsp;asymmetry dress – strap on one shoulder.</li>
+<li>Construction of the pattern for the&nbsp;asymmetry dress - strap on one shoulder.</li>
 <li>The purpose &nbsp;of the straps for the dresses with&nbsp;bust circumference 100+ cm.</li>
 <li>Inserting zipper into a&nbsp;knitting skirt and non-elastic lining, and to make a transition to the lacing.</li>
 <li>Drapery of the bodice with inclined ordered folds, and drapery of the belt.</li>
@@ -315,7 +315,7 @@
 <p><strong>- And hips front. </strong> </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%201_files/image009.jpg" class="img-responsive center-block"> </p>
-<p>These additional measurements allow you to control the balance of the garment – in other words, put the front part of the garment precisely in place by determining the location of the side seams. </p>
+<p>These additional measurements allow you to control the balance of the garment - in other words, put the front part of the garment precisely in place by determining the location of the side seams. </p>
 <p><strong>Classic bust circumference measurement:</strong> make sure your measuring tape is strictly horizontal. The look of the entire garment depends on how accurate your measurements are. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%201_files/image011.jpg" class="img-responsive center-block"> </p>
@@ -446,7 +446,7 @@
 <p><strong>- And hips front. </strong>&nbsp;</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%201_files/image009.jpg" class="img-responsive center-block"></p>
-<p>These additional measurements allow you to control the balance of the garment – in other words, put the front part of the garment precisely in place by determining the location of the side seams. </p>
+<p>These additional measurements allow you to control the balance of the garment - in other words, put the front part of the garment precisely in place by determining the location of the side seams. </p>
 <p><strong>Classic bust circumference measurement:</strong>&nbsp; make sure your measuring tape is strictly horizontal. The look of the entire garment depends on how accurate your measurements are. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/transcripts/Tutorial%201_files/image011.jpg" class="img-responsive center-block"></p>
@@ -567,7 +567,7 @@
 					
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
-						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“. In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
+						<p>Sewing patterns are in PDF format. To print sewing patterns open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>". In each&nbsp;file the pattern is divided &nbsp;to A4 paper sheets for home printers. &nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/Plus-size/plus-size-1/pattern/skirt.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Skirt Pattern</a><br>						
 					</div>

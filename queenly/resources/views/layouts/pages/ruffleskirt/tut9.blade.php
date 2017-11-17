@@ -251,7 +251,7 @@
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%208.files/image022.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%208.files/image024.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%208.files/image026.jpg" alt=""></p>
-<p><strong>We have approached a very responsible moment. </strong>I will join the pieces keeping the seam allowance on the face side. Then I will insert an elastic band in the tunnel – and the petticoat will be finished!</p>
+<p><strong>We have approached a very responsible moment. </strong>I will join the pieces keeping the seam allowance on the face side. Then I will insert an elastic band in the tunnel - and the petticoat will be finished!</p>
 <p><strong>I have already joined the cover with the petticoat. </strong></p>
 <p><strong><br>
 <img class="img-responsive center-block" src="https://corsetacademy.s3-us-west-2.amazonaws.com/wedding%20skirts/mermaid%20wedding%20skirt/Tutorial%208.files/image028.jpg" alt=""></strong></p>

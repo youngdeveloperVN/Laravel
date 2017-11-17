@@ -235,7 +235,7 @@
 <h1>Tutorial 16. Sewing the Appliqué Motifs on the Lay-On Elements.</h1>
 <h2>Decorating the Corset with Bias Tape.</h2>
 <p><strong>I will stitch around the perimeter of each decorative gear now.</strong> I need to use thinner thread and adjust the settings on the sewing machine. After examining several presser feet, I have decided to go with a zipper presser foot.</p>
-<p><strong>I start from the left gear.</strong> I set the stitch to 3mm because working with a longer length would be hard. I recommend that you start stitching from the area that will be covered up to test the stitch. The gear has very small teeth and I try to stitch as close as possible to the edge. It is not exactly easy – as fine as a jeweller's work. But the result will be worth it. I also recommend setting your sewing machine to low speed and pressing the up/down needle position key to make sure the needle will always end in the down position when you stop. You literally have to make 1-2 stitches at a time. I tie all thread tails in knots at the back.</p>
+<p><strong>I start from the left gear.</strong> I set the stitch to 3mm because working with a longer length would be hard. I recommend that you start stitching from the area that will be covered up to test the stitch. The gear has very small teeth and I try to stitch as close as possible to the edge. It is not exactly easy - as fine as a jeweller's work. But the result will be worth it. I also recommend setting your sewing machine to low speed and pressing the up/down needle position key to make sure the needle will always end in the down position when you stop. You literally have to make 1-2 stitches at a time. I tie all thread tails in knots at the back.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%2016_files/image002.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%2016_files/image004.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%2016_files/image005.jpg" alt=""></p>
@@ -268,7 +268,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/pattern-lether1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing patern</a><br>						

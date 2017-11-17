@@ -171,7 +171,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/transparent2_files/image018.jpg" class="img-responsive center-block"></p>
 <p><strong>I Would Like to Give a Special Mention to Some Peculiarities of Sewing Bodysuit-Type Garments. </strong></p>
-<p>Looking through online discussions dedicated to sewing bodysuit garments I have noticed several common misconceptions: people either want to reinforce a bodysuit-based garment with additional bones or – the other way round – they want to remove bones off a garment based on a see-through corset so as to turn it into a bodysuit.</p>
+<p>Looking through online discussions dedicated to sewing bodysuit garments I have noticed several common misconceptions: people either want to reinforce a bodysuit-based garment with additional bones or - the other way round - they want to remove bones off a garment based on a see-through corset so as to turn it into a bodysuit.</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/transparent2_files/image019.jpg" class="img-responsive center-block"></p>
 <p>
@@ -212,7 +212,7 @@
 <p>· My seams and notches don’t match. </p>
 <p>· The princess seams on the cups and the straps are different in length. </p>
 <p>· And many other similar issues. </p>
-<p>I have to answer these E-mails and repeat what’s already described in the tutorials. So my advice is: if you want to engage yourself in sewing wedding or evening garments, please study the learning material carefully <em>before</em> accepting any orders! Sew a pilot sample, make a mock-up, measure its dimensions, check the way different pieces match – and then you won’t have any trouble adjusting the pattern after your client’s measurements. You will find a link to Pattern Adjustment Tables in the description below the video down the bottom of the page. </p>
+<p>I have to answer these E-mails and repeat what’s already described in the tutorials. So my advice is: if you want to engage yourself in sewing wedding or evening garments, please study the learning material carefully <em>before</em> accepting any orders! Sew a pilot sample, make a mock-up, measure its dimensions, check the way different pieces match - and then you won’t have any trouble adjusting the pattern after your client’s measurements. You will find a link to Pattern Adjustment Tables in the description below the video down the bottom of the page. </p>
 <p>Even if you have already been working in the field of wedding fashion for some time, studying the material dedicated to the see-through corset technique will help you feel much more confident during negotiations. You will be able to rationalize sewing a beautiful dress with a see-through corset base thereby increasing your profit and leaving your clients pleasantly surprised at your skillfulness and experience. </p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/where_to_begin/Reviews/transcripts/transparent2_files/image030.jpg" class="img-responsive center-block"></p>
@@ -255,7 +255,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press “print" and choose “print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/Corset_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Free Corset Sewing Pattern</a><br><a href="https://corsetacademy.s3.amazonaws.com/where_to_begin/patterns/shrug_bolero_pattern.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Bolero (Shrug) Sewing Pattern</a><br>						
 					</div>

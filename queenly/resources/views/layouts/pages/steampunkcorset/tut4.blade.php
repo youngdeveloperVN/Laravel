@@ -247,13 +247,13 @@
 <img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%203_files/image006.jpg" alt=""></strong></p>
 <p><strong>Now let us calculate necessary alterations. I will write the values in column 5.</strong></p>
 <p><strong>Under-bust circumference:</strong> 73cm on the client and 70cm on the pattern.</p>
-<p><strong>73cm – 70cm = 3cm</strong></p>
+<p><strong>73cm - 70cm = 3cm</strong></p>
 <p>Therefore, I need to add 3cm to the under-bust circumference.</p>
 <p><strong>Waist circumference:</strong> 63cm on the client and 59cm on the pattern.</p>
-<p><strong>63cm – 59cm = 4cm</strong></p>
+<p><strong>63cm - 59cm = 4cm</strong></p>
 <p>I need to add 4cm to the waist circumference.</p>
 <p><strong>Stomach circumference:</strong> 85cm on the client and 80cm on the pattern.</p>
-<p><strong>85cm – 80cm = 5cm</strong></p>
+<p><strong>85cm - 80cm = 5cm</strong></p>
 <p>I need to add 5cm to the stomach circumference or the bottom circumference of the corset.</p>
 <p><strong>But my corset is supposed to restrict the client's waist, which means I need to make her waist circumference smaller!</strong> It is enough to remove 4cm from the waist circumference for a mild restriction effect. In this particular case, it means I can simply use the initial client's measurement of 59cm. I am not supposed to change the under-bust and stomach circumferences.</p>
 <p><strong>The final values for customizing the pattern are written in columns 5 and 6 and account for the gap between the lacing bars and the desired degree of waist restriction.</strong></p>
@@ -262,10 +262,10 @@
 <p><strong>Next I print out the pattern.</strong> It is made of five pieces.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%203_files/image008.jpg" alt=""></p>
 <p><strong>I need to adjust them in correspondence with client's measurements.</strong></p>
-<p><strong>Under-bust circumference.</strong> According to the calculations, I need to add 3cm to the under-bust circumference – 1.5cm on each half of the corset. It is best to distribute this value between the side seams and the princess seams at the back. This means I need to shift each corresponding cutting line 0.35cm outwards at the level of the under-bust line. I shift it 0.4cm outwards in the side seams and 0.3cm outwards in the princess seams at the back. I carefully bring the new side seams and princess seams to the waistline using the pattern as a template.</p>
+<p><strong>Under-bust circumference.</strong> According to the calculations, I need to add 3cm to the under-bust circumference - 1.5cm on each half of the corset. It is best to distribute this value between the side seams and the princess seams at the back. This means I need to shift each corresponding cutting line 0.35cm outwards at the level of the under-bust line. I shift it 0.4cm outwards in the side seams and 0.3cm outwards in the princess seams at the back. I carefully bring the new side seams and princess seams to the waistline using the pattern as a template.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%203_files/image010.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%203_files/image012.jpg" alt=""></p>
-<p><strong>What concerns the stomach circumference, I need to add 5cm – 2.5cm on each half of the corset.</strong> Again, I will distribute it between the side seams and the princess seams at the back. I would not recommend using the front princess seams for this purpose. My client's proportions are rather balanced so I just add 1cm in each side seam and 0.2cm in each back princess seam. And I re-draw the lines gracefully with the help of the pattern. Please note that I start not from the ceinture and not from the waistline. <strong>Ceinture</strong> is dense non-stretch bias tape that serves to prevent the corset from stretching out in the waist and help it hold its shape. Since regular ceinture is 2cm wide, I step 2cm down from the line that marks its top edge.</p>
+<p><strong>What concerns the stomach circumference, I need to add 5cm - 2.5cm on each half of the corset.</strong> Again, I will distribute it between the side seams and the princess seams at the back. I would not recommend using the front princess seams for this purpose. My client's proportions are rather balanced so I just add 1cm in each side seam and 0.2cm in each back princess seam. And I re-draw the lines gracefully with the help of the pattern. Please note that I start not from the ceinture and not from the waistline. <strong>Ceinture</strong> is dense non-stretch bias tape that serves to prevent the corset from stretching out in the waist and help it hold its shape. Since regular ceinture is 2cm wide, I step 2cm down from the line that marks its top edge.</p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%203_files/image014.jpg" alt=""></p>
 <p><img class="img-responsive center-block" src="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/Tutorial%203_files/image016.jpg" alt=""></p>
 <p><strong>Now I will adjust the central piece.</strong> Let me remind you that the top edge of the corset is raised in the middle of the front while the rest of it is almost straight. The original pattern was made for a corset undergarment which was supposed to add support to the wearer's bra. I move the centre of the front of the corset up by literally 1cm and re-draw the top edge of the central front piece.</p>
@@ -310,7 +310,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing pattern is in PDF format.</p>
-<p>To print the pattern, open the files, press “print" and choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>To print the pattern, open the files, press "print" and choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>Pattern is divided &nbsp;to A4 paper sheets for home printers.</p>
 <p>&nbsp;</p>
 <a href="https://corsetacademy.s3.amazonaws.com/leather%20corset/steampunk%20corset/pattern-lether1.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Sewing patern</a><br>						

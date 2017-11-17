@@ -343,7 +343,7 @@
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/transcripts/Tutorial%204_files/image002.jpg" class="img-responsive center-block"></p>
 <p><strong>Let me say a couple of works about this pattern.</strong> You can use it as is or adjust it as per usual. <strong>In case you want to alter the pattern radically,</strong> i.e. make it 4-5 sizes bigger or smaller, let me explain how to do that. There are transversal lines marked along the perimeter of the pattern and you can use them for reference to alter the size of the pattern. </p>
-<p><strong>Bust circumference is the key criterion for increasing or decreasing the size. </strong>I provide you with two standard patterns that differ by 2 sizes: one has a bust circumference of 88cm (black line) and another – 92cm (red line). The distance between the red and the black line at the intersection with the transversal lines is 6mm, which means you need to mark 3mm towards one or another line on the transversal lines to make the pattern smaller or bigger (change the bust circumference by 2cm).&nbsp; </p>
+<p><strong>Bust circumference is the key criterion for increasing or decreasing the size. </strong>I provide you with two standard patterns that differ by 2 sizes: one has a bust circumference of 88cm (black line) and another - 92cm (red line). The distance between the red and the black line at the intersection with the transversal lines is 6mm, which means you need to mark 3mm towards one or another line on the transversal lines to make the pattern smaller or bigger (change the bust circumference by 2cm).&nbsp; </p>
 <p><strong>Say, if you want to make a pattern with a bust circumference of 96cm, </strong>you need to mark 6mm outwards from the red line on each transversal line and then connect the points (blue dashed line). You will get an adjusted pattern with a 96cm bust circumference. </p>
 <p>That is of course a very fast yet a not so precise method of adjusting the size of the pattern. You should make further adjustments using the traditional measurements taken for garments with shoulder seams: neck base to bust middle, shoulder tip to bust middle, nape to waist, shoulder to waist, shoulder slope, shoulder length, upper-arm circumference, armscye circumference, etc. In other words, you should compare and double check the pattern against your client's measurements. </p>
 <p>
@@ -403,7 +403,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>Sewing patterns are in PDF format.</p>
-<p>For&nbsp;printing choose “<strong>PRINT IN ACTUAL SIZE</strong>“.</p>
+<p>For&nbsp;printing choose "<strong>PRINT IN ACTUAL SIZE</strong>".</p>
 <p>The patterns are&nbsp;divided to A4 paper sheets for home printers.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/dress%20corset.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress (for home printer)</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/long%20sleeves.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 Long sleeves</a><br><a href="https://corsetacademy.s3.amazonaws.com/wedding%20dresses/wedding%204/patterns/american%20armhole.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
