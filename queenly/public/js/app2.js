@@ -15,7 +15,7 @@ var listIdUl = [ "idPremiumdress", "idDressWithWholePieceTrain",
 		"idSequinsDecoration", "idCasualGarmentDecoration",
 		"idEpaulettesSkirt", "idTambourLuneville",
 		"idTheLawProportionsChildren", "idDressYearsOldGirl",
-		"idFancyDressYearsOldGirl", "idDressFancyOldGirl" ];
+		"idFancyDressYearsOldGirl", "idDressFancyOldGirl", "idTheButtonLoopClosure" ];
 
 addIdToUl = function() {
 	var arrayCategories = '';

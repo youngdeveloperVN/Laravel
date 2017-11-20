@@ -57,7 +57,8 @@ class PostController extends Controller {
 				"thelawproportionschildren" => "3",
 				"dressyearsoldgirl" => "9",
 				"fancydressyearsoldgirl" => "16",
-				"dressfancyoldgirl" => "14"
+				"dressfancyoldgirl" => "14",
+				"thebuttonloopclosure" => "2"
 		);
 		
 		foreach ($categories as $category => $total) {
@@ -79,7 +80,7 @@ class PostController extends Controller {
 	}
 
 	public function premiumdress($id) {
-		PostController::createFolderAndFile();
+		//PostController::createFolderAndFile();
 		return view('layouts.pages.premiumdress.tut' . $id);
 	}
 
@@ -265,5 +266,8 @@ class PostController extends Controller {
 
 	public function dressfancyoldgirl($id) {
 		return view('layouts.pages.dressfancyoldgirl.tut' . $id);
+	}
+	public function thebuttonloopclosure($id) {
+		return view('layouts.pages.thebuttonloopclosure.tut' . $id);
 	}
 }

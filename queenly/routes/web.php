@@ -61,3 +61,4 @@ Route::get('/thelawproportionschildren/tut{id}', 'PostController@thelawproportio
 Route::get('/dressyearsoldgirl/tut{id}', 'PostController@dressyearsoldgirl');
 Route::get('/fancydressyearsoldgirl/tut{id}', 'PostController@fancydressyearsoldgirl');
 Route::get('/dressfancyoldgirl/tut{id}', 'PostController@dressfancyoldgirl');
+Route::get('/thebuttonloopclosure/tut{id}', 'PostController@thebuttonloopclosure');

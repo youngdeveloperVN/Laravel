@@ -6,229 +6,164 @@
 			<ul class="list-unstyled">
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="109"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/introduction_premium/">Premium
-						Dress <span>(54)</span>
+					<a class="second" href="#/introduction_premium/">Premium Dress <span>(54)</span>
 				</a>
 					<ul id="idPremiumdress" class="list-unstyled">
-						<li><a href="/"
-							class="access"><i class="fa fa-play-circle"></i>Introduction.</a></li>
-						<li><a
-							href="/premiumdresses/tut1"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Calculating Pattern Alterations.</a></li>
-						<li><a
-							href="/premiumdresses/tut2"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Applying Adjustments to the Front Pieces.</a></li>
-						<li><a
-							href="/premiumdresses/tut3"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
-								Applying Adjustments to the Back Pieces.</a></li>
-						<li><a
-							href="/premiumdresses/tut4"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Cutting Duplication Pieces from Iron-On Fabric.</a></li>
-						<li><a
-							href="/premiumdresses/tut5"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
-								Preparing for the Cutting Process.</a></li>
-						<li><a
-							href="/premiumdresses/tut6"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
-								Duplicating the Lining.&nbsp; Marking the Bones.</a></li>
-						<li><a
-							href="/premiumdresses/tut7"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
-								Assembling the Front of the Lining.</a></li>
-						<li><a
-							href="/premiumdresses/tut8"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
-								Sewing Bones on the Cups.</a></li>
-						<li><a
-							href="/premiumdresses/tut9"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
-								Sewing Bones along the Front Princess Seams.</a></li>
-						<li><a
-							href="/premiumdresses/tut10"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
-								Sewing Lace onto the Front Half of the Lining.</a></li>
-						<li><a
-							href="/premiumdresses/tut11"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
-								Assembling the Lacing Panels.</a></li>
-						<li><a
-							href="/premiumdresses/tut12"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
-								Assembling the Back Half of the Lining. Preparing for a Fitting.</a></li>
-						<li><a
-							href="/premiumdresses/tut13"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
-								Sewing the Side Seams of the Lining.</a></li>
-						<li><a
-							href="/premiumdresses/tut14"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
-								Assembling and Pressing the Face Pieces.</a></li>
-						<li><a
-							href="/premiumdresses/tut15"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
-								Assembling and Pressing the Face Pieces (Continued).</a></li>
-						<li><a
-							href="/premiumdresses/tut16"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
-								Installing the Zipper. Sewing the Side Seams of the Face.</a></li>
-						<li><a
-							href="/premiumdresses/tut17"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
-								Joining the Face with the Lining.</a></li>
-						<li><a
-							href="/premiumdresses/tut18"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
-								Finishing the Neckline of the Dress.</a></li>
-						<li><a
-							href="/premiumdresses/tut19"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
-								Finishing the Hemline.</a></li>
-						<li><a
-							href="/premiumdresses/tut20"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
-								Draping the Bodice.</a></li>
-						<li><a
-							href="/premiumdresses/tut21"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
-								Finishing the Drapery. Finishing the Shoulder Strap.</a></li>
-						<li><a
-							href="/premiumdresses/tut22"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
-								Analyzing the Skirt Pattern and Ruffles Layout.&nbsp; Cutting
+						<li><a href="/" class="access"><i class="fa fa-play-circle"></i>Introduction.</a></li>
+						<li><a href="/premiumdresses/tut1" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Calculating Pattern
+								Alterations.</a></li>
+						<li><a href="/premiumdresses/tut2" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Applying Adjustments
+								to the Front Pieces.</a></li>
+						<li><a href="/premiumdresses/tut3" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Applying Adjustments
+								to the Back Pieces.</a></li>
+						<li><a href="/premiumdresses/tut4" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Cutting Duplication
+								Pieces from Iron-On Fabric.</a></li>
+						<li><a href="/premiumdresses/tut5" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 5. Preparing for the
+								Cutting Process.</a></li>
+						<li><a href="/premiumdresses/tut6" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 6. Duplicating the
+								Lining.&nbsp; Marking the Bones.</a></li>
+						<li><a href="/premiumdresses/tut7" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 7. Assembling the Front
+								of the Lining.</a></li>
+						<li><a href="/premiumdresses/tut8" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 8. Sewing Bones on the
+								Cups.</a></li>
+						<li><a href="/premiumdresses/tut9" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 9. Sewing Bones along the
+								Front Princess Seams.</a></li>
+						<li><a href="/premiumdresses/tut10" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 10. Sewing Lace onto the
+								Front Half of the Lining.</a></li>
+						<li><a href="/premiumdresses/tut11" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 11. Assembling the Lacing
+								Panels.</a></li>
+						<li><a href="/premiumdresses/tut12" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 12. Assembling the Back
+								Half of the Lining. Preparing for a Fitting.</a></li>
+						<li><a href="/premiumdresses/tut13" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 13. Sewing the Side Seams
+								of the Lining.</a></li>
+						<li><a href="/premiumdresses/tut14" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 14. Assembling and
+								Pressing the Face Pieces.</a></li>
+						<li><a href="/premiumdresses/tut15" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 15. Assembling and
+								Pressing the Face Pieces (Continued).</a></li>
+						<li><a href="/premiumdresses/tut16" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 16. Installing the
+								Zipper. Sewing the Side Seams of the Face.</a></li>
+						<li><a href="/premiumdresses/tut17" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 17. Joining the Face with
+								the Lining.</a></li>
+						<li><a href="/premiumdresses/tut18" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 18. Finishing the
+								Neckline of the Dress.</a></li>
+						<li><a href="/premiumdresses/tut19" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 19. Finishing the
+								Hemline.</a></li>
+						<li><a href="/premiumdresses/tut20" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 20. Draping the Bodice.</a></li>
+						<li><a href="/premiumdresses/tut21" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 21. Finishing the
+								Drapery. Finishing the Shoulder Strap.</a></li>
+						<li><a href="/premiumdresses/tut22" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 22. Analyzing the Skirt
+								Pattern and Ruffles Layout.&nbsp; Cutting the Skirt.</a></li>
+						<li><a href="/premiumdresses/tut23" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 23. Joining the Hard Mesh
+								Pieces.</a></li>
+						<li><a href="/premiumdresses/tut24" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 24. Sewing the Skirt.</a></li>
+						<li><a href="/premiumdresses/tut25" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 25. Transferring the
+								Ruffles Layout onto the Skirt.</a></li>
+						<li><a href="/premiumdresses/tut26" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 26. Cutting Fabric Straps
+								for the Ruffles.</a></li>
+						<li><a href="/premiumdresses/tut27" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 27. Gathering the Fabric
+								Straps into Ruffles.</a></li>
+						<li><a href="/premiumdresses/tut28" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 28. Analyzing the Ruffles
+								Layout.&nbsp; Rules of Sewing On Ruffles.</a></li>
+						<li><a href="/premiumdresses/tut29" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 29. Analyzing the Ruffles
+								Layout. Color Alternation Rules.</a></li>
+						<li><a href="/premiumdresses/tut30" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 30. Reinforcing the Hem
+								of the Skirt.</a></li>
+						<li><a href="/premiumdresses/tut31" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 31. Sewing Ruffles on the
+								Blue Fragment.</a></li>
+						<li><a href="/premiumdresses/tut32" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 32. Sewing Ruffles on the
+								Red Fragment.</a></li>
+						<li><a href="/premiumdresses/tut33" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 33. Sewing Ruffles on the
+								Black Fragment.</a></li>
+						<li><a href="/premiumdresses/tut34" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 34. Sewing Ruffles on the
+								Green Fragment.</a></li>
+						<li><a href="/premiumdresses/tut35" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 35. Summing Up the
+								Results of the Work Done.</a></li>
+						<li><a href="/premiumdresses/tut36" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 36. Analyzing the Ruffles
+								Layout. The Sides of the Front Half of the Skirt.</a></li>
+						<li><a href="/premiumdresses/tut37" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 37. Analyzing the Ruffles
+								Layout. The Sides of the Back Half of the Skirt.</a></li>
+						<li><a href="/premiumdresses/tut38" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 38. Analyzing the Ruffles
+								Layout. The Center of the Back Half of the Skirt.</a></li>
+						<li><a href="/premiumdresses/tut39" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 39. Finishing the Hem of
 								the Skirt.</a></li>
-						<li><a
-							href="/premiumdresses/tut23"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
-								Joining the Hard Mesh Pieces.</a></li>
-						<li><a
-							href="/premiumdresses/tut24"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 24.
-								Sewing the Skirt.</a></li>
-						<li><a
-							href="/premiumdresses/tut25"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 25.
-								Transferring the Ruffles Layout onto the Skirt.</a></li>
-						<li><a
-							href="/premiumdresses/tut26"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 26.
-								Cutting Fabric Straps for the Ruffles.</a></li>
-						<li><a
-							href="/premiumdresses/tut27"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 27.
-								Gathering the Fabric Straps into Ruffles.</a></li>
-						<li><a
-							href="/premiumdresses/tut28"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 28.
-								Analyzing the Ruffles Layout.&nbsp; Rules of Sewing On Ruffles.</a></li>
-						<li><a
-							href="/premiumdresses/tut29"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 29.
-								Analyzing the Ruffles Layout. Color Alternation Rules.</a></li>
-						<li><a
-							href="/premiumdresses/tut30"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 30.
-								Reinforcing the Hem of the Skirt.</a></li>
-						<li><a
-							href="/premiumdresses/tut31"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 31.
-								Sewing Ruffles on the Blue Fragment.</a></li>
-						<li><a
-							href="/premiumdresses/tut32"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 32.
-								Sewing Ruffles on the Red Fragment.</a></li>
-						<li><a
-							href="/premiumdresses/tut33"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 33.
-								Sewing Ruffles on the Black Fragment.</a></li>
-						<li><a
-							href="/premiumdresses/tut34"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 34.
-								Sewing Ruffles on the Green Fragment.</a></li>
-						<li><a
-							href="/premiumdresses/tut35"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 35.
-								Summing Up the Results of the Work Done.</a></li>
-						<li><a
-							href="/premiumdresses/tut36"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 36.
-								Analyzing the Ruffles Layout. The Sides of the Front Half of the
-								Skirt.</a></li>
-						<li><a
-							href="/premiumdresses/tut37"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 37.
-								Analyzing the Ruffles Layout. The Sides of the Back Half of the
-								Skirt.</a></li>
-						<li><a
-							href="/premiumdresses/tut38"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 38.
-								Analyzing the Ruffles Layout. The Center of the Back Half of the
-								Skirt.</a></li>
-						<li><a
-							href="/premiumdresses/tut39"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 39.
-								Finishing the Hem of the Skirt.</a></li>
-						<li><a
-							href="/premiumdresses/tut40"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 40.
-								Summing Up the Results. Related Materials Consumption.</a></li>
-						<li><a
-							href="/premiumdresses/tut41"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 41.
-								Cutting the Shoulder Ruffles.</a></li>
-						<li><a
-							href="/premiumdresses/tut42"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 42.
-								Assembling the Decorative Shoulder Piece.</a></li>
-						<li><a
-							href="/premiumdresses/tut43"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 43.
-								Securing the Decorative Shoulder Ruffle in Place.</a></li>
-						<li><a
-							href="/premiumdresses/tut44"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 44.
-								Making Flower Petal Moulds.</a></li>
-						<li><a
-							href="/premiumdresses/tut45"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 45.
-								Making the Hair Clip.</a></li>
-						<li><a
-							href="/premiumdresses/tut46"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 46.
-								Coloring the Petals.</a></li>
-						<li><a
-							href="/premiumdresses/tut47"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 47.
-								Shaping the Petals.</a></li>
-						<li><a
-							href="/premiumdresses/tut48"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 48.
-								Assembling Plastic Suede Flowers.</a></li>
-						<li><a
-							href="/premiumdresses/tut49"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 49.
-								Assembling the Flowers into a Hair Clip.</a></li>
-						<li><a
-							href="/premiumdresses/tut50"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 50.
-								Making the Brooch Buckle.</a></li>
-						<li><a
-							href="/premiumdresses/tut51"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 51.
-								Shaping the Petals and Leaves.</a></li>
-						<li><a
-							href="/premiumdresses/tut52"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 52.
-								Assembling the Brooch Buckle.</a></li>
-						<li><a
-							href="/premiumdresses/tut53"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 53.
-								Pictures of the Finished Garment.</a></li>
+						<li><a href="/premiumdresses/tut40" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 40. Summing Up the
+								Results. Related Materials Consumption.</a></li>
+						<li><a href="/premiumdresses/tut41" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 41. Cutting the Shoulder
+								Ruffles.</a></li>
+						<li><a href="/premiumdresses/tut42" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 42. Assembling the
+								Decorative Shoulder Piece.</a></li>
+						<li><a href="/premiumdresses/tut43" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 43. Securing the
+								Decorative Shoulder Ruffle in Place.</a></li>
+						<li><a href="/premiumdresses/tut44" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 44. Making Flower Petal
+								Moulds.</a></li>
+						<li><a href="/premiumdresses/tut45" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 45. Making the Hair Clip.</a></li>
+						<li><a href="/premiumdresses/tut46" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 46. Coloring the Petals.</a></li>
+						<li><a href="/premiumdresses/tut47" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 47. Shaping the Petals.</a></li>
+						<li><a href="/premiumdresses/tut48" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 48. Assembling Plastic
+								Suede Flowers.</a></li>
+						<li><a href="/premiumdresses/tut49" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 49. Assembling the
+								Flowers into a Hair Clip.</a></li>
+						<li><a href="/premiumdresses/tut50" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 50. Making the Brooch
+								Buckle.</a></li>
+						<li><a href="/premiumdresses/tut51" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 51. Shaping the Petals
+								and Leaves.</a></li>
+						<li><a href="/premiumdresses/tut52" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 52. Assembling the Brooch
+								Buckle.</a></li>
+						<li><a href="/premiumdresses/tut53" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 53. Pictures of the
+								Finished Garment.</a></li>
 					</ul></li>
 			</ul></li>
 		<li class="active"><a href="javascript:void(0)" class="nav-sub first"><i
@@ -238,169 +173,127 @@
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="36"><i class="fa fa-my-menu"></i></a>
 					<a class="second"
-					href="#/tutorial-1-getting-acquainted-with-the-model-2/">Dress
-						with Whole-Piece Train <span>(34)</span>
+					href="#/tutorial-1-getting-acquainted-with-the-model-2/">Dress with
+						Whole-Piece Train <span>(34)</span>
 				</a>
 					<ul id="idDressWithWholePieceTrain" class="list-unstyled">
-						<li><a
-							href="/weddinggowns/tut1"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Getting Acquainted with the Model.</a></li>
-						<li><a
-							href="/weddinggowns/tut2"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Review of Materials Used.</a></li>
-						<li><a
-							href="/weddinggowns/tut3"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
-								Calculating Pattern Alterations.</a></li>
-						<li><a
-							href="/weddinggowns/tut4"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Altering the Standard Pattern.</a></li>
-						<li><a
-							href="/weddinggowns/tut5"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
-								Cutting the Mock-Up.</a></li>
-						<li><a
-							href="/weddinggowns/tut6"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
-								Working with the Mock-Up.</a></li>
-						<li><a href="/weddinggowns/tut7"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 7. Skirt
-								Patterns.</a></li>
-						<li><a
-							href="/weddinggowns/tut8"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
-								Cutting the Dress.</a></li>
-						<li><a
-							href="/weddinggowns/tut9"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
-								Cutting the Lace. Duplicating the Patterns.</a></li>
-						<li><a
-							href="/weddinggowns/tut10"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
-								Marking the Location of Bones.</a></li>
-						<li><a
-							href="/weddinggowns/tut11"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
-								Sewing Up the Princess Seams of the Lining.</a></li>
-						<li><a
-							href="/weddinggowns/tut12"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
-								Pressing the Lining and the Bones.</a></li>
-						<li><a
-							href="/weddinggowns/tut13"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
-								Forming Dome-Shaped Corset Cups.</a></li>
-						<li><a
-							href="/weddinggowns/tut14"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
-								Final Steps to Quilt the Cups with Bones.</a></li>
-						<li><a
-							href="/weddinggowns/tut15"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
-								Pressing the Lining Quilted with Bones.</a></li>
-						<li><a
-							href="/weddinggowns/tut16"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
-								Covering the Cups with Padding Polyester.</a></li>
-						<li><a
-							href="/weddinggowns/tut17"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
-								Joining the Lace with the Face of the Dress.</a></li>
-						<li><a
-							href="/weddinggowns/tut18"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
-								Assembling the Face of the Dress.</a></li>
-						<li><a
-							href="/weddinggowns/tut19"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
-								Sewing a Zipper into the Back of the Dress.</a></li>
-						<li><a
-							href="/weddinggowns/tut20"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
-								Pressing the Face of the Dress.</a></li>
-						<li><a
-							href="/weddinggowns/tut21"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
-								Joining the Face of the Front with the Lining.</a></li>
-						<li><a
-							href="/weddinggowns/tut22"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
-								Finishing the Front of the Dress. Joining the Face of the Back
-								with the Lining.</a></li>
-						<li><a
-							href="/weddinggowns/tut23"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
-								Finishing the Lacing Area.</a></li>
-						<li><a
-							href="/weddinggowns/tut24"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 24.
-								Setting Grommets into the Lacing Bars.</a></li>
-						<li><a
-							href="/weddinggowns/tut25"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 25. Easy
-								Way to Add Supporting Bridges to the Front Neckline.</a></li>
-						<li><a
-							href="/weddinggowns/tut26"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 26.
-								Sewing Up the Side Seams of the Dress.</a></li>
-						<li><a
-							href="/weddinggowns/tut27"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 27.
-								Pressing the Side Seams of the Dress.</a></li>
-						<li><a
-							href="/weddinggowns/tut28"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 28.
-								Virtual Fitting Test. Drafting the Underskirt.</a></li>
-						<li><a
-							href="/weddinggowns/tut29"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 29.
-								Making a Netting for the Train.</a></li>
-						<li><a
-							href="/weddinggowns/tut30"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 30.
-								Sewing Ruffles onto the Underskirt.</a></li>
-						<li><a
-							href="/weddinggowns/tut31"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 31.
-								Calculating and Cutting the See-Through Skirt.</a></li>
-						<li><a
-							href="/weddinggowns/tut32"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 32.
-								Assembling and Finishing the See-Through Skirt.</a></li>
-						<li><a
-							href="/weddinggowns/tut33"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 33.
-								Decorating the Dress and the See-Through Skirt with Fabric
-								Applique.</a></li>
-						<li><a href="#/dress-pattern-constructor/"
-							class="access"><i class="fa fa-play-circle"></i>Dress Pattern
-								Constructor</a></li>
+						<li><a href="/weddinggowns/tut1" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Getting Acquainted
+								with the Model.</a></li>
+						<li><a href="/weddinggowns/tut2" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Review of Materials
+								Used.</a></li>
+						<li><a href="/weddinggowns/tut3" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Calculating Pattern
+								Alterations.</a></li>
+						<li><a href="/weddinggowns/tut4" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Altering the Standard
+								Pattern.</a></li>
+						<li><a href="/weddinggowns/tut5" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 5. Cutting the Mock-Up.</a></li>
+						<li><a href="/weddinggowns/tut6" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 6. Working with the
+								Mock-Up.</a></li>
+						<li><a href="/weddinggowns/tut7" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 7. Skirt Patterns.</a></li>
+						<li><a href="/weddinggowns/tut8" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 8. Cutting the Dress.</a></li>
+						<li><a href="/weddinggowns/tut9" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 9. Cutting the Lace.
+								Duplicating the Patterns.</a></li>
+						<li><a href="/weddinggowns/tut10" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 10. Marking the Location
+								of Bones.</a></li>
+						<li><a href="/weddinggowns/tut11" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 11. Sewing Up the
+								Princess Seams of the Lining.</a></li>
+						<li><a href="/weddinggowns/tut12" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 12. Pressing the Lining
+								and the Bones.</a></li>
+						<li><a href="/weddinggowns/tut13" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 13. Forming Dome-Shaped
+								Corset Cups.</a></li>
+						<li><a href="/weddinggowns/tut14" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 14. Final Steps to Quilt
+								the Cups with Bones.</a></li>
+						<li><a href="/weddinggowns/tut15" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 15. Pressing the Lining
+								Quilted with Bones.</a></li>
+						<li><a href="/weddinggowns/tut16" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 16. Covering the Cups
+								with Padding Polyester.</a></li>
+						<li><a href="/weddinggowns/tut17" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 17. Joining the Lace with
+								the Face of the Dress.</a></li>
+						<li><a href="/weddinggowns/tut18" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 18. Assembling the Face
+								of the Dress.</a></li>
+						<li><a href="/weddinggowns/tut19" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 19. Sewing a Zipper into
+								the Back of the Dress.</a></li>
+						<li><a href="/weddinggowns/tut20" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 20. Pressing the Face of
+								the Dress.</a></li>
+						<li><a href="/weddinggowns/tut21" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 21. Joining the Face of
+								the Front with the Lining.</a></li>
+						<li><a href="/weddinggowns/tut22" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 22. Finishing the Front
+								of the Dress. Joining the Face of the Back with the Lining.</a></li>
+						<li><a href="/weddinggowns/tut23" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 23. Finishing the Lacing
+								Area.</a></li>
+						<li><a href="/weddinggowns/tut24" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 24. Setting Grommets into
+								the Lacing Bars.</a></li>
+						<li><a href="/weddinggowns/tut25" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 25. Easy Way to Add
+								Supporting Bridges to the Front Neckline.</a></li>
+						<li><a href="/weddinggowns/tut26" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 26. Sewing Up the Side
+								Seams of the Dress.</a></li>
+						<li><a href="/weddinggowns/tut27" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 27. Pressing the Side
+								Seams of the Dress.</a></li>
+						<li><a href="/weddinggowns/tut28" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 28. Virtual Fitting Test.
+								Drafting the Underskirt.</a></li>
+						<li><a href="/weddinggowns/tut29" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 29. Making a Netting for
+								the Train.</a></li>
+						<li><a href="/weddinggowns/tut30" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 30. Sewing Ruffles onto
+								the Underskirt.</a></li>
+						<li><a href="/weddinggowns/tut31" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 31. Calculating and
+								Cutting the See-Through Skirt.</a></li>
+						<li><a href="/weddinggowns/tut32" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 32. Assembling and
+								Finishing the See-Through Skirt.</a></li>
+						<li><a href="/weddinggowns/tut33" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 33. Decorating the Dress
+								and the See-Through Skirt with Fabric Applique.</a></li>
+						<li><a href="#/dress-pattern-constructor/" class="access"><i
+								class="fa fa-play-circle"></i>Dress Pattern Constructor</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="46"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/how-to-make-wedding-dress/">Crew-Neck
+					<a class="second" href="#/how-to-make-wedding-dress/">Crew-Neck
 						Dress with Full Skirt <span>(25)</span>
 				</a>
 					<ul id="idCrewNeckDressWithFullSkirt" class="list-unstyled">
-						<li><a href="#/how-to-make-wedding-dress/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Getting Acquainted with the Model.</a></li>
+						<li><a href="#/how-to-make-wedding-dress/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Getting Acquainted
+								with the Model.</a></li>
 						<li><a
 							href="#/tutorial-2-cutting-and-sewing-a-mock-up-based-on-the-standard-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Cutting and Sewing a Mock-Up Based on the Standard Pattern.</a></li>
-						<li><a
-							href="#/tutorial-3-rules-of-working-with-a-mock-up/"
+						<li><a href="#/tutorial-3-rules-of-working-with-a-mock-up/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3. Rules
 								of Working with a Mock-Up.</a></li>
-						<li><a
-							href="#/tutorial-4-pattern-calculation/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Pattern Calculation.</a></li>
+						<li><a href="#/tutorial-4-pattern-calculation/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Pattern Calculation.</a></li>
 						<li><a
 							href="#/tutorial-5-altering-the-pattern-of-our-corset-based-dress-with-shoulder-seams/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
@@ -435,12 +328,10 @@
 							href="#/tutorial-12-joining-the-face-and-the-lining-of-the-dress-top/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Joining the Face and the Lining of the Dress Top.</a></li>
-						<li><a
-							href="#/tutorial-13-finishing-the-armscyes-of-the-dress/"
+						<li><a href="#/tutorial-13-finishing-the-armscyes-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Finishing the Armscyes of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-14-preparing-to-sew-up-the-side-seams/"
+						<li><a href="#/tutorial-14-preparing-to-sew-up-the-side-seams/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Preparing to Sew Up the Side Seams.</a></li>
 						<li><a
@@ -448,18 +339,13 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Sewing Up the Side Seams. Finishing the Neck Hole and the Lacing
 								Area.</a></li>
-						<li><a
-							href="#/tutorial-16-setting-grommets-into-the-lacing-bars/"
+						<li><a href="#/tutorial-16-setting-grommets-into-the-lacing-bars/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Setting Grommets into the Lacing Bars.</a></li>
-						<li><a
-							href="#/tutorial-17-cutting-the-collar/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
-								Cutting the Collar.</a></li>
-						<li><a
-							href="#/tutorial-18-sewing-in-the-collar/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
-								Sewing In the Collar.</a></li>
+						<li><a href="#/tutorial-17-cutting-the-collar/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 17. Cutting the Collar.</a></li>
+						<li><a href="#/tutorial-18-sewing-in-the-collar/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 18. Sewing In the Collar.</a></li>
 						<li><a
 							href="#/tutorial-19-calculating-fabric-consumption-for-the-full-skirt-review-of-materials-used-for-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
@@ -469,8 +355,7 @@
 							href="#/tutorial-20-cutting-the-skirt-and-all-parts-of-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Cutting the Skirt and All Parts of the Petticoat.</a></li>
-						<li><a
-							href="#/tutorial-21-assembling-the-petticoat/"
+						<li><a href="#/tutorial-21-assembling-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Assembling the Petticoat.</a></li>
 						<li><a
@@ -492,62 +377,48 @@
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="49"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/gown-with-the-bare-skin-effect/">Gown
+					<a class="second" href="#/gown-with-the-bare-skin-effect/">Gown
 						with Bare-Skin Effect <span>(31)</span>
 				</a>
 					<ul id="idGownWithBareSkinEffect" class="list-unstyled">
-						<li><a
-							href="#/gown-with-the-bare-skin-effect/"
-							class="access"><i class="fa fa-play-circle"></i>Introduction.</a></li>
+						<li><a href="#/gown-with-the-bare-skin-effect/" class="access"><i
+								class="fa fa-play-circle"></i>Introduction.</a></li>
 						<li><a
 							href="#/tutorial-1-materials-required-for-making-a-dress-form/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Measurements Required for Making a Dress-Form.</a></li>
-						<li><a
-							href="#/tutorial-2-drafting-the-dress-form-part-1/"
+						<li><a href="#/tutorial-2-drafting-the-dress-form-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Drafting the Dress-Form. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-3-drafting-the-dress-form-part-2/"
+						<li><a href="#/tutorial-3-drafting-the-dress-form-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Drafting the Dress-Form. Part 2.</a></li>
-						<li><a
-							href="#/tutorial-4-making-the-dress-form-part-1/"
+						<li><a href="#/tutorial-4-making-the-dress-form-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Making the Dress-Form. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-5-making-the-dress-form-part-2/"
+						<li><a href="#/tutorial-5-making-the-dress-form-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Making the Dress-Form. Part 2.</a></li>
-						<li><a
-							href="#/tutorial-6-preparing-the-cups/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
-								Preparing the Cups.</a></li>
-						<li><a
-							href="#/tutorial-7-filling-the-cups-with-spray-foam/"
+						<li><a href="#/tutorial-6-preparing-the-cups/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 6. Preparing the Cups.</a></li>
+						<li><a href="#/tutorial-7-filling-the-cups-with-spray-foam/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Filling the Cups.</a></li>
 						<li><a
 							href="#/tutorial-8-making-a-gore-pattern-for-the-trumpet-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Making a Wedge Pattern for the Trumpet Skirt.</a></li>
-						<li><a
-							href="#/tutorial-9-cutting-the-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
-								Cutting the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-10-joining-the-skirt-pieces/"
+						<li><a href="#/tutorial-9-cutting-the-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 9. Cutting the Skirt.</a></li>
+						<li><a href="#/tutorial-10-joining-the-skirt-pieces/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Joining the Skirt Pieces.</a></li>
 						<li><a
 							href="#/tutorial-11-adding-final-touches-to-the-dress-form/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Adding Final Touches to the Dress-Form.</a></li>
-						<li><a
-							href="#/tutorial-12-cutting-the-train/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
-								Cutting the Train.</a></li>
+						<li><a href="#/tutorial-12-cutting-the-train/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 12. Cutting the Train.</a></li>
 						<li><a
 							href="#/tutorial-13-joining-the-lining-and-the-face-of-the-skirt-finishing-the-seam-allowances-of-the-zipper-with-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
@@ -577,28 +448,21 @@
 							href="#/tutorial-19-working-on-the-front-finishing-the-top-edge-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
 								Working on the front. Finishing the Top Edge of the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-20-attaching-the-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
-								Attaching the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-21-shaping-the-back-of-the-dress/"
+						<li><a href="#/tutorial-20-attaching-the-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 20. Attaching the Skirt.</a></li>
+						<li><a href="#/tutorial-21-shaping-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Shaping the Back of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-22-decorating-the-back/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
-								Decorating the Back.</a></li>
-						<li><a
-							href="#/tutorial-23-preparing-the-back-of-the-skirt/"
+						<li><a href="#/tutorial-22-decorating-the-back/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 22. Decorating the Back.</a></li>
+						<li><a href="#/tutorial-23-preparing-the-back-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
 								Preparing the Back of the Skirt.</a></li>
 						<li><a
 							href="#/tutorial-24-attaching-the-skirt-to-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 24.
 								Attaching the Skirt to the Back of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-25-preparing-to-sew-down-the-side-seams/"
+						<li><a href="#/tutorial-25-preparing-to-sew-down-the-side-seams/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 25.
 								Preparing to Sew Down the Side Seams.</a></li>
 						<li><a
@@ -613,8 +477,7 @@
 							href="#/tutorial-28-shaping-the-back-to-get-a-paper-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 28.
 								Shaping the Back to Get a Paper Pattern.</a></li>
-						<li><a
-							href="#/tutorial-29-alterations-after-the-first-fit-test/"
+						<li><a href="#/tutorial-29-alterations-after-the-first-fit-test/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 29.
 								Alterations After the First Fit Test.</a></li>
 						<li><a
@@ -624,51 +487,35 @@
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="50"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/introduction-gown/">Gown with
-						Bare-Skin Effect II <span>(22)</span>
+					<a class="second" href="#/introduction-gown/">Gown with Bare-Skin
+						Effect II <span>(22)</span>
 				</a>
 					<ul id="idGownWithBareSkinEffect2" class="list-unstyled">
-						<li><a href="#/introduction-gown/"
-							class="access"><i class="fa fa-play-circle"></i>Introduction.</a></li>
-						<li><a
-							href="#/measurements-required-for-making-a-dress-form/"
+						<li><a href="#/introduction-gown/" class="access"><i
+								class="fa fa-play-circle"></i>Introduction.</a></li>
+						<li><a href="#/measurements-required-for-making-a-dress-form/"
 							class="access"><i class="fa fa-play-circle"></i>Measurements and
 								Materials Required for Making a Dress-Form.</a></li>
-						<li><a
-							href="#/drafting-the-dress-form-part-1/"
-							class="access"><i class="fa fa-play-circle"></i>Drafting the
-								Dress-Form. Part 1.</a></li>
-						<li><a
-							href="#/drafting-the-dress-form-part-2/"
-							class="access"><i class="fa fa-play-circle"></i>Drafting the
-								Dress-Form. Part 2.</a></li>
-						<li><a
-							href="#/making-the-dress-form-part-1/"
-							class="access"><i class="fa fa-play-circle"></i>Making the
-								Dress-Form. Part 1.</a></li>
-						<li><a
-							href="#/making-the-dress-form-part-2/"
-							class="access"><i class="fa fa-play-circle"></i>Making the
-								Dress-Form. Part 2.</a></li>
-						<li><a
-							href="#/tutorial-1-upgrading-the-dress-form/"
+						<li><a href="#/drafting-the-dress-form-part-1/" class="access"><i
+								class="fa fa-play-circle"></i>Drafting the Dress-Form. Part 1.</a></li>
+						<li><a href="#/drafting-the-dress-form-part-2/" class="access"><i
+								class="fa fa-play-circle"></i>Drafting the Dress-Form. Part 2.</a></li>
+						<li><a href="#/making-the-dress-form-part-1/" class="access"><i
+								class="fa fa-play-circle"></i>Making the Dress-Form. Part 1.</a></li>
+						<li><a href="#/making-the-dress-form-part-2/" class="access"><i
+								class="fa fa-play-circle"></i>Making the Dress-Form. Part 2.</a></li>
+						<li><a href="#/tutorial-1-upgrading-the-dress-form/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Upgrading the Dress-Form.</a></li>
-						<li><a
-							href="#/tutorial-2-preparing-the-cups/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Preparing the Cups.</a></li>
+						<li><a href="#/tutorial-2-preparing-the-cups/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Preparing the Cups.</a></li>
 						<li><a
 							href="#/tutorial-3-preparing-the-zipper-and-the-zip-up-area/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Preparing the Zipper and the Zip-Up Area.</a></li>
-						<li><a
-							href="#/tutorial-4-sewing-in-the-zipper/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Sewing In the Zipper.</a></li>
-						<li><a
-							href="#/tutorial-5-pulling-the-mesh-onto-the-dress-form/"
+						<li><a href="#/tutorial-4-sewing-in-the-zipper/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Sewing In the Zipper.</a></li>
+						<li><a href="#/tutorial-5-pulling-the-mesh-onto-the-dress-form/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Pulling the Mesh onto the Dress-Form.</a></li>
 						<li><a
@@ -687,8 +534,7 @@
 							href="#/tutorial-9-calculating-fabric-consumption-for-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Calculating Fabric Consumption for the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-10-cutting-the-upper-part-of-the-skirt/"
+						<li><a href="#/tutorial-10-cutting-the-upper-part-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Cutting the Upper Part of the Skirt.</a></li>
 						<li><a
@@ -699,18 +545,15 @@
 							href="#/tutorial-12-preparing-to-sew-the-zipper-into-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Preparing to Sew the Zipper into the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-13-sewing-the-zipper-into-the-skirt/"
+						<li><a href="#/tutorial-13-sewing-the-zipper-into-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Sewing the Zipper into the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-14-finishing-off-the-dress-top/"
+						<li><a href="#/tutorial-14-finishing-off-the-dress-top/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Finishing Off the Dress Top.</a></li>
-						<li><a
-							href="#/tutorial-15_sewing-the-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
-								Sewing the Skirt with a Train. Joining the Skirt with the Dress.</a></li>
+						<li><a href="#/tutorial-15_sewing-the-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 15. Sewing the Skirt with
+								a Train. Joining the Skirt with the Dress.</a></li>
 						<li><a
 							href="#/tutorial-16-finishing-the-dress-pictures-of-the-finished-garment/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
@@ -723,52 +566,43 @@
 						Dress with a Bodysuit Base <span>(23)</span>
 				</a>
 					<ul id="idOpenBackDressWithBodysuitBase" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-getting-acquainted-with-the-model-3/"
+						<li><a href="#/tutorial-1-getting-acquainted-with-the-model-3/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Getting Acquainted with the Model.</a></li>
-						<li><a
-							href="#/tutorial-2-pattern-calculation/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Pattern Calculation.</a></li>
-						<li><a
-							href="#/tutorial-3-working-on-the-dress-pattern/"
+						<li><a href="#/tutorial-2-pattern-calculation/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Pattern Calculation.</a></li>
+						<li><a href="#/tutorial-3-working-on-the-dress-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Working on the Dress Pattern.</a></li>
 						<li><a
 							href="#/tutorial-4-finishing-the-dress-pattern-working-on-the-bodysuit-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Finishing the Dress Pattern. Working on the Bodysuit Pattern.</a></li>
-						<li><a
-							href="#/tutorial-5-working-on-the-strap-pattern/"
+						<li><a href="#/tutorial-5-working-on-the-strap-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Working on the Strap Pattern.</a></li>
-						<li><a
-							href="#/tutorial-6-cutting-the-dress-and-the-bodysuit/"
+						<li><a href="#/tutorial-6-cutting-the-dress-and-the-bodysuit/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Cutting the Dress and the Bodysuit.</a></li>
 						<li><a
 							href="#/tutorial-7-cutting-a-lace-overlay-and-a-mock-up-for-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Cutting a Lace Overlay and a Mock-up for the Dress.</a></li>
-						<li><a
-							href="#/tutorial-8-working-with-the-mock-up-of-the-dress/"
+						<li><a href="#/tutorial-8-working-with-the-mock-up-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Working with the Mock-Up of the Dress.</a></li>
 						<li><a
 							href="#/tutorial-9-making-a-pattern-of-a-fabric-cover-for-the-cups/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Making a Pattern of a Fabric Cover for the Cups.</a></li>
-						<li><a
-							href="#/tutorial-10-preparing-the-fabric-cup-cover/"
+						<li><a href="#/tutorial-10-preparing-the-fabric-cup-cover/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Preparing the Fabric Cup Cover.</a></li>
 						<li><a
 							href="#/tutorial-11-encasing-the-cups-in-fabric-sewing-the-cups-into-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Encasing the Cups in Fabric. Sewing the Cups into the Dress.</a></li>
-						<li><a
-							href="#/tutorial-12-assembling-the-second-cup/"
+						<li><a href="#/tutorial-12-assembling-the-second-cup/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Assembling the Second Cup.</a></li>
 						<li><a
@@ -784,8 +618,7 @@
 							href="#/tutorial-15-finishing-the-leg-openings-of-the-bodysuit/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Finishing the Leg Openings of the Bodysuit.</a></li>
-						<li><a
-							href="#/tutorial-16-finishing-the-top-edge-of-the-back/"
+						<li><a href="#/tutorial-16-finishing-the-top-edge-of-the-back/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Finishing the Top Edge of the Back.</a></li>
 						<li><a
@@ -796,26 +629,19 @@
 							href="#/tutorial-18-finishing-the-tunnel-for-the-semi-circle-cup-underwire/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Finishing the Tunnel for the Semi-Circle Cup Underwire.</a></li>
-						<li><a
-							href="#/tutorial-19-cutting-the-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
-								Cutting the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-20-assembling-the-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
-								Assembling the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-21-working-on-the-waist-of-the-skirt/"
+						<li><a href="#/tutorial-19-cutting-the-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 19. Cutting the Skirt.</a></li>
+						<li><a href="#/tutorial-20-assembling-the-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 20. Assembling the Skirt.</a></li>
+						<li><a href="#/tutorial-21-working-on-the-waist-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Working on the Waist of the Skirt.</a></li>
 						<li><a
 							href="#/tutorial-22-applying-the-final-touches-to-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
 								Applying the Final Touches to the Dress.</a></li>
-						<li><a
-							href="#/types-of-open-back-dresses/"
-							class="access"><i class="fa fa-play-circle"></i>Types of
-								Open-Back Dresses</a></li>
+						<li><a href="#/types-of-open-back-dresses/" class="access"><i
+								class="fa fa-play-circle"></i>Types of Open-Back Dresses</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="72"><i class="fa fa-my-menu"></i></a>
@@ -824,34 +650,24 @@
 						Dress with a Bodice Base <span>(22)</span>
 				</a>
 					<ul id="idOpenBackDressBodiceBase" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-getting-acquainted-with-the-model-4/"
+						<li><a href="#/tutorial-1-getting-acquainted-with-the-model-4/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Getting Acquainted with the Model.</a></li>
-						<li><a
-							href="#/tutorial-2-pattern-calculation-2/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Pattern Calculation.</a></li>
-						<li><a
-							href="#/tutorial-3-altering-the-standard-pattern/"
+						<li><a href="#/tutorial-2-pattern-calculation-2/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Pattern Calculation.</a></li>
+						<li><a href="#/tutorial-3-altering-the-standard-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Altering the Standard Pattern.</a></li>
-						<li><a
-							href="#/tutorial-4-shaping-the-top-part-of-the-front/"
+						<li><a href="#/tutorial-4-shaping-the-top-part-of-the-front/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Shaping the Top Part of the Front.</a></li>
-						<li><a
-							href="#/tutorial-5-shaping-the-back-of-the-dress/"
+						<li><a href="#/tutorial-5-shaping-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Shaping the Back of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-6-shaping-the-cups/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
-								Shaping the Cups.</a></li>
-						<li><a
-							href="#/tutorial-7-cutting-the-dress/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
-								Cutting the Dress.</a></li>
+						<li><a href="#/tutorial-6-shaping-the-cups/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 6. Shaping the Cups.</a></li>
+						<li><a href="#/tutorial-7-cutting-the-dress/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 7. Cutting the Dress.</a></li>
 						<li><a
 							href="#/tutorial-8-cutting-a-mesh-backing-joining-the-backing-with-the-main-fabric/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
@@ -891,20 +707,16 @@
 							href="#/tutorial-16-sewing-bones-onto-the-front-joining-the-face-with-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Sewing Bones onto the Front. Joining the Face with the Lining.</a></li>
-						<li><a
-							href="#/tutorial-17-assembling-the-cups/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
-								Assembling the Cups.</a></li>
-						<li><a
-							href="#/tutorial-18-sewing-bones-onto-the-cups/"
+						<li><a href="#/tutorial-17-assembling-the-cups/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 17. Assembling the Cups.</a></li>
+						<li><a href="#/tutorial-18-sewing-bones-onto-the-cups/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Sewing Bones onto the Cups.</a></li>
 						<li><a
 							href="#/tutorial-19-pressing-steaming-and-sewing-the-cups-into-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
 								Pressing, Steaming, and Sewing the Cups into the Dress.</a></li>
-						<li><a
-							href="#/tutorial-20-sewing-the-cups-into-the-dress/"
+						<li><a href="#/tutorial-20-sewing-the-cups-into-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Sewing the Cups into the Dress.</a></li>
 						<li><a
@@ -919,24 +731,20 @@
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="96"><i class="fa fa-my-menu"></i></a>
 					<a class="second"
-					href="#/wedding-dress-without-side-seams-foreword/">Wedding
-						Dress Without Side Seams <span>(29)</span>
+					href="#/wedding-dress-without-side-seams-foreword/">Wedding Dress
+						Without Side Seams <span>(29)</span>
 				</a>
 					<ul id="idWeddingDressWithoutSeSeams" class="list-unstyled">
-						<li><a
-							href="#/wedding-dress-without-side-seams-foreword/"
+						<li><a href="#/wedding-dress-without-side-seams-foreword/"
 							class="access"><i class="fa fa-play-circle"></i>Wedding Dress
 								Without Side Seams. Foreword.</a></li>
-						<li><a
-							href="#/tutorial-1-getting-started/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Getting Started.</a></li>
+						<li><a href="#/tutorial-1-getting-started/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Getting Started.</a></li>
 						<li><a
 							href="#/tutorial-2-calculating-adjustments-to-the-standard-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Calculating Adjustments to the Standard Pattern.</a></li>
-						<li><a
-							href="#/tutorial-3-customizing-the-size-of-the-pattern/"
+						<li><a href="#/tutorial-3-customizing-the-size-of-the-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Customizing the Size of the Pattern.</a></li>
 						<li><a
@@ -947,18 +755,14 @@
 							href="#/tutorial-5-building-a-paper-pattern-without-side-seams/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Building a Paper Pattern without Side Seams.</a></li>
-						<li><a
-							href="#/tutorial-6-testing-the-new-pattern-on-a-mock-up/"
+						<li><a href="#/tutorial-6-testing-the-new-pattern-on-a-mock-up/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Testing the New Pattern on a Mock-Up.</a></li>
-						<li><a
-							href="#/tutorial-7-review-of-materials-used/"
+						<li><a href="#/tutorial-7-review-of-materials-used/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Review of Materials Used.</a></li>
-						<li><a
-							href="#/tutorial-8-cutting-the-dress-2/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
-								Cutting the Dress.</a></li>
+						<li><a href="#/tutorial-8-cutting-the-dress-2/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 8. Cutting the Dress.</a></li>
 						<li><a
 							href="#/tutorial-9-duplicating-parts-of-the-dress-cutting-the-chiffon-and-the-lace/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
@@ -980,12 +784,10 @@
 							href="#/tutorial-13-sewing-and-pressing-all-princess-seams-on-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Sewing and Pressing All Princess Seams on the Lining.</a></li>
-						<li><a
-							href="#/tutorial-14-sewing-bones-onto-the-lining/"
+						<li><a href="#/tutorial-14-sewing-bones-onto-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Sewing Bones onto the Lining.</a></li>
-						<li><a
-							href="#/tutorial-15-sewing-ready-foam-cups-into-the-dress/"
+						<li><a href="#/tutorial-15-sewing-ready-foam-cups-into-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Sewing Ready Foam Cups into the Dress.</a></li>
 						<li><a
@@ -1012,8 +814,7 @@
 							href="#/tutorial-21-joining-the-face-and-the-lining-along-the-neckline/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Joining the Face and the Lining along the Neckline.</a></li>
-						<li><a
-							href="#/tutorial-22-finishing-the-zipper-with-the-lining/"
+						<li><a href="#/tutorial-22-finishing-the-zipper-with-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
 								Finishing the Zipper with the Lining.</a></li>
 						<li><a
@@ -1052,20 +853,16 @@
 							href="#/wedding-dress-with-shoulder-straps-and-set-in-sleeves-foreword/"
 							class="access"><i class="fa fa-play-circle"></i>Wedding Dress
 								with Shoulder Straps and Set-In Sleeves. Foreword.</a></li>
-						<li><a
-							href="#/tutorial-1-getting-started-2/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Getting Started.</a></li>
+						<li><a href="#/tutorial-1-getting-started-2/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Getting Started.</a></li>
 						<li><a
 							href="#/tutorial-2-calculating-adjustments-to-the-standard-pattern-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Calculating Adjustments to the Standard Pattern.</a></li>
-						<li><a
-							href="#/tutorial-3-customizing-the-size-of-the-pattern-2/"
+						<li><a href="#/tutorial-3-customizing-the-size-of-the-pattern-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Customizing the Size of the Pattern.</a></li>
-						<li><a
-							href="#/tutorial-4-building-the-lace-top-part-of-the-back/"
+						<li><a href="#/tutorial-4-building-the-lace-top-part-of-the-back/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Building the Lace Top Part of the Back.</a></li>
 						<li><a
@@ -1076,8 +873,7 @@
 							href="#/tutorial-6-testing-the-adjusted-pattern-on-a-mock-up/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Testing the Adjusted Pattern on a Mock-Up.</a></li>
-						<li><a
-							href="#/tutorial-7-styling-and-shaping-the-pattern/"
+						<li><a href="#/tutorial-7-styling-and-shaping-the-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Styling and Shaping the Pattern.</a></li>
 						<li><a
@@ -1101,20 +897,16 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Review of Materials Used. Analyzing the Dress Model before
 								Cutting.</a></li>
-						<li><a
-							href="#/tutorial-13-cutting-the-dress/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
-								Cutting the Dress.</a></li>
+						<li><a href="#/tutorial-13-cutting-the-dress/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 13. Cutting the Dress.</a></li>
 						<li><a
 							href="#/tutorial-14-duplicating-the-patterns-marking-the-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Duplicating the Patterns. Marking the Bones.</a></li>
-						<li><a
-							href="#/tutorial-15-assembling-the-lining-part-1/"
+						<li><a href="#/tutorial-15-assembling-the-lining-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Assembling the Lining. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-16-assembling-the-lining-part-2/"
+						<li><a href="#/tutorial-16-assembling-the-lining-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Assembling the Lining. Part 2.</a></li>
 						<li><a
@@ -1129,8 +921,7 @@
 							href="#/tutorial-19-sewing-bones-onto-the-front-and-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
 								Sewing Bones onto the Front and the Back of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-20-cutting-the-chiffon-and-the-lace/"
+						<li><a href="#/tutorial-20-cutting-the-chiffon-and-the-lace/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Cutting the Chiffon and the Lace.</a></li>
 						<li><a
@@ -1154,64 +945,50 @@
 							href="#/tutorial-25-joining-the-face-and-the-lining-of-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 25.
 								Joining the Face and the Lining of the Back of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-26-pressing-the-back-of-the-dress/"
+						<li><a href="#/tutorial-26-pressing-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 26.
 								Pressing the Back of the Dress.</a></li>
 						<li><a
 							href="#/tutorial-27-joining-the-face-and-the-lining-of-the-front-half-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 27.
 								Joining the Face and the Lining of the Front Half of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-28-sewing-the-side-seams/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 28.
-								Sewing the Side Seams.</a></li>
-						<li><a
-							href="#/tutorial-29-cutting-the-sleeves/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 29.
-								Cutting the Sleeves.</a></li>
-						<li><a
-							href="#/tutorial-30-setting-the-sleeves-into-the-armscyes/"
+						<li><a href="#/tutorial-28-sewing-the-side-seams/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 28. Sewing the Side
+								Seams.</a></li>
+						<li><a href="#/tutorial-29-cutting-the-sleeves/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 29. Cutting the Sleeves.</a></li>
+						<li><a href="#/tutorial-30-setting-the-sleeves-into-the-armscyes/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 30.
 								Setting the Sleeves into the Armscyes.</a></li>
-						<li><a
-							href="#/tutorial-31-decorating-the-garment-part-1/"
+						<li><a href="#/tutorial-31-decorating-the-garment-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 31.
 								Decorating the Garment. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-32-decorating-the-garment-part-2/"
+						<li><a href="#/tutorial-32-decorating-the-garment-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 32.
 								Decorating the Garment. Part 2.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="121"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/classic-wedding-dress/">Wedding
-						Dress with Lace Straps and Full Skirt <span>(42)</span>
+					<a class="second" href="#/classic-wedding-dress/">Wedding Dress
+						with Lace Straps and Full Skirt <span>(42)</span>
 				</a>
 					<ul id="idWeddingDressFullSkirt" class="list-unstyled">
-						<li><a href="#/classic-wedding-dress/"
-							class="access"><i class="fa fa-play-circle"></i>Foreword</a></li>
-						<li><a
-							href="#/tutorial-1-peculiarities-of-long-distance-sewing/"
+						<li><a href="#/classic-wedding-dress/" class="access"><i
+								class="fa fa-play-circle"></i>Foreword</a></li>
+						<li><a href="#/tutorial-1-peculiarities-of-long-distance-sewing/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Peculiarities of Long Distance Sewing.</a></li>
-						<li><a
-							href="#/tutorial-2-taking-measurements-4/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Taking Measurements.</a></li>
+						<li><a href="#/tutorial-2-taking-measurements-4/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Taking Measurements.</a></li>
 						<li><a
 							href="#/tutorial-3-materials-required-for-making-a-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Materials Required for Making a Petticoat.</a></li>
-						<li><a
-							href="#/tutorial-4-constructing-the-petticoat/"
+						<li><a href="#/tutorial-4-constructing-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Constructing the Petticoat.</a></li>
-						<li><a
-							href="#/tutorial-5-cutting-the-petticoat/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
-								Cutting the Petticoat.</a></li>
+						<li><a href="#/tutorial-5-cutting-the-petticoat/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 5. Cutting the Petticoat.</a></li>
 						<li><a
 							href="#/tutorial-6-reinforcing-the-construction-of-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
@@ -1232,28 +1009,23 @@
 							href="#/tutorial-10-drawing-the-ruffles-layout-calculating-all-ruffles/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Drawing the Ruffles Layout. Calculating All Ruffles.</a></li>
-						<li><a
-							href="#/tutorial-11-cutting-the-ruffles-and-the-yoke/"
+						<li><a href="#/tutorial-11-cutting-the-ruffles-and-the-yoke/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Cutting the Ruffles and the Yoke.</a></li>
 						<li><a
 							href="#/tutorial-12-sewing-ruffles-on-the-petticoat-sewing-the-yoke/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Sewing Ruffles on the Petticoat. Sewing the Yoke.</a></li>
-						<li><a
-							href="#/tutorial-13-assembling-the-petticoat/"
+						<li><a href="#/tutorial-13-assembling-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Assembling the Petticoat.</a></li>
-						<li><a
-							href="#/calculating-adjustments-to-the-standard-pattern/"
+						<li><a href="#/calculating-adjustments-to-the-standard-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Calculating Adjustments to the Standard Pattern.</a></li>
-						<li><a
-							href="#/tutorial-15-customizing-the-bodice-on-paper/"
+						<li><a href="#/tutorial-15-customizing-the-bodice-on-paper/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Customizing the Bodice on Paper.</a></li>
-						<li><a
-							href="#/tutorial-16-sewing-a-mock-up-bodice-of-the-dress/"
+						<li><a href="#/tutorial-16-sewing-a-mock-up-bodice-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Sewing a Mock-Up Bodice of the Dress.</a></li>
 						<li><a
@@ -1277,8 +1049,7 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Assembling the Back Half of the Lining. Reinforcing it with
 								Bones.</a></li>
-						<li><a
-							href="#/tutorial-22-fitting-the-lining-of-the-dress/"
+						<li><a href="#/tutorial-22-fitting-the-lining-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
 								Fitting the Lining of the Dress.</a></li>
 						<li><a
@@ -1289,20 +1060,17 @@
 							href="#/tutorial-24-installing-a-zipper-sewing-the-central-back-seam/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 24.
 								Installing a Zipper. Sewing the Central Back Seam.</a></li>
-						<li><a
-							href="#/tutorial-25-assembling-the-face-of-the-dress/"
+						<li><a href="#/tutorial-25-assembling-the-face-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 25.
 								Assembling the Face of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-26-joining-the-face-with-the-lining/"
+						<li><a href="#/tutorial-26-joining-the-face-with-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 26.
 								Joining the Face with the Lining.</a></li>
 						<li><a
 							href="#/tutorial-27-joining-the-face-with-the-lining-by-machine/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 27.
 								Joining the Face with the Lining by Machine.</a></li>
-						<li><a
-							href="#/tutorial-28-pressing-the-neckline-of-the-dress/"
+						<li><a href="#/tutorial-28-pressing-the-neckline-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 28.
 								Pressing the Neckline of the Dress.</a></li>
 						<li><a
@@ -1321,53 +1089,43 @@
 							href="#/tutorial-32-sewing-a-mock-up-top-calculating-the-mesh-skirts/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 32.
 								Sewing a Mock-Up Top. Calculating the Mesh Skirts.</a></li>
-						<li><a
-							href="#/tutorial-33-cutting-the-mesh-skirts/"
+						<li><a href="#/tutorial-33-cutting-the-mesh-skirts/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 33.
 								Cutting the Mesh Skirts.</a></li>
-						<li><a
-							href="#/tutorial-34-sewing-the-mesh-top/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 34.
-								Sewing the Mesh Top.</a></li>
-						<li><a
-							href="#/tutorial-35-joining-the-mesh-parts-with-the-dress/"
+						<li><a href="#/tutorial-34-sewing-the-mesh-top/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 34. Sewing the Mesh Top.</a></li>
+						<li><a href="#/tutorial-35-joining-the-mesh-parts-with-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 35.
 								Joining the Mesh Parts with the Dress.</a></li>
-						<li><a
-							href="#/tutorial-36-cutting-out-lace-motifs/"
+						<li><a href="#/tutorial-36-cutting-out-lace-motifs/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 36.
 								Cutting Out Lace Motifs.</a></li>
 						<li><a
 							href="#/tutorial-37-decorating-the-dress-with-lace-applique/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 37.
 								Decorating the Dress with Lace Appliqué.</a></li>
-						<li><a
-							href="#/tutorial-38-finishing-the-dress-after-the-fitting/"
+						<li><a href="#/tutorial-38-finishing-the-dress-after-the-fitting/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 38.
 								Finishing the Dress after the Fitting.</a></li>
 						<li><a
 							href="#/tutorial-39-embellishing-the-dress-with-rhinestones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 39.
 								Embellishing the Dress with Rhinestones.</a></li>
-						<li><a
-							href="#/tutorial-40-adding-an-expander-to-the-petticoat/"
+						<li><a href="#/tutorial-40-adding-an-expander-to-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 40.
 								Adding an "Expander" to the Petticoat.</a></li>
-						<li><a
-							href="#/tutorial-41-conclusion-material-consumption/"
+						<li><a href="#/tutorial-41-conclusion-material-consumption/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 41.
 								Conclusion. Material Consumption.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="122"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/sewing-crop-top-wedding-gown/">Crop
-						Top Wedding Gown <span>(43)</span>
+					<a class="second" href="#/sewing-crop-top-wedding-gown/">Crop Top
+						Wedding Gown <span>(43)</span>
 				</a>
 					<ul id="idCropGown" class="list-unstyled">
-						<li><a
-							href="#/sewing-crop-top-wedding-gown/"
-							class="access"><i class="fa fa-play-circle"></i>Foreword.</a></li>
+						<li><a href="#/sewing-crop-top-wedding-gown/" class="access"><i
+								class="fa fa-play-circle"></i>Foreword.</a></li>
 						<li><a
 							href="#/tutorial-1-getting-acquainted-with-the-top-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
@@ -1380,12 +1138,10 @@
 							href="#/tutorial-3-adjusting-the-standard-pattern-after-clients-measurements/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Adjusting the Standard Pattern after Client’s Measurements.</a></li>
-						<li><a
-							href="#/tutorial-4-pyrography-tool-and-equipment/"
+						<li><a href="#/tutorial-4-pyrography-tool-and-equipment/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Pyrography Tool and Equipment.</a></li>
-						<li><a
-							href="#/tutorial-5-preparing-fabric-for-the-back-piece/"
+						<li><a href="#/tutorial-5-preparing-fabric-for-the-back-piece/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Preparing Fabric for the Back Piece.</a></li>
 						<li><a
@@ -1404,8 +1160,7 @@
 							href="#/tutorial-9-adding-the-third-layer-to-the-back-piece/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Adding the Third Layer to the Back Piece.</a></li>
-						<li><a
-							href="#/tutorial-10-finishing-the-back-half-of-the-top/"
+						<li><a href="#/tutorial-10-finishing-the-back-half-of-the-top/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Finishing the Back Half of the Top.</a></li>
 						<li><a
@@ -1424,20 +1179,15 @@
 							href="#/tutorial-14-securing-detached-elements-at-the-front-of-the-top/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Securing Detached Elements at the Front of the Top.</a></li>
-						<li><a
-							href="#/tutorial-15-decorating-the-top/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
-								Decorating the Top.</a></li>
-						<li><a
-							href="#/tutorial-16-cutting-the-left-sleeve/"
+						<li><a href="#/tutorial-15-decorating-the-top/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 15. Decorating the Top.</a></li>
+						<li><a href="#/tutorial-16-cutting-the-left-sleeve/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Cutting the Left Sleeve.</a></li>
-						<li><a
-							href="#/tutorial-17-cutting-the-right-sleeve/"
+						<li><a href="#/tutorial-17-cutting-the-right-sleeve/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
 								Cutting the Right Sleeve.</a></li>
-						<li><a
-							href="#/tutorial-18-sewing-the-darts-shortening-zippers/"
+						<li><a href="#/tutorial-18-sewing-the-darts-shortening-zippers/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Sewing the Darts. Shortening Zippers.</a></li>
 						<li><a
@@ -1448,16 +1198,12 @@
 							href="#/tutorial-20-attaching-the-sleeves-adding-a-decorative-necklace/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Attaching the Sleeves. Adding a Decorative Necklace.</a></li>
-						<li><a
-							href="#/tutorial-21-working-with-the-skirt-pattern/"
+						<li><a href="#/tutorial-21-working-with-the-skirt-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Working with the Skirt Pattern.</a></li>
-						<li><a
-							href="#/tutorial-22-cutting-the-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
-								Cutting the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-23-analyzing-the-ruffles-layout/"
+						<li><a href="#/tutorial-22-cutting-the-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 22. Cutting the Skirt.</a></li>
+						<li><a href="#/tutorial-23-analyzing-the-ruffles-layout/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
 								Analyzing the Ruffles Layout.</a></li>
 						<li><a
@@ -1480,8 +1226,7 @@
 							href="#/tutorial-28-putting-ruffles-on-the-central-back-piece/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 28.
 								Putting Ruffles on the Central Back Piece.</a></li>
-						<li><a
-							href="#/tutorial-29-cutting-ruffles-with-wavy-edges/"
+						<li><a href="#/tutorial-29-cutting-ruffles-with-wavy-edges/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 29.
 								Cutting Ruffles with Wavy Edges</a></li>
 						<li><a
@@ -1500,36 +1245,30 @@
 							href="#/tutorial-33-putting-horizontal-ruffles-on-the-skirt-part-4/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 33.
 								Putting Horizontal Ruffles on the Skirt. Part 4.</a></li>
-						<li><a
-							href="#/tutorial-34-analyzing-garment-balance/"
+						<li><a href="#/tutorial-34-analyzing-garment-balance/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 34.
 								Analyzing Garment Balance.</a></li>
 						<li><a
 							href="#/tutorial-35-joining-the-back-of-the-skirt-with-the-side-pieces/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 35.
 								Joining the Back of the Skirt with the Side Pieces.</a></li>
-						<li><a
-							href="#/tutorial-36-finishing-the-bottom-of-the-skirt/"
+						<li><a href="#/tutorial-36-finishing-the-bottom-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 36.
 								Finishing the Bottom of the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-37-making-a-waistband-pattern/"
+						<li><a href="#/tutorial-37-making-a-waistband-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 37.
 								Making a Waistband Pattern.</a></li>
-						<li><a
-							href="#/tutorial-38-sewing-a-lining-for-the-waistband/"
+						<li><a href="#/tutorial-38-sewing-a-lining-for-the-waistband/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 38.
 								Sewing a Lining for the Waistband.</a></li>
 						<li><a
 							href="#/tutorial-39-putting-vertical-bones-on-the-face-of-the-waistband/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 39.
 								Putting Vertical Bones on the Face of the Waistband.</a></li>
-						<li><a
-							href="#/tutorial-40-making-ribbon-loops-for-the-lacing/"
+						<li><a href="#/tutorial-40-making-ribbon-loops-for-the-lacing/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 40.
 								Making Ribbon Loops for the Lacing.</a></li>
-						<li><a
-							href="#/tutorial-41-joining-the-waistband-with-the-skirt/"
+						<li><a href="#/tutorial-41-joining-the-waistband-with-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 41.
 								Joining the Waistband with the Skirt.</a></li>
 						<li><a
@@ -1544,38 +1283,30 @@
 			<ul class="list-unstyled">
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="124"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/why-an-elastic-waistband-skirt/">Princess
+					<a class="second" href="#/why-an-elastic-waistband-skirt/">Princess
 						Wedding Skirt <span>(13)</span>
 				</a>
 					<ul id="idPrincessWedding" class="list-unstyled">
-						<li><a
-							href="#/why-an-elastic-waistband-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Why an Elastic
-								Waistband Skirt?</a></li>
+						<li><a href="#/why-an-elastic-waistband-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Why an Elastic Waistband Skirt?</a></li>
 						<li><a
 							href="#/tutorial-1-required-materials-and-measurements-pattern-calculation/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Required Materials and Measurements. Pattern Calculation.</a></li>
-						<li><a
-							href="#/tutorial-2-cutting-the-base-of-the-skirt/"
+						<li><a href="#/tutorial-2-cutting-the-base-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Cutting the Base of the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-3-drawing-guidelines-on-the-lining/"
+						<li><a href="#/tutorial-3-drawing-guidelines-on-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Drawing Guidelines on the Lining.</a></li>
-						<li><a
-							href="#/tutorial-4-cutting-the-veiling/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Cutting the Veiling.</a></li>
+						<li><a href="#/tutorial-4-cutting-the-veiling/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Cutting the Veiling.</a></li>
 						<li><a
 							href="#/tutorial-5-joining-the-strips-of-veiling-and-gathering-them-to-the-desired-length-fast-easy-and-precise-method/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Joining the Strips of Veiling and Gathering Them to the Desired
 								Length (Fast, Easy, and Precise Method).</a></li>
-						<li><a
-							href="#/tutorial-6-finishing-the-lining-of-the-skirt/"
+						<li><a href="#/tutorial-6-finishing-the-lining-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Finishing the Lining of the Skirt.</a></li>
 						<li><a
@@ -1586,12 +1317,10 @@
 							href="#/tutorial-8-installing-a-zipper-joining-the-skirt-with-the-bodice/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Installing a Zipper. Joining the Skirt with the Bodice.</a></li>
-						<li><a
-							href="#/tutorial-9-upgrading-a-factory-made-petticoat/"
+						<li><a href="#/tutorial-9-upgrading-a-factory-made-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Upgrading a Factory-Made Petticoat.</a></li>
-						<li><a
-							href="#/tutorial-10-evening-out-the-hem-of-the-skirt/"
+						<li><a href="#/tutorial-10-evening-out-the-hem-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Evening Out the Hem of the Skirt.</a></li>
 						<li><a
@@ -1606,17 +1335,13 @@
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="125"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/why-a-mermaidfishtail-skirt/">Ruffle
-						Fish Tail Wedding Skirt <span>(22)</span>
+					<a class="second" href="#/why-a-mermaidfishtail-skirt/">Ruffle Fish
+						Tail Wedding Skirt <span>(22)</span>
 				</a>
 					<ul id="idRuffleSkirt" class="list-unstyled">
-						<li><a
-							href="#/why-a-mermaidfishtail-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Why a Ruffle Fish
-								Tail Skirt?</a></li>
-						<li><a
-							href="#/tutorial-1-taking-the-key-measurements/"
+						<li><a href="#/why-a-mermaidfishtail-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Why a Ruffle Fish Tail Skirt?</a></li>
+						<li><a href="#/tutorial-1-taking-the-key-measurements/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Taking the Key Measurements.</a></li>
 						<li><a
@@ -1627,24 +1352,20 @@
 							href="#/tutorial-3-doing-calculations-for-cutting-a-petticoat-cover/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3. Doing
 								Calculations for Cutting a Petticoat Cover.</a></li>
-						<li><a
-							href="#/tutorial-4-cutting-the-petticoat-cover/"
+						<li><a href="#/tutorial-4-cutting-the-petticoat-cover/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Cutting the Petticoat Cover.</a></li>
 						<li><a
 							href="#/tutorial-5-marking-guidelines-for-putting-bones-on-the-cover/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Marking Guidelines for Putting Bones on the Cover.</a></li>
-						<li><a
-							href="#/tutorial-6-reinforcing-the-train/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
-								Reinforcing the Train.</a></li>
+						<li><a href="#/tutorial-6-reinforcing-the-train/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 6. Reinforcing the Train.</a></li>
 						<li><a
 							href="#/tutorial-7-putting-ruffles-on-the-back-half-of-the-petticoat-cover/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Putting Ruffles on the Back Half of the Petticoat Cover.</a></li>
-						<li><a
-							href="#/tutorial-8-joining-the-cover-with-the-petticoat/"
+						<li><a href="#/tutorial-8-joining-the-cover-with-the-petticoat/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Joining the Cover with the Petticoat.</a></li>
 						<li><a
@@ -1687,35 +1408,29 @@
 							href="#/tutorial-18-examining-the-finished-garment-in-the-atelier/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Examining the Finished Garment in the Atelier.</a></li>
-						<li><a
-							href="#/tutorial-19-decorating-the-train/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
-								Decorating the Train.</a></li>
-						<li><a href="#/tutorial-20-skirt-balance/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
-								Skirt Balance.</a></li>
-						<li><a
-							href="#/tutorial-21-materials-consumption/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
-								Materials consumption.</a></li>
+						<li><a href="#/tutorial-19-decorating-the-train/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 19. Decorating the Train.</a></li>
+						<li><a href="#/tutorial-20-skirt-balance/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 20. Skirt Balance.</a></li>
+						<li><a href="#/tutorial-21-materials-consumption/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 21. Materials
+								consumption.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="126"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/why-a-petite-skirt/">Mermaid
-						Wedding Skirt <span>(26)</span>
+					<a class="second" href="#/why-a-petite-skirt/">Mermaid Wedding
+						Skirt <span>(26)</span>
 				</a>
 					<ul id="idMermaWeddingSkirt" class="list-unstyled">
-						<li><a href="#/why-a-petite-skirt/"
-							class="access"><i class="fa fa-play-circle"></i>Why a Mermaid
-								Skirt?</a></li>
+						<li><a href="#/why-a-petite-skirt/" class="access"><i
+								class="fa fa-play-circle"></i>Why a Mermaid Skirt?</a></li>
 						<li><a
 							href="#/tutorial-1-doing-calculations-adding-a-train-to-the-skirt-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1. Doing
 								Calculations. Adding a Train to the Skirt Pattern.</a></li>
-						<li><a href="#/preparing-for-the-cutting/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Preparing for the Cutting.</a></li>
+						<li><a href="#/preparing-for-the-cutting/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Preparing for the
+								Cutting.</a></li>
 						<li><a
 							href="#/tutorial-3-cutting-the-skirt-in-a-fabric-efficient-way/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
@@ -1728,24 +1443,20 @@
 							href="#/tutorial-5-preparing-the-front-and-the-back-of-the-skirt-for-decoration/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Preparing the Front and the Back of the Skirt for Decoration.</a></li>
-						<li><a
-							href="#/tutorial-6-preparing-your-soldering-iron/"
+						<li><a href="#/tutorial-6-preparing-your-soldering-iron/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Preparing Your Soldering Iron.</a></li>
-						<li><a
-							href="#/tutorial-7-making-scale-templates/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
-								Making Scale Templates.</a></li>
+						<li><a href="#/tutorial-7-making-scale-templates/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 7. Making Scale
+								Templates.</a></li>
 						<li><a
 							href="#/tutorial-8-doing-calculations-for-the-scales-layout/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8. Doing
 								Calculations for the Scales Layout.</a></li>
-						<li><a
-							href="#/tutorial-9-designing-the-scales-layout/"
+						<li><a href="#/tutorial-9-designing-the-scales-layout/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Designing the Scales Layout.</a></li>
-						<li><a
-							href="#/tutorial-10-drawing-the-scales-layout/"
+						<li><a href="#/tutorial-10-drawing-the-scales-layout/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Drawing the Scales Layout.</a></li>
 						<li><a
@@ -1765,22 +1476,19 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Marking the First Guidelines and Putting Scales on the Front of
 								the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-15-advancing-to-the-top-of-the-skirt/"
+						<li><a href="#/tutorial-15-advancing-to-the-top-of-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Advancing to the Top of the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-16-adjusting-the-scales-layout/"
+						<li><a href="#/tutorial-16-adjusting-the-scales-layout/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Adjusting the Scales Layout.</a></li>
 						<li><a
 							href="#/tutorial-17-putting-decorative-scales-in-the-zipper-area/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
 								Putting Decorative Scales in the Zipper Area.</a></li>
-						<li><a
-							href="#/tutorial-18-sewing-the-side-seams/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
-								Sewing the Side Seams.</a></li>
+						<li><a href="#/tutorial-18-sewing-the-side-seams/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 18. Sewing the Side
+								Seams.</a></li>
 						<li><a
 							href="#/tutorial-19-summing-up-the-total-number-of-decorative-scales/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
@@ -1793,8 +1501,7 @@
 							href="#/tutorial-21-doing-calculations-cutting-and-duplicating-the-peplum/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Doing Calculations. Cutting and Duplicating the Peplum.</a></li>
-						<li><a
-							href="#/tutorial-22-working-on-the-peplum-continued/"
+						<li><a href="#/tutorial-22-working-on-the-peplum-continued/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
 								Working on the Peplum (Continued).</a></li>
 						<li><a
@@ -1817,37 +1524,31 @@
 			<ul class="list-unstyled">
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="93"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/sewing-steampunk-corset/">Steampunk
+					<a class="second" href="#/sewing-steampunk-corset/">Steampunk
 						Corset <span>(27)</span>
 				</a>
 					<ul id="idSteampunkCorset" class="list-unstyled">
-						<li><a href="#/sewing-steampunk-corset/"
-							class="access"><i class="fa fa-play-circle"></i>Steampunk Corset.
-								Foreword.</a></li>
+						<li><a href="#/sewing-steampunk-corset/" class="access"><i
+								class="fa fa-play-circle"></i>Steampunk Corset. Foreword.</a></li>
 						<li><a
 							href="#/tutorial-1-types-of-leather-choosing-the-right-leather-and-calculating-its-consumption/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1. Types
 								of Leather. Choosing the Right Leather and Calculating its
 								Consumption.</a></li>
-						<li><a
-							href="#/tutorial-2-additional-tools-and-materials/"
+						<li><a href="#/tutorial-2-additional-tools-and-materials/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Additional Tools and Materials.</a></li>
 						<li><a
 							href="#/calculating-leather-consumption-and-preparing-the-patterns/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Calculating Leather Consumption and Preparing the Patterns.</a></li>
-						<li><a
-							href="#/duplicating-leather-with-iron-on-batiste/"
+						<li><a href="#/duplicating-leather-with-iron-on-batiste/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Duplicating Leather with Iron-On Batiste.</a></li>
-						<li><a
-							href="#/tutorial-5-cutting-all-parts-of-the-corset/"
+						<li><a href="#/tutorial-5-cutting-all-parts-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Cutting All Parts of the Corset.</a></li>
-						<li><a
-							href="#/additional-tools-for-sewing-with-leather/"
+						<li><a href="#/additional-tools-for-sewing-with-leather/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Additional Tools for Sewing with Leather.</a></li>
 						<li><a
@@ -1876,11 +1577,10 @@
 							href="#/tutorial-12-topstitching-the-seams-sewing-tunnels-and-lacing-bars/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Topstitching the Seams. Sewing Tunnels and Lacing Bars.</a></li>
-						<li><a href="#/cutting-applique-motifs/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
-								Cutting Appliqué Motifs.</a></li>
-						<li><a
-							href="#/tutorial-14-sewing-decorative-boning-tunnels/"
+						<li><a href="#/cutting-applique-motifs/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 13. Cutting Appliqué
+								Motifs.</a></li>
+						<li><a href="#/tutorial-14-sewing-decorative-boning-tunnels/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Sewing Decorative Boning Tunnels.</a></li>
 						<li><a
@@ -1891,8 +1591,7 @@
 							href="#/tutorial-16-sewing-the-applique-motifs-on-the-lay-on-elements/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Sewing the Appliqué Motifs on the Lay-On Elements.</a></li>
-						<li><a
-							href="#/tutorial-17-finishing-the-top-edge-with-bias-tape/"
+						<li><a href="#/tutorial-17-finishing-the-top-edge-with-bias-tape/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
 								Finishing the Top Edge with Bias Tape.</a></li>
 						<li><a
@@ -1913,12 +1612,10 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Sewing the Lay-On Elements on the Corset.&nbsp; Marking and
 								Installing Rivets.</a></li>
-						<li><a
-							href="#/finishing-the-bottom-edge-of-the-corset/"
+						<li><a href="#/finishing-the-bottom-edge-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
 								Finishing the Bottom Edge of the Corset.</a></li>
-						<li><a
-							href="#/tutorial-23-preparing-a-modesty-panel/"
+						<li><a href="#/tutorial-23-preparing-a-modesty-panel/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
 								Preparing a Modesty Panel.</a></li>
 						<li><a
@@ -1929,28 +1626,23 @@
 							href="#/tutorial-25-gluing-the-lay-on-elements-on-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 25.
 								Gluing the Lay-On Elements on the Corset.</a></li>
-						<li><a
-							href="#/tutorial-26-stitching-a-border-for-the-latches/"
+						<li><a href="#/tutorial-26-stitching-a-border-for-the-latches/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 26.
 								Stitching a Border for the Latches.&nbsp;</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="94"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/black-leather-corset-foreword/">Leather
+					<a class="second" href="#/black-leather-corset-foreword/">Leather
 						Corset <span>(22)</span>
 				</a>
 					<ul id="idLeatherCorset" class="list-unstyled">
-						<li><a
-							href="#/black-leather-corset-foreword/"
-							class="access"><i class="fa fa-play-circle"></i>Black Leather
-								Corset. Foreword.</a></li>
+						<li><a href="#/black-leather-corset-foreword/" class="access"><i
+								class="fa fa-play-circle"></i>Black Leather Corset. Foreword.</a></li>
 						<li><a
 							href="#/tutorial-1-applying-alterations-to-the-pattern-marking-defects-on-leather/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Applying Alterations to the Pattern. Marking Defects on Leather.</a></li>
-						<li><a
-							href="#/cutting-the-face-and-the-lining-of-the-corset/"
+						<li><a href="#/cutting-the-face-and-the-lining-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Cutting the Face and the Lining of the Corset.&nbsp; Assembling
 								the Face.</a></li>
@@ -1958,21 +1650,15 @@
 							href="#/tutorial-3-opening-the-seam-allowances-of-the-face/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Opening the Seam Allowances of the Face.</a></li>
-						<li><a
-							href="#/tutorial-4-pinning-and-basting-the-seams/"
+						<li><a href="#/tutorial-4-pinning-and-basting-the-seams/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Pinning and Basting the Seams.</a></li>
-						<li><a href="#/tutorial-5-appliqu-part-1/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
-								Applique. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-6-applique-part-2/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
-								Applique. Part 2.</a></li>
-						<li><a
-							href="#/tutorial-7-machine-embroidery/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
-								Machine Embroidery.</a></li>
+						<li><a href="#/tutorial-5-appliqu-part-1/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 5. Applique. Part 1.</a></li>
+						<li><a href="#/tutorial-6-applique-part-2/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 6. Applique. Part 2.</a></li>
+						<li><a href="#/tutorial-7-machine-embroidery/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 7. Machine Embroidery.</a></li>
 						<li><a
 							href="#/tutorial-8-using-rivets-and-snaps-for-decoration-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8. Using
@@ -1981,26 +1667,16 @@
 							href="#/tutorial-9-using-rivets-and-snaps-for-decoration-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9. Using
 								Rivets and Snaps for Decoration. Part 2.</a></li>
-						<li><a
-							href="#/tutorial-10-3d-applique-part-1/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 10. 3D
-								Applique. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-11-3d-applique-part-2/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 11. 3D
-								Applique. Part 2.</a></li>
-						<li><a
-							href="#/tutorial-12-3d-applique-part-3/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 12. 3D
-								Applique. Part 3.</a></li>
-						<li><a
-							href="#/tutorial-13-3d-applique-part-4/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 13. 3D
-								Appliqué. Part 4.</a></li>
-						<li><a
-							href="#/tutorial-14-3d-applique-part-5/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 14. 3D
-								Appliqué. Part 5.</a></li>
+						<li><a href="#/tutorial-10-3d-applique-part-1/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 10. 3D Applique. Part 1.</a></li>
+						<li><a href="#/tutorial-11-3d-applique-part-2/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 11. 3D Applique. Part 2.</a></li>
+						<li><a href="#/tutorial-12-3d-applique-part-3/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 12. 3D Applique. Part 3.</a></li>
+						<li><a href="#/tutorial-13-3d-applique-part-4/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 13. 3D Appliqué. Part 4.</a></li>
+						<li><a href="#/tutorial-14-3d-applique-part-5/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 14. 3D Appliqué. Part 5.</a></li>
 						<li><a
 							href="#/tutorial-15-joining-the-central-piece-with-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
@@ -2013,8 +1689,7 @@
 							href="#/tutorial-17-stitching-the-bias-tapes-setting-grommets/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
 								Stitching the Bias Tapes.&nbsp; Setting Grommets.</a></li>
-						<li><a
-							href="#/tutorial-18-inserting-bones-in-the-corset/"
+						<li><a href="#/tutorial-18-inserting-bones-in-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Inserting Bones in the Corset.</a></li>
 						<li><a
@@ -2025,10 +1700,8 @@
 							href="#/tutorial-20-lacing-the-central-panel-to-the-corset-finished-garment/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Lacing the Central Panel to the Corset.&nbsp; Finished Garment.</a></li>
-						<li><a
-							href="#/decorative-wide-elastic-waistband/"
-							class="access"><i class="fa fa-play-circle"></i>Decorative Wide
-								Elastic Waistband.</a></li>
+						<li><a href="#/decorative-wide-elastic-waistband/" class="access"><i
+								class="fa fa-play-circle"></i>Decorative Wide Elastic Waistband.</a></li>
 					</ul></li>
 			</ul></li>
 		<li class="active"><a href="javascript:void(0)" class="nav-sub first"><i
@@ -2046,8 +1719,7 @@
 							href="#/tutorial-1-getting-acquainted-with-the-model-review-of-materials/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Getting Acquainted with the Model. Review of Materials.</a></li>
-						<li><a
-							href="#/tutorial-2-calculating-pattern-alterations/"
+						<li><a href="#/tutorial-2-calculating-pattern-alterations/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Calculating Pattern Alterations.</a></li>
 						<li><a
@@ -2058,20 +1730,16 @@
 							href="#/tutorial-4-cutting-the-dress-duplicating-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Cutting the Dress. Duplicating the Lining.</a></li>
-						<li><a
-							href="#/tutorial-5-marking-the-bones/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
-								Marking the Bones.</a></li>
-						<li><a
-							href="#/tutorial-6-cutting-the-lacing-bars/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
-								Cutting the Lacing Bars.</a></li>
+						<li><a href="#/tutorial-5-marking-the-bones/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 5. Marking the Bones.</a></li>
+						<li><a href="#/tutorial-6-cutting-the-lacing-bars/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 6. Cutting the Lacing
+								Bars.</a></li>
 						<li><a
 							href="#/tutorial-7-sewing-bones-onto-the-back-finishing-the-lacing-bars/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Sewing Bones onto the Back. Finishing the Lacing Bars.</a></li>
-						<li><a
-							href="#/tutorial-8-assembling-the-lining-of-the-back/"
+						<li><a href="#/tutorial-8-assembling-the-lining-of-the-back/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Assembling the Lining of the Back.</a></li>
 						<li><a
@@ -2090,8 +1758,7 @@
 							href="#/tutorial-12-applying-final-touches-to-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Applying Final Touches to the Back of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-13-finishing-the-slit-at-the-back/"
+						<li><a href="#/tutorial-13-finishing-the-slit-at-the-back/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Finishing the Slit at the Back.</a></li>
 						<li><a
@@ -2102,16 +1769,14 @@
 							href="#/tutorial-15-pressing-the-princess-seams-and-the-cups-of-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Pressing the Princess Seams and the Cups of the Lining.</a></li>
-						<li><a
-							href="#/tutorial-16-sewing-bones-onto-large-size-cups/"
+						<li><a href="#/tutorial-16-sewing-bones-onto-large-size-cups/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Sewing Bones onto Large-Size Cups.</a></li>
 						<li><a
 							href="#/tutorial-17-reinforcing-the-waist-with-additional-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
 								Reinforcing the Waist with Additional Bones.</a></li>
-						<li><a
-							href="#/tutorial-18-padding-the-cups-with-polyester/"
+						<li><a href="#/tutorial-18-padding-the-cups-with-polyester/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Padding the Cups with Polyester.</a></li>
 						<li><a
@@ -2126,38 +1791,32 @@
 							href="#/tutorial-21-sewing-down-the-side-seams-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Sewing Down the Side Seams of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-22-pressing-the-side-seams-open/"
+						<li><a href="#/tutorial-22-pressing-the-side-seams-open/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
 								Pressing the Side Seams Open.</a></li>
 						<li><a
 							href="#/tutorial-23-hemming-the-dress-pictures-of-the-finished-garment/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
 								Hemming the Dress. Pictures of the Finished Garment.</a></li>
-						<li><a href="#/supplementary-patterns/"
-							class="access"><i class="fa fa-play-circle"></i>Supplementary
-								Patterns.</a></li>
+						<li><a href="#/supplementary-patterns/" class="access"><i
+								class="fa fa-play-circle"></i>Supplementary Patterns.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="78"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/plus-size-dress-strap/">Plus-Size
-						Dress with a Strap <span>(31)</span>
+					<a class="second" href="#/plus-size-dress-strap/">Plus-Size Dress
+						with a Strap <span>(31)</span>
 				</a>
 					<ul id="idPlusStrap" class="list-unstyled">
-						<li><a href="#/plus-size-dress-strap/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Taking Measurements.</a></li>
+						<li><a href="#/plus-size-dress-strap/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Taking Measurements.</a></li>
 						<li><a
 							href="#/tutorial-2-choosing-sewing-techniques-for-large-size-corset-garments/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Choosing Sewing Techniques for Large-Size Corset Garments.</a></li>
-						<li><a
-							href="#/tutorial-3-calculating-pattern-alterations-part-1/"
+						<li><a href="#/tutorial-3-calculating-pattern-alterations-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Calculating Pattern Alterations. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-4-calculating-pattern-alterations-part-2/"
+						<li><a href="#/tutorial-4-calculating-pattern-alterations-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Calculating Pattern Alterations. Part 2.</a></li>
 						<li><a
@@ -2176,22 +1835,17 @@
 							href="#/tutorial-8-applying-alterations-to-the-pattern-part-3/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Applying Alterations to the Pattern. Part 3.</a></li>
-						<li><a
-							href="#/tutorial-9-preparing-for-the-cutting-process/"
+						<li><a href="#/tutorial-9-preparing-for-the-cutting-process/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Preparing for the Cutting Process.</a></li>
-						<li><a
-							href="#/tutorial-10-cutting-the-lining-of-the-dress/"
+						<li><a href="#/tutorial-10-cutting-the-lining-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Cutting the Lining of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-11-duplicating-the-lining/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
-								Duplicating the Lining.</a></li>
-						<li><a
-							href="#/tutorial-12-marking-the-bones/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
-								Marking the Bones.</a></li>
+						<li><a href="#/tutorial-11-duplicating-the-lining/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 11. Duplicating the
+								Lining.</a></li>
+						<li><a href="#/tutorial-12-marking-the-bones/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 12. Marking the Bones.</a></li>
 						<li><a
 							href="#/tutorial-13-sewing-down-the-princess-seams-of-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
@@ -2204,10 +1858,8 @@
 							href="#/tutorial-15-sewing-bones-onto-the-front-of-the-dress-continued/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Sewing Bones onto the Front of the Dress (Continued).</a></li>
-						<li><a
-							href="#/tutorial-16-overlaying-the-bones/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
-								Overlaying the Bones.</a></li>
+						<li><a href="#/tutorial-16-overlaying-the-bones/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 16. Overlaying the Bones.</a></li>
 						<li><a
 							href="#/tutorial-17-padding-the-cups-with-polyester-wadding/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
@@ -2216,20 +1868,16 @@
 							href="#/tutorial-18-duplicating-the-cups-preparing-the-pieces-for-draping/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Duplicating the Cups. Preparing the Pieces for Draping.</a></li>
-						<li><a
-							href="#/tutorial-19-draping-the-back-of-the-dress/"
+						<li><a href="#/tutorial-19-draping-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
 								Draping the Back of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-20-draping-the-front-of-the-dress-part-1/"
+						<li><a href="#/tutorial-20-draping-the-front-of-the-dress-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Draping the Front of the Dress. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-21-draping-the-front-of-the-dress-part-2/"
+						<li><a href="#/tutorial-21-draping-the-front-of-the-dress-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Draping the Front of the Dress. Part 2.</a></li>
-						<li><a
-							href="#/tutorial-22-securing-the-drapes-on-the-dress/"
+						<li><a href="#/tutorial-22-securing-the-drapes-on-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
 								Securing the Drapes on the Dress.</a></li>
 						<li><a
@@ -2240,20 +1888,17 @@
 							href="#/tutorial-24-cutting-the-skirts-preparing-to-insert-the-zipper/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 24.
 								Cutting the Skirts. Preparing to Insert the Zipper.</a></li>
-						<li><a
-							href="#/tutorial-25-installing-the-zippers-into-the-dress/"
+						<li><a href="#/tutorial-25-installing-the-zippers-into-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 25.
 								Installing the Zippers into the Dress.</a></li>
-						<li><a
-							href="#/tutorial-26-attaching-the-skirts-to-the-dress/"
+						<li><a href="#/tutorial-26-attaching-the-skirts-to-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 26.
 								Attaching the Skirts to the Dress.</a></li>
 						<li><a
 							href="#/tutorial-27-draping-the-waistband-securing-the-drapes/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 27.
 								Draping the Waistband. Securing the Drapes.</a></li>
-						<li><a
-							href="#/tutorial-28-finishing-the-lacing-area/"
+						<li><a href="#/tutorial-28-finishing-the-lacing-area/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 28.
 								Finishing the Lacing Area.</a></li>
 						<li><a
@@ -2276,12 +1921,10 @@
 						with Sleeves <span>(28)</span>
 				</a>
 					<ul id="idCorsetSleeves" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-getting-acquainted-with-the-model-6/"
+						<li><a href="#/tutorial-1-getting-acquainted-with-the-model-6/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Getting Acquainted with the Model.</a></li>
-						<li><a
-							href="#/tutorial-2-calculating-pattern-adjustments/"
+						<li><a href="#/tutorial-2-calculating-pattern-adjustments/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Calculating Pattern Adjustments.</a></li>
 						<li><a
@@ -2292,12 +1935,10 @@
 							href="#/tutorial-4-drawing-the-adjusted-pattern-on-iron-on-batiste/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Drawing the Adjusted Pattern on Iron-On Batiste.</a></li>
-						<li><a
-							href="#/tutorial-5-cutting-the-base-of-the-dress/"
+						<li><a href="#/tutorial-5-cutting-the-base-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Cutting the Base of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-6-cutting-the-lace-parts-of-the-dress/"
+						<li><a href="#/tutorial-6-cutting-the-lace-parts-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Cutting the Lace Parts of the Dress.</a></li>
 						<li><a
@@ -2312,32 +1953,26 @@
 							href="#/tutorial-9-sewing-down-the-princess-seams-of-the-lining-of-the-front/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Sewing Down the Princess Seams of the Lining of the Front.</a></li>
-						<li><a
-							href="#/tutorial-10-shaping-the-cups-on-the-lining/"
+						<li><a href="#/tutorial-10-shaping-the-cups-on-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Shaping the Cups on the Lining.</a></li>
-						<li><a
-							href="#/tutorial-11-pressing-the-cups-intermediate-stage/"
+						<li><a href="#/tutorial-11-pressing-the-cups-intermediate-stage/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Pressing the Cups (Intermediate Stage).</a></li>
 						<li><a
 							href="#/tutorial-12-padding-the-cups-flattening-the-stomach/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Padding the Cups. Flattening the Stomach.</a></li>
-						<li><a
-							href="#/tutorial-13-working-on-the-lining-continued/"
+						<li><a href="#/tutorial-13-working-on-the-lining-continued/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Working on the Lining (Continued).</a></li>
-						<li><a
-							href="#/tutorial-14-assembling-the-lacing-bars/"
+						<li><a href="#/tutorial-14-assembling-the-lacing-bars/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Assembling the Lacing Bars.</a></li>
-						<li><a
-							href="#/tutorial-15-sewing-in-the-lacing-bars/"
+						<li><a href="#/tutorial-15-sewing-in-the-lacing-bars/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Sewing in the Lacing Bars.</a></li>
-						<li><a
-							href="#/tutorial-16-pressing-the-joined-parts-of-the-face/"
+						<li><a href="#/tutorial-16-pressing-the-joined-parts-of-the-face/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Pressing the Joined Parts of the Face.</a></li>
 						<li><a
@@ -2352,8 +1987,7 @@
 							href="#/tutorial-19-joining-the-face-of-the-front-with-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 19.
 								Joining the Face of the Front with the Lining.</a></li>
-						<li><a
-							href="#/tutorial-20-sewing-down-the-side-seams/"
+						<li><a href="#/tutorial-20-sewing-down-the-side-seams/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Sewing Down the Side Seams.</a></li>
 						<li><a
@@ -2368,12 +2002,10 @@
 							href="#/tutorial-23-sewing-down-the-side-seams-final-steps-pressing-the-garment/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
 								Sewing Down the Side Seams (Final Steps). Pressing the Garment.</a></li>
-						<li><a
-							href="#/tutorial-24-finishing-the-hemline/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 24.
-								Finishing the Hemline.</a></li>
-						<li><a
-							href="#/tutorial-25-protecting-the-zipper-from-breaking/"
+						<li><a href="#/tutorial-24-finishing-the-hemline/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 24. Finishing the
+								Hemline.</a></li>
+						<li><a href="#/tutorial-25-protecting-the-zipper-from-breaking/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 25.
 								Protecting the Zipper from Breaking.</a></li>
 						<li><a
@@ -2384,8 +2016,7 @@
 							href="#/tutorial-27-decorating-the-garment-with-lace-pieces/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 27.
 								Decorating the Garment with Lace Pieces.</a></li>
-						<li><a
-							href="#/tutorial-28-applying-final-touches-to-the-dress/"
+						<li><a href="#/tutorial-28-applying-final-touches-to-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 28.
 								Applying Final Touches to the Dress.</a></li>
 					</ul></li>
@@ -2396,77 +2027,60 @@
 			<ul class="list-unstyled">
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="20"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/01-cutting-fabric-the-right-way/">ABC
-						of Corset-making <span>(8)</span>
+					<a class="second" href="#/01-cutting-fabric-the-right-way/">ABC of
+						Corset-making <span>(8)</span>
 				</a>
 					<ul id="idCorsetMakingABC" class="list-unstyled">
-						<li><a
-							href="#/01-cutting-fabric-the-right-way/"
-							class="access"><i class="fa fa-play-circle"></i>Cutting Fabric
-								the Right Way</a></li>
-						<li><a
-							href="#/applying-fusible-interfacing/"
-							class="access"><i class="fa fa-play-circle"></i>Applying Fusible
-								Interfacing</a></li>
-						<li><a href="#/topstitching/"
-							class="access"><i class="fa fa-play-circle"></i>Topstitching</a></li>
-						<li><a href="#/how-to-sew-in-the-boning/"
-							class="access"><i class="fa fa-play-circle"></i>How to Sew in the
-								Boning</a></li>
-						<li><a href="#/lapped-seam/"
-							class="access"><i class="fa fa-play-circle"></i>Lapped Seam</a></li>
-						<li><a
-							href="#/how-to-change-the-shape-of-the-boning/"
+						<li><a href="#/01-cutting-fabric-the-right-way/" class="access"><i
+								class="fa fa-play-circle"></i>Cutting Fabric the Right Way</a></li>
+						<li><a href="#/applying-fusible-interfacing/" class="access"><i
+								class="fa fa-play-circle"></i>Applying Fusible Interfacing</a></li>
+						<li><a href="#/topstitching/" class="access"><i
+								class="fa fa-play-circle"></i>Topstitching</a></li>
+						<li><a href="#/how-to-sew-in-the-boning/" class="access"><i
+								class="fa fa-play-circle"></i>How to Sew in the Boning</a></li>
+						<li><a href="#/lapped-seam/" class="access"><i
+								class="fa fa-play-circle"></i>Lapped Seam</a></li>
+						<li><a href="#/how-to-change-the-shape-of-the-boning/"
 							class="access"><i class="fa fa-play-circle"></i>How to Curve the
 								Boning</a></li>
-						<li><a href="#/how-to-rip-off-the-bone/"
-							class="access"><i class="fa fa-play-circle"></i>How to Rip off
-								the Boning</a></li>
-						<li><a
-							href="#/types-of-seams-and-pressing/"
-							class="access"><i class="fa fa-play-circle"></i>Types of Seams
-								and Pressing</a></li>
+						<li><a href="#/how-to-rip-off-the-bone/" class="access"><i
+								class="fa fa-play-circle"></i>How to Rip off the Boning</a></li>
+						<li><a href="#/types-of-seams-and-pressing/" class="access"><i
+								class="fa fa-play-circle"></i>Types of Seams and Pressing</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="21"><i class="fa fa-my-menu"></i></a>
 					<a class="second"
-					href="#/corset-sewing-pattern-how-to-create-and-adjust/">Must
-						Know <span>(7)</span>
+					href="#/corset-sewing-pattern-how-to-create-and-adjust/">Must Know
+						<span>(7)</span>
 				</a>
 					<ul id="idMustKnow" class="list-unstyled">
-						<li><a
-							href="#/corset-sewing-pattern-how-to-create-and-adjust/"
+						<li><a href="#/corset-sewing-pattern-how-to-create-and-adjust/"
 							class="access"><i class="fa fa-play-circle"></i>Corset Sewing
 								Pattern. How to Create and Adjust.</a></li>
-						<li><a href="#/measurement/"
-							class="access"><i class="fa fa-play-circle"></i>Measurement</a></li>
-						<li><a href="#/corset-making-equipment/"
-							class="access"><i class="fa fa-play-circle"></i>Corset-making
-								Equipment</a></li>
-						<li><a href="#/adjusting-corset-pattern/"
-							class="access"><i class="fa fa-play-circle"></i>Altering and
-								Adjusting Corset Pattern</a></li>
-						<li><a href="#/how-to-lace-a-corset/"
-							class="access"><i class="fa fa-play-circle"></i>How to Lace a
-								Corset</a></li>
-						<li><a
-							href="#/how-to-print-corset-sewing-pattern/"
-							class="access"><i class="fa fa-play-circle"></i>How to Print
-								Corset Sewing Pattern</a></li>
-						<li><a href="#/dress-pattern-constructor/"
-							class="access"><i class="fa fa-play-circle"></i>Dress Pattern
-								Constructor</a></li>
+						<li><a href="#/measurement/" class="access"><i
+								class="fa fa-play-circle"></i>Measurement</a></li>
+						<li><a href="#/corset-making-equipment/" class="access"><i
+								class="fa fa-play-circle"></i>Corset-making Equipment</a></li>
+						<li><a href="#/adjusting-corset-pattern/" class="access"><i
+								class="fa fa-play-circle"></i>Altering and Adjusting Corset
+								Pattern</a></li>
+						<li><a href="#/how-to-lace-a-corset/" class="access"><i
+								class="fa fa-play-circle"></i>How to Lace a Corset</a></li>
+						<li><a href="#/how-to-print-corset-sewing-pattern/" class="access"><i
+								class="fa fa-play-circle"></i>How to Print Corset Sewing Pattern</a></li>
+						<li><a href="#/dress-pattern-constructor/" class="access"><i
+								class="fa fa-play-circle"></i>Dress Pattern Constructor</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="22"><i class="fa fa-my-menu"></i></a>
 					<a class="second"
-					href="#/tutorial-1-cutting-attaching-lining-and-bones/">Corset
-						in Just 1 Day <span>(4)</span>
+					href="#/tutorial-1-cutting-attaching-lining-and-bones/">Corset in
+						Just 1 Day <span>(4)</span>
 				</a>
 					<ul id="idCorsetDay" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-cutting-attaching-lining-and-bones/"
+						<li><a href="#/tutorial-1-cutting-attaching-lining-and-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Cutting. Attaching Lining and Bones.</a></li>
 						<li><a
@@ -2477,93 +2091,64 @@
 							href="#/tutorial-3-joining-the-face-and-lining-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Joining the Face and Lining of the Corset.</a></li>
-						<li><a
-							href="#/tutorial-4-finishing-the-corset/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Finishing the Corset.</a></li>
+						<li><a href="#/tutorial-4-finishing-the-corset/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Finishing the Corset.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="23"><i class="fa fa-my-menu"></i></a>
-					<a class="second" href="#/push-up-pads/">Tips
-						and Tricks <span>(6)</span>
+					<a class="second" href="#/push-up-pads/">Tips and Tricks <span>(6)</span>
 				</a>
 					<ul id="idTipsTricks" class="list-unstyled">
-						<li><a href="#/push-up-pads/"
-							class="access"><i class="fa fa-play-circle"></i>Push-Up Pads</a></li>
-						<li><a
-							href="#/detachable-bars-for-a-fit-test/"
-							class="access"><i class="fa fa-play-circle"></i>Detachable Bars
-								for a Fit Test</a></li>
-						<li><a
-							href="#/drapery-decoration-of-the-corset/"
-							class="access"><i class="fa fa-play-circle"></i>Drapery
-								Decoration of the Corset</a></li>
-						<li><a href="#/how-to-sew-a-shrug-bolero/"
-							class="access"><i class="fa fa-play-circle"></i>How to Sew a
-								Shrug (Bolero)</a></li>
-						<li><a
-							href="#/how-to-make-corset-with-sleeves-part-1/"
+						<li><a href="#/push-up-pads/" class="access"><i
+								class="fa fa-play-circle"></i>Push-Up Pads</a></li>
+						<li><a href="#/detachable-bars-for-a-fit-test/" class="access"><i
+								class="fa fa-play-circle"></i>Detachable Bars for a Fit Test</a></li>
+						<li><a href="#/drapery-decoration-of-the-corset/" class="access"><i
+								class="fa fa-play-circle"></i>Drapery Decoration of the Corset</a></li>
+						<li><a href="#/how-to-sew-a-shrug-bolero/" class="access"><i
+								class="fa fa-play-circle"></i>How to Sew a Shrug (Bolero)</a></li>
+						<li><a href="#/how-to-make-corset-with-sleeves-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>How to make
 								corset with sleeves? Part 1.</a></li>
-						<li><a
-							href="#/how-to-make-corset-with-sleeves-part-2/"
+						<li><a href="#/how-to-make-corset-with-sleeves-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>How to make
 								corset with sleeves? Part 2.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="33"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/opaque-corsets-review/">Sewing
-						Techniques Reviews <span>(5)</span>
+					<a class="second" href="#/opaque-corsets-review/">Sewing Techniques
+						Reviews <span>(5)</span>
 				</a>
 					<ul id="idSewingReviews" class="list-unstyled">
-						<li><a href="#/opaque-corsets-review/"
-							class="access"><i class="fa fa-play-circle"></i>Opaque Corsets:
-								Review</a></li>
-						<li><a
-							href="#/transparent-corsets-review-2/"
-							class="access"><i class="fa fa-play-circle"></i>Transparent
-								Corsets: Review</a></li>
-						<li><a href="#/fancy-back-dresses-review/"
-							class="access"><i class="fa fa-play-circle"></i>Fancy-Back
-								Dresses: Review</a></li>
-						<li><a
-							href="#/types-of-open-back-dresses/"
-							class="access"><i class="fa fa-play-circle"></i>Types of
-								Open-Back Dresses</a></li>
-						<li><a
-							href="#/decoration-techniques-review/"
-							class="access"><i class="fa fa-play-circle"></i>Decoration
-								Techniques: Review</a></li>
+						<li><a href="#/opaque-corsets-review/" class="access"><i
+								class="fa fa-play-circle"></i>Opaque Corsets: Review</a></li>
+						<li><a href="#/transparent-corsets-review-2/" class="access"><i
+								class="fa fa-play-circle"></i>Transparent Corsets: Review</a></li>
+						<li><a href="#/fancy-back-dresses-review/" class="access"><i
+								class="fa fa-play-circle"></i>Fancy-Back Dresses: Review</a></li>
+						<li><a href="#/types-of-open-back-dresses/" class="access"><i
+								class="fa fa-play-circle"></i>Types of Open-Back Dresses</a></li>
+						<li><a href="#/decoration-techniques-review/" class="access"><i
+								class="fa fa-play-circle"></i>Decoration Techniques: Review</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="80"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-cocktail-dress/">Cocktail
+					<a class="second" href="#/tutorial-1-cocktail-dress/">Cocktail
 						Dress <span>(25)</span>
 				</a>
 					<ul id="idCocktailDress" class="list-unstyled">
-						<li><a href="#/tutorial-1-cocktail-dress/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Foreword.</a></li>
-						<li><a
-							href="#/tutorial-2-getting-acquainted-with-the-pattern/"
+						<li><a href="#/tutorial-1-cocktail-dress/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Foreword.</a></li>
+						<li><a href="#/tutorial-2-getting-acquainted-with-the-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Getting Acquainted with the Pattern.</a></li>
-						<li><a
-							href="#/tutorial-3-cutting-the-mock-up/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
-								Cutting the Mock-Up.</a></li>
-						<li><a
-							href="#/tutorial-4-sewing-the-mock-up/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Sewing the Mock-Up.</a></li>
-						<li><a
-							href="#/tutorial-5-measuring-the-mock-up/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
-								Measuring the Mock-Up.</a></li>
-						<li><a
-							href="#/tutorial-6-calculating-pattern-alterations/"
+						<li><a href="#/tutorial-3-cutting-the-mock-up/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Cutting the Mock-Up.</a></li>
+						<li><a href="#/tutorial-4-sewing-the-mock-up/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Sewing the Mock-Up.</a></li>
+						<li><a href="#/tutorial-5-measuring-the-mock-up/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 5. Measuring the Mock-Up.</a></li>
+						<li><a href="#/tutorial-6-calculating-pattern-alterations/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Calculating Pattern Alterations.</a></li>
 						<li><a
@@ -2578,32 +2163,28 @@
 							href="#/tutorial-9-review-of-the-dress-model-and-materials-used/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Review of the Dress Model and Materials Used.</a></li>
-						<li><a
-							href="#/tutorial-10-cutting-the-front-of-the-dress/"
+						<li><a href="#/tutorial-10-cutting-the-front-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Cutting the Front of the Dress.</a></li>
 						<li><a
 							href="#/tutorial-11-cutting-the-back-half-of-the-dress-and-the-decorative-stripes/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Cutting the Back Half of the Dress and the Decorative Stripes.</a></li>
-						<li><a
-							href="#/tutorial-12-duplicating-the-interfacing/"
+						<li><a href="#/tutorial-12-duplicating-the-interfacing/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Duplicating the Interfacing.</a></li>
 						<li><a
 							href="#/tutorial-13-sewing-down-the-princess-seams-of-the-front/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Sewing Down the Princess Seams of the Front.</a></li>
-						<li><a
-							href="#/tutorial-14-adjusting-the-top-edge-of-the-dress/"
+						<li><a href="#/tutorial-14-adjusting-the-top-edge-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Adjusting the Top Edge of the Dress.</a></li>
 						<li><a
 							href="#/tutorial-15-finishing-the-top-edge-of-the-front-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial
 								15.&nbsp; Finishing the Top Edge of the Front of the Dress.</a></li>
-						<li><a
-							href="#/tutorial-16-decorating-the-dress-with-drapes/"
+						<li><a href="#/tutorial-16-decorating-the-dress-with-drapes/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Decorating the Dress with Drapes.</a></li>
 						<li><a
@@ -2626,16 +2207,13 @@
 							href="#/tutorial-21-finishing-the-top-edge-of-the-back-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Finishing the Top Edge of the Back of the Dress.</a></li>
-						<li><a
-							href="#/finishing-the-bottom-edge-of-the-back/"
+						<li><a href="#/finishing-the-bottom-edge-of-the-back/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 22.
 								Finishing the Bottom Edge of the Back.</a></li>
-						<li><a
-							href="#/tutorial-23-sewing-down-the-side-seams/"
+						<li><a href="#/tutorial-23-sewing-down-the-side-seams/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
 								Sewing Down the Side Seams.</a></li>
-						<li><a
-							href="#/tutorial-24-covering-the-side-seams-by-the-lining/"
+						<li><a href="#/tutorial-24-covering-the-side-seams-by-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 24.
 								Covering the Side Seams by the Lining.</a></li>
 						<li><a
@@ -2645,15 +2223,12 @@
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="104"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/transparent-corset-in-3-hours/">Transparent
+					<a class="second" href="#/transparent-corset-in-3-hours/">Transparent
 						Corset in 3 Hours <span>(1)</span>
 				</a>
 					<ul id="idTransparentHours" class="list-unstyled">
-						<li><a
-							href="#/transparent-corset-in-3-hours/"
-							class="access"><i class="fa fa-play-circle"></i>Transparent
-								Corset in 3 Hours</a></li>
+						<li><a href="#/transparent-corset-in-3-hours/" class="access"><i
+								class="fa fa-play-circle"></i>Transparent Corset in 3 Hours</a></li>
 					</ul></li>
 			</ul></li>
 		<li class="active"><a href="javascript:void(0)" class="nav-sub first"><i
@@ -2663,50 +2238,42 @@
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="6"><i class="fa fa-my-menu"></i></a>
 					<a class="second"
-					href="#/tutorial-1-measuring-and-altering-patterns/">Corset
-						in a Simplified Technique <span>(10)</span>
+					href="#/tutorial-1-measuring-and-altering-patterns/">Corset in a
+						Simplified Technique <span>(10)</span>
 				</a>
 					<ul id="idCorsetTechnique" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-measuring-and-altering-patterns/"
+						<li><a href="#/tutorial-1-measuring-and-altering-patterns/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Measuring and Altering Patterns.</a></li>
-						<li><a
-							href="#/tutorial-3-joining-vertical-curves/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Fusing of Fabric, Corset Cutting.</a></li>
+						<li><a href="#/tutorial-3-joining-vertical-curves/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Fusing of Fabric,
+								Corset Cutting.</a></li>
 						<li><a
 							href="#/tutorial-3-joining-vertical-curves-joining-the-front-pieces-of-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Joining Vertical Curves. Joining the Front Pieces of the Lining.</a></li>
-						<li><a
-							href="#/tutorial-4-stitching-on-bones/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Stitching-on Bones.</a></li>
+						<li><a href="#/tutorial-4-stitching-on-bones/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Stitching-on Bones.</a></li>
 						<li><a
 							href="#/tutorial-5-covering-cups-with-padding-polyester-joining-the-face-pieces-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Covering Cups with Padding Polyester. Joining the Face Pieces of
 								the Corset.</a></li>
-						<li><a
-							href="#/tutorial-6-joining-the-face-and-the-lining/"
+						<li><a href="#/tutorial-6-joining-the-face-and-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Joining the Face and the Lining.</a></li>
-						<li><a
-							href="#/tutorial-7-joining-the-side-seams-fitting/"
+						<li><a href="#/tutorial-7-joining-the-side-seams-fitting/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Joining the Side Seams. Fitting.</a></li>
 						<li><a
 							href="#/tutorial-8-finishing-the-corset-finishing-the-bottom/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Finishing the Corset. Finishing the Bottom.</a></li>
-						<li><a
-							href="#/tutorial-9-sewing-a-lacing-flap-punching-grommets/"
+						<li><a href="#/tutorial-9-sewing-a-lacing-flap-punching-grommets/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Sewing a Lacing Flap. Punching Grommets.</a></li>
-						<li><a href="#/tutorial-10-decoration/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
-								Decoration.</a></li>
+						<li><a href="#/tutorial-10-decoration/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 10. Decoration.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="17"><i class="fa fa-my-menu"></i></a>
@@ -2719,24 +2286,19 @@
 							href="#/tutorial-1-cutting-preparations-neckline-alteration-on-a-ready-pattern/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Cutting Preparations. Neckline Alteration on a Ready Pattern.</a></li>
-						<li><a
-							href="#/tutorial-2-layout-planning-cutting/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Layout Planning. Cutting.</a></li>
-						<li><a
-							href="#/tutorial-3-fusing-the-pieces-of-the-lining/"
+						<li><a href="#/tutorial-2-layout-planning-cutting/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Layout Planning.
+								Cutting.</a></li>
+						<li><a href="#/tutorial-3-fusing-the-pieces-of-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Fusing the Pieces of the Lining.</a></li>
-						<li><a
-							href="#/tutorial-4-joining-the-lining-along-its-curves/"
+						<li><a href="#/tutorial-4-joining-the-lining-along-its-curves/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Joining the Lining along Its Curves.</a></li>
-						<li><a
-							href="#/tutorial-5-quilting-embossed-cups-on-the-lining/"
+						<li><a href="#/tutorial-5-quilting-embossed-cups-on-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Quilting Embossed Cups on the Lining.</a></li>
-						<li><a
-							href="#/tutorial-6-sewing-on-vertical-bones/"
+						<li><a href="#/tutorial-6-sewing-on-vertical-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Sewing-on Vertical Bones.</a></li>
 						<li><a
@@ -2748,16 +2310,13 @@
 							href="#/tutorial-8-sewing-on-horizontal-bones-fusing-with-batiste/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Sewing-on Horizontal Bones. Fusing with Batiste.</a></li>
-						<li><a
-							href="#/tutorial-9-joining-the-face-pieces-of-the-corset/"
+						<li><a href="#/tutorial-9-joining-the-face-pieces-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Joining the Face Pieces of the Corset.</a></li>
-						<li><a
-							href="#/tutorial-10-joining-the-face-and-the-lining/"
+						<li><a href="#/tutorial-10-joining-the-face-and-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Joining the Face and the Lining.</a></li>
-						<li><a
-							href="#/tutorial-11-turning-out-and-pressing-the-garment/"
+						<li><a href="#/tutorial-11-turning-out-and-pressing-the-garment/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Turning Out and Pressing the Garment.</a></li>
 						<li><a
@@ -2765,36 +2324,30 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Pulling Face Fabric onto Lining. Pinning Along the Bottom.
 								Finishing Lacing.</a></li>
-						<li><a
-							href="#/tutorial-13-finishing-the-bottom-of-the-corset/"
+						<li><a href="#/tutorial-13-finishing-the-bottom-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Finishing the Bottom of the Corset.</a></li>
-						<li><a
-							href="#/tutorial-14-finishing-the-corset-decoration/"
+						<li><a href="#/tutorial-14-finishing-the-corset-decoration/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Finishing the Corset. Decoration.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="18"><i class="fa fa-my-menu"></i></a>
 					<a class="second"
-					href="#/tutorial-1-pattern-calculation-before-cutting/">Dress
-						with Separately Cut Cups <span>(15)</span>
+					href="#/tutorial-1-pattern-calculation-before-cutting/">Dress with
+						Separately Cut Cups <span>(15)</span>
 				</a>
 					<ul id="idDressCutCups" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-pattern-calculation-before-cutting/"
+						<li><a href="#/tutorial-1-pattern-calculation-before-cutting/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Pattern Calculation before Cutting</a></li>
 						<li><a
 							href="#/tutorial-2-pattern-calculation-before-cutting-continued/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Pattern Calculation before Cutting (Continued).</a></li>
-						<li><a
-							href="#/tutorial-3-cutting-the-cups/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
-								Cutting the Cups.</a></li>
-						<li><a
-							href="#/tutorial-4-dress-cutting-main-fabric-and-lace/"
+						<li><a href="#/tutorial-3-cutting-the-cups/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Cutting the Cups.</a></li>
+						<li><a href="#/tutorial-4-dress-cutting-main-fabric-and-lace/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4. Dress
 								Cutting: Main Fabric and Lace.</a></li>
 						<li><a
@@ -2807,16 +2360,13 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Joining the Lining of the Cups. Pressing. Sewing-on Perimeter
 								Bones.</a></li>
-						<li><a
-							href="#/tutorial-7-sewing-on-inner-cup-bones/"
+						<li><a href="#/tutorial-7-sewing-on-inner-cup-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Sewing-on Inner Cup Bones.</a></li>
-						<li><a
-							href="#/tutorial-8-sewing-together-the-face-of-the-cups/"
+						<li><a href="#/tutorial-8-sewing-together-the-face-of-the-cups/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Sewing Together the Face of the Cups.</a></li>
-						<li><a
-							href="#/tutorial-9-joining-the-cups-and-the-dress/"
+						<li><a href="#/tutorial-9-joining-the-cups-and-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Joining the Cups and the Dress.</a></li>
 						<li><a
@@ -2832,43 +2382,34 @@
 							href="#/tutorial-12-joining-the-lace-pieces-sewing-a-zipper-onto-the-back/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Joining the Lace Pieces. Sewing a Zipper onto the Back.</a></li>
-						<li><a
-							href="#/tutorial-13-hanging-loops-for-the-lacing/"
+						<li><a href="#/tutorial-13-hanging-loops-for-the-lacing/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Hanging Loops for the Lacing.</a></li>
 						<li><a
 							href="#/tutorial-14-joining-the-side-seams-hemming-the-bottom-of-the-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Joining the Side Seams. Hemming the Bottom of the Dress.</a></li>
-						<li><a href="#/tutorial-15-decoration/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
-								Decoration.</a></li>
+						<li><a href="#/tutorial-15-decoration/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 15. Decoration.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="19"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-introductory-tutorial/">Bodysuit
+					<a class="second" href="#/tutorial-1-introductory-tutorial/">Bodysuit
 						with Corset Cups <span>(9)</span>
 				</a>
 					<ul id="idBodysuitCorsetCups" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-introductory-tutorial/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Introductory Tutorial.</a></li>
-						<li><a
-							href="#/tutorial-2-cutting-a-bodysuit/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Cutting a Bodysuit.</a></li>
+						<li><a href="#/tutorial-1-introductory-tutorial/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Introductory Tutorial.</a></li>
+						<li><a href="#/tutorial-2-cutting-a-bodysuit/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Cutting a Bodysuit.</a></li>
 						<li><a
 							href="#/tutorial-3-fusing-the-cups-marking-the-location-of-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Fusing the Cups. Marking the Location of Bones.</a></li>
-						<li><a
-							href="#/tutorial-4-sewing-together-the-cup-pieces/"
+						<li><a href="#/tutorial-4-sewing-together-the-cup-pieces/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Sewing Together the Cup Pieces.</a></li>
-						<li><a
-							href="#/tutorial-5-quilting-the-cups-with-bones/"
+						<li><a href="#/tutorial-5-quilting-the-cups-with-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Quilting the Cups with Bones.</a></li>
 						<li><a
@@ -2880,43 +2421,33 @@
 							href="#/tutorial-7-sewing-the-back-of-the-bodysuit-concealed-zipper/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Sewing the Back of the Bodysuit. Concealed zipper.</a></li>
-						<li><a
-							href="#/tutorial-8-covering-the-cups-with-the-lace-front/"
+						<li><a href="#/tutorial-8-covering-the-cups-with-the-lace-front/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Covering the Cups with the Lace Front.</a></li>
-						<li><a
-							href="#/tutorial-9-finishing-the-bodysuit/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
-								Finishing the Bodysuit.</a></li>
+						<li><a href="#/tutorial-9-finishing-the-bodysuit/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 9. Finishing the
+								Bodysuit.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="24"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-measurement/">Party
-						Dress <span>(17)</span>
+					<a class="second" href="#/tutorial-1-measurement/">Party Dress <span>(17)</span>
 				</a>
 					<ul id="idPartyDress" class="list-unstyled">
-						<li><a href="#/tutorial-1-measurement/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Measurement.</a></li>
+						<li><a href="#/tutorial-1-measurement/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Measurement.</a></li>
 						<li><a
 							href="#/tutorial-2-printing-out-patterns-pattern-calculation/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Printing Out Patterns. Pattern Calculation.</a></li>
-						<li><a
-							href="#/tutorial-3-cutting-the-corset/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
-								Cutting the Corset.</a></li>
-						<li><a
-							href="#/tutorial-4-marking-the-location-of-bones/"
+						<li><a href="#/tutorial-3-cutting-the-corset/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Cutting the Corset.</a></li>
+						<li><a href="#/tutorial-4-marking-the-location-of-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Marking the Location of Bones.</a></li>
-						<li><a
-							href="#/tutorial-5-joining-the-bust-curves-of-the-lining/"
+						<li><a href="#/tutorial-5-joining-the-bust-curves-of-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Joining the Bust Curves of the Lining.</a></li>
-						<li><a
-							href="#/tutorial-6-quilting-the-cups-with-perimeter-bones/"
+						<li><a href="#/tutorial-6-quilting-the-cups-with-perimeter-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Quilting the Cups with Perimeter Bones.</a></li>
 						<li><a
@@ -2938,12 +2469,10 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Joining the Face and the Lining. Adjusting the Face of the
 								Corset.</a></li>
-						<li><a
-							href="#/tutorial-11-finishing-the-bottom-of-the-corset/"
+						<li><a href="#/tutorial-11-finishing-the-bottom-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Finishing the Bottom of the Corset.</a></li>
-						<li><a
-							href="#/tutorial-12-making-hanging-loops-for-the-lacing/"
+						<li><a href="#/tutorial-12-making-hanging-loops-for-the-lacing/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Making Hanging Loops for the Lacing.</a></li>
 						<li><a
@@ -2963,16 +2492,13 @@
 							href="#/tutorial-16-sewing-the-belt-finishing-touches-for-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Sewing the Belt. Finishing Touches for the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-17-making-push-up-pads/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
-								Making Push-up Pads.</a></li>
+						<li><a href="#/tutorial-17-making-push-up-pads/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 17. Making Push-up Pads.</a></li>
 					</ul></li>
 			</ul></li>
 		<li class="active"><a href="javascript:void(0)" class="nav-sub first"><i
 				class="fa fa-my-menu"></i></a> <a class="second"
-			href="#/categories/#544">Transparent corsets
-				<span>(4)</span>
+			href="#/categories/#544">Transparent corsets <span>(4)</span>
 		</a>
 			<ul class="list-unstyled">
 				<li class="active"><a href="javascript:void(0)"
@@ -2995,10 +2521,8 @@
 							href="#/tutorial-3-calculating-the-pattern-after-individual-measurements/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Calculating the Pattern after Individual Measurements.</a></li>
-						<li><a
-							href="#/tutorial-4-cutting-the-corset/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Cutting the Corset.</a></li>
+						<li><a href="#/tutorial-4-cutting-the-corset/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Cutting the Corset.</a></li>
 						<li><a
 							href="#/tutorial-5-cutting-the-cup-pieces-marking-the-location-of-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
@@ -3007,12 +2531,10 @@
 							href="#/tutorial-6-joining-the-hard-mesh-with-the-chiffon-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Joining the Hard Mesh with the Chiffon Lining.</a></li>
-						<li><a
-							href="#/tutorial-7-sewing-front-and-back-princess-seams/"
+						<li><a href="#/tutorial-7-sewing-front-and-back-princess-seams/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Sewing Front and Back Princess Seams.</a></li>
-						<li><a
-							href="#/tutorial-8-preparing-the-bones-and-sewing-them-on/"
+						<li><a href="#/tutorial-8-preparing-the-bones-and-sewing-them-on/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Preparing the Bones and Sewing Them on.</a></li>
 						<li><a
@@ -3031,28 +2553,23 @@
 							href="#/tutorial-12-pressing-the-cups-and-covering-them-with-padding-polyester/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Pressing the Cups and Covering Them with Padding Polyester.</a></li>
-						<li><a
-							href="#/tutorial-13-finishing-the-top-edge-of-the-corset/"
+						<li><a href="#/tutorial-13-finishing-the-top-edge-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
 								Finishing the Top Edge of the Corset.</a></li>
 						<li><a
 							href="#/tutorial-14-joining-the-body-with-the-cups-inserting-stiff-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Joining the Body with the Cups. Inserting Stiff Bones.</a></li>
-						<li><a
-							href="#/tutorial-15-finishing-the-bottom-of-the-corset/"
+						<li><a href="#/tutorial-15-finishing-the-bottom-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Finishing the Bottom of the Corset.</a></li>
-						<li><a
-							href="#/tutorial-16-marking-the-drapery/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
-								Marking the Drapery.</a></li>
+						<li><a href="#/tutorial-16-marking-the-drapery/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 16. Marking the Drapery.</a></li>
 						<li><a
 							href="#/tutorial-17-making-preparations-for-draping-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
 								Making Preparations for Draping the Corset.</a></li>
-						<li><a
-							href="#/tutorial-18-draping-the-corset-continued/"
+						<li><a href="#/tutorial-18-draping-the-corset-continued/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Draping the Corset (Continued).</a></li>
 						<li><a
@@ -3076,14 +2593,11 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Getting Acquainted with the Model and the Throw-Over Sewing
 								Technique.</a></li>
-						<li><a
-							href="#/tutorial-2-cutting-a-corset-mock-up/"
+						<li><a href="#/tutorial-2-cutting-a-corset-mock-up/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Cutting a Corset Mock-up.</a></li>
-						<li><a
-							href="#/tutorial-3-sewing-the-mock-up/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
-								Sewing the Mock-up.</a></li>
+						<li><a href="#/tutorial-3-sewing-the-mock-up/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Sewing the Mock-up.</a></li>
 						<li><a
 							href="#/tutorial-4-taking-pattern-measurements-off-the-mock-up/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
@@ -3092,8 +2606,7 @@
 							href="#/tutorial-5-re-calculating-the-pattern-after-individual-measurements/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Re-calculating the Pattern after Individual Measurements.</a></li>
-						<li><a
-							href="#/tutorial-6-gluing-together-two-layers-of-organza/"
+						<li><a href="#/tutorial-6-gluing-together-two-layers-of-organza/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Gluing Together Two Layers of Organza.</a></li>
 						<li><a
@@ -3104,8 +2617,7 @@
 							href="#/tutorial-8-cutting-the-corset-out-of-organza-and-lace-fabric/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Cutting the Corset out of Organza and Lace Fabric.</a></li>
-						<li><a
-							href="#/tutorial-9-cutting-the-cups-with-integral-straps/"
+						<li><a href="#/tutorial-9-cutting-the-cups-with-integral-straps/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 								Cutting the Cups with Integral Straps.</a></li>
 						<li><a
@@ -3117,8 +2629,7 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Cutting the Lacing Bars and Fabric Straps for Encasing the
 								Bones.</a></li>
-						<li><a
-							href="#/tutorial-12-joining-organza-and-lace-pieces/"
+						<li><a href="#/tutorial-12-joining-organza-and-lace-pieces/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
 								Joining Organza and Lace Pieces.</a></li>
 						<li><a
@@ -3134,8 +2645,7 @@
 							href="#/tutorial-15-assembling-the-lining-of-the-cups-and-quilting-it-with-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Assembling the Lining of the Cups and Quilting It with Bones.</a></li>
-						<li><a
-							href="#/tutorial-16-pressing-the-cups-quilted-with-bones/"
+						<li><a href="#/tutorial-16-pressing-the-cups-quilted-with-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Pressing the Cups Quilted with Bones.</a></li>
 						<li><a
@@ -3143,8 +2653,7 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 17.
 								Assembling the Face of the Cups. Pressing It before Joining with
 								the Lining.</a></li>
-						<li><a
-							href="#/tutorial-18-finishing-the-lining-of-the-cups/"
+						<li><a href="#/tutorial-18-finishing-the-lining-of-the-cups/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 18.
 								Finishing the Lining of the Cups.</a></li>
 						<li><a
@@ -3156,8 +2665,7 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Pressing the Cups and Preparing Them for Getting Sewn into the
 								Corset.</a></li>
-						<li><a
-							href="#/tutorial-21-pinning-the-cups-into-the-corset/"
+						<li><a href="#/tutorial-21-pinning-the-cups-into-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Pinning the Cups into the Corset.</a></li>
 						<li><a
@@ -3169,12 +2677,10 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 23.
 								Stitching the Edges of the Cups with Specialty Presser-Foot.
 								Finishing the Straps.</a></li>
-						<li><a
-							href="#/tutorial-24-inserting-stiff-bones-into-the-corset/"
+						<li><a href="#/tutorial-24-inserting-stiff-bones-into-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 24.
 								Inserting Stiff Bones into the Corset.</a></li>
-						<li><a
-							href="#/tutorial-25-finishing-the-bottom-of-the-corset/"
+						<li><a href="#/tutorial-25-finishing-the-bottom-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 25.
 								Finishing the Bottom of the Corset.</a></li>
 						<li><a
@@ -3190,16 +2696,14 @@
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="34"><i class="fa fa-my-menu"></i></a>
 					<a class="second"
-					href="#/tutorial-1-getting-acquainted-with-the-model/">Corset
-						with 3-Part Cups <span>(22)</span>
+					href="#/tutorial-1-getting-acquainted-with-the-model/">Corset with
+						3-Part Cups <span>(22)</span>
 				</a>
 					<ul id="idCorsetPartCups" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-getting-acquainted-with-the-model/"
+						<li><a href="#/tutorial-1-getting-acquainted-with-the-model/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Getting Acquainted with the Model.</a></li>
-						<li><a
-							href="#/tutorial-2-cutting-and-sewing-a-mock-up/"
+						<li><a href="#/tutorial-2-cutting-and-sewing-a-mock-up/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Cutting and Sewing a Mock-up.</a></li>
 						<li><a
@@ -3214,18 +2718,15 @@
 							href="#/tutorial-5-cutting-one-coloured-pieces-and-a-lining-for-chequered-fabric/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Cutting One-Coloured Pieces and a Lining for Chequered Fabric.</a></li>
-						<li><a
-							href="#/tutorial-6-cutting-chequered-pieces-on-the-bias/"
+						<li><a href="#/tutorial-6-cutting-chequered-pieces-on-the-bias/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Cutting Chequered Pieces on the Bias.</a></li>
 						<li><a
 							href="#/tutorial-7-using-the-mock-up-to-change-the-size-of-the-cups/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7. Using
 								the Mock-up to Change the Size of the Cups.</a></li>
-						<li><a
-							href="#/tutorial-8-cutting-the-cups/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
-								Cutting the Cups.</a></li>
+						<li><a href="#/tutorial-8-cutting-the-cups/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 8. Cutting the Cups.</a></li>
 						<li><a
 							href="#/tutorial-9-fusing-the-cups-marking-the-location-of-bones-cutting-the-lacing-bars/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
@@ -3256,8 +2757,7 @@
 							href="#/tutorial-15-quilting-the-cups-with-bones-continued/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
 								Quilting the Cups with Bones (Continued).</a></li>
-						<li><a
-							href="#/tutorial-16-assembling-the-face-of-the-cups/"
+						<li><a href="#/tutorial-16-assembling-the-face-of-the-cups/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
 								Assembling the Face of the Cups.</a></li>
 						<li><a
@@ -3277,8 +2777,7 @@
 							href="#/tutorial-20-finishing-the-bottom-edge-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 20.
 								Finishing the Bottom Edge of the Corset.</a></li>
-						<li><a
-							href="#/tutorial-21-sewing-a-decorative-bow/"
+						<li><a href="#/tutorial-21-sewing-a-decorative-bow/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 21.
 								Sewing a Decorative Bow.</a></li>
 						<li><a
@@ -3293,12 +2792,10 @@
 						with a Fancy Cut-Out <span>(22)</span>
 				</a>
 					<ul id="idCorsetCutOut" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-getting-acquainted-with-the-model-5/"
+						<li><a href="#/tutorial-1-getting-acquainted-with-the-model-5/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Getting Acquainted with the Model.</a></li>
-						<li><a
-							href="#/tutorial-2-cutting-and-sewing-a-mock-up-2/"
+						<li><a href="#/tutorial-2-cutting-and-sewing-a-mock-up-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Cutting and Sewing a Mock-Up.</a></li>
 						<li><a
@@ -3334,8 +2831,7 @@
 							href="#/tutorial-10-sewing-bones-onto-princess-seams-continued/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 10.
 								Sewing Bones onto Princess Seams (Continued).</a></li>
-						<li><a
-							href="#/tutorial-11-finishing-the-top-edge-of-the-corset/"
+						<li><a href="#/tutorial-11-finishing-the-top-edge-of-the-corset/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Finishing the Top Edge of the Corset.</a></li>
 						<li><a
@@ -3386,49 +2882,36 @@
 			</ul></li>
 		<li class="active"><a href="javascript:void(0)" class="nav-sub first"><i
 				class="fa fa-my-menu"></i></a> <a class="second"
-			href="#/categories/#3082">Decoration
-				Techniques <span>(8)</span>
+			href="#/categories/#3082">Decoration Techniques <span>(8)</span>
 		</a>
 			<ul class="list-unstyled">
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="83"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-decoration-materials/">Rhinestones
+					<a class="second" href="#/tutorial-1-decoration-materials/">Rhinestones
 						Decoration <span>(5)</span>
 				</a>
 					<ul id="idRhinestonesDecoration" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-decoration-materials/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Decoration Materials</a></li>
-						<li><a
-							href="#/tutorial-2-sewing-on-rhinestones/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Sewing On Rhinestones.</a></li>
-						<li><a
-							href="#/tutorial-3-preparing-to-apply-rhinestones/"
+						<li><a href="#/tutorial-1-decoration-materials/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Decoration Materials</a></li>
+						<li><a href="#/tutorial-2-sewing-on-rhinestones/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Sewing On Rhinestones.</a></li>
+						<li><a href="#/tutorial-3-preparing-to-apply-rhinestones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Preparing to Apply Rhinestones</a></li>
-						<li><a
-							href="#/tutorial-4-applying-rhinestones/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Applying Rhinestones.</a></li>
-						<li><a
-							href="#/tutorial-5-applying-rhinestones-part-2/"
+						<li><a href="#/tutorial-4-applying-rhinestones/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Applying Rhinestones.</a></li>
+						<li><a href="#/tutorial-5-applying-rhinestones-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Applying Rhinestones. Part 2.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="84"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-glue-on-half-pearls/">Additional
+					<a class="second" href="#/tutorial-1-glue-on-half-pearls/">Additional
 						Decoration <span>(5)</span>
 				</a>
 					<ul id="idAdditionalDecoration" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-glue-on-half-pearls/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Glue-on Half Pearls.</a></li>
+						<li><a href="#/tutorial-1-glue-on-half-pearls/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Glue-on Half Pearls.</a></li>
 						<li><a
 							href="#/tutorial-2-hot-fix-rhinestones-hot-fix-applicator-and-functional-tips/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2. Hot
@@ -3448,85 +2931,62 @@
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="85"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-thick-decoration-element/">Thick
+					<a class="second" href="#/tutorial-1-thick-decoration-element/">Thick
 						Decoration Elements <span>(5)</span>
 				</a>
 					<ul id="idThickDecorationElements" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-thick-decoration-element/"
+						<li><a href="#/tutorial-1-thick-decoration-element/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1. Thick
 								Decoration Element.</a></li>
-						<li><a
-							href="#/tutorial-2-finishing-the-edges/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Finishing the Edges.</a></li>
-						<li><a
-							href="#/tutorial-3-gluing-and-sewing-on-rhinestones/"
+						<li><a href="#/tutorial-2-finishing-the-edges/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Finishing the Edges.</a></li>
+						<li><a href="#/tutorial-3-gluing-and-sewing-on-rhinestones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Gluing and Sewing on Rhinestones.</a></li>
-						<li><a
-							href="#/tutorial-4-embroidery-techniques/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Embroidery Techniques.</a></li>
-						<li><a
-							href="#/tutorial-5-finished-garment/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
-								Finished Garment.</a></li>
+						<li><a href="#/tutorial-4-embroidery-techniques/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Embroidery Techniques.</a></li>
+						<li><a href="#/tutorial-5-finished-garment/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 5. Finished Garment.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="86"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-decoration-materials-2/">Wedding
+					<a class="second" href="#/tutorial-1-decoration-materials-2/">Wedding
 						Dress Decoration <span>(5)</span>
 				</a>
 					<ul id="idWeddingDressDecoration" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-decoration-materials-2/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Decoration Materials.</a></li>
-						<li><a
-							href="#/tutorial-2-step-by-step-embroidery-techniques/"
+						<li><a href="#/tutorial-1-decoration-materials-2/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Decoration Materials.</a></li>
+						<li><a href="#/tutorial-2-step-by-step-embroidery-techniques/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Step-by-Step Embroidery Techniques.</a></li>
-						<li><a
-							href="#/tutorial-3-embroidering-lace-motifs/"
+						<li><a href="#/tutorial-3-embroidering-lace-motifs/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Embroidering Lace Motifs.</a></li>
-						<li><a
-							href="#/tutorial-4-dissolving-the-fusible-interfacing/"
+						<li><a href="#/tutorial-4-dissolving-the-fusible-interfacing/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.&nbsp;
 								Dissolving the Fusible Interfacing.</a></li>
-						<li><a
-							href="#/tutorial-5-sewing-lace-motifs-onto-the-garment/"
+						<li><a href="#/tutorial-5-sewing-lace-motifs-onto-the-garment/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Sewing Lace Motifs onto the Garment.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="87"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-types-of-sequins/">Sequins
+					<a class="second" href="#/tutorial-1-types-of-sequins/">Sequins
 						Decoration <span>(11)</span>
 				</a>
 					<ul id="idSequinsDecoration" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-types-of-sequins/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1. Types
-								of Sequins.</a></li>
-						<li><a
-							href="#/tutorial-2-different-ways-to-sew-sequins-part-1/"
+						<li><a href="#/tutorial-1-types-of-sequins/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Types of Sequins.</a></li>
+						<li><a href="#/tutorial-2-different-ways-to-sew-sequins-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Different Ways to Sew Sequins. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-3-different-ways-to-sew-sequins-part-2/"
+						<li><a href="#/tutorial-3-different-ways-to-sew-sequins-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Different Ways to Sew Sequins. Part 2.</a></li>
-						<li><a
-							href="#/tutorial-4-different-ways-to-sew-sequins-part-3/"
+						<li><a href="#/tutorial-4-different-ways-to-sew-sequins-part-3/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Different Ways to Sew Sequins. Part 3.</a></li>
-						<li><a
-							href="#/tutorial-5-different-ways-to-sew-sequins-part-4/"
+						<li><a href="#/tutorial-5-different-ways-to-sew-sequins-part-4/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 								Different Ways to Sew Sequins. Part 4.</a></li>
 						<li><a
@@ -3538,8 +2998,7 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Embroidering Resilient Lace with Small Sequins and Short Bugle
 								Beads.</a></li>
-						<li><a
-							href="#/embroidering-resilient-lace-with-large-sequins/"
+						<li><a href="#/embroidering-resilient-lace-with-large-sequins/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Embroidering Resilient Lace with Large Sequins.</a></li>
 						<li><a
@@ -3564,20 +3023,16 @@
 						Garment Decoration <span>(5)</span>
 				</a>
 					<ul id="idCasualGarmentDecoration" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-marking-the-borders-of-the-decoration/"
+						<li><a href="#/tutorial-1-marking-the-borders-of-the-decoration/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Marking the Borders of the Decoration.</a></li>
-						<li><a
-							href="#/tutorial-2-various-decoration-options/"
+						<li><a href="#/tutorial-2-various-decoration-options/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Various Decoration Options.</a></li>
-						<li><a
-							href="#/tutorial-3-applying-the-rhinestones-part-1/"
+						<li><a href="#/tutorial-3-applying-the-rhinestones-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Applying the Rhinestones. Part 1.</a></li>
-						<li><a
-							href="#/tutorial-4-applying-the-rhinestones-part-2/"
+						<li><a href="#/tutorial-4-applying-the-rhinestones-part-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Applying the Rhinestones. Part 2.</a></li>
 						<li><a
@@ -3587,27 +3042,21 @@
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="106"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/epaulettes-function-and-materials/">Epaulettes
+					<a class="second" href="#/epaulettes-function-and-materials/">Epaulettes
 						<span>(8)</span>
 				</a>
 					<ul id="idEpaulettesSkirt" class="list-unstyled">
-						<li><a
-							href="#/epaulettes-function-and-materials/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
-								Epaulettes. Function and Materials.</a></li>
+						<li><a href="#/epaulettes-function-and-materials/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 1. Epaulettes. Function
+								and Materials.</a></li>
 						<li><a
 							href="#/tutorial-2-preparing-a-base-for-embroidery-working-with-chains/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 								Preparing a Base for Embroidery. Working with Chains.</a></li>
-						<li><a
-							href="#/tutorial-3-stem-stitch-contour/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3. Stem
-								Stitch Contour.</a></li>
-						<li><a
-							href="#/tutorial-4-sewing-on-rhinestones/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
-								Sewing on Rhinestones.</a></li>
+						<li><a href="#/tutorial-3-stem-stitch-contour/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Stem Stitch Contour.</a></li>
+						<li><a href="#/tutorial-4-sewing-on-rhinestones/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 4. Sewing on Rhinestones.</a></li>
 						<li><a
 							href="#/tutorial-5-beaded-contour-with-alternate-seed-beads/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
@@ -3616,24 +3065,19 @@
 							href="#/tutorial-6-stem-stitches-with-short-bugle-beads-and-the-second-beaded-contour/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6. Stem
 								Stitches with Short Bugle Beads and the Second Beaded Contour.</a></li>
-						<li><a
-							href="#/tutorial-7-filling-in-the-gaps/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
-								Filling In the Gaps.</a></li>
-						<li><a
-							href="#/tutorial-8-adding-decorative-chains/"
+						<li><a href="#/tutorial-7-filling-in-the-gaps/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 7. Filling In the Gaps.</a></li>
+						<li><a href="#/tutorial-8-adding-decorative-chains/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Adding Decorative Chains.</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="127"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tambour-or-luneville-embroidery-part-1/">Tambour
+					<a class="second" href="#/tambour-or-luneville-embroidery-part-1/">Tambour
 						or Luneville Embroidery <span>(5)</span>
 				</a>
 					<ul id="idTambourLuneville" class="list-unstyled">
-						<li><a
-							href="#/tambour-or-luneville-embroidery-part-1/"
+						<li><a href="#/tambour-or-luneville-embroidery-part-1/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Tambour or Luneville Embroidery.</a></li>
 						<li><a href="#/tutorial-2/" class="access"><i
@@ -3645,30 +3089,41 @@
 						<li><a href="#/tutorial-5/" class="access"><i
 								class="fa fa-play-circle"></i>Tutorial 5.</a></li>
 					</ul></li>
+				<li class="active"><a href="javascript:void(0)"
+					class="nav-sub first" data-catid="128"> <i class="fa fa-my-menu"></i></a>
+					<a class="second" href="#/the-button-loop-closure-part-1/"> The
+						Button Loop Closure <span>(2)</span>
+				</a>
+					<ul id="idTheButtonLoopClosure" class="list-unstyled">
+						<li><a
+							href="https://corsetacademy.net/the-button-loop-closure-part-1/"
+							class="access"> <i class="fa fa-play-circle"></i>The Button Loop
+								Closure. Part 1.
+						</a></li>
+						<li><a
+							href="https://corsetacademy.net/the-button-loop-closure-part-2/"
+							class="access"><i class="fa fa-play-circle"></i>The Button Loop
+								Closure. Part 2.</a></li>
+					</ul></li>
 			</ul></li>
 		<li class="active"><a href="javascript:void(0)" class="nav-sub first"><i
 				class="fa fa-my-menu"></i></a> <a class="second"
-			href="#/categories/#4289">Fancy Dresses for
-				Girls <span>(4)</span>
+			href="#/categories/#4289">Fancy Dresses for Girls <span>(4)</span>
 		</a>
 			<ul class="list-unstyled">
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="118"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/childrens-body-proportions/">The
-						Law of Proportions in Children's Wear <span>(3)</span>
+					<a class="second" href="#/childrens-body-proportions/">The Law of
+						Proportions in Children's Wear <span>(3)</span>
 				</a>
 					<ul id="idTheLawProportionsChildren" class="list-unstyled">
-						<li><a
-							href="#/childrens-body-proportions/"
-							class="access"><i class="fa fa-play-circle"></i>Introduction to
-								the Theory. Children's Body Proportions (Girls).</a></li>
-						<li><a
-							href="#/the-law-of-proportions-in-childrens-wear/"
+						<li><a href="#/childrens-body-proportions/" class="access"><i
+								class="fa fa-play-circle"></i>Introduction to the Theory.
+								Children's Body Proportions (Girls).</a></li>
+						<li><a href="#/the-law-of-proportions-in-childrens-wear/"
 							class="access"><i class="fa fa-play-circle"></i>The Law of
 								Proportions in Children's Wear.</a></li>
-						<li><a
-							href="#/some-examples-of-how-the-law-of-proportions-works/"
+						<li><a href="#/some-examples-of-how-the-law-of-proportions-works/"
 							class="access"><i class="fa fa-play-circle"></i>Some Examples of
 								How the Law of Proportions Works.</a></li>
 					</ul></li>
@@ -3683,28 +3138,22 @@
 							href="#/tutorial-1-choosing-a-suitable-style-for-the-childs-body-proportions/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Choosing a Suitable Style for the Child's Body Proportions.</a></li>
-						<li><a
-							href="#/tutorial-2-taking-measurements/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Taking Measurements.</a></li>
+						<li><a href="#/tutorial-2-taking-measurements/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Taking Measurements.</a></li>
 						<li><a
 							href="#/tutorial-3-cutting-the-main-dress-the-skirt-and-the-ruffles/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 								Cutting the Main Dress, the Skirt, and the Ruffles.</a></li>
-						<li><a
-							href="#/tutorial-4-assembling-the-bodice-and-the-skirt/"
+						<li><a href="#/tutorial-4-assembling-the-bodice-and-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 								Assembling the Bodice and the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-5-serging-the-edges/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
-								Serging the Edges.</a></li>
+						<li><a href="#/tutorial-5-serging-the-edges/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 5. Serging the Edges.</a></li>
 						<li><a
 							href="#/tutorial-6-marking-guidelines-sewing-the-ruffles-on-the-skirt/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Marking Guidelines. Sewing the Ruffles on the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-7-sewing-a-waistband-and-a-bow/"
+						<li><a href="#/tutorial-7-sewing-a-waistband-and-a-bow/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Sewing a Waistband and a Bow.</a></li>
 						<li><a
@@ -3718,23 +3167,17 @@
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first" data-catid="119"><i class="fa fa-my-menu"></i></a>
-					<a class="second"
-					href="#/tutorial-1-choosing-a-suitable-dress/">Fancy
+					<a class="second" href="#/tutorial-1-choosing-a-suitable-dress/">Fancy
 						Dress for 6 Years Old Girl <span>(16)</span>
 				</a>
 					<ul id="idFancyDressYearsOldGirl" FancyDress" class="list-unstyled">
-						<li><a
-							href="#/tutorial-1-choosing-a-suitable-dress/"
+						<li><a href="#/tutorial-1-choosing-a-suitable-dress/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Choosing a Suitable Dress.</a></li>
-						<li><a
-							href="#/tutorial-2-taking-measurements-2/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Taking Measurements.</a></li>
-						<li><a
-							href="#/tutorial-3-cutting-the-bodice/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
-								Cutting the Bodice.</a></li>
+						<li><a href="#/tutorial-2-taking-measurements-2/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Taking Measurements.</a></li>
+						<li><a href="#/tutorial-3-cutting-the-bodice/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Cutting the Bodice.</a></li>
 						<li><a
 							href="#/tutorial-4-assembling-the-lining-sewing-bones-onto-the-lining/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
@@ -3752,8 +3195,7 @@
 							href="#/tutorial-7-installing-grommets-sewing-modesty-flaps/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 								Installing Grommets.&nbsp; Sewing Modesty Flaps.</a></li>
-						<li><a
-							href="#/tutorial-8-sewing-the-modesty-flaps-in-place/"
+						<li><a href="#/tutorial-8-sewing-the-modesty-flaps-in-place/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 								Sewing the Modesty Flaps in Place.</a></li>
 						<li><a
@@ -3768,10 +3210,8 @@
 							href="#/tutorial-11-cutting-the-puffed-armlets-adding-the-first-decor/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Cutting the Puffed Armlets.&nbsp; Adding the First Decor.</a></li>
-						<li><a
-							href="#/tutorial-12-sewing-the-armlets/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
-								Sewing the Armlets.</a></li>
+						<li><a href="#/tutorial-12-sewing-the-armlets/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 12. Sewing the Armlets.</a></li>
 						<li><a
 							href="#/tutorial-13-finishing-the-bottom-edge-of-the-bodice-and-the-skirt-with-lace-trimmings/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
@@ -3782,10 +3222,8 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 14.
 								Carrying Out a Fitting.&nbsp; Shortening the Skirt.&nbsp;
 								Cutting Another Lace Ruffle for Finishing the Hem of the Skirt.</a></li>
-						<li><a
-							href="#/tutorial-15-sewing-a-petticoat/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 15.
-								Sewing a Petticoat.</a></li>
+						<li><a href="#/tutorial-15-sewing-a-petticoat/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 15. Sewing a Petticoat.</a></li>
 						<li><a
 							href="#/tutorial-16-decorating-the-dress-with-ribbons-pictures-of-the-finished-garment/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 16.
@@ -3804,14 +3242,10 @@
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 								Choosing a Suitable Style with Respect to the Child's Body
 								Proportions.</a></li>
-						<li><a
-							href="#/tutorial-2-taking-measurements-3/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
-								Taking Measurements.</a></li>
-						<li><a
-							href="#/tutorial-3-cutting-the-dress/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
-								Cutting the Dress.</a></li>
+						<li><a href="#/tutorial-2-taking-measurements-3/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 2. Taking Measurements.</a></li>
+						<li><a href="#/tutorial-3-cutting-the-dress/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 3. Cutting the Dress.</a></li>
 						<li><a
 							href="#/tutorial-4-duplicating-the-pieces-marking-the-position-of-bones/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
@@ -3824,10 +3258,8 @@
 							href="#/tutorial-6-installing-a-zipper-preparing-the-lacing-area/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 								Installing a Zipper.&nbsp; Preparing the Lacing Area.</a></li>
-						<li><a
-							href="#/tutorial-7-draping-the-cups/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
-								Draping the Cups.</a></li>
+						<li><a href="#/tutorial-7-draping-the-cups/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 7. Draping the Cups.</a></li>
 						<li><a
 							href="#/tutorial-8-sewing-down-the-side-seams-of-the-dress-2/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
@@ -3844,10 +3276,9 @@
 							href="#/tutorial-11-sewing-the-chiffon-skirt-to-the-bodice/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 11.
 								Sewing the Chiffon Skirt to the Bodice.</a></li>
-						<li><a
-							href="#/tutorial-12-draping-the-waistband/"
-							class="access"><i class="fa fa-play-circle"></i>Tutorial 12.
-								Draping the Waistband.</a></li>
+						<li><a href="#/tutorial-12-draping-the-waistband/" class="access"><i
+								class="fa fa-play-circle"></i>Tutorial 12. Draping the
+								Waistband.</a></li>
 						<li><a
 							href="#/tutorial-13-finishing-the-lacing-area-installing-grommets/"
 							class="access"><i class="fa fa-play-circle"></i>Tutorial 13.
