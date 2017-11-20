@@ -6,7 +6,7 @@
 
 								<div class="navigation">
 										
-					<div class="next"><a href="https://corsetacademy.net/measurements-required-for-making-a-dress-form/" rel="next">Next tutorial <i class="fa fa-chevron-right"></i></a></div>					<div class="clearfix"></div>
+					<div class="next"><a href="#/measurements-required-for-making-a-dress-form/" rel="next">Next tutorial <i class="fa fa-chevron-right"></i></a></div>					<div class="clearfix"></div>
 				</div>
 				
 			</div><div class="content-data">

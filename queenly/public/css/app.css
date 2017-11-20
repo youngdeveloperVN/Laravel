@@ -25,6 +25,15 @@ li {
     
 }
 
+#lesson-content #category .corset .img {
+    float: left;
+    width: 120px;
+    display: block;
+    min-height: 165px;
+    position: relative;
+}
+
+
 /*MENU**/
 
 a.site-logo {
@@ -302,21 +311,7 @@ video {
     text-align: right;
     float: right;
 }
-
-#lesson-content .video-screen .navigation .next, #lesson-content .video-screen .navigation .previous {
-    display: block;
-    width: 50%;
-    float: left;
-    padding: 10px 10px 5px;
-}
-
-#lesson-content .video-screen .navigation .next, #lesson-content .video-screen .navigation .previous {
-    display: block;
-    width: 50%;
-    float: left;
-    padding: 10px 10px 5px;
-}
-
+	
 #amazingcarousel-container * {
     position: relative;
     padding: 0;

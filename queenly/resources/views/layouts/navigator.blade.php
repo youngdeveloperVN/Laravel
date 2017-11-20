@@ -13,15 +13,15 @@
                     <ul class="site-nav">
 
                         <li class="hidden">
-											<a data-toggle="modal" href="https://localhost/categories/#feedback">LEAVE FEEDBACK</a>
+											<a data-toggle="modal" href="#categories/#feedback">LEAVE FEEDBACK</a>
 										</li><li class="">
-											<a href="https://localhost/price/">PRICING</a>
+											<a href="#/price/">PRICING</a>
 										</li><li class="">
-											<a href="https://localhost/corset-pattern-alterations-calculation/">Pattern Alteration</a>
+											<a href="#/corset-pattern-alterations-calculation/">Pattern Alteration</a>
 										</li><li class="">
-											<a href="https://localhost/category/blog/success-stories/">Success Stories</a>
+											<a href="#/category/blog/success-stories/">Success Stories</a>
 										</li><li class="">
-											<a href="https://localhost/">Shop</a>
+											<a href="#/">Shop</a>
 										</li>                    </ul>
                     <!-- END Main Menu -->
                 </nav>

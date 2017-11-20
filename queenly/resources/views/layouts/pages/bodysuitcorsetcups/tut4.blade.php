@@ -10,12 +10,12 @@
 
 		<div class="previous">
 			<a
-				href="https://corsetacademy.net/tutorial-3-fusing-the-cups-marking-the-location-of-bones/"
+				href="#/tutorial-3-fusing-the-cups-marking-the-location-of-bones/"
 				rel="prev"><i class="fa fa-chevron-left"></i> Previous tutorial</a>
 		</div>
 		<div class="next">
 			<a
-				href="https://corsetacademy.net/tutorial-5-quilting-the-cups-with-bones/"
+				href="#/tutorial-5-quilting-the-cups-with-bones/"
 				rel="next">Next tutorial <i class="fa fa-chevron-right"></i></a>
 		</div>
 		<div class="clearfix"></div>
@@ -32,391 +32,391 @@
 			<ul id="courses" class="list-unstyled courses-menu">
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#4126">Premium
+					class="second" href="#/categories/#4126">Premium
 						Dresses <span>(1)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="109"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/introduction_premium/">Premium
+							href="#/introduction_premium/">Premium
 								Dress <span>(54)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#1375">Wedding
+					class="second" href="#/categories/#1375">Wedding
 						gowns <span>(10)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="36"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-2/">Dress
+							href="#/tutorial-1-getting-acquainted-with-the-model-2/">Dress
 								with Whole-Piece Train <span>(34)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="46"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/how-to-make-wedding-dress/">Crew-Neck
+							href="#/how-to-make-wedding-dress/">Crew-Neck
 								Dress with Full Skirt <span>(25)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="49"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/gown-with-the-bare-skin-effect/">Gown
+							href="#/gown-with-the-bare-skin-effect/">Gown
 								with Bare-Skin Effect <span>(31)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="50"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/introduction-gown/">Gown with
+							href="#/introduction-gown/">Gown with
 								Bare-Skin Effect II <span>(22)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="67"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-3/">Open-Back
+							href="#/tutorial-1-getting-acquainted-with-the-model-3/">Open-Back
 								Dress with a Bodysuit Base <span>(23)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="72"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-4/">Open-Back
+							href="#/tutorial-1-getting-acquainted-with-the-model-4/">Open-Back
 								Dress with a Bodice Base <span>(22)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="96"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/wedding-dress-without-side-seams-foreword/">Wedding
+							href="#/wedding-dress-without-side-seams-foreword/">Wedding
 								Dress Without Side Seams <span>(29)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="97"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/wedding-dress-with-shoulder-straps-and-set-in-sleeves-foreword/">Wedding
+							href="#/wedding-dress-with-shoulder-straps-and-set-in-sleeves-foreword/">Wedding
 								Dress with Sleeves <span>(33)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="121"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/classic-wedding-dress/">Wedding
+							href="#/classic-wedding-dress/">Wedding
 								Dress with Lace Straps and Full Skirt <span>(42)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="122"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/sewing-crop-top-wedding-gown/">Crop
+							href="#/sewing-crop-top-wedding-gown/">Crop
 								Top Wedding Gown <span>(43)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#5057">Wedding
+					class="second" href="#/categories/#5057">Wedding
 						Skirts <span>(3)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="124"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/why-an-elastic-waistband-skirt/">Princess
+							href="#/why-an-elastic-waistband-skirt/">Princess
 								Wedding Skirt <span>(13)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="125"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/why-a-mermaidfishtail-skirt/">Ruffle
+							href="#/why-a-mermaidfishtail-skirt/">Ruffle
 								Fish Tail Wedding Skirt <span>(22)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="126"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/why-a-petite-skirt/">Mermaid
+							href="#/why-a-petite-skirt/">Mermaid
 								Wedding Skirt <span>(26)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#3343">Leather
+					class="second" href="#/categories/#3343">Leather
 						Corsets <span>(2)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="93"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/sewing-steampunk-corset/">Steampunk
+							href="#/sewing-steampunk-corset/">Steampunk
 								Corset <span>(27)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="94"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/black-leather-corset-foreword/">Leather
+							href="#/black-leather-corset-foreword/">Leather
 								Corset <span>(22)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#2294">Plus
+					class="second" href="#/categories/#2294">Plus
 						Sizes <span>(3)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="73"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-review-of-materials/">Plus-Size
+							href="#/tutorial-1-getting-acquainted-with-the-model-review-of-materials/">Plus-Size
 								Dress with Hidden Lacing <span>(24)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="78"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/plus-size-dress-strap/">Plus-Size
+							href="#/plus-size-dress-strap/">Plus-Size
 								Dress with a Strap <span>(31)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="79"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-6/">Corset-Dress
+							href="#/tutorial-1-getting-acquainted-with-the-model-6/">Corset-Dress
 								with Sleeves <span>(28)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#624">Where
+					class="second" href="#/categories/#624">Where
 						to begin? <span>(7)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="20"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/01-cutting-fabric-the-right-way/">ABC
+							href="#/01-cutting-fabric-the-right-way/">ABC
 								of Corset-making <span>(8)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="21"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/corset-sewing-pattern-how-to-create-and-adjust/">Must
+							href="#/corset-sewing-pattern-how-to-create-and-adjust/">Must
 								Know <span>(7)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="22"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-cutting-attaching-lining-and-bones/">Corset
+							href="#/tutorial-1-cutting-attaching-lining-and-bones/">Corset
 								in Just 1 Day <span>(4)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="23"><i class="fa fa-my-menu"></i></a> <a
-							class="second" href="https://corsetacademy.net/push-up-pads/">Tips
+							class="second" href="#/push-up-pads/">Tips
 								and Tricks <span>(6)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="33"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/opaque-corsets-review/">Sewing
+							href="#/opaque-corsets-review/">Sewing
 								Techniques Reviews <span>(5)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="80"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-cocktail-dress/">Cocktail
+							href="#/tutorial-1-cocktail-dress/">Cocktail
 								Dress <span>(25)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="104"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/transparent-corset-in-3-hours/">Transparent
+							href="#/transparent-corset-in-3-hours/">Transparent
 								Corset in 3 Hours <span>(1)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#638">Opaque
+					class="second" href="#/categories/#638">Opaque
 						corsets <span>(5)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="6"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-measuring-and-altering-patterns/">Corset
+							href="#/tutorial-1-measuring-and-altering-patterns/">Corset
 								in a Simplified Technique <span>(10)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="17"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-cutting-preparations-neckline-alteration-on-a-ready-pattern/">Corset
+							href="#/tutorial-1-cutting-preparations-neckline-alteration-on-a-ready-pattern/">Corset
 								with Quilted Cups <span>(14)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="18"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-pattern-calculation-before-cutting/">Dress
+							href="#/tutorial-1-pattern-calculation-before-cutting/">Dress
 								with Separately Cut Cups <span>(15)</span>
 						</a></li>
 						<li class="active"><a href="javascript:void(0)"
 							class="nav-sub first" data-catid="19"><i class="fa fa-my-menu"></i></a>
 							<a class="second"
-							href="https://corsetacademy.net/tutorial-1-introductory-tutorial/">Bodysuit
+							href="#/tutorial-1-introductory-tutorial/">Bodysuit
 								with Corset Cups <span>(9)</span>
 						</a>
 						<ul class="list-unstyled">
 								<li><a
-									href="https://corsetacademy.net/tutorial-1-introductory-tutorial/"
+									href="#/tutorial-1-introductory-tutorial/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 1.
 										Introductory Tutorial.</a></li>
 								<li><a
-									href="https://corsetacademy.net/tutorial-2-cutting-a-bodysuit/"
+									href="#/tutorial-2-cutting-a-bodysuit/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 2.
 										Cutting a Bodysuit.</a></li>
 								<li><a
-									href="https://corsetacademy.net/tutorial-3-fusing-the-cups-marking-the-location-of-bones/"
+									href="#/tutorial-3-fusing-the-cups-marking-the-location-of-bones/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 3.
 										Fusing the Cups. Marking the Location of Bones.</a></li>
 								<li class="active"><a
-									href="https://corsetacademy.net/tutorial-4-sewing-together-the-cup-pieces/"
+									href="#/tutorial-4-sewing-together-the-cup-pieces/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 4.
 										Sewing Together the Cup Pieces.</a></li>
 								<li><a
-									href="https://corsetacademy.net/tutorial-5-quilting-the-cups-with-bones/"
+									href="#/tutorial-5-quilting-the-cups-with-bones/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 5.
 										Quilting the Cups with Bones.</a></li>
 								<li><a
-									href="https://corsetacademy.net/tutorial-6-finishing-the-lining-of-the-cups-joining-it-with-the-body-front/"
+									href="#/tutorial-6-finishing-the-lining-of-the-cups-joining-it-with-the-body-front/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 6.
 										Finishing the Lining of the Cups. Joining it with the Body
 										Front.</a></li>
 								<li><a
-									href="https://corsetacademy.net/tutorial-7-sewing-the-back-of-the-bodysuit-concealed-zipper/"
+									href="#/tutorial-7-sewing-the-back-of-the-bodysuit-concealed-zipper/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 7.
 										Sewing the Back of the Bodysuit. Concealed zipper.</a></li>
 								<li><a
-									href="https://corsetacademy.net/tutorial-8-covering-the-cups-with-the-lace-front/"
+									href="#/tutorial-8-covering-the-cups-with-the-lace-front/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 8.
 										Covering the Cups with the Lace Front.</a></li>
 								<li><a
-									href="https://corsetacademy.net/tutorial-9-finishing-the-bodysuit/"
+									href="#/tutorial-9-finishing-the-bodysuit/"
 									class="access"><i class="fa fa-play-circle"></i>Tutorial 9.
 										Finishing the Bodysuit.</a></li>
 							</ul></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="24"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-measurement/">Party
+							href="#/tutorial-1-measurement/">Party
 								Dress <span>(17)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#544">Transparent
+					class="second" href="#/categories/#544">Transparent
 						corsets <span>(4)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="25"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-cutting-a-mock-up/">Corset
+							href="#/tutorial-1-getting-acquainted-with-the-model-cutting-a-mock-up/">Corset
 								with Drapery <span>(20)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="26"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-and-the-throw-over-sewing-technique/">Corset
+							href="#/tutorial-1-getting-acquainted-with-the-model-and-the-throw-over-sewing-technique/">Corset
 								with Integral Straps <span>(27)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="34"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model/">Corset
+							href="#/tutorial-1-getting-acquainted-with-the-model/">Corset
 								with 3-Part Cups <span>(22)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="76"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-5/">Corset
+							href="#/tutorial-1-getting-acquainted-with-the-model-5/">Corset
 								with a Fancy Cut-Out <span>(22)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#3082">Decoration
+					class="second" href="#/categories/#3082">Decoration
 						Techniques <span>(8)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="83"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-decoration-materials/">Rhinestones
+							href="#/tutorial-1-decoration-materials/">Rhinestones
 								Decoration <span>(5)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="84"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-glue-on-half-pearls/">Additional
+							href="#/tutorial-1-glue-on-half-pearls/">Additional
 								Decoration <span>(5)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="85"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-thick-decoration-element/">Thick
+							href="#/tutorial-1-thick-decoration-element/">Thick
 								Decoration Elements <span>(5)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="86"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-decoration-materials-2/">Wedding
+							href="#/tutorial-1-decoration-materials-2/">Wedding
 								Dress Decoration <span>(5)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="87"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-types-of-sequins/">Sequins
+							href="#/tutorial-1-types-of-sequins/">Sequins
 								Decoration <span>(11)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="105"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-marking-the-borders-of-the-decoration/">Casual
+							href="#/tutorial-1-marking-the-borders-of-the-decoration/">Casual
 								Garment Decoration <span>(5)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="106"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/epaulettes-function-and-materials/">Epaulettes
+							href="#/epaulettes-function-and-materials/">Epaulettes
 								<span>(8)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="127"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tambour-or-luneville-embroidery-part-1/">Tambour
+							href="#/tambour-or-luneville-embroidery-part-1/">Tambour
 								or Luneville Embroidery <span>(5)</span>
 						</a></li>
 					</ul></li>
 				<li class="active"><a href="javascript:void(0)"
 					class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a
-					class="second" href="https://corsetacademy.net/categories/#4289">Fancy
+					class="second" href="#/categories/#4289">Fancy
 						Dresses for Girls <span>(4)</span>
 				</a>
 				<ul class="list-unstyled">
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="118"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/childrens-body-proportions/">The
+							href="#/childrens-body-proportions/">The
 								Law of Proportions in Children's Wear <span>(3)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="117"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-style-for-the-childs-body-proportions/">Fancy
+							href="#/tutorial-1-choosing-a-suitable-style-for-the-childs-body-proportions/">Fancy
 								Dress for 3 Years Old Girl <span>(9)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="119"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-dress/">Fancy
+							href="#/tutorial-1-choosing-a-suitable-dress/">Fancy
 								Dress for 6 Years Old Girl <span>(16)</span>
 						</a></li>
 						<li><a href="javascript:void(0)" class="nav-sub first blank"
 							data-catid="120"><i class="fa fa-my-menu"></i></a> <a
 							class="second"
-							href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-style-with-respect-to-the-childs-body-proportions/">Fancy
+							href="#/tutorial-1-choosing-a-suitable-style-with-respect-to-the-childs-body-proportions/">Fancy
 								Dress for 9 Years Old Girl <span>(14)</span>
 						</a></li>
 					</ul></li>
@@ -489,7 +489,7 @@
 																alt="">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -507,7 +507,7 @@
 																alt="">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -525,7 +525,7 @@
 																alt="" style="left: -16px;">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -543,7 +543,7 @@
 																alt="" style="left: -4px;">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -561,7 +561,7 @@
 																alt="" style="left: -20.5px;">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -581,7 +581,7 @@
 ">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -600,7 +600,7 @@
 																alt="">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -618,7 +618,7 @@
 																alt="">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -636,7 +636,7 @@
 																alt="" style="left: -16px;">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -654,7 +654,7 @@
 																alt="" style="left: -4px;">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -672,7 +672,7 @@
 																alt="" style="left: -20.5px;">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -692,7 +692,7 @@
 ">
 															</a>
 															<div class="amazingcarousel-hover-effect"
-																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
+																style="display: none; position: absolute; left: 0; top: 0; width: 100%; height: 100%; cursor: pointer; background-image: url('#/wp-content/themes/corset-rs/img/slider/skins/hoveroverlay-64-64-6.png'); background-repeat: no-repeat; background-position: center center;"></div>
 														</div>
 														<div class="amazingcarousel-title"></div>
 													</div>
@@ -702,9 +702,9 @@
 										</div>
 									</div>
 									<div class="amazingcarousel-prev"
-										style="overflow: hidden; position: absolute; cursor: pointer; width: 32px; height: 32px; background: url(&quot;https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/arrows-32-32-1.png&quot;) left top no-repeat; display: block;"></div>
+										style="overflow: hidden; position: absolute; cursor: pointer; width: 32px; height: 32px; background: url(&quot;#/wp-content/themes/corset-rs/img/slider/skins/arrows-32-32-1.png&quot;) left top no-repeat; display: block;"></div>
 									<div class="amazingcarousel-next"
-										style="overflow: hidden; position: absolute; cursor: pointer; width: 32px; height: 32px; background: url(&quot;https://corsetacademy.net/wp-content/themes/corset-rs/img/slider/skins/arrows-32-32-1.png&quot;) right top no-repeat; display: block;"></div>
+										style="overflow: hidden; position: absolute; cursor: pointer; width: 32px; height: 32px; background: url(&quot;#/wp-content/themes/corset-rs/img/slider/skins/arrows-32-32-1.png&quot;) right top no-repeat; display: block;"></div>
 								</div>
 							</div>
 						</div>
@@ -767,16 +767,16 @@
 							<meta itemprop="name" content="Corset Academy logo">
 							<meta itemprop="text" content="Corset Academy logo">
 							<meta itemprop="url"
-								content="https://corsetacademy.net/wp-content/themes/corset/img/logo.png">
+								content="#/wp-content/themes/corset/img/logo.png">
 							<meta itemprop="contentUrl"
-								content="https://corsetacademy.net/wp-content/themes/corset/img/logo.png">
+								content="#/wp-content/themes/corset/img/logo.png">
 							<meta itemprop="width" content="303">
 							<meta itemprop="height" content="49">
 							<meta itemprop="encodingFormat" content="image/png">
 					</span> <!-- Scope END: ImageObject -->
-						<meta itemprop="url" content="https://corsetacademy.net/">
+						<meta itemprop="url" content="#/">
 						<meta itemprop="sameAs"
-							content="https://www.facebook.com/corsetacademy">
+							content="#">
 					</span>
 					<!-- Scope END: Organization -->
 					<!-- Scope BEGIN: Person -->
@@ -793,13 +793,13 @@
 							<meta itemprop="height" content="128">
 					</span> <!-- Scope END: ImageObject -->
 						<meta itemprop="url"
-							content="https://corsetacademy.net/author/admin/">
+							content="#/author/admin/">
 					</span>
 					<!-- Scope END: Person -->
 					<meta itemprop="url"
-						content="https://corsetacademy.net/tutorial-4-sewing-together-the-cup-pieces/">
+						content="#/tutorial-4-sewing-together-the-cup-pieces/">
 					<meta itemprop="mainEntityOfPage"
-						content="https://corsetacademy.net/tutorial-4-sewing-together-the-cup-pieces/">
+						content="#/tutorial-4-sewing-together-the-cup-pieces/">
 					<meta itemprop="datePublished" content="2015-03-20T14:23:19+00:00">
 					<meta itemprop="dateModified" content="2015-05-21T13:23:37+00:00">
 					<meta itemprop="copyrightYear" content="2015">
@@ -817,9 +817,9 @@
 					<span itemprop="image" itemscope=""
 						itemtype="http://schema.org/ImageObject">
 						<meta itemprop="url"
-							content="https://corsetacademy.net/wp-content/themes/corset/img/logo.png">
+							content="#/wp-content/themes/corset/img/logo.png">
 						<meta itemprop="contentUrl"
-							content="https://corsetacademy.net/wp-content/themes/corset/img/logo.png">
+							content="#/wp-content/themes/corset/img/logo.png">
 						<meta itemprop="width" content="303">
 						<meta itemprop="height" content="49">
 						<meta itemprop="encodingFormat" content="image/png">
@@ -1027,7 +1027,7 @@
 				<a
 					href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/4.%20Bodysuit%20with%20corset%20cups.zip"
 					target="_blank" class=""><img
-					src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png">
+					src="#/wp-content/themes/corset-rs/img/pdf.png">
 					Bodysuit with Corset Cups</a><br>
 			</div>
 
@@ -1089,7 +1089,7 @@
 								<div class="pull-left">
 									<div class="input">No file selected</div>
 								</div> <input type="file" id="fileupload" name="files[]"
-								data-url="https://corsetacademy.net/diploma/upload/">
+								data-url="#/diploma/upload/">
 							</label>
 							<div id="progress" class="progress" style="display: none;">
 								<div
@@ -1123,7 +1123,7 @@
 
 
 					<a
-						href="https://corsetacademy.net/wp-content/themes/corset-rs/img/diploma_example.png"
+						href="#/wp-content/themes/corset-rs/img/diploma_example.png"
 						class="wplightbox" title="Diploma Example">
 						<div id="diploma_example"></div>
 					</a>

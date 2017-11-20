@@ -88,6 +88,7 @@ refreshTabNav= function(){
 activeURLCurrent = function(){
 	//remove all active
 	var current = location.pathname;
+	var totalTut = 0;
 	//console.log(current+ ' is active');
 	$('#courses a.access').each(function(){
         // if the current path is like this link, make it active
@@ -98,8 +99,10 @@ activeURLCurrent = function(){
         	$(this).parents('li').addClass('active');
         	console.log(current+ ' is active');
         	console.log($(this).parent().html() + ' is active');
+        	totalTut = $(this).parent().parent().children().length;
         }
-    })
+    });
+	return totalTut;
 }
 
 //reset
@@ -122,10 +125,47 @@ roleShow = function(){
 	$('ul#courses li.active>ul').css("display", "block");
 }
 
+navigatorTut = function(){
+	
+	var totalTut = activeURLCurrent();
+	
+	var current = location.pathname;
+	var tutNumberCurrent = parseInt(current.replace ( /[^\d.]/g, '' ));
+	
+	var nextTut = current.replace(tutNumberCurrent,(tutNumberCurrent + 1));
+	var previousTut = current.replace(tutNumberCurrent,(tutNumberCurrent - 1));
+	
+	console.log('Total Tut : '+ totalTut);
+	console.log('Current Tut : '+ tutNumberCurrent);
+	console.log('Path Next Tut : '+ nextTut);
+	console.log('Path Previous Tut : '+ previousTut);
+	
+	//add url
+	$('div.next>a').first().attr('href', nextTut);
+	$('div.previous>a').first().attr('href', previousTut);
+	
+	//show hide
+	if (tutNumberCurrent === 1) {
+		//show next, hide prevrious
+		$('div.next').css('display', 'block');
+		$('div.previous').css('display', 'none');
+	} else if (tutNumberCurrent === totalTut) {
+		//show next, hide prevrious
+		$('div.next').css('display', 'none');
+		$('div.previous').css('display', 'block');
+	} else if (tutNumberCurrent === totalTut) {
+		//show next, hide prevrious
+		$('div.next').css('display', 'block');
+		$('div.previous').css('display', 'block');
+	}
+	
+}
+
 $(document).ready(function() {
 	addIdToUl();
 	resetActive();
 	roleShow();
-	activeURLCurrent();
+	navigatorTut();
 	refreshTabNav();
+	
 });
