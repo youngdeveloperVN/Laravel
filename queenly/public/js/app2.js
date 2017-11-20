@@ -138,7 +138,7 @@ navigatorTut = function(){
 	console.log('Total Tut : '+ totalTut);
 	console.log('Current Tut : '+ tutNumberCurrent);
 	console.log('Path Next Tut : '+ nextTut);
-	console.log('Path Previous Tut : '+ previousTut);
+	console.log('Path Previous Tut : '+ previousTut);s
 	
 	//add url
 	$('div.next>a').first().attr('href', nextTut);
