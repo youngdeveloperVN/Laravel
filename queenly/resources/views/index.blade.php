@@ -43,7 +43,7 @@
 							
 							<div id="lesson-content" class="col-md-8">
 								@yield('content')
-								
+								@include('layouts.listcontentmobile')
 							</div>
 						</div>
 					</div>
