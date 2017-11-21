@@ -27,12 +27,12 @@ addIdToUl = function() {
 		if ($(selectorId)) {
 			var itemList = $(selectorId).find('a');
 			
-			generateMethodControler(getMethodController(entry));
+			//generateMethodControler(getMethodController(entry));
 			var total = itemList.length;
 			
 			var folders = getMethodController(entry);
 			
-			arrayCategories = arrayCategories + generateCategory(folders, total);
+			//arrayCategories = arrayCategories + generateCategory(folders, total);
 			for (var i = 0; i < itemList.length; i++) {
 				var item  = itemList.get(i);
 				var hrefNew = '/' + entry.toLowerCase().replace('id', '') + '/' + 'tut' + (i + 1); 
@@ -46,8 +46,8 @@ addIdToUl = function() {
 		$(selectorId).attr('id', folders);
 	});
 	
-	var codePHP = '$categories = array('+ arrayCategories +');';
-	console.log('Generate Code PHP : ' + codePHP);
+	//var codePHP = '$categories = array('+ arrayCategories +');';
+	//console.log('Generate Code PHP : ' + codePHP);
 }
 
 getMethodController = function(entry){
@@ -82,7 +82,7 @@ refreshTabNav= function(){
 	$(listLiOfTab[3]).css('display', 'none');
 	$(listLiOfTab[4]).css('display', 'none');
 	//console.log(listLiOfTab.length);
-	console.log($(listLiOfTab[3]).text() + ' ' + $(listLiOfTab[4]).text() + ' is display none');
+	//console.log($(listLiOfTab[3]).text() + ' ' + $(listLiOfTab[4]).text() + ' is display none');
 }
 
 activeURLCurrent = function(){
@@ -97,8 +97,8 @@ activeURLCurrent = function(){
         	$(this).parent().css("display", "block");
         	$(this).parent().parent('ul').css("display", "block");
         	$(this).parents('li').addClass('active');
-        	console.log(current+ ' is active');
-        	console.log($(this).parent().html() + ' is active');
+        	//console.log(current+ ' is active');
+        	//console.log($(this).parent().html() + ' is active');
         	totalTut = $(this).parent().parent().children().length;
         }
     });
@@ -161,11 +161,22 @@ navigatorTut = function(){
 	
 }
 
+setupURLCategory = function (){
+	//
+	var listlI = $('#courses > li>ul>li');
+	console.log('Size : '+ listlI.length);
+	var childHref = $(this).parent().find('ul').find('li').first().find('a').attr('href');
+	console.log('Children href : '+ childHref);
+	$(this).attr('href', childHref);
+}
+
+
 $(document).ready(function() {
 	addIdToUl();
 	resetActive();
 	roleShow();
 	navigatorTut();
 	refreshTabNav();
+	setupURLCategory();
 	
 });

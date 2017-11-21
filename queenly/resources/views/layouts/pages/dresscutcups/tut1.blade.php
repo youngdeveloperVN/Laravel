@@ -13,23 +13,7 @@
 			
 				
 			
-			<div id="list-content-mobile" class="hidden-md hidden-lg">
-			<div id="list-content">
-			
-<ul id="courses" class="list-unstyled courses-menu"><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#4126">Premium Dresses  <span>(1)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="109"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/introduction_premium/">Premium Dress <span>(54)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#1375">Wedding gowns  <span>(10)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="36"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-2/">Dress with Whole-Piece Train <span>(34)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="46"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/how-to-make-wedding-dress/">Crew-Neck Dress with Full Skirt <span>(25)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="49"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/gown-with-the-bare-skin-effect/">Gown with Bare-Skin Effect <span>(31)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="50"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/introduction-gown/">Gown with Bare-Skin Effect II <span>(22)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="67"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-3/">Open-Back Dress with a Bodysuit Base <span>(23)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="72"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-4/">Open-Back Dress with a Bodice Base <span>(22)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="96"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/wedding-dress-without-side-seams-foreword/">Wedding Dress Without Side Seams <span>(29)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="97"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/wedding-dress-with-shoulder-straps-and-set-in-sleeves-foreword/">Wedding Dress with Sleeves <span>(33)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="121"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/classic-wedding-dress/">Wedding Dress with Lace Straps and Full Skirt <span>(42)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="122"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/sewing-crop-top-wedding-gown/">Crop Top Wedding Gown <span>(43)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#5057">Wedding Skirts  <span>(3)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="124"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/why-an-elastic-waistband-skirt/">Princess Wedding Skirt <span>(13)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="125"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/why-a-mermaidfishtail-skirt/">Ruffle Fish Tail Wedding Skirt <span>(22)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="126"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/why-a-petite-skirt/">Mermaid Wedding Skirt <span>(26)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#3343">Leather Corsets  <span>(2)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="93"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/sewing-steampunk-corset/">Steampunk Corset <span>(27)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="94"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/black-leather-corset-foreword/">Leather Corset <span>(22)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#2294">Plus Sizes  <span>(3)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="73"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-review-of-materials/">Plus-Size Dress with Hidden Lacing <span>(24)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="78"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/plus-size-dress-strap/">Plus-Size Dress with a Strap <span>(31)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="79"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-6/">Corset-Dress with Sleeves <span>(28)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#624">Where to begin?  <span>(7)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="20"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/01-cutting-fabric-the-right-way/">ABC of Corset-making <span>(8)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="21"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/corset-sewing-pattern-how-to-create-and-adjust/">Must Know <span>(7)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="22"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-cutting-attaching-lining-and-bones/">Corset in Just 1 Day <span>(4)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="23"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/push-up-pads/">Tips and Tricks <span>(6)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="33"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/opaque-corsets-review/">Sewing Techniques Reviews <span>(5)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="80"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-cocktail-dress/">Cocktail Dress <span>(25)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="104"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/transparent-corset-in-3-hours/">Transparent Corset in 3 Hours <span>(1)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#638">Opaque corsets  <span>(5)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="6"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-measuring-and-altering-patterns/">Corset in a Simplified Technique <span>(10)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="17"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-cutting-preparations-neckline-alteration-on-a-ready-pattern/">Corset with Quilted Cups <span>(14)</span></a></li><li class="active"><a href="javascript:void(0)" class="nav-sub first" data-catid="18"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-pattern-calculation-before-cutting/">Dress with Separately Cut Cups <span>(15)</span></a><ul class="list-unstyled"><li class="active"><a href="https://corsetacademy.net/tutorial-1-pattern-calculation-before-cutting/" class="access"><i class="fa fa-play-circle"></i>Tutorial 1. Pattern Calculation before Cutting</a></li><li><a href="https://corsetacademy.net/tutorial-2-pattern-calculation-before-cutting-continued/" class="access"><i class="fa fa-play-circle"></i>Tutorial 2. Pattern Calculation before Cutting (Continued).</a></li><li><a href="https://corsetacademy.net/tutorial-3-cutting-the-cups/" class="access"><i class="fa fa-play-circle"></i>Tutorial 3. Cutting the Cups.</a></li><li><a href="https://corsetacademy.net/tutorial-4-dress-cutting-main-fabric-and-lace/" class="access"><i class="fa fa-play-circle"></i>Tutorial 4.  Dress Cutting: Main Fabric and Lace.</a></li><li><a href="https://corsetacademy.net/tutorial-5-marking-the-location-of-cup-bones-removing-beads-off-seam-allowances-on-the-lace/" class="access"><i class="fa fa-play-circle"></i>Tutorial 5. Marking the Location of Cup Bones. Removing Beads off Seam Allowances on the Lace.</a></li><li><a href="https://corsetacademy.net/tutorial-6-joining-the-lining-of-the-cups-pressing-sewing-on-perimeter-bones/" class="access"><i class="fa fa-play-circle"></i>Tutorial 6.  Joining the Lining of the Cups. Pressing. Sewing-on Perimeter Bones.</a></li><li><a href="https://corsetacademy.net/tutorial-7-sewing-on-inner-cup-bones/" class="access"><i class="fa fa-play-circle"></i>Tutorial 7.  Sewing-on Inner Cup Bones.</a></li><li><a href="https://corsetacademy.net/tutorial-8-sewing-together-the-face-of-the-cups/" class="access"><i class="fa fa-play-circle"></i>Tutorial 8.  Sewing Together the Face of the Cups.</a></li><li><a href="https://corsetacademy.net/tutorial-9-joining-the-cups-and-the-dress/" class="access"><i class="fa fa-play-circle"></i>Tutorial 9.  Joining the Cups and the Dress.</a></li><li><a href="https://corsetacademy.net/tutorial-10-pressing-the-top-of-the-cups-sewing-on-the-face/" class="access"><i class="fa fa-play-circle"></i>Tutorial 10. Pressing the Top of the Cups. Sewing-on the Face.</a></li><li><a href="https://corsetacademy.net/tutorial-11-preparing-the-dress-for-a-fit-test-alterations-after-the-fit-test/" class="access"><i class="fa fa-play-circle"></i>Tutorial 11. Preparing the Dress for a Fit Test. Alterations after the Fit Test.</a></li><li><a href="https://corsetacademy.net/tutorial-12-joining-the-lace-pieces-sewing-a-zipper-onto-the-back/" class="access"><i class="fa fa-play-circle"></i>Tutorial 12. Joining the Lace Pieces. Sewing a Zipper onto the Back.</a></li><li><a href="https://corsetacademy.net/tutorial-13-hanging-loops-for-the-lacing/" class="access"><i class="fa fa-play-circle"></i>Tutorial 13. Hanging Loops for the Lacing.</a></li><li><a href="https://corsetacademy.net/tutorial-14-joining-the-side-seams-hemming-the-bottom-of-the-dress/" class="access"><i class="fa fa-play-circle"></i>Tutorial 14. Joining the Side Seams. Hemming the Bottom of the Dress.</a></li><li><a href="https://corsetacademy.net/tutorial-15-decoration/" class="access"><i class="fa fa-play-circle"></i>Tutorial 15.  Decoration.</a></li></ul></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="19"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-introductory-tutorial/">Bodysuit with Corset Cups <span>(9)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="24"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-measurement/">Party Dress <span>(17)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#544">Transparent corsets  <span>(4)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="25"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-cutting-a-mock-up/">Corset with Drapery <span>(20)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="26"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-and-the-throw-over-sewing-technique/">Corset with Integral Straps <span>(27)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="34"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model/">Corset with 3-Part Cups <span>(22)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="76"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-getting-acquainted-with-the-model-5/">Corset with a Fancy Cut-Out <span>(22)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#3082">Decoration Techniques  <span>(9)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="83"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-decoration-materials/">Rhinestones Decoration <span>(5)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="84"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-glue-on-half-pearls/">Additional Decoration <span>(5)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="85"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-thick-decoration-element/">Thick Decoration Elements <span>(5)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="86"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-decoration-materials-2/">Wedding Dress Decoration <span>(5)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="87"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-types-of-sequins/">Sequins Decoration <span>(11)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="105"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-marking-the-borders-of-the-decoration/">Casual Garment Decoration <span>(5)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="106"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/epaulettes-function-and-materials/">Epaulettes <span>(8)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="127"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tambour-or-luneville-embroidery-part-1/">Tambour or Luneville Embroidery <span>(5)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="128"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/the-button-loop-closure-part-1/">The Button Loop Closure <span>(2)</span></a></li></ul></li><li class="active">
-					<a href="javascript:void(0)" class="nav-sub first"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/categories/#4289">Fancy Dresses for Girls  <span>(4)</span></a><ul class="list-unstyled"><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="118"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/childrens-body-proportions/">The Law of Proportions in Children's Wear <span>(3)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="117"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-style-for-the-childs-body-proportions/">Fancy Dress for 3 Years Old Girl <span>(9)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="119"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-dress/">Fancy Dress for 6 Years Old Girl <span>(16)</span></a></li><li><a href="javascript:void(0)" class="nav-sub first blank" data-catid="120"><i class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/tutorial-1-choosing-a-suitable-style-with-respect-to-the-childs-body-proportions/">Fancy Dress for 9 Years Old Girl <span>(14)</span></a></li></ul></li>		</ul></div></div>
-			
-						
-				<div class="lesson-tab" role="tabpanel">
+			<div class="lesson-tab" role="tabpanel">
 
 				  <!-- Nav tabs -->
 				  <ul class="nav nav-tabs" role="tablist">
@@ -202,7 +186,7 @@
 <p><strong>Skills you gain:</strong></p>
 <ul>
 <li>Cutting and sewing quilted cups and connecting it to a soft dress;</li>
-<li>Altering standard pattern to any size using a unique formula for calculating the side seam (Tatiana Kozorovitsky’s formula);</li>
+<li>Altering standard pattern to any size using a unique formula for calculating the side seam (Tatiana Kozorovitskyï¿½s formula);</li>
 <li>Constructing hard lacing on floating loops;</li>
 <li>Decorating the garment with lace, beads and sequins.</li>
 </ul>
@@ -294,7 +278,7 @@
 <p>1. Central piece of the front with a bend.</p>
 <p>2. Two side pieces of the front.</p>
 <p>3. Two back pieces with a laced-up centre. </p>
-<p><strong>Note:</strong>  I do not recommend using a side zip on such dresses. It is quite hard to make a neat side zip because of the thickness and roughness of the side cut. Besides, a fastener like this won’t be able to hold the dress up and straps will also be necessary. For these reasons I would highly recommend you using a zip or - much better - a lacing fastener going along the centre of the back. In this case straps can just be a decorative element because they won’t be functionally required in a design like this. </p>
+<p><strong>Note:</strong>  I do not recommend using a side zip on such dresses. It is quite hard to make a neat side zip because of the thickness and roughness of the side cut. Besides, a fastener like this wonï¿½t be able to hold the dress up and straps will also be necessary. For these reasons I would highly recommend you using a zip or - much better - a lacing fastener going along the centre of the back. In this case straps can just be a decorative element because they wonï¿½t be functionally required in a design like this. </p>
 <p><strong>Dress:</strong></p>
 <p>4. Front part piece with a bend. I use and offer you a pattern that needs no waistline notch here and will however fit the client perfectly even if you use no-stretch fabric. </p>
 <p>5. Two back pieces with waistline notches.</p>
@@ -304,18 +288,18 @@
 <p>And as usual I start working by taking measurements and calculating the pattern.</p>
 <p>I take measurements off my client (Kate) basically the same way I did it for the corsets.</p>
 <p>You will need the following measurements:</p>
-<p>- «bust middle» - distance between the protruding points of the bust;</p>
-<p>- «bust front» - central bust line at the front;</p>
-<p> - «under-bust front» - under-bust line at the front measured from side to side; </p>
-<p> - «bust circumference» - full circumference of the bust-line (BC);</p>
-<p> - «under-bust circumference» - full circumference of the under-bust line (UBC);</p>
-<p> - «waistline» - full circumference of the waistline (WC):</p>
+<p>- ï¿½bust middleï¿½ - distance between the protruding points of the bust;</p>
+<p>- ï¿½bust frontï¿½ - central bust line at the front;</p>
+<p> - ï¿½under-bust frontï¿½ - under-bust line at the front measured from side to side; </p>
+<p> - ï¿½bust circumferenceï¿½ - full circumference of the bust-line (BC);</p>
+<p> - ï¿½under-bust circumferenceï¿½ - full circumference of the under-bust line (UBC);</p>
+<p> - ï¿½waistlineï¿½ - full circumference of the waistline (WC):</p>
 <p>I take the WC measurement without pulling the measuring tape. There is no tummy-control effect meant in this dress and that is why the waistline circumference is measured with the measuring tape in a free state.</p>
-<p> - «stomach» - full circumference of the stomach line (S): </p>
+<p> - ï¿½stomachï¿½ - full circumference of the stomach line (S): </p>
 <p>It is necessary to mark <strong>the distance between the waistline and this measurement</strong>. <strong>In my particular case the distance from the waistline is 4.7 inches. </strong></p>
-<p> - «hip circumference» - full circumference along the hip line (HC);</p>
-<p>- «clip» - explained in detail in the free tutorials;</p>
-<p>- «side length» - length between the waistline and the upper point of the dress along its side seam.</p>
+<p> - ï¿½hip circumferenceï¿½ - full circumference along the hip line (HC);</p>
+<p>- ï¿½clipï¿½ - explained in detail in the free tutorials;</p>
+<p>- ï¿½side lengthï¿½ - length between the waistline and the upper point of the dress along its side seam.</p>
 <p><strong>I write all taken measurements into the table (column 2):</strong></p>
 <p></p>
 <div class="table-responsive">
@@ -508,15 +492,15 @@
 <p></p>
 <h4>Re-calculation of a Standard Pattern.</h4>
 <p></p>
-<p><strong>I start re-calculating my standard pattern after Kate’s individual measurements. </strong>All calculations are carried out the same way as they were for the corset. </p>
-<p>The first measurement under comparison is <strong>the “bust middle" measurement.</strong> </p>
-<p>You won’t have to make any alterations if the measurements of the pattern coincide with those of your client. In this case the whole column 4 of the table should be left out. </p>
-<p>However in my case Kate’s measurement is 7.1 inches corresponding to the value of 7.9 inches on the pattern which means this pattern does have to be changed along the middle, along the crease line. </p>
+<p><strong>I start re-calculating my standard pattern after Kateï¿½s individual measurements. </strong>All calculations are carried out the same way as they were for the corset. </p>
+<p>The first measurement under comparison is <strong>the ï¿½bust middle" measurement.</strong> </p>
+<p>You wonï¿½t have to make any alterations if the measurements of the pattern coincide with those of your client. In this case the whole column 4 of the table should be left out. </p>
+<p>However in my case Kateï¿½s measurement is 7.1 inches corresponding to the value of 7.9 inches on the pattern which means this pattern does have to be changed along the middle, along the crease line. </p>
 <p> Let me calculate:</p>
 <p>7.1" - 7.9" = -0.8"</p>
 <p>However this value should be divided into 2 sides - the right and the left one. </p>
 <p>Therefore: </p>
-<p>- 0.8" ÷ 2 = -0.4"</p>
+<p>- 0.8" ï¿½ 2 = -0.4"</p>
 <p>I write this value of -0.4 inches down into the table (column 4, line 10).</p>
 <div class="table-responsive">
 <table class="table table-bordered table-striped">
@@ -610,22 +594,22 @@
 </tr>
 </tbody></table>
 </div>
-<p>The “bust middle" measurement of the pattern is bigger than Kate’s. It means that I need to remove 0.4 inches (the value is negative) from the standard pattern to adjust it after Kate’s measurements. </p>
+<p>The ï¿½bust middle" measurement of the pattern is bigger than Kateï¿½s. It means that I need to remove 0.4 inches (the value is negative) from the standard pattern to adjust it after Kateï¿½s measurements. </p>
 <p>And therefore the crease of the fabric is going to lie 0.4 inches inwards to the central front piece of the pattern. </p>
-<p>When I start constructing a pattern after Kate’s measurements the standard pattern should go beyond the boundaries of the fabric crease by 0.4 inches. </p>
+<p>When I start constructing a pattern after Kateï¿½s measurements the standard pattern should go beyond the boundaries of the fabric crease by 0.4 inches. </p>
 <p>Since I have shifted the pattern by 0.4 inches, the 0.8 inch value (0.4 inches from each side of the pattern) is going to be removed from all circumferences of the corset: bust, under-bust, waistline and stomach. </p>
 <p>I am going to write the -0.4 inch value in all lines of column 4 in order to keep this in mind. </p>
 <p><strong>Let me remind you that the value is -0.4 inches for each side of the pattern.</strong></p>
 <p><strong>Now I want to determine where the front side seam will be. </strong></p>
-<p><strong>There are two measurements determining the location of the side seam: “bust front" and “under-bust front". </strong></p>
+<p><strong>There are two measurements determining the location of the side seam: ï¿½bust front" and ï¿½under-bust front". </strong></p>
 <p><strong>Bust front:</strong></p>
-<p>It is 19.3 inches on the pattern and 18.1 inches according to Kate’s measurements. </p>
+<p>It is 19.3 inches on the pattern and 18.1 inches according to Kateï¿½s measurements. </p>
 <p>It is clear that the side seam is going to shift. </p>
 <p>Let us calculate this shift. </p>
-<p>I have already adjusted down all circumferences by 0.8 inches when calculating the “bust middle" measurement and shifted the pattern by 0.4 inches against the fabric crease. </p>
+<p>I have already adjusted down all circumferences by 0.8 inches when calculating the ï¿½bust middle" measurement and shifted the pattern by 0.4 inches against the fabric crease. </p>
 <p>And therefore:</p>
 <p>19.3" - 0.8" = 18.5"</p>
-<p>(18.1" - 18.5") ÷ 2 = - 0.2"</p>
+<p>(18.1" - 18.5") ï¿½ 2 = - 0.2"</p>
 <p>So the side seam along the bust-line is going to be adjusted down by 0.2 inches. </p>
 <p>I write this value into the table (column 5, line 2). </p>
 <p><strong>Under-bust front:</strong></p>
@@ -633,7 +617,7 @@
 <p>It is 15.7 inches on the pattern and 14.6 inches on Kate. </p>
 <p>I calculate it the same way keeping in mind that the bust middle has been reduced by 0.8 inches. </p>
 <p>15.7" - 0.8" = 15"</p>
-<p>(14.6" - 15") ÷ 2 = -0.2"</p>
+<p>(14.6" - 15") ï¿½ 2 = -0.2"</p>
 <p>I add this value into the table (column 5, line 3). </p>
 <p>It is now perfectly clear that the side seam is shifted by 0.2 inches. </p>
 <p>However I am going to adjust down the whole pattern by 0.2 inches to keep the beautiful side shape of the corset, this lovely curve, thereby reducing all circumferences (bust, under-bust, waistline, stomach) by 0.4 inches. </p>
@@ -734,53 +718,53 @@
 <p><strong> </strong></p>
 <p><strong>Clip measurement.</strong></p>
 <p><strong>To the scye:</strong></p>
-<p>Since there are 4.2 inches on the pattern corresponding to 3.5 inches of the client’s measurement then I do the following: </p>
+<p>Since there are 4.2 inches on the pattern corresponding to 3.5 inches of the clientï¿½s measurement then I do the following: </p>
 <p>3.5" - 4.2" = <strong>-0.7"</strong></p>
 <p><strong>Upward:</strong></p>
-<p>Since there are 3.5 inches on the pattern corresponding to 2 inches of the client’s measurement then I do the following: </p>
+<p>Since there are 3.5 inches on the pattern corresponding to 2 inches of the clientï¿½s measurement then I do the following: </p>
 <p>2" - 3.5" = <strong>-1.6"</strong></p>
 <p><strong>To the neckline:</strong></p>
-<p>Since there are 2.9 inches on the pattern corresponding to 2.4 inches of the client’s measurement then I do the following:</p>
+<p>Since there are 2.9 inches on the pattern corresponding to 2.4 inches of the clientï¿½s measurement then I do the following:</p>
 <p>2.4"- 2.9"= <strong>-0.5"</strong></p>
 <p>I write these values down into the table (column 5, line 9).</p>
 <p><strong>Side length:</strong></p>
-<p>It is 7.9 inches on the pattern corresponding to 7.5 inches according to Kate’s measurements which means the side length should be reduced along the scye by: </p>
+<p>It is 7.9 inches on the pattern corresponding to 7.5 inches according to Kateï¿½s measurements which means the side length should be reduced along the scye by: </p>
 <p>7.5" - 7.9" = <strong>-0.4"</strong></p>
 <p>This value is also recorded into the table (column 5, line 11).</p>
 <p><strong>I start calculating alterations of the side seam of the back.</strong></p>
-<p>There are naturally no more “bust front" or “under-bust front" measurements now. </p>
+<p>There are naturally no more ï¿½bust front" or ï¿½under-bust front" measurements now. </p>
 <p>Our next measurement is <strong>"bust circumference"</strong>. </p>
-<p>It is 36.6 inches on the pattern and 33.5 inches according to Kate’s measurements. </p>
+<p>It is 36.6 inches on the pattern and 33.5 inches according to Kateï¿½s measurements. </p>
 <p>I have already taken into account the alteration along the middle of the bust-line (-0.4") and the front side seam (-0.2"). </p>
 <p>This value makes up 1.2 inches for two pattern halves. </p>
 <p>Thus:</p>
 <p>36.6" - 1.2" = 35.4"</p>
-<p>(33.5" - 35.4") ÷ 2 = <strong>-1"</strong></p>
+<p>(33.5" - 35.4") ï¿½ 2 = <strong>-1"</strong></p>
 <p>The value is added to the table (column 6, line 4).</p>
 <p><strong> Under-bust circumference. </strong></p>
 <p>It is 33.1 inches on the pattern and 29.1 inches for Kate. </p>
 <p>It is calculated the same way:</p>
 <p>33.1" - 1.6" = 31.9"</p>
-<p>(29.1" - 31.9") ÷ 2 = <strong>-1.4"</strong></p>
+<p>(29.1" - 31.9") ï¿½ 2 = <strong>-1.4"</strong></p>
 <p>I write down this value in the table (column 6, line 5). </p>
-<p>I don’t think over these values for now, I just calculate and record them.</p>
+<p>I donï¿½t think over these values for now, I just calculate and record them.</p>
 <p><strong>Waistline.</strong> </p>
-<p>It is 30.3 inches on the pattern and Kate’s measurement makes  28 inches. </p>
+<p>It is 30.3 inches on the pattern and Kateï¿½s measurement makes  28 inches. </p>
 <p>Let us calculate:</p>
 <p>30.3" - 1.2" = 29.1"</p>
-<p>(28" - 29.1") ÷ 2 = <strong>-0.6"</strong></p>
+<p>(28" - 29.1") ï¿½ 2 = <strong>-0.6"</strong></p>
 <p>I add the value to the table (column 6, line 6).</p>
 <p><strong>Stomach measurement at a 4.7 inch distance above the waistline.</strong> </p>
 <p>It is 37.4 inches on the pattern and 35.8 inches on Kate. </p>
 <p>I calculate it:</p>
 <p>37.4" - 1.2" = 36.2"</p>
-<p>(35.8" - 36.2") ÷ 2 = <strong>-0.2"</strong></p>
+<p>(35.8" - 36.2") ï¿½ 2 = <strong>-0.2"</strong></p>
 <p>This value is then added to the table (column 6, line 7).  </p>
 <p><strong>Hip circumference:</strong></p>
-<p>It is 39.4 inches on the pattern and 37.8 inches according to Kate’s measurements.</p>
+<p>It is 39.4 inches on the pattern and 37.8 inches according to Kateï¿½s measurements.</p>
 <p>Let us calculate:</p>
 <p>39.4"- 1.2" = 38.2"</p>
-<p>(37.8" - 38.2") ÷ 2 = <strong>-0.2"</strong></p>
+<p>(37.8" - 38.2") ï¿½ 2 = <strong>-0.2"</strong></p>
 <p>I write down this value in the table (column 6, line 8).</p>
 <div class="table-responsive">
 <table class="table table-bordered table-striped">
@@ -877,23 +861,23 @@
 <p><strong>As a result there is a slight dispersion of values.</strong></p>
 <p><strong>If I were dealing with a corset</strong> I would first of all change the side seam at the front. Then I would choose an optimal value (for example -0.6 inches), mark it along the side seam of the back, calculate the difference between the chosen value and the existing one and re-distribute it between the back curve and the medium curve of the front that divides the side part in half (in a corset consisting of 4 front curves). </p>
 <p><strong>There is no back curve on my dress. </strong></p>
-<p>Of course there is a notch here but it’s rather risky and problematic to use it the same way I used the back curve of the corset. The pattern of the back is not cut along the curve. <strong>Those who have already dealt with fitting a dress along the back know that this notch should by no means be altered! </strong></p>
+<p>Of course there is a notch here but itï¿½s rather risky and problematic to use it the same way I used the back curve of the corset. The pattern of the back is not cut along the curve. <strong>Those who have already dealt with fitting a dress along the back know that this notch should by no means be altered! </strong></p>
 <p><strong>So there is only one single way to solve this issue and that is using a side seam!</strong></p>
-<p>I have figured out mathematically that the location of the side seam on the bust and under the bust is determined by the “bust front" and “under-bust front" measurements. I have calculated that I need to remove 0.2 inches from the bust and from under the bust. This will be enough to balance out my dress correctly and put the side seam in place. But making a beautiful side seam below the under-bust level won’t be possible anymore. I can still evenly remove 0.2 inches along the side seam at the front but it won’t work well at the back: I need to remove 1 inch from the bust area, 1.4 inches from under the bust, 0.6 inches from the waistline and 0.2 inches from the stomach and hips. </p>
+<p>I have figured out mathematically that the location of the side seam on the bust and under the bust is determined by the ï¿½bust front" and ï¿½under-bust front" measurements. I have calculated that I need to remove 0.2 inches from the bust and from under the bust. This will be enough to balance out my dress correctly and put the side seam in place. But making a beautiful side seam below the under-bust level wonï¿½t be possible anymore. I can still evenly remove 0.2 inches along the side seam at the front but it wonï¿½t work well at the back: I need to remove 1 inch from the bust area, 1.4 inches from under the bust, 0.6 inches from the waistline and 0.2 inches from the stomach and hips. </p>
 <p>Please take a look at how the side seam of the back would look in this case:</p>
 <p>
 <img src="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/Corset%203/transcript/Tutorial%201_files/image004.jpg" class="img-responsive center-block"></p>
 <p>Of course this seam is not so scary in terms of beauty! It follows its original outline more or less correctly. But its configuration is totally different from that of the side seam at the front. It is incredibly difficult to join pieces of such a garment together! First, there is no guarantee that the garment will fit the body correctly, and second, unwelcome creases around and about are unavoidable. </p>
 <h3> </h3>
-<h4>Side Adjustment Formula (Tatyana Kozorovitsky’s Formula).</h4>
+<h4>Side Adjustment Formula (Tatyana Kozorovitskyï¿½s Formula).</h4>
 <p></p>
 <p><strong>So now my task is to re-shape the side keeping it perfectly identical both at the front and at the back! </strong></p>
 <p>Those who don't get along so well with mathematics can choose their own method of value selection. I used to pick values from the table (columns 5 and 6), re-calculate them a few times and select average values. And then I would even out the shape of the sides on the pattern, on fabric, making them identical. </p>
 <p>However I quickly got tired of this amateurish approach! </p>
 <p><strong>I pondered the issue, noticed a common pattern and managed to make a formula for myself - a universal formula of side adjustment. </strong></p>
-<p>I haven’t seen this calculation in any manuals before and therefore I dare claim it is my own formula.</p>
+<p>I havenï¿½t seen this calculation in any manuals before and therefore I dare claim it is my own formula.</p>
 <p></p>
-<p><strong>The essence of Tatyana Kozorovitsky’s Formula is very simple if you think it over attentively. </strong></p>
+<p><strong>The essence of Tatyana Kozorovitskyï¿½s Formula is very simple if you think it over attentively. </strong></p>
 <p></p>
 <div class="table-responsive">
 <table class="table table-bordered table-striped">
@@ -929,7 +913,7 @@
 <p><strong>2. The difference between them should equal the difference between a and b pattern gain values from the line above in the calculation table. </strong>
 
 
-</p><p><strong>In other words I have written a system of 2 equations where “a, b, c, d, e" are existing values from the calculation table while “x" and “y" need to be determined. </strong></p>
+</p><p><strong>In other words I have written a system of 2 equations where ï¿½a, b, c, d, e" are existing values from the calculation table while ï¿½x" and ï¿½y" need to be determined. </strong></p>
 <p>If it seems somewhat vague and complicated to you now, I promise you: it is going to be crystal clear in the next tutorial. </p>
 
 </div> <!-- Itemprop END: articleBody -->
@@ -942,7 +926,7 @@
 					
 					<div role="tabpanel" class="tab-pane" id="pattern">
 						<p>There is a ZIP archive with&nbsp;corset sewing patterns in PDF format.</p>
-<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in “combination" file.</p>
+<p>To print sewing patterns open the files, press "print" and choose "print in actual size". Then connect the part the way it shown in ï¿½combination" file.</p>
 <a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/3.%20Dress%20with%20separately%20cut%20cups.zip" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> Dress with Separately Cut Cups</a><br><a href="https://corsetacademy.s3.amazonaws.com/Opaque%20corsets/patterns/Corset%203%20%28dress%29/tables-dress.pdf" target="_blank" class=""><img src="https://corsetacademy.net/wp-content/themes/corset-rs/img/pdf.png"> 
 
 Sewing&nbsp;pattern calculation table for 10 different sizes</a><br>						

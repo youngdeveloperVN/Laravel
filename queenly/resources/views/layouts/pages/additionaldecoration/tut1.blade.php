@@ -103,7 +103,8 @@
 							<meta itemprop="encodingFormat" content="image/png">
 					</span> <!-- Scope END: ImageObject -->
 						<meta itemprop="url" content="#/">
-						<meta itemprop="sameAs" content="#">
+						<meta itemprop="sameAs"
+							content="#">
 					</span>
 					<!-- Scope END: Organization -->
 					<!-- Scope BEGIN: Person -->
@@ -120,11 +121,13 @@
 							<meta itemprop="height" content="128">
 							<meta itemprop="encodingFormat" content="image/jpeg">
 					</span> <!-- Scope END: ImageObject -->
-						<meta itemprop="url" content="#/author/infocorsetacademy-net/">
+						<meta itemprop="url"
+							content="#/author/infocorsetacademy-net/">
 						<meta itemprop="sameAs" content="http://www.corsetacademy.net">
 					</span>
 					<!-- Scope END: Person -->
-					<meta itemprop="url" content="#/tutorial-1-glue-on-half-pearls/">
+					<meta itemprop="url"
+						content="#/tutorial-1-glue-on-half-pearls/">
 					<meta itemprop="mainEntityOfPage"
 						content="#/tutorial-1-glue-on-half-pearls/">
 					<meta itemprop="datePublished" content="2016-04-28T06:59:31+00:00">
@@ -358,13 +361,28 @@
 							<i class="fa fa-spinner fa-spin"></i>
 						</h3>
 					</form>
+
+
+
 					<h4 id="statusAnswer" class="text-center"></h4>
+
+
+
+
+
 					<div class="clearfix"></div>
+
 					<h3 class="get-pro text-center">The example of the diploma:</h3>
-					<a href="#/wp-content/themes/corset-rs/img/diploma_example.png"
+
+
+
+					<a
+						href="#/wp-content/themes/corset-rs/img/diploma_example.png"
 						class="wplightbox" title="Diploma Example">
 						<div id="diploma_example"></div>
 					</a>
+
+
 				</div>
 			</div>
 
@@ -381,4 +399,13 @@
 
 
 </div>
+
+
+
+
+
+
+
+
+
 @endsection
