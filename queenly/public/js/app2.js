@@ -104,37 +104,12 @@ activeURLCurrent = function(){
     });
 	return totalTut;
 }
-
-//reset
-resetActive = function(){
-	$('ul#courses>li>ul>li').removeClass('active');
-	//change icon
-	$('li>a.nav-sub').click(function(){
-		var parent = $(this).parent();
-		if (!$(parent).hasClass('active')) {
-			$(parent).addClass('active');
-		} else{
-			$(parent).removeClass('active');
-		}
-		roleShow();
-	});
-}
-
-roleShow = function(){
-	$('ul#courses>li>ul>li>ul').css("display", "none");
-	$('ul#courses li.active>ul').css("display", "block");
-}
-
 navigatorTut = function(){
-	
 	var totalTut = activeURLCurrent();
-	
 	var current = location.pathname;
 	var tutNumberCurrent = parseInt(current.replace ( /[^\d.]/g, '' ));
-	
 	var nextTut = current.replace(tutNumberCurrent,(tutNumberCurrent + 1));
 	var previousTut = current.replace(tutNumberCurrent,(tutNumberCurrent - 1));
-	
 	console.log('Total Tut : '+ totalTut);
 	console.log('Current Tut : '+ tutNumberCurrent);
 	console.log('Path Next Tut : '+ nextTut);
@@ -161,22 +136,31 @@ navigatorTut = function(){
 	
 }
 
-setupURLCategory = function (){
-	//
-	var listlI = $('#courses > li>ul>li');
-	console.log('Size : '+ listlI.length);
-	var childHref = $(this).parent().find('ul').find('li').first().find('a').attr('href');
-	console.log('Children href : '+ childHref);
-	$(this).attr('href', childHref);
+roleShow = function(){
+	$('#courses li > ul').css('display', 'none');
+	$('#courses li.active>ul').css('display', 'block');
 }
 
+roleActive = function(){
+	$('#courses>li').addClass('active');
+	$('#courses>li>ul>li').removeClass('active');
+	$('li>a.nav-sub, li>a.second').click(function(){
+		var parent = $(this).parent();
+		if (!$(parent).hasClass('active')) {
+			$(parent).addClass('active');
+		} else{
+			$(parent).removeClass('active');
+			$(parent).find('ul li.active').removeClass('active');
+			console.log($(parent).find('ul li.active').length);
+		}
+		roleShow();
+	});
+}
 
 $(document).ready(function() {
 	addIdToUl();
-	resetActive();
-	roleShow();
 	navigatorTut();
 	refreshTabNav();
-	setupURLCategory();
-	
+	roleActive();
+	roleShow();
 });
