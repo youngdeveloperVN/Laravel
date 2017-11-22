@@ -93,7 +93,6 @@ activeURLCurrent = function(){
 	$('#courses a.access').each(function(){
         // if the current path is like this link, make it active
         if($(this).attr('href') === current){
-        	//
         	$(this).parent().css("display", "block");
         	$(this).parent().parent('ul').css("display", "block");
         	$(this).parents('li').addClass('active');
@@ -142,7 +141,7 @@ roleShow = function(){
 }
 
 roleActive = function(){
-	$('#courses>li').addClass('active');
+	//$('#courses>li').addClass('active');
 	$('#courses>li>ul>li').removeClass('active');
 	$('li>a.nav-sub, li>a.second').click(function(){
 		var parent = $(this).parent();
@@ -151,16 +150,17 @@ roleActive = function(){
 		} else{
 			$(parent).removeClass('active');
 			$(parent).find('ul li.active').removeClass('active');
-			console.log($(parent).find('ul li.active').length);
+			//console.log($(parent).find('ul li.active').length);
 		}
 		roleShow();
 	});
 }
-
+	
 $(document).ready(function() {
 	addIdToUl();
 	navigatorTut();
 	refreshTabNav();
 	roleActive();
 	roleShow();
+	activeURLCurrent();
 });
