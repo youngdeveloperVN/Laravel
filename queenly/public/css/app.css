@@ -321,6 +321,18 @@ video {
     outline: 0;
 }
 
+
+strong {
+    font-weight: 600;
+}
+
+.dark-get-started p {
+    margin: 0;
+    line-height: 24px;
+    font-size: 19px;
+    padding: 6px 0 8px;
+}
+
 #lesson-content .video-screen .navigation .next a, #lesson-content .video-screen .navigation .previous a {
     color: #999;
     text-decoration: none;
@@ -340,5 +352,6 @@ video {
 .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
     float: left;
 }
+
 
 
