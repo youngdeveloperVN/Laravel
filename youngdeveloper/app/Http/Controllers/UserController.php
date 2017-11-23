@@ -21,10 +21,12 @@ class UserController extends Controller {
 	public function store(Request $request) {
 		$allRequest = $request->all();
 		$name = $allRequest['name'];
+		$username = $allRequest['username'];
 		$email = $allRequest['email'];
 		
 		$dataInsertToDatabase = array(
 				'name' => $name,
+				'username' => $username,
 				'email' => $email
 		);
 		
@@ -45,11 +47,13 @@ class UserController extends Controller {
 		
 		$idUser = $allRequest['id'];
 		$name = $allRequest['name'];
+		$username = $allRequest['username'];
 		$email = $allRequest['email'];
 		
 		$objUser = new User();
 		$getUserById = $objUser->find($idUser);
 		$getUserById->name = $name;
+		$getUserById->username = $username;
 		$getUserById->email = $email;
 		$getUserById->save();
 		
