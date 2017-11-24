@@ -1,8 +1,8 @@
 
 <div id="list-content-mobile" class="hidden-md hidden-lg">
-	<div id="list-content">
+	<div id="content_mobile">
 
-		<ul id="courses" class="list-unstyled courses-menu">
+		<ul id="courses" class="list-unstyled courses-menu courses_mobile">
 			<li class="active"><a href="javascript:void(0)" class="nav-sub first"><i
 					class="fa fa-my-menu"></i></a> <a class="second"
 				href="#/categories/#4126">Premium Dresses <span>(1)</span>

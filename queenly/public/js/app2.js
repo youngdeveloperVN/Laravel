@@ -46,6 +46,10 @@ addIdToUl = function() {
 		$(selectorId).attr('id', folders);
 	});
 	
+	//trans html from Desktpop to Mobile list
+	var htmlExpected = $('#list-content').html();
+	$('#content_mobile').html(htmlExpected);
+	
 	//var codePHP = '$categories = array('+ arrayCategories +');';
 	//console.log('Generate Code PHP : ' + codePHP);
 }
