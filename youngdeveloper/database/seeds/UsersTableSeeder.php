@@ -27,7 +27,13 @@ class UsersTableSeeder extends Seeder {
 				'sautatca@nttdata.com' 
 		);
 		
-		for($x = 1; $x <= 3; $x ++) {
+		$username = array (
+				'huypn',
+				'ngochuy',
+				'sautatca'
+		);
+		
+		for($x = 2; $x <= 4; $x ++) {
 			$itemname = array_rand ( $name );
 			$itememail = array_rand ( $email );
 			$itemrole = array_rand ( $role );
@@ -35,11 +41,24 @@ class UsersTableSeeder extends Seeder {
 			DB::table ( 'users' )->insert ( [ 
 					'id' => $x,
 					'name' => $name [$itemname],
-					'email' => $email [$x-1],
+					'username' =>  $username [$x-2],
+					'email' => $email [$x-2],
 					'role' => $role [$itemrole],
-					'password' => bcrypt ( 'secret' ),
+					'password' => bcrypt ( 'abc@123' ),
 					'created_at' => Carbon::now () 
 			] );
 		}
+		
+		//Hash::make('hesnotmydad'),
+		DB::table ( 'users' )->insert ([
+				'id' => 1,
+				'name' => 'admin',
+				'username' => 'admin',
+				'email' => 'admin@youngcoder.net',
+				'role' => 'admin',
+				'password' => bcrypt ( 'admin' ),
+				'created_at' => Carbon::now ()
+		]);
+		
 	}
 }

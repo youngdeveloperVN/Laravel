@@ -56,6 +56,7 @@
 						<small>@yield('path')</small>
 					</h1>
 					@yield('content')
+					@yield('pagination')
 				</div>
 				@include('layouts.sidebar')
 			</div>

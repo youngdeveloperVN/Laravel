@@ -17,6 +17,10 @@ Route::get('user/{id}/posts', 'UserController@getPostsByUserID');
 Route::get('user/{name}/posts', 'UserController@getPostsByUserID');
 Route::get('category/{name}', 'CategoryController@getPostsByCategoryName');
 
+//comment
+Route::get('comment/create', 'CommentController@create');
+Route::post('comment/create', 'CommentController@store');
+
 Route::get('/category', 'CategoryController@index');
 Route::get('/user', 'UserController@index');
 
@@ -24,29 +28,31 @@ Auth::routes();
 // FOR AUTH
 Route::get('/home', 'HomeController@index');
 
-// FOR ADMIN
-Route::get('/admin', function () {
-	return view('admin.dashboard');
+//  Route Middleware
+Route::group(['prefix' => 'admin','middleware' => 'admin'],function()
+{
+	Route::get('/', function(){
+		return view('admin.dashboard');		
+	});
+	Route::get('/posts', 'PostController@index');
+	Route::get('/post/create', 'PostController@create');
+	Route::post('/post/create', 'PostController@store');
+	Route::get('/post/{id}/edit', 'PostController@edit');
+	Route::post('/post/update', 'PostController@update');
+	Route::get('/post/{id}/delete', 'PostController@destroy');
+	
+	// FOR CATEGORY
+	Route::get('/category', 'CategoryController@index');
+	Route::get('/category/create', 'CategoryController@create');
+	Route::post('/category/create', 'CategoryController@store');
+	Route::get('/category/{id}/edit', 'CategoryController@edit');
+	Route::post('/category/update', 'CategoryController@update');
+	Route::get('/category/{id}/delete', 'CategoryController@destroy');
+	
+	// FOR USER
+	Route::get('/users', 'UserController@index');
+	Route::get('/user/create', 'UserController@create');
+	Route::get('/user/{id}/edit', 'UserController@edit');
+	Route::post('/user/update', 'UserController@update');
+	Route::get('/user/{id}/delete', 'UserController@destroy');
 });
-
-// FOR POST
-Route::get('/admin/post/create', 'PostController@create');
-Route::post('/admin/post/create', 'PostController@store');
-Route::get('/admin/post/{id}/edit', 'PostController@edit');
-Route::post('/admin/post/update', 'PostController@update');
-Route::get('/admin/post/{id}/delete', 'PostController@destroy');
-
-// FOR CATEGORY
-Route::get('/admin/category', 'CategoryController@index');
-Route::get('/admin/category/create', 'CategoryController@create');
-Route::post('/admin/category/create', 'CategoryController@store');
-Route::get('/admin/category/{id}/edit', 'CategoryController@edit');
-Route::post('/admin/category/update', 'CategoryController@update');
-Route::get('/admin/category/{id}/delete', 'CategoryController@destroy');
-
-// FOR USER
-Route::get('/admin/users', 'UserController@index');
-Route::get('/admin/user/create', 'UserController@create');
-Route::get('/admin/user/{id}/edit', 'UserController@edit');
-Route::post('/admin/user/update', 'UserController@update');
-Route::get('/admin/user/{id}/delete', 'UserController@destroy');

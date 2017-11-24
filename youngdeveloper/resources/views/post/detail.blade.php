@@ -1,5 +1,4 @@
-@extends('index')
-@section('content')
+@extends('index') @section('content')
 <!-- the actual blog post: title/author/date/content -->
 <h1><?php echo $getPostById['title'];?></h1>
 <p class="lead">
@@ -11,10 +10,8 @@
 	{{Helper::ultilFormatDate($getPostById->created_at)}}
 </p>
 <hr>
-<img
-	src="<?php echo asset('images/'.$getPostById['thumbnail']);?>"
-	class="img-responsive"
->
+<img src="<?php echo asset('images/'.$getPostById['thumbnail']);?>"
+	class="img-responsive">
 <hr>
 <p class="lead">Science cuts two ways, of course; its products can be
 	used for both good and evil. But there's no turning back from science.
@@ -33,18 +30,22 @@
 <hr>
 <!-- the comment box -->
 <div class="well">
+
 	<h4>Leave a Comment:</h4>
-	<form role="form">
-		<div class="form-group">
-			<textarea
-				class="form-control"
-				rows="3"
-			></textarea>
+	<form class="form-horizontal form-row-seperated" action="{{ URL::action('CommentController@store') }}" method="Post" enctype="multipart/form-data">
+ 		<input type="hidden" name="_token" value="{{ csrf_token() }}">
+		<div class="form-group" name="name">
+			<label>Name</label><input name="name" class="form-control" rows="3" />
 		</div>
-		<button
-			type="submit"
-			class="btn btn-primary"
-		>Submit</button>
+
+		<div class="form-group" name="email">
+			<label>Email</label> <input name="email" class="form-control" rows="3" />
+		</div>
+		<div class="form-group">
+			<textarea name="content" class="form-control" rows="3"></textarea>
+		</div>
+
+		<button type="submit" class="btn btn-primary">Submit</button>
 	</form>
 </div>
 <hr>

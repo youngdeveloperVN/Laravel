@@ -64,7 +64,7 @@
                                 </form>
                             </li>
                             <li>
-                            	<a href="#">Profiles</a>
+                            	<a href="/admin">DashBoard</a>
                             </li>
                         </ul>
                     </li>

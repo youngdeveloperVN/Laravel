@@ -19,6 +19,8 @@ class CommentsTableSeeder extends Seeder {
 			$itemComment = array_rand($comments);
 			DB::table ( 'comments' )->insert ( [
 					'id' => $x,
+					'email' => 'ngochuy.mmt@gmail.com',
+					'name' => 'Start Bootstrap',
 					'idPost' => $x,
 					'content' => $comments[$itemComment]
 			] );

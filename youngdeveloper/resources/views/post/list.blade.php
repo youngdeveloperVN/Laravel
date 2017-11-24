@@ -40,7 +40,8 @@
 	<hr>
 	   <?php endforeach; ?>
 	<ul class="pager">
-		<?php echo $posts ->render(); ?>
+		<?php echo $posts ->links('layouts.paginations')?>
+		<?php //echo $posts ->links('layouts.paginations')?>
 	</ul>
 </div>
 

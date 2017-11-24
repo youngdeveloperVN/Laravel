@@ -1,9 +1,11 @@
 <?php
 namespace App\Http\Controllers;
-use Illuminate\Http\Request;
 use View;
 use Illuminate\Http\Request;
 use App\Comment;
+use App\Post;
+use Log;
+use Auth;
 
 class CommentController extends Controller {
 
@@ -22,8 +24,11 @@ class CommentController extends Controller {
 		$name = $allRequest['name'];
 		$email = $allRequest['email'];
 		$content = $allRequest['content'];
-		$idPost = $allRequest['idPost'];
-		
+		if (Auth::user()) {
+			$idPost = Auth::user() -> id;
+		} else {
+			$idPost = 0;
+		}
 		$dataInsertToDatabase = array(
 				'name' => $name,
 				'email' => $email,
@@ -34,7 +39,7 @@ class CommentController extends Controller {
 		$objComment = new Comment();
 		$objComment->insert($dataInsertToDatabase);
 		
-		return redirect()->action('CommentController@index');
+		//return $next($request);
 	}
 
 	public function edit($id) {
@@ -72,5 +77,6 @@ class CommentController extends Controller {
 		Comment::find($id)->delete();
 		return redirect()->action('CommentController@index');
 	}
+	
 }
 
