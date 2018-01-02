@@ -21,7 +21,7 @@ registerUser = function() {
 
 			var username = $('#formRegister input[name=email]').val();
 			var password = $('#formRegister input[name=password]').val();
-			$('#formLogin input[name=email]').val(username);
+			$('#formLogin input[name=loginname]').val(username);
 			$('#formLogin input[name=password]').val(password);
 			$('#formLogin').submit();
 
@@ -53,6 +53,7 @@ loginUser = function() {
 			data : $(this).serialize(),
 			dataType : "html"
 		}).done(function(response) {
+			console.log(response)
 			/* 	var item = data.find();
 			$('.alert-success').removeClass('hidden');
 			$('#myModal_Login').modal('hide');

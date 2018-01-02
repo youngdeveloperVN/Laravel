@@ -34,4 +34,5 @@ $(document).ready(function() {
 	pickerSelectCategory();
 	registerUser();
 	loginUser();
+	createComment();
 });

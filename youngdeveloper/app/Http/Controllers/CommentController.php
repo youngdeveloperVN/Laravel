@@ -15,7 +15,7 @@ class CommentController extends Controller {
 	}
 
 	public function create() {
-		return view('comment.create');
+		return;
 	}
 
 	public function store(Request $request) {
@@ -24,11 +24,9 @@ class CommentController extends Controller {
 		$name = $allRequest['name'];
 		$email = $allRequest['email'];
 		$content = $allRequest['content'];
-		if (Auth::user()) {
-			$idPost = Auth::user() -> id;
-		} else {
-			$idPost = 0;
-		}
+		
+		$idPost = $allRequest['idPost'];
+		
 		$dataInsertToDatabase = array(
 				'name' => $name,
 				'email' => $email,

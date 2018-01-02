@@ -3,10 +3,10 @@
     <div class="row">
       <div class="col-md-4 col-sm-6 footerleft ">
         <div class="logofooter"> YoungDeveloper</div>
-        <p>Những cư dân thích lập trình</p>
-        <p><i class="fa fa-map-pin"></i> 98A, Nguy Nhu Kon Tum, Thanh Xuan, VietNam</p>
+        <p>Nhưng cư dân thích lập trình</p>
+        <p><i class="fa fa-map-pin"></i> Ha Noi, VietNam</p>
         <p><i class="fa fa-phone"></i> Phone (VietNam) : +84 977 941 910</p>
-        <p><i class="fa fa-envelope"></i> E-mail : huy.phamngoc@nttdata.com</p>
+        <p><i class="fa fa-envelope"></i> E-mail : ngochuy.mmt@gmail.com</p>
         
       </div>
       <div class="col-md-2 col-sm-6 paddingtop-bottom">
@@ -14,10 +14,9 @@
         <ul class="footer-ul">
           <li><a href="#"> Java</a></li>
           <li><a href="#"> JavaScripts</a></li>
-          <li><a href="#"> Ruby</a></li>
-          <li><a href="#"> HTML CSS</a></li>
-          <li><a href="#"> Spring MVC</a></li>
-          <li><a href="#"> Spring Boot</a></li>
+          <li><a href="#"> Ruby on Rail</a></li>	
+          <li><a href="#"> HTML/CSS</a></li>
+          <li><a href="#"> Spring</a></li>
           <li><a href="#"> Laravel</a></li>
         </ul>
       </div>
@@ -47,8 +46,6 @@
 	      <ul class="bottom_ul">
 	        <li><a href="#">youngdeveloper.com</a></li>
 	        <li><a href="#">About us</a></li>
-	        <li><a href="#">Blog</a></li>
-	        <li><a href="#">Faq's</a></li>
 	        <li><a href="#">Contact us</a></li>
 	        <li><a href="#">Site Map</a></li>
 	      </ul>
