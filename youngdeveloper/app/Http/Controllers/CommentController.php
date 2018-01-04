@@ -77,5 +77,11 @@ class CommentController extends Controller {
 		return redirect()->action('CommentController@index');
 	}
 	
+	public static function getSubComment($comment){
+		$subcomment = Comment::where('idParentComment', $comment-> id) -> toArray();
+		Log::info($subcomment);
+		//$subcomment = Comment::all();
+		return $subcomment;
+	}
 }
 
