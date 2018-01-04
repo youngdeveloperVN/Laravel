@@ -16,7 +16,7 @@ class Post extends Model {
 			'content',
 			'thumbnail' 
 	];
-	public $timestamps = false;
+	public $timestamps = true;
 	
 	/* private $idUser= 'idUser';
 	private $idCategory= 'idCategory';

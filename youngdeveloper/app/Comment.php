@@ -6,7 +6,7 @@ class Comment extends Model {
 
 	protected $table = 'comments';
 
-	public $timestamps = false;
+	public $timestamps = true;
 
 	protected $guarded = [];
 

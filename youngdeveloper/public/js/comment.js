@@ -31,7 +31,12 @@ function createComment(){
 		    data: $(this).serialize(),
 		    dataType : "html",
 		    success:function(data){
-		       console.log(data);
+		    
+		    	var replaceValue = $(data).find('#listComment').html();
+				$('#listComment').html(replaceValue);
+				
+				var fromCreateComment = $(data).find('#formCreateComment').html();
+				$('#formCreateComment').html(fromCreateComment);
 		    }
 		 });
 		

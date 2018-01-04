@@ -21,8 +21,9 @@ class CommentsTableSeeder extends Seeder {
 					'id' => $x,
 					'email' => 'ngochuy.mmt@gmail.com',
 					'name' => 'Start Bootstrap',
-					'idPost' => $x,
-					'content' => $comments[$itemComment]
+					'idPost' => rand(1,15),
+					'content' => $comments[$itemComment],
+					'idParentComment' => rand(1,15)
 			] );
 		}
 	}

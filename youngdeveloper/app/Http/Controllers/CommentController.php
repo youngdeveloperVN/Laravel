@@ -37,7 +37,8 @@ class CommentController extends Controller {
 		$objComment = new Comment();
 		$objComment->insert($dataInsertToDatabase);
 		
-		//return $next($request);
+		return back()->withInput();
+		
 	}
 
 	public function edit($id) {

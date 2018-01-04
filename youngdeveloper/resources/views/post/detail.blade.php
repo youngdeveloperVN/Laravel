@@ -53,16 +53,9 @@
 	</form>
 </div>
 <hr>
-<?php
-foreach ($getPostById -> getAllComments as $comment) :
-	?>
-<!-- the comments -->
-<h4>
-	Start Bootstrap <small><?php echo $comment -> created_at?></small>
-</h4>
-<p><?php echo $comment -> getContent();?></p>
-<?php endforeach; ?>
-	
+
+@include('post.comment')
+
 @endsection
 
 @section('path')
