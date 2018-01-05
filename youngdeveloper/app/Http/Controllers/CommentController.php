@@ -26,12 +26,14 @@ class CommentController extends Controller {
 		$content = $allRequest['content'];
 		
 		$idPost = $allRequest['idPost'];
+		$idParentComment = $allRequest['idParentComment'];
 		
 		$dataInsertToDatabase = array(
 				'name' => $name,
 				'email' => $email,
 				'content' => $content,
-				'idPost' => $idPost
+				'idPost' => $idPost,
+				'idParentComment' => $idParentComment
 		);
 		
 		$objComment = new Comment();
@@ -78,8 +80,7 @@ class CommentController extends Controller {
 	}
 	
 	public static function getSubComment($comment){
-		$subcomment = Comment::where('idParentComment', $comment-> id) -> toArray();
-		Log::info($subcomment);
+		$subcomment = Comment::where('idParentComment', $comment-> id);
 		//$subcomment = Comment::all();
 		return $subcomment;
 	}

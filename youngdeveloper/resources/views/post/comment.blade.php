@@ -7,7 +7,10 @@
 
 		<ul id="comments-list" class="comments-list">
 			<?php
-			foreach ($getPostById -> getAllComments as $comment) :
+			foreach (\App\Comment::where('idPost', '=', $getPostById -> id)->where(
+					'idParentComment', '=', 0)
+				->orderBy('created_at', 'desc')
+				->get() as $comment) :
 				?>
 			<li>
 				<div class="comment-main-level">
@@ -32,7 +35,10 @@
 				<ul class="comments-list reply-list">
 					<!-- show list sub commetn -->
 					<?php
-					foreach (\App\Http\Controllers\CommentController::getSubComment($comment) as $subcomment) :
+				foreach (\App\Comment::where('idParentComment', $comment -> id)->where(
+						'idPost', '=', $getPostById -> id)
+					->orderBy('created_at', 'desc')
+					->get() as $subcomment) :
 					?>
 					<li>
 						<!-- Avatar -->

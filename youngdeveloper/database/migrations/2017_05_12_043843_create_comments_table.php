@@ -26,7 +26,7 @@ class CreateCommentsTable extends Migration {
 					
 					$table->text('content');
 					
-					$table->integer('idParentComment');
+					$table->text('idParentComment');
 					
 					$table->timestamps();
 				});

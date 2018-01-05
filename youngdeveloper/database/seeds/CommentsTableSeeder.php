@@ -23,7 +23,7 @@ class CommentsTableSeeder extends Seeder {
 					'name' => 'Start Bootstrap',
 					'idPost' => rand(1,15),
 					'content' => $comments[$itemComment],
-					'idParentComment' => rand(1,15)
+					'idParentComment' => rand(0,15)
 			] );
 		}
 	}

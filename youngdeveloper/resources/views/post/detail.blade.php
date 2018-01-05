@@ -44,6 +44,9 @@
 		<div class="form-group hide">
 			<input name="idPost" class="form-control" rows="3" value="<?php echo $getPostById['id']?>"/>
 		</div>
+		<div class="form-group hide">
+			<input name="idParentComment" class="form-control" rows="3" value="0"/>
+		</div>
 		
 		<div class="form-group">
 			<textarea name="content" class="form-control" rows="3"></textarea>
