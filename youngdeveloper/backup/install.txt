@@ -25,3 +25,6 @@
 3. Check version laravel
 php artisan --version
 
+4. could not find driver 
+;extension=php_pdo_pgsql.dll
+

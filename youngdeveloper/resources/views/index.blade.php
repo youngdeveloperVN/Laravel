@@ -13,9 +13,8 @@
 <title>{{ config('app.name', 'YoungDeveloper') }} - @yield('title')</title>
 
 <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
-<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+<!-- link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet"> -->
 <link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.9.3/css/bootstrap-select.min.css">
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.9.3/js/bootstrap-select.min.js"></script> -->
 
 <link href="{{ asset('css/blog-home.css') }}" rel="stylesheet">
 <link href="{{ asset('css/footer.css')}}" rel="stylesheet">

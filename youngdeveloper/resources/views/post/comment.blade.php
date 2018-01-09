@@ -35,10 +35,11 @@
 				<ul class="comments-list reply-list">
 					<!-- show list sub commetn -->
 					<?php
-				foreach (\App\Comment::where('idParentComment', $comment -> id)->where(
-						'idPost', '=', $getPostById -> id)
-					->orderBy('created_at', 'desc')
-					->get() as $subcomment) :
+					$subcomments = \App\Comment::where('idParentComment', $comment -> id)->where(
+							'idPost', '=', $getPostById -> id)
+							->orderBy('created_at', 'desc')
+							->get();
+							foreach ($subcomments as $subcomment) :
 					?>
 					<li>
 						<!-- Avatar -->
@@ -73,14 +74,14 @@
 							<form class="subcomment">
 								<div class="comment-head">
 									<h6 class="comment-name">
-										<a href="#"><input type="text" value="name"/></a>
+										<input type="text" value="Annou"/>
 									</h6>
-									<span><?php echo $subcomment -> created_at?></span> <i
+									<span></span> <i
 									class="fa fa-reply hide"></i> <i class="fa fa-heart hide"></i>
 								</div>
 								
 								<div class="comment-content">
-									<input type="text" value="I like You mean"/>
+									<input type="text" placeholder="Comment..."/>
 									<input type="submit"/>
 								</div>
 							</form>
