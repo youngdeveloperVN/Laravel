@@ -62,6 +62,30 @@
 						</div>
 					</li>
 					<?php endforeach; ?>
+					<li>
+						<!-- Avatar -->
+						<div class="comment-avatar">
+							<img
+								src="http://i9.photobucket.com/albums/a88/creaticode/avatar_2_zps7de12f8b.jpg"
+								alt="">
+						</div> <!-- Contenedor del Comentario -->
+						<div class="comment-box">
+							<form class="subcomment">
+								<div class="comment-head">
+									<h6 class="comment-name">
+										<a href="#"><input type="text" value="name"/></a>
+									</h6>
+									<span><?php echo $subcomment -> created_at?></span> <i
+									class="fa fa-reply hide"></i> <i class="fa fa-heart hide"></i>
+								</div>
+								
+								<div class="comment-content">
+									<input type="text" value="I like You mean"/>
+									<input type="submit"/>
+								</div>
+							</form>
+						</div>
+					</li>
 				</ul>
 			</li>
 			<?php endforeach; ?>
