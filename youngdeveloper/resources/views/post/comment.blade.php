@@ -12,7 +12,7 @@
 				->orderBy('created_at', 'desc')
 				->get() as $comment) :
 				?>
-			<li>
+			<li class="comment-itemt">
 				<div class="comment-main-level">
 					<!-- Avatar -->
 					<div class="comment-avatar">
@@ -34,6 +34,30 @@
 				</div>
 				<ul class="comments-list reply-list">
 					<!-- show list sub commetn -->
+					<li class="newSubComment">
+						<!-- Avatar -->
+						<div class="comment-avatar">
+							<img
+								src="http://i9.photobucket.com/albums/a88/creaticode/avatar_2_zps7de12f8b.jpg"
+								alt="">
+						</div> <!-- Contenedor del Comentario -->
+						<div class="comment-box">
+							<form class="subcomment">
+								<div class="comment-head">
+									<h6 class="comment-name">
+										<input type="text" value="Annou"/>
+									</h6>
+									<span></span> <i
+									class="fa fa-reply hide"></i> <i class="fa fa-heart hide"></i>
+								</div>
+								
+								<div class="comment-content">
+									<input type="text" placeholder="Comment..."/>
+									<input type="submit"/>
+								</div>
+							</form>
+						</div>
+					</li>
 					<?php
 					$subcomments = \App\Comment::where('idParentComment', $comment -> id)->where(
 							'idPost', '=', $getPostById -> id)
@@ -63,30 +87,6 @@
 						</div>
 					</li>
 					<?php endforeach; ?>
-					<li>
-						<!-- Avatar -->
-						<div class="comment-avatar">
-							<img
-								src="http://i9.photobucket.com/albums/a88/creaticode/avatar_2_zps7de12f8b.jpg"
-								alt="">
-						</div> <!-- Contenedor del Comentario -->
-						<div class="comment-box">
-							<form class="subcomment">
-								<div class="comment-head">
-									<h6 class="comment-name">
-										<input type="text" value="Annou"/>
-									</h6>
-									<span></span> <i
-									class="fa fa-reply hide"></i> <i class="fa fa-heart hide"></i>
-								</div>
-								
-								<div class="comment-content">
-									<input type="text" placeholder="Comment..."/>
-									<input type="submit"/>
-								</div>
-							</form>
-						</div>
-					</li>
 				</ul>
 			</li>
 			<?php endforeach; ?>
