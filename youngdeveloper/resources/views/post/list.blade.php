@@ -48,5 +48,5 @@
 @endsection
 
 @section('path')
-	<small>HOME > LEASTED</small>
+	<small><a href="/">HOME</a></small>
 @endsection

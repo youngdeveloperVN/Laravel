@@ -37,9 +37,7 @@ class PostsTableSeeder extends Seeder {
 		
 		$userId = array (
 				'1',
-				'2',
-				'3'
-		
+				'2'
 		);
 		
 		$categoryId = array (

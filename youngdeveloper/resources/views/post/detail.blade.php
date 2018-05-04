@@ -62,7 +62,7 @@
 @endsection
 
 @section('path')
-<a href="/">HOME</a>
-<a href="/category/<?php echo $getPostById -> getCategory['name']?>"><?php echo $getPostById -> getCategory['name'] ?></a>
-<a href="<?php echo $getPostById['title'];?>"><?php echo $getPostById['title'];?></a>
+<a href="/">HOME </a>/
+<a href="/category/<?php echo $getPostById -> getCategory['name']?>"><?php echo $getPostById -> getCategory['name'] ?> </a>/
+<a href=""><?php echo $getPostById['title'];?></a>
 @endsection

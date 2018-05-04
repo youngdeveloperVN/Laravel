@@ -20,8 +20,7 @@ class CreateUsersTable extends Migration {
 					$table->enum('role',
 							[
 									'admin',
-									'author',
-									'subscriber'
+									'author'
 							])->default('author');
 					$table->string('password');
 					$table->rememberToken();
