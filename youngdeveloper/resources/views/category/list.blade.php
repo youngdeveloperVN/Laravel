@@ -6,12 +6,14 @@
 		<tr>
 			<td>CategoryName</td>
 			<td>Description</td>
+			<td>Category Parrent</td>
 			<td>Actions</td>
 		</tr>
      <?php foreach($allCategories as $category):  ?>
         <tr>
 			<td> <?php echo $category['name']; ?></td>
 			<td> <?php echo $category['description']; ?></td>
+			<td> <?php echo $category['idCategoryParrent']; ?></td>
 			<td><a class="btn btn-primary"
 				href='category/<?php echo $category['id'];?>/edit'> Edit</a> <a
 				class="btn btn-danger"

@@ -2,7 +2,6 @@
 <html lang="{{ config('app.locale') }}">
 
 <head>
-
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,14 +14,12 @@
 	<link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
 	<script src="{{ asset('js/jquery.js') }}"></script>
 	<script src="{{ asset('js/bootstrap.min.js') }}"></script>
-	
 	<link href="{{ asset('css/admin.css') }}" rel="stylesheet">
 	<script src="{{ asset('js/app.js') }}"></script>
 
 </head>
 
 <body>
-		
 		@include('admin.menu')
 		<div class="col-md-9 pull-right">
 			@yield('content')

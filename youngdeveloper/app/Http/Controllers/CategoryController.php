@@ -13,9 +13,11 @@ class CategoryController extends Controller {
 		$allCategories = $objCategory->all()->toArray();
 		return view('category.list')->with('allCategories', $allCategories);
 	}
-
+	
 	public function create() {
-		return view('category.create');
+	    $objCategory = new Category();
+	    $allCategories = $objCategory->all()->toArray();
+	    return view('category.create')->with('allCategories', $allCategories);
 	}
 
 	// action de luu category moi khi form submit
@@ -23,10 +25,16 @@ class CategoryController extends Controller {
 		$allRequest = $request->all();
 		$categoryName = $allRequest['name'];
 		$categoryDes = $allRequest['description'];
+		$categoryIdParent = $allRequest['idCategoryParrent'];
+		
+		if ($categoryIdParent === NULL) {
+		    $categoryIdParent = 0;
+		}
 		
 		$dataInsertToDatabase = array(
 				'name' => $categoryName,
-				'description' => $categoryDes
+				'description' => $categoryDes,
+		        'idCategoryParrent'=> $categoryIdParent
 		);
 		
 		$objCategory = new Category();

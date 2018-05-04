@@ -19,8 +19,16 @@ class PostController extends Controller {
 		/* ->with('title', $title) */
 	}
 
+	public function postslist() {
+	    $category = Category::all();
+	    $posts = Post::orderBy('created_at', 'desc')->paginate(3);
+	    return view('post.postlist')->with('posts', $posts)->with('categories', $category);
+	    /* ->with('title', $title) */
+	}
+	
 	public function create(Request $request) {
 		// if user can post i.e. user is admin or author
+	    Log::info("Tu thach");
 		$user = $request->user();
 		$categories = Category::all();
 		if ($user != null) {

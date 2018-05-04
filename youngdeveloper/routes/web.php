@@ -34,7 +34,7 @@ Route::group(['prefix' => 'admin','middleware' => 'admin'],function()
 	Route::get('/', function(){
 		return view('admin.dashboard');		
 	});
-	Route::get('/posts', 'PostController@index');
+	Route::get('/posts', 'PostController@postslist');
 	Route::get('/post/create', 'PostController@create');
 	Route::post('/post/create', 'PostController@store');
 	Route::get('/post/{id}/edit', 'PostController@edit');
