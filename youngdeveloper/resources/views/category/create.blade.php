@@ -20,13 +20,14 @@
 		<div class="form-group">
 			<label for="selectpicker">Choose category parent</label>
 			<div class="clearfix"></div>
-			<select id="createParentCategory">
+			
+			<select id="createParentCategory" class="form-control selectpicker">
 					<option value="0">None</option>
 				 <?php foreach($allCategories as $category):  ?>
                 	<option value="<?php echo $category['id']?>"><?php echo $category['name']?></option>
               	<?php endforeach; ?>
             </select>
-            <input type="" 
+            <input type="hidden" 
 				class="form-control" placeholder="new category"
 				name="idCategoryParrent">
 		</div>

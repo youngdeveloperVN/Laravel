@@ -15,23 +15,32 @@
 		<div class="collapse navbar-collapse"
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-left">
-    			<?php foreach($categories as $category):  ?>
-            			<a href="<?php echo $category['id'];?>"> <?php echo $category['name']; ?></a>
-            			
-            		<?php if ($category['idCategoryParrent'] == 0) {
-            		   echo  '<li><a href="#">Ruby on Rail</a></li>'
-            		endif; ?>
-            		<?php if ($category['idCategoryParrent'] != 0) {?>
-            		    <li class="dropdown"><a class="dropdown-toggle"
-                		    data-toggle="dropdown" href="#">Java <span class="caret"></span></a>
-                		    <ul class="dropdown-menu">
-                		    <li><a href="/category/java">Java Core</a></li>
-                		    <li><a href="/category/spring">Libgdx</a></li>
-                		    <li><a href="#">Android Java</a></li>
-                		    </ul>
-                		 </li>
-                    <?php endif; ?>
-                  <?php endforeach; ?>
+			<?php
+			foreach ( \App\Category::where ( 'idCategoryParrent', '=', 0 )->orderBy ( 'id', 'asc' )->get () as $category ) :
+				
+				$subcategories = \App\Category::where ( 'idCategoryParrent', $category->id )->orderBy ( 'created_at', 'asc' )->get ();
+				if (sizeof ( $subcategories ) > 0) {
+					echo '<li class="dropdown">';
+					echo '<a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="true">';
+					echo $category ['name'];
+					echo '<span class="caret"></span></a>
+													<ul class="dropdown-menu">';
+					foreach ( $subcategories as $subcategory ) :
+						echo '<li><a href="/category/';
+						echo $subcategory ['id'];
+						echo '">';
+						echo $subcategory ['name'];
+						echo '</a></li>';
+					endforeach
+					;
+					echo '</ul></li>';
+				} else {
+					echo '<li><a href="#">';
+					echo $category ['name'];
+					echo '</a></li>';
+				}
+			endforeach;
+			?>
 			</ul>
 			<!-- Right Side Of Navbar -->
             <ul id="login_section" class="nav navbar-nav navbar-right">
