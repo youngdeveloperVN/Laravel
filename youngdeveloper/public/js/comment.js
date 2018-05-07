@@ -14,7 +14,7 @@ function createComment(){
 				var fromCreateComment = $(data).find('#formCreateComment').html();
 				$('#formCreateComment').html(fromCreateComment);
 				
-				alert(1);
+			
 		    }
 		 });
 		

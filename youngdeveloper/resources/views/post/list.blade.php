@@ -1,52 +1,94 @@
 @extends('index')
 @section('content')
-<div>
+<div class="col-12 col-lg-8">
+                    <div class="post-content-area mb-100">
+                        <!-- Catagory Area -->
+                        <div class="world-catagory-area">
+                            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                <li class="title">Các Bài Viết</li>
 
- 	  <?php foreach($posts as $post):  ?>
-				<!-- First Blog Post -->
-	<h2>
-		<div class="wrapper">
-			<a class="first after" href="/post/<?php echo $post['id'];?>/detail"><?php echo $post['title'] ?></a>
-		</div>
-	</h2>
-	<p class="pull-left lead">
-		by <a href="/user/<?php echo $post-> getIdUser() ?>/posts"><?php echo $post -> getAuthor -> name ?></a>
-		/ category: <a href="/category/<?php echo $post-> getIdCategory() ?>/posts"><?php echo $post -> getCategory-> name ?></a>
-	</p>
-	<p class="pull-right">
-		<span class="glyphicon glyphicon-comment"></span> <?php
-		echo count($post -> getAllComments); 
-					?> comments /
-  	<span class="glyphicon glyphicon-time"></span> Posted on {{Helper::ultilFormatDate($post->created_at)}}
-	</p>
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#world-tab-1" role="tab" aria-controls="world-tab-1" aria-selected="true">All</a>
+                                </li>
 
-	<hr>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Business</a>
+                                </li>
+                            </ul>
 
-	<img style="with: 900px; height: 300px;" class="img-responsive"
-		src="<?php echo asset('images/'.$post['thumbnail']);?>"
-		alt="<?php echo $post['title'];?>">
-	<hr>
-	<p>
-		<?php 
-			echo Helper::getFisrtElementOfContentPost($post->content);
-		?>
-	</p>
+                            <div class="tab-content" id="myTabContent">
 
-<!-- 	<a class="btn btn-primary" -->
-	<!--	href='post/echo $post['id'];?>/detail'> Read More<span-->
-<!-- 		class="glyphicon glyphicon-chevron-right"></span></a> -->
+								
+								<!-- Tab1 start -->
+                                <div class="tab-pane fade show active" id="world-tab-1" role="tabpanel" aria-labelledby="tab1">
+                                
+                                	<?php foreach($posts as $post):  ?>
+                                    <!-- Single Blog Post -->
+                                    <div class="single-blog-post post-style-4 d-flex align-items-center">
+                                        <!-- Post Thumbnail -->
+                                        <div class="post-thumbnail">
+                                            <img src="<?php echo asset('images/'.$post['thumbnail']);?>"
+												alt="<?php echo $post['title'];?>">
+                                        </div>
+                                        
+                                        <!-- Post Content -->
+                                        <div class="post-content">
+                                            <a href="/post/<?php echo $post['id'];?>/detail" class="headline">
+                                                <h5><?php echo $post['title'] ?></h5>
+                                            </a>
+                                            <p><?php 
+												echo Helper::getFisrtElementOfContentPost($post->content);?>
+											</p>
+                                            <!-- Post Meta -->
+                                            <div class="post-meta">
+                                                <p><a href="/user/<?php echo $post-> getIdUser() ?>/posts" class="post-author"><?php echo $post -> getAuthor -> name ?></a> on <a href="#" class="post-date">{{Helper::ultilFormatDate($post->created_at)}}</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <?php endforeach; ?>
+                                    
+                                </div>
+                                <!-- Tab1 end -->
 
+								 <!-- Tab2 start -->
+                                <div class="tab-pane fade" id="world-tab-2" role="tabpanel" aria-labelledby="tab2">
+                                
+                                    <?php foreach($posts as $post):  ?>
+                                    <!-- Single Blog Post -->
+                                    <div class="single-blog-post post-style-4 d-flex align-items-center">
+                                        <!-- Post Thumbnail -->
+                                        <div class="post-thumbnail">
+                                            <img src="<?php echo asset('images/'.$post['thumbnail']);?>"
+												alt="<?php echo $post['title'];?>">
+                                        </div>
+                                        
+                                        <!-- Post Content -->
+                                        <div class="post-content">
+                                            <a href="/post/<?php echo $post['id'];?>/detail" class="headline">
+                                                <h5><?php echo $post['title'] ?></h5>
+                                            </a>
+                                            <p><?php 
+												echo Helper::getFisrtElementOfContentPost($post->content);?>
+											</p>
+                                            <!-- Post Meta -->
+                                            <div class="post-meta">
+                                                <p><a href="/user/<?php echo $post-> getIdUser() ?>/posts" class="post-author"><?php echo $post -> getAuthor -> name ?></a> on <a href="#" class="post-date">{{Helper::ultilFormatDate($post->created_at)}}</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <?php endforeach; ?>
+                                    
+                                </div>
+                                <!-- Tab2 end -->
+                            </div>
+                        </div>
+                    </div>
+                    
+                     <ul class="pager">
+						<?php echo $posts ->links('layouts.paginations')?>
+					</ul>
+					
+                </div>
+               
 
-	<hr>
-	   <?php endforeach; ?>
-	<ul class="pager">
-		<?php echo $posts ->links('layouts.paginations')?>
-		<?php //echo $posts ->links('layouts.paginations')?>
-	</ul>
-</div>
-
-@endsection
-
-@section('path')
-	<small><a href="/">HOME</a></small>
 @endsection

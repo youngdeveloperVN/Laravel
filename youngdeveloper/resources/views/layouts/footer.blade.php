@@ -1,57 +1,50 @@
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4 col-sm-6 footerleft ">
-        <div class="logofooter"> YoungDeveloper</div>
-        <p>Nhưng cư dân thích lập trình</p>
-        <p><i class="fa fa-map-pin"></i> Ha Noi, VietNam</p>
-        <p><i class="fa fa-phone"></i> Phone (VietNam) : +84 977 941 910</p>
-        <p><i class="fa fa-envelope"></i> E-mail : ngochuy.mmt@gmail.com</p>
-        
-      </div>
-      <div class="col-md-2 col-sm-6 paddingtop-bottom">
-        <h6 class="heading7">Top Categories</h6>
-        <ul class="footer-ul">
-          <li><a href="#"> Java</a></li>
-          <li><a href="#"> JavaScripts</a></li>
-          <li><a href="#"> Ruby on Rail</a></li>	
-          <li><a href="#"> HTML/CSS</a></li>
-          <li><a href="#"> Spring</a></li>
-          <li><a href="#"> Laravel</a></li>
-        </ul>
-      </div>
-      <div class="col-md-3 col-sm-6 paddingtop-bottom">
-        <h6 class="heading7">LATEST POST</h6>
-        <div class="post">
-          <p>Hello World Laravel <span>August 3,2015</span></p>
-          <p>facebook crack the movie advertisment code:what it means for you <span>August 3,2015</span></p>
-          <p>facebook crack the movie advertisment code:what it means for you <span>August 3,2015</span></p>
+<!-- ***** Footer Area Start ***** -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-4">
+                    <div class="footer-single-widget">
+                        <h1><a href="/">YoungDeveloper</a></h1>
+                        <div class="copywrite-text mt-30">
+                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="footer-single-widget">
+                        <ul class="footer-menu d-flex justify-content-between">
+                            <li><a href="/">Home</a></li>
+                            <?php
+								foreach ( \App\Category::where ( 'idCategoryParrent', '=', 0 )->orderBy ( 'id', 'asc' )->get () as $category ) :
+									
+									$subcategories = \App\Category::where ( 'idCategoryParrent', $category->id )->orderBy ( 'created_at', 'asc' )->get ();
+									if (sizeof ( $subcategories ) > 0) {
+										echo '<li class="dropdown">';
+										echo '<a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="true">';
+										echo $category ['name'];
+										echo '<span class="caret"></span></a></li>';
+									} else {
+										echo '<li><a href="#">';
+										echo $category ['name'];
+										echo '</a></li>';
+									}
+								endforeach;
+							 ?>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="footer-single-widget">
+                        <h5>Subscribe</h5>
+                        <form action="#" method="post">
+                            <input type="email" name="email" id="email" placeholder="Enter your mail">
+                            <button type="button"><i class="fa fa-arrow-right"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-      <div class="col-md-3 col-sm-6 paddingtop-bottom">
-        <div class="fb-page" data-href="https://www.facebook.com/Young-Developer-Vi%E1%BB%87t-Nam-154846668011997/" data-tabs="timeline" data-height="300" data-small-header="false" style="margin-bottom:15px;" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-          <div class="fb-xfbml-parse-ignore">
-            <blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/Young-Developer-Vi%E1%BB%87t-Nam-154846668011997/">Facebook</a></blockquote>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="copyright">
-	  <div class="container">
-	    <div class="col-md-6">
-	      <p>2017 - Copy rights with YoungDeveloper</p>
-	    </div>
-	    <div class="col-md-6">
-	      <ul class="bottom_ul">
-	        <li><a href="#">youngdeveloper.com</a></li>
-	        <li><a href="#">About us</a></li>
-	        <li><a href="#">Contact us</a></li>
-	        <li><a href="#">Site Map</a></li>
-	      </ul>
-	    </div>
-	  </div>
-	</div>
-</footer>
-<!--footer start from here-->
-
+    </footer>
+<!-- ***** Footer Area End ***** -->

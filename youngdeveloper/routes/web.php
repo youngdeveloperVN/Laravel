@@ -1,15 +1,12 @@
 <?php
-Route::get('/', 'PostController@index');
+Route::get('/', 'HomeController@index');
+Route::get('/home', 'HomeController@index');
+
+
+Route::get('/contact', 'HomeController@contact');
+
 Route::get('/posts', 'PostController@index');
 Route::get('post/{id}/detail', 'PostController@detail');
-
-Route::get('/java_core', 'CategoryController@index');
-Route::get('/java_web', 'CategoryController@index');
-Route::get('/java_service', 'CategoryController@index');
-
-Route::get('/contact', function () {
-	return view('pages.contact');
-});
 
 // for filter
 Route::get('category/{id}/posts', 'CategoryController@getPostsByCategoryID');
@@ -25,8 +22,6 @@ Route::get('/category', 'CategoryController@index');
 Route::get('/user', 'UserController@index');
 
 Auth::routes();
-// FOR AUTH
-Route::get('/home', 'HomeController@index');
 
 //  Route Middleware
 Route::group(['prefix' => 'admin','middleware' => 'admin'],function()

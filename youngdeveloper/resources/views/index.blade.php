@@ -1,70 +1,59 @@
-<!DOCTYPE html>
-<html lang="{{ config('app.locale') }}">
-
+<html lang="en">
 <head>
-
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
 <meta name="description" content="">
-<meta name="author" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-<meta name="csrf-token" content="{{ csrf_token() }}">
-<title>{{ config('app.name', 'YoungDeveloper') }} - @yield('title')</title>
+<!-- Title  -->
+<title>World - Blog &amp; Magazine Template</title>
 
-<link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
-<!-- link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet"> -->
-<link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.9.3/css/bootstrap-select.min.css">
+<!-- Favicon  -->
+<link rel="icon" href="img/core-img/favicon.ico">
 
-<link href="{{ asset('css/blog-home.css') }}" rel="stylesheet">
-<link href="{{ asset('css/footer.css')}}" rel="stylesheet">
-<link
-	href="https://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css"
-	rel="stylesheet">
-
-<script src="{{ asset('js/jquery.js') }}"></script>
-<script src="{{ asset('js/bootstrap.min.js') }}"></script>
-<script>
-	     window.Laravel = {!! json_encode(['csrfToken' => csrf_token(),]) !!};
-	</script>
-
-<!-- for edit text box -->
-<script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
-<script type="text/javascript">
-  tinymce.init({
-    selector : "textarea",
-    plugins : ["advlist autolink lists link image charmap print preview anchor", "searchreplace visualblocks code fullscreen", "insertdatetime media table contextmenu paste"],
-    toolbar : "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image"
-  }); 
-</script>
-
-<link href="{{ asset('css/app.css') }}" rel="stylesheet">
-<link href="{{ asset('css/comment.css') }}" rel="stylesheet">
-
-<script src="{{ asset('js/login.js') }}"></script>
-<script src="{{ asset('js/app.js') }}"></script>
-<script src="{{ asset('js/comment.js') }}"></script>
+<!-- Style CSS -->
+<link rel="stylesheet" href="css/style.css">
 
 </head>
 
 <body>
-	@include('layouts.navigation')
-	<div class="container">
-		<section id="services">
-			<!-- Page Content -->
-			<div class="row">
-				<div class="col-md-8">
-					<h1 class="page-header">
-						<small>@yield('path')</small>
-					</h1>
-					@yield('content')
-					@yield('pagination')
-				</div>
+	@include('layouts.header')
+	@include('layouts.slides')
+
+	<div class="main-content-wrapper section-padding-100">
+		<div class="container">
+			<div class="row justify-content-center">
+				@yield('content')
 				@include('layouts.sidebar')
 			</div>
-		</section>
+			@include('layouts.load-more')
+		</div>
 	</div>
-	@include('layouts.footer') @include('layouts.modals') @yield('scripts')
-</body>
 
+	@include('layouts.footer')
+	
+	@include('layouts.modals')
+	<!-- jQuery (Necessary for All JavaScript Plugins) -->
+	<script src="js/jquery.js"></script>
+	<!-- Popper js -->
+	<script src="js/popper.min.js"></script>
+	<!-- Bootstrap js -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Plugins js -->
+	<script src="js/plugins.js"></script>
+	<!-- Active js -->
+	<script src="js/active.js"></script>
+	
+	<script src="js/app.js"></script>
+	<script src="js/login.js"></script>
+	
+	<a id="scrollUp" href="#top"
+		style="position: fixed; z-index: 2147483647; display: none;"><i
+		class="fa fa-angle-up" aria-hidden="true"></i></a>
+
+
+
+</body>
 </html>
