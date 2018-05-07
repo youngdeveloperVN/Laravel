@@ -12,7 +12,7 @@
         
         <div class="form-group">
             <label for="exampleInputEmail1">Content</label>
-            <input type="text" class="form-control" placeholder="" name="content">
+            <textarea name="content" class="form-control" rows="3"></textarea>
         </div>
         
         <div class="form-group">

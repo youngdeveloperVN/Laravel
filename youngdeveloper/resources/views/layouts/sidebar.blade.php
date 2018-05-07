@@ -40,15 +40,11 @@
 	</div>-->
 	
 	<!-- 10 top posts -->
-	<div class="well">
-		<h4>POPULAR ANDROID TUTORIALS</h4>
-		<ol>
-			<li>Android SQLite Database Tutorial - 1,683,444 views</li>
-			<li>Android SQLite Database Tutorial - 1,683,444 views</li>
-			<li>Android SQLite Database Tutorial - 1,683,444 views</li>
-			<li>Android SQLite Database Tutorial - 1,683,444 views</li>
-			<li>Android SQLite Database Tutorial - 1,683,444 views</li>
-		</ol>
-	</div>
+<!-- 	<div class="well"> -->
+<!-- 		<h4>POPULAR ANDROID TUTORIALS</h4> -->
+<!-- 		<ol> -->
+<!-- 			<li>Android SQLite Database Tutorial - 1,683,444 views</li> -->
+<!-- 		</ol> -->
+<!-- 	</div> -->
 
 </div>

@@ -9,24 +9,12 @@
 	<span class="glyphicon glyphicon-time"></span> Posted on
 	{{Helper::ultilFormatDate($getPostById->created_at)}}
 </p>
-<hr>
 <img src="<?php echo asset('images/'.$getPostById['thumbnail']);?>"
 	class="img-responsive">
-<hr>
-<p class="lead">Science cuts two ways, of course; its products can be
-	used for both good and evil. But there's no turning back from science.
-	The early warnings about technological dangers also come from science.</p>
-<p>You know, being a test pilot isn't always the healthiest business in
-	the world.</p>
 <div>
 		<?php echo $getPostById['content']?>
 	</div>
 </p>
-<ul>
-	<li><a href="http://spaceipsum.com/">Space Ipsum</a></li>
-	<li><a href="http://cupcakeipsum.com/">Cupcake Ipsum</a></li>
-	<li><a href="http://tunaipsum.com/">Tuna Ipsum</a></li>
-</ul>
 <hr>
 <!-- the comment box -->
 <div class="well">
