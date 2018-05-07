@@ -1,0 +1,16 @@
+1. Install
+
++ Install PHP7.1
++ Install MySQL
++ Instal Composer
++ Create project
+	cd// workspace
+	composer create-project --prefer-dist laravel/laravel project-name
++ Run Check new Project 
+	cd => project
+	php artisan server
+	php artisan serve --port=8080
+2. Setup connect to database, and generate key project
+	create .evn <= example.evn
+	run php artisan key:generate
+	
