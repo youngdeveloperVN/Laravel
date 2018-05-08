@@ -35,19 +35,20 @@
 	@include('layouts.footer')
 	
 	@include('layouts.modals')
-	<!-- jQuery (Necessary for All JavaScript Plugins) -->
-	<script src="js/jquery.js"></script>
-	<!-- Popper js -->
-	<script src="js/popper.min.js"></script>
-	<!-- Bootstrap js -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- Plugins js -->
-	<script src="js/plugins.js"></script>
-	<!-- Active js -->
-	<script src="js/active.js"></script>
 	
-	<script src="js/app.js"></script>
-	<script src="js/login.js"></script>
+	
+	<script src="{{ asset('js/jquery.js') }}"></script>
+	<!-- Popper js -->
+	<script src="{{ asset('js/popper.min.js') }}"></script>
+	<!-- Bootstrap js -->
+	<script src="{{ asset('js/bootstrap.min.js') }}"></script>
+	<!-- Plugins js -->
+	<script src="{{ asset('js/plugins.js') }}"></script>
+	<!-- Active js -->
+	<script src="{{ asset('js/active.js') }}"></script>
+	
+	<script src="{{ asset('js/app.js') }}"></script>
+	<script src="{{ asset('js/login.js') }}"></script>
 	
 	<a id="scrollUp" href="#top"
 		style="position: fixed; z-index: 2147483647; display: none;"><i

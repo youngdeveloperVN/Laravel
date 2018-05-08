@@ -1,4 +1,5 @@
-@extends('index') @section('content')
+@extends('index') 
+@section('content')
 <!-- the actual blog post: title/author/date/content -->
 <h1><?php echo $getPostById['title'];?></h1>
 <p class="lead">
@@ -45,12 +46,6 @@
 </div>
 <hr>
 
-@include('post.comment')
+	@include('post.comment')
 
-@endsection
-
-@section('path')
-<a href="/">HOME </a>/
-<a href="/category/<?php echo $getPostById -> getCategory['name']?>"><?php echo $getPostById -> getCategory['name'] ?> </a>/
-<a href=""><?php echo $getPostById['title'];?></a>
 @endsection

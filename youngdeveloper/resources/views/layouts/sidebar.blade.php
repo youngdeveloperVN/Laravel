@@ -3,14 +3,14 @@
                     <div class="post-sidebar-area wow fadeInUpBig" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUpBig;">
                         <!-- Widget Area -->
                         <div class="sidebar-widget-area">
-                            <h5 class="title">About World</h5>
+                            <h5 class="title">About YoungDeveloper</h5>
                             <div class="widget-content">
                                 <p>The mango is perfect in that it is always yellow and if it’s not, I don’t want to hear about it. The mango’s only flaw, and it’s a minor one, is the effort it sometimes takes to undress the mango, carve it up in a way that makes sense, and find its way to the mouth.</p>
                             </div>
                         </div>
                         <!-- Widget Area -->
                         <div class="sidebar-widget-area">
-                            <h5 class="title">Top Stories</h5>
+                            <h5 class="title">Top Posts</h5>
                             <div class="widget-content">
                                 <!-- Single Blog Post -->
                                 <div class="single-blog-post post-style-2 d-flex align-items-center widget-post">
@@ -81,7 +81,7 @@
                         </div>
                         <!-- Widget Area -->
                         <div class="sidebar-widget-area">
-                            <h5 class="title">Stay Connected</h5>
+                            <h5 class="title">Kết nối</h5>
                             <div class="widget-content">
                                 <div class="social-area d-flex justify-content-between">
                                     <a href="#"><i class="fa fa-facebook"></i></a>

@@ -27,8 +27,17 @@
                                     <div class="single-blog-post post-style-4 d-flex align-items-center">
                                         <!-- Post Thumbnail -->
                                         <div class="post-thumbnail">
-                                            <img src="<?php echo asset('images/'.$post['thumbnail']);?>"
-												alt="<?php echo $post['title'];?>">
+                                        	<?php 
+                                        	if($post['thumbnail'] == '' || $post['thumbnail'] === NULL )
+                                        		echo '<img src="{{ asset('images/default/product-default.jpg') }}" alt="';
+                                        		echo $post['title'];
+												echo '">';
+                                        	else{
+                                        		echo '<img src="asset('images/'.$post['thumbnail'])"
+                                        				alt="<?php echo $post['title'];?>">';
+                                        	}
+                                        	?>
+                                           
                                         </div>
                                         
                                         <!-- Post Content -->
