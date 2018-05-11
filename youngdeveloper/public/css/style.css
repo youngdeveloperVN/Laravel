@@ -751,12 +751,13 @@ img {
     .sidebar-widget-area .widget-content .social-area a {
       width: 36px;
       height: 36px;
-      border: 1px solid;
-      border-color: #f1f1f1;
+      font-size: 36px;
+/*       border: 1px solid; */
+/*       border-color: #f1f1f1; */
       display: block;
-      border-radius: 50%;
+/*       border-radius: 50%; */
       text-align: center;
-      line-height: 32px; }
+      line-height: 15px; }
     .sidebar-widget-area .widget-content .todays-pick {
       box-shadow: none; }
   .sidebar-widget-area:last-of-type {

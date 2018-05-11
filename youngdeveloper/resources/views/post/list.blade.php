@@ -28,13 +28,16 @@
                                         <!-- Post Thumbnail -->
                                         <div class="post-thumbnail">
                                         	<?php 
-                                        	if($post['thumbnail'] == '' || $post['thumbnail'] === NULL )
-                                        		echo '<img src="{{ asset('images/default/product-default.jpg') }}" alt="';
+                                        	if($post['thumbnail'] == '' || $post['thumbnail'] === NULL ){
+                                        		echo '<img src="';
+                                        		echo asset('images/default/product-default.jpg');
+                                        	    echo '"/>';
+                                             } else {
+                                        		echo '<img src="';
+                                        		echo asset('images/'.$post['thumbnail']);
+                                        		echo '" alt="';
                                         		echo $post['title'];
-												echo '">';
-                                        	else{
-                                        		echo '<img src="asset('images/'.$post['thumbnail'])"
-                                        				alt="<?php echo $post['title'];?>">';
+                                        		echo '"/>';
                                         	}
                                         	?>
                                            

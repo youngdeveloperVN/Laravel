@@ -60,7 +60,7 @@ class PostsTableSeeder extends Seeder {
 			DB::table ( 'posts' )->insert ( [ 
 					'title' => $titleItem [$x],
 					'content' => $content,
-					'thumbnail' => $thumbnailItem [$itemthumbnail].'.jpg',
+			        'thumbnail' => 'products/'.$thumbnailItem [$itemthumbnail].'.jpg',
 					'idUser' => $userId [$itemUser],
 					'idCategory' => $categoryId [$itemCategory],
 					'created_at' => Carbon::now () 
