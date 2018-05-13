@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tạo menu</title>
+	<style >
+	
+		#Menu1 {
+			text-align: center;
+			margin:auto;
+			background-color: #ff9933;
+			height: 150px;
+			width: 900px;
+
+		}
+		img {
+			height: 150px;
+			width: 150px;
+		}
+		#image {
+			height: 150px;
+			width: 150px;
+			float: left;
+			margin:none;
+		}
+		#conter {
+			text-align: center;
+			height: 150px;
+			width: 600px;
+			float: left;
+		}
+		#image1 {
+			height: 150px;
+			width: 150px;
+			float: right;
+		}
+		#Menu2 {
+			height: 60px;
+			width: 900px;
+			margin:auto;
+			font-size: 15px;
+		}
+		#left {
+			background-color: #00cc00;
+			height: 60px;
+			width: 450px;
+			float: left;
+		}
+		#left ul {
+			list-style-type: none; <!-- bỏ dấu chấm -->
+			padding: 0px;
+			line-height: 30px;
+		}
+		#left ul li {
+			text-align: center;
+			 display: inline-block;
+			 width: 80px;
+		}
+
+		#left ul li:hover {
+			background-color: blue;
+		}
+		#center {
+			background-color: #00cc00;
+			height:  60px;
+			width: 200px;
+			float: left;
+		}
+		#night {
+			background-color: #00cc00;
+			height: 60px;
+			width: 250px;
+			float: right;
+
+		}
+		#night ul {
+			list-style-type: none; <!-- bỏ dấu chấm -->
+			padding: 0px;
+			line-height: 30px;
+		}
+		#night ul li {
+			text-align: center;
+			 display: inline-block;
+			 width: 80px;
+		}
+
+		#night ul li:hover {
+			background-color: blue;
+		}
+		a{
+   			 text-decoration: none;
+		}
+		#vanban {
+			height: 600px;
+			width: 900px;
+			background-color: #ffff33;
+			margin:auto;
+			text-indent:10px;
+		}
+	</style>
+</head>
+<body>
+	<div id="Menu1">
+		<div id="image">
+			<img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/20842273_467366133650255_7405223905131340566_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeEHl4X_5pZoB4ERK41sCU4ltOD7kQkXeQjzwyErrfO6joa9FYdcGbMNE3JNVNyrydmlaoaRkRiCr9QlxM7f4tS8F-cGq_oY1VPNBPHJ1vsdHA&oh=3773aeebcd37d265d5667463d329fc6f&oe=5B91DAB9">
+		</div>
+		<div id="conter">
+			<h1><a href="https://www.facebook.com/profile.php?id=100011306167653"> LÊ VĂN HÀ</a></h1>
+			<h2><a href="http://humg.edu.vn/Pages/home.aspx"> Đại học Mỏ - Địa Chất</a></h2>
+		</div>
+		<div id="image1"><img src="https://i.ytimg.com/vi/9Vo4q4vQWzw/maxresdefault.jpg"></div>
+	</div>
+	<div id="Menu2">
+		<div id="left">
+			<ul>
+				<li><a href="#"> Giới Thiệu</a></li>
+				<li><a href="#"> Tin tức</a></li>
+				<li><a href="#"> Cách làm</a></li>
+				<li><a href="#">Tham khảo</a></li>
+			</ul>
+		</div>
+		<div id="center"></div>
+		<div id="night">
+			<ul>
+				<li><a href="#"> Liên hệ</a></li>
+				<li><a href="#"> Địa chỉ</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="vanban">
+		<p>Tên: LÊ VĂN HÀ</p>
+		<p>Trường: Đại học Mỏ - Địa Chất</p>
+		<p>Chuyên ngành: Khoa học máy tính ứng dụng</p>
+		<p>Sinh viên: năm nhất</p>
+		<div> Ngôn ngữ đã học ở trường:
+			<ul>
+				<li>Năm nhất : kỳ 1 học ngôn ngữ C , kỳ 2: chưa học lập trình ạ</li>
+			</ul>
+		</div>
+		<div> HTML, CSS, JavaScript (JS). Em đã biết và học cái nào, học ở trường ra sao?
+				<ul>
+					<li>HTML, CSS:HTML: chưa được học ở trường, e đang học ạ</li>
+					<li>JS: chưa học</li>
+
+				</ul>
+		 </div>
+		 <div>Java, Spring MVC, Hibernate. Em đã biết và học cái nào, học ở trường ra sao?
+		 	<ul>
+		 		<li>Java: em đang học ạ</li>
+		 		<li>Spring MVC, Hibernate: em chưa biết ạ</li>
+		 	</ul>
+		 </div>
+		 <div>Ngày em dành mấy tiếng tự học lập trình?
+		 	<ul>
+		 		<li>Em danhftrung bình học lập trình tầm 4-5h  nhưng học chưa thấy hiệu quả ạ.</li>
+		 	</ul>
+		 </div>
+		 <div>Nếu tự học, em đang học gì?
+		 	<ul>
+		 		<li>Trước mắt em dành 1h để học tiếng anh và các môn đại cương trên trường</li>
+		 		<li>Em dành 1 ngày để dành 1 học html,css, bootstrap.. sau đó dành 1 ngày để học java </li>
+		 	</ul>
+		 </div>
+	</div>
+</body> 
+</html>
