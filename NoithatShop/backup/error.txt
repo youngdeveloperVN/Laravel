@@ -1,0 +1,55 @@
+I. EVN
+
+1. [PDOException]
+  could not find driver
+ Solution:  	> php.ini > 
+ 			Change from ;extension=php_pdo_mysql.dll > extension=php_pdo_mysql.dll (Remove ;)
+2. [PDOException]
+  SQLSTATE[HY000] [1049] Unknown database 'youngdeveloper'
+  
+  Create database youngdeveloper;
+  
+3. [PDOException]ss
+  SQLSTATE[42000]: Syntax error or access violation: 1071 Specified key was too long; max key length is 767 bytes
+  
+ Change length default in AppServiceProvider.php
+ 	Schema::defaultStringLength(191);
+ 	
+4. [Symfony\Component\Debug\Exception\FatalThrowableError]
+  Class 'App\Providers\Schema' not found
+  use Illuminate\Support\Facades\Schema; in AppServiceProvider.php
+  
+5.[PDOException]
+  SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'users' already exists
+  
+6.  Class UserTableSeeder does not exist when run seeder
+	solution: 1.1.composer update,
+			  1.2 composer dump-autoload.
+			  1.3 "autoload-dev": {
+				    	"classmap": [
+				        "tests/TestCase.php",
+				        "database/seeds/UserTableSeeder.php" //include the file with its path here
+				    ]
+				},
+	https://stackoverflow.com/questions/32475892/reflectionexception-class-classname-does-not-exist-laravel
+7. upload file 
+	The file "house.jpg" exceeds your upload_max_filesize ini directive (limit is 2048 KiB)..
+	
+	//fix php.ini 
+		file_uploads = On
+		upload_max_filesize = 20M
+		post_max_size = 20M
+		upload_tmp_dir = /tmp/
+8. upload file 
+	Unknow method getClientOriginalExtension
+	Cause: From must be import enctype="multipart/form-data"
+	
+9. Class UserTableSeeder does not exist
+solution: 1.1.composer update,
+		  1.2composer dump-autoload.
+		  1.3"autoload-dev": {
+			    	"classmap": [
+			        "tests/TestCase.php",
+			        "database/seeds/UserTableSeeder.php" //include the file with its path here
+			    ]
+			},
