@@ -62,3 +62,14 @@ Route::get('/dressyearsoldgirl/tut{id}', 'PostController@dressyearsoldgirl');
 Route::get('/fancydressyearsoldgirl/tut{id}', 'PostController@fancydressyearsoldgirl');
 Route::get('/dressfancyoldgirl/tut{id}', 'PostController@dressfancyoldgirl');
 Route::get('/thebuttonloopclosure/tut{id}', 'PostController@thebuttonloopclosure');
+
+Route::get('/weddingeveningdressestheoretical/tut{id}', 'PostController@weddingeveningdressestheoretical');
+Route::get('/weddingeveningdressespractical/tut{id}', 'PostController@weddingeveningdressespractical');
+Route::get('/weddingskirtspetticoatstheoretical/tut{id}', 'PostController@weddingskirtspetticoatstheoretical');
+Route::get('/weddingskirtspetticoatspractical/tut{id}', 'PostController@weddingskirtspetticoatspractical');
+
+Route::get('/structureddesignerskirt/tut{id}', 'PostController@structureddesignerskirt');
+Route::get('/fancydress12yearsoldgirl/tut{id}', 'PostController@fancydress12yearsoldgirl');
+
+
+

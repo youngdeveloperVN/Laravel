@@ -11,6 +11,14 @@ class PostController extends Controller {
 		$localdirectory = public_path() . '/pages/';
 		
 		$categories = array(
+		
+				"structureddesignerskirt" => "17",
+				"fancydress12yearsoldgirl" => "14",
+				"weddingeveningdressestheoretical" => "35",
+				"weddingeveningdressespractical" => "12",
+				"weddingskirtspetticoatstheoretical" => "19",
+				"weddingskirtspetticoatspractical" => "30",
+				
 				"premiumdress" => "54",
 				"dresswithwholepiecetrain" => "34",
 				"crewneckdresswithfullskirt" => "25",
@@ -78,7 +86,27 @@ class PostController extends Controller {
 			}
 		}
 	}
-
+	
+    public function weddingeveningdressestheoretical($id) {
+		return view('layouts.pages.weddingeveningdressestheoretical.tut' . $id);
+	}
+    public function weddingeveningdressespractical($id) {
+		return view('layouts.pages.weddingeveningdressespractical.tut' . $id);
+	}
+    public function weddingskirtspetticoatstheoretical($id) {
+		return view('layouts.pages.weddingskirtspetticoatstheoretical.tut' . $id);
+	}
+    public function weddingskirtspetticoatspractical($id) {
+		return view('layouts.pages.weddingskirtspetticoatspractical.tut' . $id);
+	}
+	
+    public function structureddesignerskirt($id) {
+		return view('layouts.pages.structureddesignerskirt.tut' . $id);
+	}
+    public function fancydress12yearsoldgirl($id) {
+		return view('layouts.pages.structureddesignerskirt.tut' . $id);
+	}
+    
 	public function premiumdress($id) {
 		//PostController::createFolderAndFile();
 		return view('layouts.pages.premiumdress.tut' . $id);
