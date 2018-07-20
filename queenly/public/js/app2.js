@@ -1,4 +1,11 @@
-var listIdUl = [ "idPremiumdress", "idDressWithWholePieceTrain",
+var listIdUl = [ 
+		"idStructureddesignerskirt",
+		"idFancydress12yearsoldgirl",
+		"idWeddingeveningdressestheoretical", 
+		"idWeddingeveningdressespractical", 
+		"idWeddingskirtspetticoatstheoretical", 
+		"idWeddingskirtspetticoatspractical", 
+		"idPremiumdress", "idDressWithWholePieceTrain",
 		"idCrewNeckDressWithFullSkirt", "idGownWithBareSkinEffect",
 		"idGownWithBareSkinEffect2", "idOpenBackDressWithBodysuitBase",
 		"idOpenBackDressBodiceBase", "idWeddingDressWithoutSeSeams",
