@@ -1,9 +1,7 @@
 /*NAVIGATOR COMMON START*/
 #navigator {
 	background-color: #333;
-	padding-left: 15px;
-	padding-right: 15px;
-	z-index: 1;  /*Hiển thị mặt trước nếu bị che khuất*/
+	z-index: 1;
 }
 
 .icon{

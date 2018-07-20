@@ -199,6 +199,10 @@ body{
 		float: none;
 		width: 100%;
 	}
+	.container {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
 	/*CUSTOM CLASS MOBILE END*/
 }
 
