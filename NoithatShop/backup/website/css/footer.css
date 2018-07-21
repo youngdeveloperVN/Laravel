@@ -3,6 +3,16 @@
 #footer{
 	padding-top: 15px;
 	padding-bottom: 15px;
+	font-size: 1em;
+	
+}
+#footer, #footer a{
+	color: #fff;
+}
+
+#footer ul li a {
+	padding: 8px 0px;
+	display: block;
 	
 }
 /*Footer for PC end*/
