@@ -5,7 +5,7 @@ Hướng dẫn flexbox toàn tập
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
-/* ----------- iPhone 4 and 4S ----------- */
+/* ----------- iPhone 4 and 4S ----------- */s
 /* Portrait and Landscape */
 @media only screen 
   and (min-device-width: 320px) 
