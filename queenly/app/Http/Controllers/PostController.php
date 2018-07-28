@@ -13,7 +13,7 @@ class PostController extends Controller {
 		$categories = array(
 		
 				"structureddesignerskirt" => "17",
-				"fancydress12yearsoldgirl" => "14",
+				"fancydresstwentyyearsoldgirl" => "14",
 				"weddingeveningdressestheoretical" => "35",
 				"weddingeveningdressespractical" => "12",
 				"weddingskirtspetticoatstheoretical" => "19",
@@ -103,8 +103,8 @@ class PostController extends Controller {
     public function structureddesignerskirt($id) {
 		return view('layouts.pages.structureddesignerskirt.tut' . $id);
 	}
-    public function fancydress12yearsoldgirl($id) {
-		return view('layouts.pages.fancydress12yearsoldgirl.tut' . $id);
+	public function fancydresstwentyyearsoldgirl($id) {
+		return view('layouts.pages.fancydresstwentyyearsoldgirl.tut' . $id);
 	}
     
 	public function premiumdress($id) {

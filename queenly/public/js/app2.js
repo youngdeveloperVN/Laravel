@@ -1,28 +1,59 @@
 var listIdUl = [ 
-		"idStructureddesignerskirt",
-		"idFancydresstwentyyearsoldgirl",
-		"idWeddingeveningdressestheoretical", 
-		"idWeddingeveningdressespractical", 
-		"idWeddingskirtspetticoatstheoretical", 
-		"idWeddingskirtspetticoatspractical", 
-		"idPremiumdress", "idDressWithWholePieceTrain",
-		"idCrewNeckDressWithFullSkirt", "idGownWithBareSkinEffect",
-		"idGownWithBareSkinEffect2", "idOpenBackDressWithBodysuitBase",
-		"idOpenBackDressBodiceBase", "idWeddingDressWithoutSeSeams",
-		"idDressSleeves", "idWeddingDressFullSkirt", "idCropGown",
-		"idPrincessWedding", "idRuffleSkirt", "idMermaWeddingSkirt",
-		"idSteampunkCorset", "idLeatherCorset", "idDressLacing", "idPlusStrap",
-		"idCorsetSleeves", "idCorsetMakingABC", "idMustKnow", "idCorsetDay",
-		"idTipsTricks", "idSewingReviews", "idCocktailDress",
-		"idTransparentHours", "idCorsetTechnique", "idQuiltedCups",
-		"idDressCutCups", "idBodysuitCorsetCups", "idPartyDress",
-		"idCorsetWithDrapery", "idCorsetIntegralStraps", "idCorsetPartCups",
-		"idCorsetCutOut", "idRhinestonesDecoration", "idAdditionalDecoration",
-		"idThickDecorationElements", "idWeddingDressDecoration",
-		"idSequinsDecoration", "idCasualGarmentDecoration",
-		"idEpaulettesSkirt", "idTambourLuneville",
-		"idTheLawProportionsChildren", "idDressYearsOldGirl",
-		"idFancyDressYearsOldGirl", "idDressFancyOldGirl", "idTheButtonLoopClosure" ];
+	"idStructureddesignerskirt",
+	"idFancydresstwentyyearsoldgirl",
+	"idWeddingeveningdressestheoretical", 
+	"idWeddingeveningdressespractical", 
+	"idWeddingskirtspetticoatstheoretical", 
+	"idWeddingskirtspetticoatspractical", 
+	"idPremiumdress", 
+	"idDressWithWholePieceTrain",
+	"idCrewNeckDressWithFullSkirt", 
+	"idGownWithBareSkinEffect",
+	"idGownWithBareSkinEffect2", 
+	"idOpenBackDressWithBodysuitBase",
+	"idOpenBackDressBodiceBase",
+	"idWeddingDressWithoutSeSeams",
+	"idDressSleeves",
+	"idWeddingDressFullSkirt", 
+	"idCropGown",
+	"idPrincessWedding", 
+	"idRuffleSkirt", 
+	"idMermaWeddingSkirt",
+	"idSteampunkCorset", 
+	"idLeatherCorset", 
+	"idDressLacing", 
+	"idPlusStrap",
+	"idCorsetSleeves", 
+	"idCorsetMakingABC", 
+	"idMustKnow", 
+	"idCorsetDay",
+	"idTipsTricks", 
+	"idSewingReviews", 
+	"idCocktailDress",
+	"idTransparentHours", 
+	"idCorsetTechnique", 
+	"idQuiltedCups",
+	"idDressCutCups", 
+	"idBodysuitCorsetCups", 
+	"idPartyDress",
+	"idCorsetWithDrapery", 
+	"idCorsetIntegralStraps", 
+	"idCorsetPartCups",
+	"idCorsetCutOut", 
+	"idRhinestonesDecoration", 
+	"idAdditionalDecoration",
+	"idThickDecorationElements", 
+	"idWeddingDressDecoration",
+	"idSequinsDecoration", 
+	"idCasualGarmentDecoration",
+	"idEpaulettesSkirt", 
+	"idTambourLuneville",
+	"idTheLawProportionsChildren", 
+	"idDressYearsOldGirl",
+	"idFancyDressYearsOldGirl", 
+	"idDressFancyOldGirl", 
+	"idTheButtonLoopClosure" 
+ ];
 
 addIdToUl = function() {
 	var arrayCategories = '';
@@ -79,7 +110,9 @@ generateMethodControler = function (methodName){
 
 // generate item of list
 generateCategory= function(folder, total){
-	/*var exp = '$categories = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");';
+	/*var exp = '$categories = array("Peter"=>"35", 
+ "Ben"=>"37", 
+ "Joe"=>"43");';
 	console.log(exp);*/
 	var item  = '"'+ folder + '"=>"'+ total +'",';
 	//console.log(item);
@@ -87,8 +120,10 @@ generateCategory= function(folder, total){
 }
 
 refreshTabNav= function(){
-	$('a.faq-tab').parent().css("display", "none");
-	$('a#diploma').parent().css("display", "none");
+	$('a.faq-tab').parent().css("display", 
+ "none");
+	$('a#diploma').parent().css("display", 
+ "none");
 	var listLiOfTab = $('div.lesson-tab ul.nav-tabs li');
 	$(listLiOfTab[3]).css('display', 'none');
 	$(listLiOfTab[4]).css('display', 'none');
@@ -104,8 +139,10 @@ activeURLCurrent = function(){
 	$('#courses a.access').each(function(){
         // if the current path is like this link, make it active
         if($(this).attr('href') === current){
-        	$(this).parent().css("display", "block");
-        	$(this).parent().parent('ul').css("display", "block");
+        	$(this).parent().css("display", 
+ "block");
+        	$(this).parent().parent('ul').css("display", 
+ "block");
         	$(this).parents('li').addClass('active');
         	//console.log(current+ ' is active');
         	//console.log($(this).parent().html() + ' is active');

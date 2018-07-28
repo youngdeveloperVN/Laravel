@@ -68,7 +68,7 @@ Route::get('/weddingeveningdressespractical/tut{id}', 'PostController@weddingeve
 Route::get('/weddingskirtspetticoatstheoretical/tut{id}', 'PostController@weddingskirtspetticoatstheoretical');
 Route::get('/weddingskirtspetticoatspractical/tut{id}', 'PostController@weddingskirtspetticoatspractical');
 Route::get('/structureddesignerskirt/tut{id}', 'PostController@structureddesignerskirt');
-Route::get('/fancydresstwentyyearsoldgirl/tut{id}', 'PostController@fancydress12yearsoldgirl');
+Route::get('/fancydresstwentyyearsoldgirl/tut{id}', 'PostController@fancydresstwentyyearsoldgirl');
 
 
 
