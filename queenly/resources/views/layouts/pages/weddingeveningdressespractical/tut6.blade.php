@@ -2,7 +2,7 @@
 
 
 
-<div id="lesson-content" class="col-md-8" style="min-height: 3379px;">
+
 			
 			
 
