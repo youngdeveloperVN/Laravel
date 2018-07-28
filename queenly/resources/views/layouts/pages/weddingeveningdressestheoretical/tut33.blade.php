@@ -1,1 +1,1 @@
-@extends('index')@section('content') video-sc @endsection
+@extends('index')@section('content')  @endsection

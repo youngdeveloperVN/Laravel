@@ -104,7 +104,7 @@ class PostController extends Controller {
 		return view('layouts.pages.structureddesignerskirt.tut' . $id);
 	}
     public function fancydress12yearsoldgirl($id) {
-		return view('layouts.pages.structureddesignerskirt.tut' . $id);
+		return view('layouts.pages.fancydress12yearsoldgirl.tut' . $id);
 	}
     
 	public function premiumdress($id) {
