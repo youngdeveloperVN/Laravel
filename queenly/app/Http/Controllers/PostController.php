@@ -11,14 +11,14 @@ class PostController extends Controller {
 		$localdirectory = public_path() . '/pages/';
 		
 		$categories = array(
-		
+
 				"structureddesignerskirt" => "17",
 				"fancydresstwentyyearsoldgirl" => "14",
 				"weddingeveningdressestheoretical" => "35",
 				"weddingeveningdressespractical" => "12",
 				"weddingskirtspetticoatstheoretical" => "19",
 				"weddingskirtspetticoatspractical" => "30",
-				
+
 				"premiumdress" => "54",
 				"dresswithwholepiecetrain" => "34",
 				"crewneckdresswithfullskirt" => "25",
@@ -66,7 +66,12 @@ class PostController extends Controller {
 				"dressyearsoldgirl" => "9",
 				"fancydressyearsoldgirl" => "16",
 				"dressfancyoldgirl" => "14",
-				"thebuttonloopclosure" => "2"
+				"thebuttonloopclosure" => "2",
+                "weddingDresswithDetachableFullSkirtPart1" => "33", // new 4 - 1 - 2019
+                "weddingDresswithDetachableFullSkirtPart2" => "26",
+                "fantasyCorset" => "21",
+                "corsetWithFrontBuskFor15YearsOldGirl" => "20"  // end 4 - 1 - 2019
+
 		);
 		
 		foreach ($categories as $category => $total) {
@@ -108,7 +113,7 @@ class PostController extends Controller {
 	}
     
 	public function premiumdress($id) {
-		//PostController::createFolderAndFile();
+		PostController::createFolderAndFile();
 		return view('layouts.pages.premiumdress.tut' . $id);
 	}
 
