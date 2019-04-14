@@ -1,97 +1,97 @@
-var listIdUl = [ 
+var listIdUl = [
 	"idStructureddesignerskirt",
 	"idFancydresstwentyyearsoldgirl",
-	"idWeddingeveningdressestheoretical", 
-	"idWeddingeveningdressespractical", 
-	"idWeddingskirtspetticoatstheoretical", 
-	"idWeddingskirtspetticoatspractical", 
-	"idPremiumdress", 
+	"idWeddingeveningdressestheoretical",
+	"idWeddingeveningdressespractical",
+	"idWeddingskirtspetticoatstheoretical",
+	"idWeddingskirtspetticoatspractical",
+	"idPremiumdress",
 	"idDressWithWholePieceTrain",
-	"idCrewNeckDressWithFullSkirt", 
+	"idCrewNeckDressWithFullSkirt",
 	"idGownWithBareSkinEffect",
-	"idGownWithBareSkinEffect2", 
+	"idGownWithBareSkinEffect2",
 	"idOpenBackDressWithBodysuitBase",
 	"idOpenBackDressBodiceBase",
 	"idWeddingDressWithoutSeSeams",
 	"idDressSleeves",
-	"idWeddingDressFullSkirt", 
+	"idWeddingDressFullSkirt",
 	"idCropGown",
-	"idPrincessWedding", 
-	"idRuffleSkirt", 
+	"idPrincessWedding",
+	"idRuffleSkirt",
 	"idMermaWeddingSkirt",
-	"idSteampunkCorset", 
-	"idLeatherCorset", 
-	"idDressLacing", 
+	"idSteampunkCorset",
+	"idLeatherCorset",
+	"idDressLacing",
 	"idPlusStrap",
-	"idCorsetSleeves", 
-	"idCorsetMakingABC", 
-	"idMustKnow", 
+	"idCorsetSleeves",
+	"idCorsetMakingABC",
+	"idMustKnow",
 	"idCorsetDay",
-	"idTipsTricks", 
-	"idSewingReviews", 
+	"idTipsTricks",
+	"idSewingReviews",
 	"idCocktailDress",
-	"idTransparentHours", 
-	"idCorsetTechnique", 
+	"idTransparentHours",
+	"idCorsetTechnique",
 	"idQuiltedCups",
-	"idDressCutCups", 
-	"idBodysuitCorsetCups", 
+	"idDressCutCups",
+	"idBodysuitCorsetCups",
 	"idPartyDress",
-	"idCorsetWithDrapery", 
-	"idCorsetIntegralStraps", 
+	"idCorsetWithDrapery",
+	"idCorsetIntegralStraps",
 	"idCorsetPartCups",
-	"idCorsetCutOut", 
-	"idRhinestonesDecoration", 
+	"idCorsetCutOut",
+	"idRhinestonesDecoration",
 	"idAdditionalDecoration",
-	"idThickDecorationElements", 
+	"idThickDecorationElements",
 	"idWeddingDressDecoration",
-	"idSequinsDecoration", 
+	"idSequinsDecoration",
 	"idCasualGarmentDecoration",
-	"idEpaulettesSkirt", 
+	"idEpaulettesSkirt",
 	"idTambourLuneville",
-	"idTheLawProportionsChildren", 
+	"idTheLawProportionsChildren",
 	"idDressYearsOldGirl",
-	"idFancyDressYearsOldGirl", 
-	"idDressFancyOldGirl", 
+	"idFancyDressYearsOldGirl",
+	"idDressFancyOldGirl",
 	"idTheButtonLoopClosure" ,
 	"idweddingDresswithDetachableFullSkirtPart1",
 	"idweddingDresswithDetachableFullSkirtPart2",
 	"idFantasyCorset",
 	"idcorsetWithFrontBuskFor15YearsOldGirl"
- ];
+];
 
 addIdToUl = function() {
 	var arrayCategories = '';
-	
+
 	listIdUl.forEach(function(entry){
-		
+
 		var selectorId = "#"+entry;
-		
+
 		if ($(selectorId)) {
 			var itemList = $(selectorId).find('a');
-			
+
 			//generateMethodControler(getMethodController(entry));
 			var total = itemList.length;
-			
+
 			var folders = getMethodController(entry);
-			
+
 			//arrayCategories = arrayCategories + generateCategory(folders, total);
 			for (var i = 0; i < itemList.length; i++) {
 				var item  = itemList.get(i);
-				var hrefNew = '/' + entry.toLowerCase().replace('id', '') + '/' + 'tut' + (i + 1); 
+				var hrefNew = '/' + entry.toLowerCase().replace('id', '') + '/' + 'tut' + (i + 1);
 				$(item).attr('href', hrefNew);
 				//console.log($(item).attr('href'));
 			}
 		} else {
 			console.log('Can not find ' + entry);
 		}
-		//rename id 
+		//rename id
 		$(selectorId).attr('id', folders);
 	});
-	
+
 	//trans html from Desktpop to Mobile list
 	var htmlExpected = $('#list-content').html();
 	$('#content_mobile').html(htmlExpected);
-	
+
 	//var codePHP = '$categories = array('+ arrayCategories +');';
 	//console.log('Generate Code PHP : ' + codePHP);
 }
@@ -114,8 +114,8 @@ generateMethodControler = function (methodName){
 
 // generate item of list
 generateCategory= function(folder, total){
-	/*var exp = '$categories = array("Peter"=>"35", 
- "Ben"=>"37", 
+	/*var exp = '$categories = array("Peter"=>"35",
+ "Ben"=>"37",
  "Joe"=>"43");';
 	console.log(exp);*/
 	var item  = '"'+ folder + '"=>"'+ total +'",';
@@ -124,10 +124,10 @@ generateCategory= function(folder, total){
 }
 
 refreshTabNav= function(){
-	$('a.faq-tab').parent().css("display", 
- "none");
-	$('a#diploma').parent().css("display", 
- "none");
+	$('a.faq-tab').parent().css("display",
+		"none");
+	$('a#diploma').parent().css("display",
+		"none");
 	var listLiOfTab = $('div.lesson-tab ul.nav-tabs li');
 	$(listLiOfTab[3]).css('display', 'none');
 	$(listLiOfTab[4]).css('display', 'none');
@@ -141,35 +141,49 @@ activeURLCurrent = function(){
 	var totalTut = 0;
 	//console.log(current+ ' is active');
 	$('#courses a.access').each(function(){
-        // if the current path is like this link, make it active
-        if($(this).attr('href') === current){
-        	$(this).parent().css("display", 
- "block");
-        	$(this).parent().parent('ul').css("display", 
- "block");
-        	$(this).parents('li').addClass('active');
-        	//console.log(current+ ' is active');
-        	//console.log($(this).parent().html() + ' is active');
-        	totalTut = $(this).parent().parent().children().length;
-        }
-    });
+		// if the current path is like this link, make it active
+		if($(this).attr('href') === current){
+			$(this).parent().css("display",
+				"block");
+			$(this).parent().parent('ul').css("display",
+				"block");
+			$(this).parents('li').addClass('active');
+			//console.log(current+ ' is active');
+			//console.log($(this).parent().html() + ' is active');
+			totalTut = $(this).parent().parent().children().length;
+		}
+	});
 	return totalTut;
 }
 navigatorTut = function(){
 	var totalTut = activeURLCurrent();
 	var current = location.pathname;
-	var tutNumberCurrent = parseInt(current.replace ( /[^\d.]/g, '' ));
-	var nextTut = current.replace(tutNumberCurrent,(tutNumberCurrent + 1));
-	var previousTut = current.replace(tutNumberCurrent,(tutNumberCurrent - 1));
+
+	var findPositionTut = current.indexOf("tut");
+	var endUrlCurrent = current.substring(findPositionTut, current.length);
+
+	//number
+	var tutNumberCurrent = parseInt(endUrlCurrent.replace ( /[^\d.]/g, '' ));
+	var tutNumberNext = tutNumberCurrent + 1;
+	var tutNumberPrevious = tutNumberCurrent - 1;
+
+	// tut + number
+	//var endUrlCurrent = 'tut' + tutNumberCurrent;
+	var endUrlNext = 'tut' + tutNumberNext;
+	var endUrlPrevious = 'tut' + tutNumberPrevious;
+
+	var nextTutUrl = current.replace(endUrlCurrent, endUrlNext);
+	var previousTutUrl = current.replace(endUrlCurrent, endUrlPrevious);
+
 	console.log('Total Tut : '+ totalTut);
 	console.log('Current Tut : '+ tutNumberCurrent);
-	console.log('Path Next Tut : '+ nextTut);
-	console.log('Path Previous Tut : '+ previousTut);
-	
+	console.log('Path Next Tut : '+ nextTutUrl);
+	console.log('Path Previous Tut : '+ previousTutUrl);
+
 	//add url
-	$('div.next>a').first().attr('href', nextTut);
-	$('div.previous>a').first().attr('href', previousTut);
-	
+	$('div.next>a').first().attr('href', nextTutUrl);
+	$('div.previous>a').first().attr('href', previousTutUrl);
+
 	//show hide
 	if (tutNumberCurrent === 1) {
 		//show next, hide prevrious
@@ -184,7 +198,7 @@ navigatorTut = function(){
 		$('div.next').css('display', 'block');
 		$('div.previous').css('display', 'block');
 	}
-	
+
 }
 
 roleShow = function(){
@@ -207,7 +221,7 @@ roleActive = function(){
 		roleShow();
 	});
 }
-	
+
 $(document).ready(function() {
 	addIdToUl();
 	navigatorTut();

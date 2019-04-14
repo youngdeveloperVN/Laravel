@@ -5269,26 +5269,6 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 	color: #843534
 }
 
-@
--webkit-keyframes progress-bar-stripes {
-	from {background-position: 40px 0
-}
-
-to {
-	background-position: 0 0
-}
-
-}
-@
-keyframes progress-bar-stripes {
-	from {background-position: 40px 0
-}
-
-to {
-	background-position: 0 0
-}
-
-}
 .progress {
 	height: 22px;
 	margin-bottom: 22px;
@@ -7269,4 +7249,43 @@ strong {
 		    padding-left: 35px;
     		padding-right: 35px;
 	}
+}
+
+#lesson-content .navigation .download a.btn:hover {
+	background: #76B896;
+}
+
+#lesson-content .navigation .download a.btn {
+	color: #fff;
+	background: #3CB878;
+	border-radius: 3px;
+	margin-top: 6px;
+}
+
+#lesson-content .navigation .download a.btn {
+	color: #fff;
+	background: #3CB878;
+	border-radius: 3px;
+	margin-top: 6px;
+}
+
+.player .vp-nudge-shade {
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	width: 40%;
+	height: 100%;
+	opacity: 1;
+	transition: opacity .25s ease-in-out;
+}
+
+#lesson-content .navigation .download {
+	position: absolute;
+	left: 0;
+	right: 0;
+	background: 0 0;
+	text-align: center;
+	width: 120px;
+	margin: 0 auto;
+	display: none;
 }
