@@ -8,7 +8,7 @@
 										
 					<div class="previous"><a href="https://corsetacademy.net/tutorial-5-cutting-the-base-of-the-dress/" rel="prev"><i class="fa fa-chevron-left"></i> Previous tutorial</a></div><div class="next"><a href="https://corsetacademy.net/tutorial-7-duplicating-the-pieces-with-iron-on-fabric/" rel="next">Next tutorial <i class="fa fa-chevron-right"></i></a></div>					<div class="clearfix"></div>
 				</div>
-				
+	w
 			</div><div class="content-data">
 			
 				

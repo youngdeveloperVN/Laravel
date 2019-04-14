@@ -1,6 +1,5 @@
 <?php
 namespace App\Http\Controllers;
-use Illuminate\Http\Request;
 use File;
 use App\Category;
 
@@ -92,6 +91,22 @@ class PostController extends Controller {
 		}
 	}
 	
+	public function weddingDresswithDetachableFullSkirtPart1($id) {
+		return view('layouts.pages.weddingDresswithDetachableFullSkirtPart1.tut' . $id);
+	}
+	
+	public function weddingDresswithDetachableFullSkirtPart2($id) {
+		return view('layouts.pages.weddingDresswithDetachableFullSkirtPart2.tut' . $id);
+	}
+	
+	public function fantasyCorset($id) {
+		return view('layouts.pages.fantasyCorset.tut' . $id);
+	}
+	
+	public function corsetWithFrontBuskFor15YearsOldGirl($id) {
+		return view('layouts.pages.corsetWithFrontBuskFor15YearsOldGirl.tut' . $id);
+	}
+	
     public function weddingeveningdressestheoretical($id) {
 		return view('layouts.pages.weddingeveningdressestheoretical.tut' . $id);
 	}
@@ -113,7 +128,7 @@ class PostController extends Controller {
 	}
     
 	public function premiumdress($id) {
-		PostController::createFolderAndFile();
+		//PostController::createFolderAndFile();
 		return view('layouts.pages.premiumdress.tut' . $id);
 	}
 

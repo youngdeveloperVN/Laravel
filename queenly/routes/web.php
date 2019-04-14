@@ -62,13 +62,15 @@ Route::get('/dressyearsoldgirl/tut{id}', 'PostController@dressyearsoldgirl');
 Route::get('/fancydressyearsoldgirl/tut{id}', 'PostController@fancydressyearsoldgirl');
 Route::get('/dressfancyoldgirl/tut{id}', 'PostController@dressfancyoldgirl');
 Route::get('/thebuttonloopclosure/tut{id}', 'PostController@thebuttonloopclosure');
-
+//2018
 Route::get('/weddingeveningdressestheoretical/tut{id}', 'PostController@weddingeveningdressestheoretical');
 Route::get('/weddingeveningdressespractical/tut{id}', 'PostController@weddingeveningdressespractical');
 Route::get('/weddingskirtspetticoatstheoretical/tut{id}', 'PostController@weddingskirtspetticoatstheoretical');
 Route::get('/weddingskirtspetticoatspractical/tut{id}', 'PostController@weddingskirtspetticoatspractical');
 Route::get('/structureddesignerskirt/tut{id}', 'PostController@structureddesignerskirt');
 Route::get('/fancydresstwentyyearsoldgirl/tut{id}', 'PostController@fancydresstwentyyearsoldgirl');
-
-
-
+//2019
+Route::get('/weddingdresswithdetachablefullskirtpart1/tut{id}', 'PostController@weddingDresswithDetachableFullSkirtPart1');
+Route::get('/weddingdresswithdetachablefullskirtpart2/tut{id}', 'PostController@weddingDresswithDetachableFullSkirtPart2');
+Route::get('/fantasycorset/tut{id}', 'PostController@fantasyCorset');
+Route::get('/corsetwithfrontbuskfor15yearsoldgirl/tut{id}', 'PostController@corsetWithFrontBuskFor15YearsOldGirl');
