@@ -307,7 +307,7 @@
 				</ul></li>
 			<li class="active"><a href="javascript:void(0)" class="nav-sub first"><i
 					class="fa fa-my-menu"></i></a> <a class="second"
-				href="#/categories/#4289">Fancy Dresses for Girls <span>(4)</span>
+				href="#/categories/#4289">Fancy Dresses for Girls <span>(6)</span>
 			</a>
 				<ul class="list-unstyled">
 					<li><a href="javascript:void(0)" class="nav-sub first blank"

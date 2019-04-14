@@ -52,7 +52,11 @@ var listIdUl = [
 	"idDressYearsOldGirl",
 	"idFancyDressYearsOldGirl", 
 	"idDressFancyOldGirl", 
-	"idTheButtonLoopClosure" 
+	"idTheButtonLoopClosure" ,
+	"idweddingDresswithDetachableFullSkirtPart1",
+	"idweddingDresswithDetachableFullSkirtPart2",
+	"idFantasyCorset",
+	"idcorsetWithFrontBuskFor15YearsOldGirl"
  ];
 
 addIdToUl = function() {

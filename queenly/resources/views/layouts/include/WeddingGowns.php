@@ -1173,97 +1173,97 @@
         </li>
 
         <li class="active"><a href="javascript:void(0)" class="nav-sub first" data-catid="139"><i
-                        class="fa fa-my-menu"></i></a> <a class="second" href="https://corsetacademy.net/foreword-2/">Wedding
+                        class="fa fa-my-menu"></i></a> <a class="second" href="#/foreword-2/">Wedding
                 Dress with Detachable Full Skirt. Part 1. <span>(33)</span></a>
             <ul id="idweddingDresswithDetachableFullSkirtPart1" class="list-unstyled">
-                <li><a href="https://corsetacademy.net/foreword-2/" class="access"><i class="fa fa-play-circle"></i>Foreword.</a>
+                <li><a href="#/foreword-2/" class="access"><i class="fa fa-play-circle"></i>Foreword.</a>
                 </li>
-                <li><a href="https://corsetacademy.net/tutorial-1-preparation-of-patterns/" class="access"><i
+                <li><a href="#/tutorial-1-preparation-of-patterns/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 1. Preparation of patterns.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-2-pattern-alteration-of-the-corset-face-for-our-client/"
+                <li><a href="#/tutorial-2-pattern-alteration-of-the-corset-face-for-our-client/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 2. Pattern alteration of the corset face
                         for our client.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-3-changes-of-the-lining-pattern-for-our-client/"
+                <li><a href="#/tutorial-3-changes-of-the-lining-pattern-for-our-client/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 3. Changes of the lining pattern for our
                         client.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-4-alteration-of-corset-face-for-a-plus-size-client/"
+                <li><a href="#/tutorial-4-alteration-of-corset-face-for-a-plus-size-client/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 4. Alteration of corset face for a plus
                         size client.</a></li>
                 <li>
-                    <a href="https://corsetacademy.net/tutorial-5-pattern-alteration-of-corset-lining-for-a-plus-sized-client/"
+                    <a href="#/tutorial-5-pattern-alteration-of-corset-lining-for-a-plus-sized-client/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 5. Pattern alteration of corset lining
                         for a plus sized client.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-6-cutting-the-face-and-the-lining/" class="access"><i
+                <li><a href="#/tutorial-6-cutting-the-face-and-the-lining/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 6. Cutting the face and the lining.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-7-a-new-scheme-of-bone-marking-on-the-cups/"
+                <li><a href="#/tutorial-7-a-new-scheme-of-bone-marking-on-the-cups/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 7. A new scheme of bone marking on the
                         cups.</a></li>
                 <li>
-                    <a href="https://corsetacademy.net/tutorial-8-joining-the-corset-lining-and-the-back-of-the-corset-face/"
+                    <a href="#/tutorial-8-joining-the-corset-lining-and-the-back-of-the-corset-face/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 8. Joining the corset lining and the
                         back of the corset face.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-9-the-upper-edge-of-the-back-according-to-the-template/"
+                <li><a href="#/tutorial-9-the-upper-edge-of-the-back-according-to-the-template/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 9. The upper edge of the back according
                         to the template.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-10-stitching-the-tunnels-on-the-lining-curves/"
+                <li><a href="#/tutorial-10-stitching-the-tunnels-on-the-lining-curves/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 10. Stitching the tunnels on the lining
                         curves.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-11-sewing-the-cups-and-the-front-curves-of-the-face/"
+                <li><a href="#/tutorial-11-sewing-the-cups-and-the-front-curves-of-the-face/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 11. Sewing the cups and the front curves
                         of the face.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-12-stitching-the-cut-off-cups-of-the-lining/"
+                <li><a href="#/tutorial-12-stitching-the-cut-off-cups-of-the-lining/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 12. Stitching the cut-off cups of the
                         lining.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-13-pressing-the-cups-preparation-to-join-to-the-corset/"
+                <li><a href="#/tutorial-13-pressing-the-cups-preparation-to-join-to-the-corset/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 13. Pressing the cups, preparation to
                         join to the corset.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-14-preparation-for-making-lacing-on-air-loops/"
+                <li><a href="#/tutorial-14-preparation-for-making-lacing-on-air-loops/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 14. Preparation for making lacing on air
                         loops.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-15-hard-lacing-on-air-loops/" class="access"><i
+                <li><a href="#/tutorial-15-hard-lacing-on-air-loops/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 15. Hard lacing on air loops.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-16-pressed-flat-bias-tape-in-4-minutes/" class="access"><i
+                <li><a href="#/tutorial-16-pressed-flat-bias-tape-in-4-minutes/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 16. Pressed flat bias tape in 4 minutes.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-17-stitching-the-cups-into-the-lining/"
+                <li><a href="#/tutorial-17-stitching-the-cups-into-the-lining/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 17. Stitching the cups into the lining.</a>
                 </li>
-                <li><a href="https://corsetacademy.net/tutorial-18-strengthening-of-lining-upper-edge-without-boning/"
+                <li><a href="#/tutorial-18-strengthening-of-lining-upper-edge-without-boning/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 18. Strengthening of lining upper edge
                         without boning.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-19-upper-cut-of-the-lining/" class="access"><i
+                <li><a href="#/tutorial-19-upper-cut-of-the-lining/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 19. Upper cut of the lining.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-20-attaching-the-plastic-boning/" class="access"><i
+                <li><a href="#/tutorial-20-attaching-the-plastic-boning/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 20. Attaching the plastic boning.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-21-making-a-pattern-of-the-top-with-set-in-sleeve/"
+                <li><a href="#/tutorial-21-making-a-pattern-of-the-top-with-set-in-sleeve/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 21. Making a pattern of the top with
                         set-in sleeve.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-22-tools-and-materials-for-embroidery/"
+                <li><a href="#/tutorial-22-tools-and-materials-for-embroidery/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 22. Tools and materials for embroidery.</a>
                 </li>
-                <li><a href="https://corsetacademy.net/tutorial-23-the-main-methods-of-tambour-embroidery/"
+                <li><a href="#/tutorial-23-the-main-methods-of-tambour-embroidery/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 23. The main methods of tambour
                         embroidery.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-24-framing-the-fabric-for-embroidery/" class="access"><i
+                <li><a href="#/tutorial-24-framing-the-fabric-for-embroidery/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 24. Framing the fabric for embroidery.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-25-tracing-the-pattern-to-the-mesh/" class="access"><i
+                <li><a href="#/tutorial-25-tracing-the-pattern-to-the-mesh/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 25. Tracing the pattern to the mesh.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-26-contour-embroidery-with-threads-and-4-mm-sequins/"
+                <li><a href="#/tutorial-26-contour-embroidery-with-threads-and-4-mm-sequins/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 26. Contour embroidery with threads and
                         4 mm sequins.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-27-contour-embroidery-with-6-mm-sequins/"
+                <li><a href="#/tutorial-27-contour-embroidery-with-6-mm-sequins/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 27. Contour embroidery with 6 mm
                         sequins.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-28-white-sequin-embroidery-of-the-sleeves/"
+                <li><a href="#/tutorial-28-white-sequin-embroidery-of-the-sleeves/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 28. White sequin embroidery of the
                         sleeves.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-29-the-joining-of-the-top-pattern-with-the-corset/"
+                <li><a href="#/tutorial-29-the-joining-of-the-top-pattern-with-the-corset/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 29. The joining of the top pattern with
                         the corset.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-30-corset-covering-with-the-face/" class="access"><i
+                <li><a href="#/tutorial-30-corset-covering-with-the-face/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 30. Corset covering with the face.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-31-seamless-lace-cover-of-the-corset/" class="access"><i
+                <li><a href="#/tutorial-31-seamless-lace-cover-of-the-corset/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 31. Seamless lace cover of the corset.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-32-the-clean-finish-of-the-corset-upper-edge/"
+                <li><a href="#/tutorial-32-the-clean-finish-of-the-corset-upper-edge/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 32. The clean finish of the corset upper
                         edge.</a></li>
             </ul>
@@ -1271,76 +1271,76 @@
 
         <li class="active"><a href="javascript:void(0)" class="nav-sub first" data-catid="140"><i
                         class="fa fa-my-menu"></i></a> <a class="second"
-                                                          href="https://corsetacademy.net/tutorial-33-calculation-and-construction-of-a-skirt-gore/">Wedding
+                                                          href="#/tutorial-33-calculation-and-construction-of-a-skirt-gore/">Wedding
                 Dress with Detachable Full Skirt. Part 2. <span>(26)</span></a>
             <ul id="idweddingDresswithDetachableFullSkirtPart2" class="list-unstyled">
                 <li class="active"><a
-                            href="https://corsetacademy.net/tutorial-33-calculation-and-construction-of-a-skirt-gore/"
+                            href="#/tutorial-33-calculation-and-construction-of-a-skirt-gore/"
                             class="access"><i class="fa fa-play-circle"></i>Tutorial 33. Calculation and construction of
                         a skirt gore.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-34-sewing-of-the-base-skirt/" class="access"><i
+                <li><a href="#/tutorial-34-sewing-of-the-base-skirt/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 34. Sewing of the base skirt.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-35-joining-methods-of-the-corset-and-the-skirt/"
+                <li><a href="#/tutorial-35-joining-methods-of-the-corset-and-the-skirt/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 35. Joining methods of the corset and
                         the skirt.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-36-embroidery-of-the-decorative-bow-base/"
+                <li><a href="#/tutorial-36-embroidery-of-the-decorative-bow-base/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 36. Embroidery of the decorative bow
                         (base).</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-37-embroidery-of-the-bow/" class="access"><i
+                <li><a href="#/tutorial-37-embroidery-of-the-bow/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 37. Embroidery of the bow.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-38-embroidery-of-the-belt/" class="access"><i
+                <li><a href="#/tutorial-38-embroidery-of-the-belt/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 38. Embroidery of the belt.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-39-embroidery-of-the-lace-fragment/" class="access"><i
+                <li><a href="#/tutorial-39-embroidery-of-the-lace-fragment/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 39. Embroidery of the lace fragment.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-40-creating-the-lace-skirt-for-the-dress/"
+                <li><a href="#/tutorial-40-creating-the-lace-skirt-for-the-dress/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 40. Creating the lace skirt for the
                         dress.</a></li>
                 <li>
-                    <a href="https://corsetacademy.net/tutorial-41-method-of-creation-of-individual-padding-for-skirt-fullness/"
+                    <a href="#/tutorial-41-method-of-creation-of-individual-padding-for-skirt-fullness/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 41. Bonus #1. Method of creation of
                         individual padding for skirt fullness.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-42-drafting-of-padding-pattern-for-the-skirt/"
+                <li><a href="#/tutorial-42-drafting-of-padding-pattern-for-the-skirt/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 42. Drafting of padding pattern for the
                         skirt.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-43-cutting-of-padding/" class="access"><i
+                <li><a href="#/tutorial-43-cutting-of-padding/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 43. Cutting of padding.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-44-padding-pieces-stitching/" class="access"><i
+                <li><a href="#/tutorial-44-padding-pieces-stitching/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 44. Padding pieces stitching.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-45-covering-narrow-bones-with-fabric/" class="access"><i
+                <li><a href="#/tutorial-45-covering-narrow-bones-with-fabric/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 45. Covering narrow bones with fabric.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-46-stitching-of-bones-and-pencil-edges-to-padding/"
+                <li><a href="#/tutorial-46-stitching-of-bones-and-pencil-edges-to-padding/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 46. Stitching of bones and pencil-edges
                         to padding.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-47-internal-part-of-padding/" class="access"><i
+                <li><a href="#/tutorial-47-internal-part-of-padding/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 47. Internal part of padding.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-48-decoration-of-padding/" class="access"><i
+                <li><a href="#/tutorial-48-decoration-of-padding/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 48. Decoration of padding.</a></li>
                 <li>
-                    <a href="https://corsetacademy.net/tutorial-49-pattern-for-cutting-and-sewing-of-the-detachable-skirt/"
+                    <a href="#/tutorial-49-pattern-for-cutting-and-sewing-of-the-detachable-skirt/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 49. Pattern for cutting and sewing of
                         the detachable skirt.</a></li>
                 <li>
-                    <a href="https://corsetacademy.net/tutorial-50-peculiarities-of-stitching-the-soft-rigilene-bones-to-mesh-fabric/"
+                    <a href="#/tutorial-50-peculiarities-of-stitching-the-soft-rigilene-bones-to-mesh-fabric/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 50. Peculiarities of stitching the soft
                         Rigilene bones to mesh fabric.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-51-joining-the-detachable-skirt/" class="access"><i
+                <li><a href="#/tutorial-51-joining-the-detachable-skirt/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 51. Joining the detachable skirt.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-52-the-belt-for-the-detachable-skirt/" class="access"><i
+                <li><a href="#/tutorial-52-the-belt-for-the-detachable-skirt/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 52. The belt for the detachable skirt.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-53-making-the-bow-from-embroidered-elements/"
+                <li><a href="#/tutorial-53-making-the-bow-from-embroidered-elements/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 53. Making the bow from embroidered
                         elements.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-54-preparation-for-final-decoration-of-the-top/"
+                <li><a href="#/tutorial-54-preparation-for-final-decoration-of-the-top/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 54. Preparation for final decoration of
                         the top.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-55-decoration-of-the-top/" class="access"><i
+                <li><a href="#/tutorial-55-decoration-of-the-top/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 55. Decoration of the top.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-56-joining-the-top-to-the-dress/" class="access"><i
+                <li><a href="#/tutorial-56-joining-the-top-to-the-dress/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 56. Joining the top to the dress.</a></li>
-                <li><a href="https://corsetacademy.net/tutorial-57-conclusion-of-the-course/" class="access"><i
+                <li><a href="#/tutorial-57-conclusion-of-the-course/" class="access"><i
                                 class="fa fa-play-circle"></i>Tutorial 57. Conclusion of the course.</a></li>
                 <li>
-                    <a href="https://corsetacademy.net/tutorial-58-bonus-2-the-drafting-of-crinoline-with-ruffles-according-to-the-calculation-table/"
+                    <a href="#/tutorial-58-bonus-2-the-drafting-of-crinoline-with-ruffles-according-to-the-calculation-table/"
                        class="access"><i class="fa fa-play-circle"></i>Tutorial 58. &nbsp;Bonus #2. The drafting of
                         crinoline with ruffles according to the calculation table.</a></li>
             </ul>
