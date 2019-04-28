@@ -103,8 +103,7 @@
 							<meta itemprop="encodingFormat" content="image/png">
 					</span> <!-- Scope END: ImageObject -->
 						<meta itemprop="url" content="#/">
-						<meta itemprop="sameAs"
-							content="#">
+						<meta itemprop="sameAs" content="#">
 					</span>
 					<!-- Scope END: Organization -->
 					<!-- Scope BEGIN: Person -->
@@ -121,13 +120,11 @@
 							<meta itemprop="height" content="128">
 							<meta itemprop="encodingFormat" content="image/jpeg">
 					</span> <!-- Scope END: ImageObject -->
-						<meta itemprop="url"
-							content="#/author/infocorsetacademy-net/">
+						<meta itemprop="url" content="#/author/infocorsetacademy-net/">
 						<meta itemprop="sameAs" content="http://www.corsetacademy.net">
 					</span>
 					<!-- Scope END: Person -->
-					<meta itemprop="url"
-						content="#/tutorial-1-glue-on-half-pearls/">
+					<meta itemprop="url" content="#/tutorial-1-glue-on-half-pearls/">
 					<meta itemprop="mainEntityOfPage"
 						content="#/tutorial-1-glue-on-half-pearls/">
 					<meta itemprop="datePublished" content="2016-04-28T06:59:31+00:00">
